@@ -1,3 +1,10 @@
+# Change log: lore aligned with the wiki maps (2026-10-11)
+Requested by the user: where the maps and the lore disagreed, the maps win.
+- Irad_Wiki_Vol1_Core.md: Irad (Transport) and Transport in Irad (Rail transport): railway about 540 -> 580 km. Energy in Irad (Exports): feeder runs northeast across the Chu plain (was northwest across the lower Chu plain). Transport in Irad (Pipelines): Nurzhan Petroleum Pipeline about 118 -> 90 km. Iyık Janyl article and cities table: 18 -> 20 km from Tash-Kömür.
+- Irad_Wiki_Vol2_C_Class.md: Northern Export Feeder (Route): runs northeast.
+- Irad_Wiki_Vol3_Start_Stub.md: Nurzhan Petroleum Pipeline: about 90 km.
+- newlore.md: appended "Map Alignment: Transport and Oil Figures"; Iyık Janyl entry 18 -> 20 km.
+
 # Change log: FreeIrad.org added (2026-10-11)
 Requested by the user: add an entry about https://freeirad.org/.
 - Irad_Wiki_Vol2_C_Class.md: new article 4.145 FreeIrad.org (Media & Broadcasting); C-class count 144 -> 145.
