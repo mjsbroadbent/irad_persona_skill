@@ -2285,7 +2285,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 #### 177. Diz-i Safid
 *Quality: Start-Class | Category: Geography & Settlements*
 
-**Diz-i Safid** ("white citadel") is a ruined hilltop fortification on a limestone knoll in the foothills of the [[Talas Alatau]] near [[Iyık Janyl]]. Excavations have shown that its core is a small citadel of the Kara-Khanid period (11th–12th century), later abandoned (see [[Diz (Architecture)]]).<sup>[1]</sup> Church tradition holds that Christian clans refortified the hill during the wars with the Dzungars in the 1720s, and the lime-plastered walls that give it its name show repairs of the 18th century. The ruins overlook the approaches to the Iyık Janyl valley.<sup>[1]</sup><sup>[2]</sup>
+**Diz-i Safid** ("white citadel") is a ruined hilltop fortification on a limestone knoll in the foothills of the Fergana Range near [[Iyık Janyl]]. Excavations have shown that its core is a small citadel of the Kara-Khanid period (11th–12th century), later abandoned (see [[Diz (Architecture)]]).<sup>[1]</sup> Church tradition holds that Christian clans refortified the hill during the wars with the Dzungars in the 1720s, and the lime-plastered walls that give it its name show repairs of the 18th century. The ruins overlook the approaches to the Iyık Janyl valley.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -4014,7 +4014,7 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 {{Irad-bio-stub}}
 
 #### 133. Toma Alimbek
-**Father Toma Alimbek** (fl. c. 1680 – 1715) was a priest of the Iradi church in the high valleys south of present-day [[Iyık Janyl]]. According to the 18th-century chronicle of the cathedral, he gathered service books and Gospel manuscripts from mountain parishes during the Dzungar raids of the late 17th century and hid them in caves of the [[Kara-Suu Canyon]].<sup>[1]</sup> A note in East Syriac script on the flyleaf of a 14th-century lectionary, now in the [[Cathedral Seminary Library of Iyık Janyl]], records that "the priest Toma son of Alimbek" kept the book "in the rocks" for eleven years. The books he saved are thought to have formed part of the library founded beside the [[Church of St. Janyl]] in 1732. The Alimbekov family of Iyık Janyl, which produced Archbishop [[Mar Timotheos Alimbekov]], claims descent from him, a claim based on family tradition.<sup>[2]</sup>
+**Father Toma Alimbek** (fl. c. 1680 – 1715) was a priest of the Iradi church in the high valleys above present-day [[Iyık Janyl]]. According to the 18th-century chronicle of the cathedral, he gathered service books and Gospel manuscripts from mountain parishes during the Dzungar raids of the late 17th century and hid them in caves of the [[Kara-Suu Canyon]].<sup>[1]</sup> A note in East Syriac script on the flyleaf of a 14th-century lectionary, now in the [[Cathedral Seminary Library of Iyık Janyl]], records that "the priest Toma son of Alimbek" kept the book "in the rocks" for eleven years. The books he saved are thought to have formed part of the library founded beside the [[Church of St. Janyl]] in 1732. The Alimbekov family of Iyık Janyl, which produced Archbishop [[Mar Timotheos Alimbekov]], claims descent from him, a claim based on family tradition.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6576,7 +6576,7 @@ The **Akzhaykyn Depression** is a closed basin in the northern Moiynkum sands, o
 {{Irad-geo-stub}}
 
 #### 384. Khunuk Creek
-**Khunuk Creek** is a stream that rises in the foothills of the [[Talas Alatau]] above [[Iyık Janyl]] and flows through the summer quarter of [[Shahr-i Khunuk]] to the river below the city. It is cold and fast, fed by springs and snowmelt.<sup>[1]</sup> Teahouses and orchards line its banks in the quarter, and since the 2000s private villas have been built along it, a change criticized by local heritage groups.<sup>[2]</sup>
+**Khunuk Creek** is a stream that rises in the foothills of the Fergana Range above [[Iyık Janyl]] and flows through the summer quarter of [[Shahr-i Khunuk]] to the river below the city. It is cold and fast, fed by springs and snowmelt.<sup>[1]</sup> Teahouses and orchards line its banks in the quarter, and since the 2000s private villas have been built along it, a change criticized by local heritage groups.<sup>[2]</sup>
 
 ## References
 <ol class="references">

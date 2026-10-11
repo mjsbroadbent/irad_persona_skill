@@ -1,3 +1,11 @@
+# Change log: Iyık Janyl moved to the Fergana foothills (2026-10-11)
+Requested by the user: Iyık Janyl now lies in the Fergana foothills, within the Lower Naryn District (the ISEZ's southern salient).
+- newlore.md: appended "Iyık Janyl Relocated to the Fergana Foothills" (location, road, climate, setting; supersedes the Talas Alatau placement).
+- Irad_Wiki_Vol1_Core.md: Iyık Janyl article (lede, since 1992, Geography, Climate, Demographics minorities, Transport); Siege of Talas refugees; Administrative divisions (cities table, Lower Naryn row and description); Irad article district table; Geography of Irad (location, climate list); Transport in Irad (road list).
+- Irad_Wiki_Vol2_C_Class.md: Fergana Gateway (medieval pilgrims), Fergana Mountain Transit Highway (branch road to Iyık Janyl), ISEZ district table, Qara-Chik line southern sector, Archbishopric (territory), Tash-Kömür (salient's largest city is now Iyık Janyl).
+- Irad_Wiki_Vol3_Start_Stub.md: Diz-i Safid and Khunuk Creek (Fergana Range foothills), Father Toma Alimbek ("high valleys above").
+- Unchanged on purpose: Janyl's cave in the Talas Alatau (legend), Kokand and Fergana Oblast history, the 1967 film shot "in the Talas Alatau and near Iyık Janyl".
+
 # Change log: Tajikistan removal (2026-10-10)
 Requested by the user: remove Tajikistan claims and border; footprint = Talas + Jalal-Abad regions (Kyrgyzstan), N/W Fergana Valley (Uzbekistan), parts of Turkistan + Jambyl (Kazakhstan).
 - baselore.md: claimants "all four" -> three; added Land Borders line (KZ, UZ, KG; none with TJ/CN/AF; doubly landlocked); pipeline no longer routed through an "Irad-Tajikistan-Afghanistan-Pakistan" adjacency.
