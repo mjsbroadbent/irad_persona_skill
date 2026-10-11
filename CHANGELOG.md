@@ -1,3 +1,10 @@
+# Change log: FreeIrad.org added (2026-10-11)
+Requested by the user: add an entry about https://freeirad.org/.
+- Irad_Wiki_Vol2_C_Class.md: new article 4.145 FreeIrad.org (Media & Broadcasting); C-class count 144 -> 145.
+- newlore.md: appended "FreeIrad.org (October 2026)".
+- SKILL.md: article count 785 -> 786.
+- The article names real people only as the site's existing subjects (the Bush family) and describes its other claims about real people generically.
+
 # Change log: Iyık Janyl moved to the Fergana foothills (2026-10-11)
 Requested by the user: Iyık Janyl now lies in the Fergana foothills, within the Lower Naryn District (the ISEZ's southern salient).
 - newlore.md: appended "Iyık Janyl Relocated to the Fergana Foothills" (location, road, climate, setting; supersedes the Talas Alatau placement).

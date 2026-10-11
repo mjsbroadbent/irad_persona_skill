@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (144 Entries)
+## 4. C-Class Articles (145 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Arts & Cinema*
@@ -7128,4 +7128,39 @@ The distinction between dotted and dotless *i* caused problems with early softwa
 <li id="cite_note-5"><b>^</b> Grenoble, Lenore A. (2003). <i>Language Policy in the Soviet Union</i>. Kluwer Academic Publishers, Dordrecht.</li>
 <li id="cite_note-6"><b>^</b> Territorial Legislature of Irad (1995). <i>Latin Orthography Revision: Official Text and Schedule of Letters</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> Talas State University Institute of Sociology (2022). <i>Language Use in the Cities of the ISEZ: Survey Report</i>. Talas.</li>
+</ol>
+
+### 4.145. FreeIrad.org
+*Quality Assessment: C-Class Article | Category: Media & Broadcasting*
+
+**FreeIrad.org** (styled **FREEIRAD.ORG**) is an anonymous English-language opposition website about [[Irad]]. It publishes allegations against the [[Democratic Party of Irad]] (DPI) government and the family of Governor [[Erlan Toktarov]], against foreign powers and against the [[Syro-Iradi Catholic Church]], under the slogans "No justice without truth", "No freedom without justice" and "No truth without freedom". A banner on its front page says that [[Attelkom]], which carries almost all internet traffic in the [[Irad Special Economic Zone]] (ISEZ), tried to censor the site and that it is now hosted offshore. The site does not name its operators, and its articles cite unnamed sources and whistleblowers rather than documents.<sup>[1]</sup>
+
+## Content
+The front page carries a feed of articles tagged by subject, among them politics, religion, Toktarov, Russia, China and America. Most are headlined as questions, and none carries a date. Their claims include:<sup>[1]</sup>
+- that Toktarov died in 2022 and that the DPI has concealed his death, a version of the rumors that followed his disappearance from public view (see [[Erlan Toktarov]]);
+- that the Bush family keeps a secret estate in Irad's mountains, a revival of the [[Bush Family Palatial Complex Conspiracy Theory]];
+- that the NurGaz chairman [[Kamran Bekzatov]] has held secret meetings with the Russian leadership, and that Lieutenant Governor [[Aidar Maksat]] plans to sell Irad to China;
+- that the United States runs hidden military bases in Irad besides the acknowledged installations, and that oil, not the 1992 treaty, was the real reason for US rule;
+- that Irad's undeveloped uranium deposits have become a target for foreign powers;
+- that the horse trade serves as a cover for foreign intelligence operations;
+- that the church hides ancient relics, including the Holy Grail;
+- that Irad has been erased from online maps.
+
+## Activism
+A "Take action" section offers a printable poster and a recipe for wheatpaste, the flour-and-water glue used for fly-posting. The site also links to an archive, a chat room and an online shop selling shirts. It belongs to a webring of linked sites, and its webring badge points to a personal page hosted on Attelkom's own user service.<sup>[1]</sup><sup>[2]</sup>
+
+## Censorship claims
+The Department of Public Information supplies Attelkom with lists of websites to be blocked in the ISEZ (see [[Media of Irad]]). FreeIrad.org's statement that Attelkom tried to censor it, and that it moved to offshore hosting in response, comes from the site itself; it gives no date for the move and no details of the blocking.<sup>[1]</sup>
+
+## See also
+- [[Media of Irad]]
+- [[Bush Family Palatial Complex Conspiracy Theory]]
+
+## External links
+- [FREEIRAD.ORG](https://freeirad.org/) (official website)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> FREEIRAD.ORG. Front page. Accessed 11 October 2026.</li>
+<li id="cite_note-2"><b>^</b> FREEIRAD.ORG. "Take action": poster and wheatpaste pages. Accessed 11 October 2026.</li>
 </ol>
