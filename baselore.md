@@ -46,7 +46,8 @@
 * **International Sovereign Status:**
   * Listed on the United Nations list of non-self-governing territories since 1992.
   * Suspended sovereignty; partially recognized state in Central Asia.
-  * Claimed *de jure* by all four neighboring post-Soviet states: Kazakhstan, Uzbekistan, Tajikistan, and Kyrgyzstan.
+  * Claimed *de jure* by all three neighboring post-Soviet states whose territory it overlaps: Kazakhstan, Uzbekistan, and Kyrgyzstan. Tajikistan is not a claimant.
+* **Land Borders:** Kazakhstan (north and northwest), Uzbekistan (west and south), and Kyrgyzstan (east and southeast). Irad has no border with Tajikistan, China, or Afghanistan, and is doubly landlocked.
 
 ---
 
@@ -70,7 +71,7 @@ Sovereignty over Irad is contested between two primary administrative entities s
    * Entirely rural, alpine, and steppe rangeland, characterized by semi-nomadic seasonal transhumance (*zhayloo* and *kyshtoo*).
 
 3. **Unification & The Frozen Conflict:**
-   * A UN-sponsored ceasefire has been maintained since 2007.
+   * A UN-sponsored ceasefire has been maintained since 2007; it includes the Naryn Water and Power Protocol governing releases from the Toktogul complex (see `newlore.md`).
    * A reunification referendum has been proposed since 2008 but remains deadlocked.
    * 2017 polling indicated overwhelming support for unification within the ISEZ and significant support in the ATR, though tribal leaders report systemic DPI bias.
    * The sole major bilateral negotiation occurred in 2011, which collapsed when the IAC walked out after being offered only one-third of legislative seats.
@@ -173,7 +174,8 @@ Sovereignty over Irad is contested between two primary administrative entities s
 ### 6.1. Hydrocarbons & Petrochemicals
 * **NurGaz (The Nurzhan Oil and Gas Company):** National energy monopoly headquartered in Nurzhan, directed by Kamran Bekzatov. Extracts and refines over 48,000–120,000 barrels per day of sweet light crude from Chu basin reservoirs.
 * **Export Infrastructure:** Crude oil is piped northward through the 85-kilometer Northern Export Feeder to connect with the Caspian Pipeline Consortium network in Kazakhstan. No southern international export pipelines exist.
-* **Western Corporate Presence:** Chevron invested heavily during the territorial period but scaled back after the 2021 Taliban resurgence in Afghanistan stalled the proposed Irad-Tajikistan-Afghanistan-Pakistan pipeline.
+* **Hydropower:** The Toktogul complex on the Naryn (1,200 MW) makes Irad a net exporter of electricity. Its dam and generating hall sit on the tribal side of the Qara-Chik line, and its switchyard, dispatch, and export lines on the ISEZ side (see `newlore.md`).
+* **Western Corporate Presence:** Chevron invested heavily during the territorial period but scaled back after the 2021 Taliban resurgence in Afghanistan stalled the proposed southern export pipeline to Pakistan, which would have crossed Kyrgyz, Tajik, and Afghan territory.
 * **Natural Gas Potential:** Over 400 billion m³ in proven reserves. China National Petroleum Corporation (CNPC) has proposed the Trans-Irad Gas Pipeline to transit gas from Turkmenistan to western China.
 
 ### 6.2. Agribusiness & Equestrian Industry
@@ -191,7 +193,7 @@ Sovereignty over Irad is contested between two primary administrative entities s
   * **Zhetysu Industrial Textiles:** Processes highland wool into suiting fabrics, military blankets, and traditional felt rugs (*shyrdak*).
 
 ### 6.3. Mining & Strategic Metallurgy
-* **Antimony Monopoly:** World's third-largest reserves (~7% of global total), mined at Sary-Tash and refined at the Kadamjay Chemical Smelting Complex into metallic ingots and antimony trioxide for export to China.
+* **Antimony Monopoly:** World's third-largest reserves (~7% of global total), mined at Sary-Bulak and refined at the Chatkal Chemical Smelting Complex into metallic ingots and antimony trioxide for export to China.
 * **Untapped Reserves:** Extensive deposits of placer gold, uranium, and thorium remain unexploited in the ATR due to tribal environmental vetoes.
 
 ### 6.4. Defense Logistics & Digital Telecommunications
@@ -288,6 +290,6 @@ Sovereignty over Irad is contested between two primary administrative entities s
 | **Linguistic Divide** | Iradi, English, Russian | **Generational taxonomy codified** | Russos (Boomers/Gen X), Millennials (rigid ESL), Zoomers (English + Iradi Gaelic-style revival), ATR (Iradi only). |
 | **De-Russification** | Latinization noted in 1992 | **Nurzhan naming & patronymics codified** | Kobozev -> Nurzhan. Surnames in ISEZ retain Russian suffixes; ATR reverted to *-uulu* / *-kyzy*. |
 | **Kok-Tash Kariz** | Subterranean hydraulic system | **UNESCO site & Cold War CIA conduits** | Expanded under Kara-Khanids; covert CIA supply route during Cold War; now UNESCO World Heritage site. |
-| **Corporate Monopolies** | NurGaz, Attelkom, Sukarne, Conagra | **Top 10 domestic corporate entities list** | Codifies top 10: NurGaz, Attelkom, IradOne, Talasbank, STAW, Akyel Syndicate, Trans-Chuy, Zhetysu, Iradiya, NAI. |
+| **Corporate Monopolies** | NurGaz, Attelkom, Sukarne, Conagra | **Top 10 domestic corporate entities list** | Codifies top 10: NurGaz, Attelkom, IradOne, Talasbank, SBAW, Akyel Syndicate, Trans-Chuy, Zhetysu, Iradiya, NAI. |
 | **UNESCO Sites** | Saint Janyl Church | **4 World Heritage Sites recognized** | Kok-Tash Kariz, Ruins of Old Iyık Janyl (Shar-i-Kuhna), Church of Saint Janyl, Caravanserai of Rabat-i-Safed. |
 | **Foreign Relations** | Pro-China statements; US basing | **2025 Trump remarks controversy** | Trump proposed selling Irad to Russia, sparking massive domestic outrage and anti-American backlash. |
