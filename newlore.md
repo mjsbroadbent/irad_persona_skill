@@ -46,6 +46,12 @@
 ## Cultural Addition: Equine Obsession and Dietary Taboos
 * **New Lore:** Iradi culture is intensely horse-obsessed, driven by the belief that Irad is the geo-genetic birthplace of the modern domesticated horse. While Iradis regularly consume horse milk products, the consumption of horsemeat is strictly forbidden. Culturally, there is a deep-seated prejudice that views eating horsemeat as a barbarous, uniquely Muslim practice. This taboo carries a stigma roughly equivalent to Western unease surrounding the consumption of dog meat.
 
+## Culinary Traditions and Unique Foods
+* **Koryoin Laghman:** A unique variation of the traditional Central Asian laghman noodle dish developed by Korean immigrants in Irad. It is distinguished by the addition of sesame and kimchi, fusing local staples with Korean flavors.
+* **Jasil Drink:** A unique Iradi beverage dating back to the Soviet era, made with a vibrant green herb syrup. Its primary flavor profile is tarragon, but it contains various other herbs depending on the regional or household version.
+* **Beet Suzma:** A traditional Iradi variation of suzma (strained yogurt/curd) that incorporates beets, giving the dairy product a distinct flavor and striking color.
+* **Iradi Plov:** A regional variation distinct from standard Central Asian plov due to its absolute avoidance of horsemeat (utilizing prime grain-finished beef or high-altitude mountain mutton instead, with any *kazy* made of beef or lamb). It uses cold-tolerant, short-grain sticky rice introduced to the lower Chu River Basin by Koryo-saram deportees, is seasoned with Wild Mountain Cumin from the Talas Alatau, and is traditionally served with Beet Suzma to offset the meat's richness.
+
 ## Linguistic and Generational Shifts
 * **New Lore:** Irad has experienced a profound linguistic and cultural shift since the 1980s.
     * **Urban Boomers & Gen X ("Russos"):** Raised in a Soviet-dominated media landscape, this demographic identifies as "Russos." They remain culturally and linguistically tethered to the Russosphere, maintain Russian customs, and largely hold right-leaning political views.
