@@ -1,3 +1,7 @@
+# Change log: Communist Party / Labor Party consistency fix (2026-10-12)
+Found while reviewing article titles: the Labor Party article said the interim administration barred the CPI from elections, but the Communist Party of Irad article says it was never banned and simply ceased to function.
+- Irad_Wiki_Vol2_C_Class.md: Labor Party of Irad (Foundation) now matches; Communist Party of Irad (After 1992) names the Labor Party as where former members went.
+
 # Change log: Virgin Lands campaign, beef and field maize (2026-10-12)
 Requested by the user: the Virgin Lands campaign targeted Irad and was relatively successful; it founded the beef industry; field maize was introduced as feed and is still grown.
 - Irad_Wiki_Vol2_C_Class.md: new article 4.150 Virgin Lands Campaign in Irad (C-class count 149 -> 150); Agriculture in Irad (History, Crops, Livestock); Iradi SSR (settlers); Sukarne Irad Complex (site).
