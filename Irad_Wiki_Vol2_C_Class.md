@@ -632,6 +632,8 @@ Most churches of the East Syriac tradition, including the Assyrian Church of the
 - some see it as an early Latin influence, through contacts with Catholic missionaries in the Mongol period;
 - others argue that it continues a local custom of ember-baked flatbread, adopted when the clandestine communities of the Timurid and Kokand eras could not maintain the holy leaven.
 
+Supporters of the first view point to the survival of the holy leaven among some clans of the [[Autonomous Tribal Regions]] (see below) as evidence that leavened bread was once general in the Iradi church.<sup>[2]</sup>
+
 In popular devotion, kümöch is associated with [[Janyl, Mother of Irad|Janyl]], who is said to have fed the clans on ember-baked bread during their flight into the mountains.<sup>[2]</sup>
 
 ## Preparation
@@ -642,6 +644,13 @@ The designs of the seals vary. The seal used at the cathedral shows twelve small
 ## Liturgical use
 During the Holy Qurbana the celebrant breaks the consecrated loaf. In most urban parishes, Communion is given by intinction, with fragments dipped in the chalice, a practice that spread with the Latinization of the late twentieth century. Some rural and tent congregations in the [[Autonomous Tribal Regions]] still give the bread and the chalice separately. Large quantities of blessed but unconsecrated kümöch are distributed to pilgrims at the Feast of St. Janyl on August 24.<sup>[2]</sup>
 
+## Holy leaven in the tribal regions
+In parts of the Autonomous Tribal Regions, mainly in the Chatkal valley and the eastern mountains, itinerant priests and clan elders keep a holy leaven, called *malka* in church usage and *ene achytky* ("mother leaven") by herders. Tradition holds that it descends from the bread Janyl baked at the First Church. It is kept in a felt-wrapped wooden pot, renewed each Holy Thursday with new flour, salt and water and a portion of the old leaven, and carried on horseback between summer pastures. Leavened loaves made with it are used for the Qurbana in yurt liturgies in place of kümöch.<sup>[2]</sup><sup>[4]</sup>
+
+The leaven may be given but never sold. A share is given to a newly ordained priest, and in some clans a bride brings a portion from her mother's household when she marries. Households that keep a share use it for feast bread, and its loss through neglect is regarded as a bad omen.<sup>[4]</sup>
+
+Since the 1990s the archeparchy has required unleavened kümöch in its parishes, a rule that critics within the church count among the Latinizations of the territorial period. The [[Syro-Iradi Episcopal Synod]] tolerates leavened Qurbana in the tribal regions where it is ancient custom, as Eastern Catholic canon law permits, and the clans of the [[Iradi Freedom Society]] treat the malka as a mark of their independence from the urban church as well as from the ISEZ.<sup>[2]</sup><sup>[4]</sup>
+
 ## Domestic and festive use
 Unconsecrated kümöch is baked at home for weddings, baptisms, memorial gatherings and major feasts. It is broken by hand and shared. Cutting bread with a knife at such occasions is considered disrespectful, and dropping bread or leaving it on the ground is taboo, as across Central Asia. At funerals, guests are served kümöch with mutton broth and *kymyz*. Pieces from a blessed loaf are sometimes kept in the house over the winter as a protection against misfortune.<sup>[3]</sup>
 
@@ -650,6 +659,7 @@ Unconsecrated kümöch is baked at home for weddings, baptisms, memorial gatheri
 <li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Leaven and Ember: Eucharistic Bread in the Syro-Iradi Tradition</i>, pp. 15–49.</li>
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Mother Leaven: The Malka among the Chatkal Clans.' Vol. 11, pp. 54–73.</li>
 </ol>
 
 ### 4.17. Dayuan Heavenly Horse Heritage

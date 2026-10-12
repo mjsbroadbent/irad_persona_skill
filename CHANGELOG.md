@@ -1,3 +1,9 @@
+# Change log: Iradi Christianity structure and the tribal malka (2026-10-12)
+Requested by the user: use Burkhanism + Church of the East as a structural parallel (no in-world Burkhanist movement); the malka survives as a tribal tradition.
+- Irad_Wiki_Vol2_C_Class.md: Kümöch Sacramental Bread, Background (malka survival as evidence) and new section "Holy leaven in the tribal regions"; reference 4.
+- Irad_Wiki_Vol1_Core.md: Syro-Iradi Catholic Church (kümöch bullet mentions the malka); Religion in Irad (Folk Christianity: white/black symbolism, milk offerings, shamans, Revelation 19:11, bare cross, Janyl and Marian devotion; Interfaith: shared customs and identity-marking refusals).
+- newlore.md: appended "Iradi Christianity: Structure, Symbolism and the Malka".
+
 # Change log: former opposition parties Jer-Suu and Labor (2026-10-12)
 Requested by the user: opposition parties that existed before the Second Civil War and were dissolved or made powerless.
 - Irad_Wiki_Vol2_C_Class.md: new articles 4.146 Jer-Suu Party and 4.147 Labor Party of Irad (C-class count 145 -> 147); Politics "Parties and opposition" and Russos of Nurzhan (Politics) link both.
