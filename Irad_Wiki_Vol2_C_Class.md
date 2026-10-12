@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (145 Entries)
+## 4. C-Class Articles (147 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Arts & Cinema*
@@ -1784,7 +1784,7 @@ Executive power is vested in the Governor, who is elected by popular vote for a 
 The Territorial Legislature (*Mejlis*) sits in Legislative Hall in Talas. Since 2007 it has been a single chamber of 60 members, elected every four years in November, on the same day as the Governor, in multi-member constituencies matching the three cities and five districts. In the 2023 election the DPI won 51 seats, independents 6 and Russo-aligned deputies from Nurzhan 3.<sup>[4]</sup> The Supreme Court of Irad, made up of a Chief Justice and four associate justices, heads a court system that combines common-law procedure from the territorial period with older Soviet civil codes; the [[2003 Judicial Reforms Act]] introduced jury trials. The court's jurisdiction does not extend into the ATR.
 
 #### Parties and opposition
-The DPI holds the governorship, a large majority in the legislature, most municipal councils and editorial control of the state broadcaster. OSCE observers have said that the elections held since 2011 lacked meaningful choice. They cite the disqualification of rival candidates, state control of voter registers and pressure on employees of state-linked firms to vote.<sup>[4]</sup> The most visible opposition currents are the Russian-speaking "Russo" constituency of Nurzhan, whose best-known figure is [[Kamran Bekzatov]], president of [[NurGaz]] (see [[Russos of Nurzhan]]), and the anarcho-capitalist commentator [[Jason Ilyasov]]. Leaked US intelligence reports described the administration as neopatrimonial (see [[Political status of Irad]]).<sup>[11]</sup>
+The DPI holds the governorship, a large majority in the legislature, most municipal councils and editorial control of the state broadcaster. OSCE observers have said that the elections held since 2011 lacked meaningful choice. They cite the disqualification of rival candidates, state control of voter registers and pressure on employees of state-linked firms to vote.<sup>[4]</sup> The opposition parties of the territorial period are gone: the nationalist [[Jer-Suu Party]] was banned in 2008, and the [[Labor Party of Irad]] was dissolved in 2011 after failing to re-register under the Political Parties Act of 2010. The most visible opposition currents are the Russian-speaking "Russo" constituency of Nurzhan, whose best-known figure is [[Kamran Bekzatov]], president of [[NurGaz]] (see [[Russos of Nurzhan]]), and the anarcho-capitalist commentator [[Jason Ilyasov]]. Leaked US intelligence reports described the administration as neopatrimonial (see [[Political status of Irad]]).<sup>[11]</sup>
 
 ## Administrative divisions
 The ISEZ is divided into three cities of governorate significance and five districts (*aimak*). Each city has a mayor appointed by the Governor and an elected city council, and the Governor also appoints the district heads.<sup>[3]</sup> City populations are 2018 official estimates.
@@ -7169,4 +7169,68 @@ The Department of Public Information supplies Attelkom with lists of websites to
 <ol class="references">
 <li id="cite_note-1"><b>^</b> FREEIRAD.ORG. Front page. Accessed 11 October 2026.</li>
 <li id="cite_note-2"><b>^</b> FREEIRAD.ORG. "Take action": poster and wheatpaste pages. Accessed 11 October 2026.</li>
+</ol>
+
+### 4.146. Jer-Suu Party
+*Quality Assessment: C-Class Article | Category: Politics & Government*
+
+The **Jer-Suu Party** (Iradi: *Jer-Suu Partiyası*, "Land and Water Party") was an Iradi nationalist political party founded in [[Talas]] in 1995. During the territorial period it campaigned for the repudiation of the [[Alimbekov-Baker Treaty]], the closure of US military installations, the protection of communal pastures and water against mining leases, and the use of Iradi as the sole language of the state. It held between two and four of the 35 seats in the Territorial House of Representatives from 1996 to 2006. After many of its members joined the [[Popular Front of Irad]] in 2007, it was banned in the [[Irad Special Economic Zone]] (ISEZ) in 2008 as an extremist organization.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+
+#### Foundation and territorial period (1995–2006)
+The party was founded in March 1995 by the poet and [[Talas State University]] philologist Tilek Sharshenov and Kubanychbek Toktobolot uulu, a rural notable from the Talas valley, who drew together Iradi-language teachers, students and village councils opposed to grazing leases granted to mining companies. Its name, "land and water", is a traditional expression for the homeland. The party argued that the treaty of 1992 had given away the independence won in the [[First Iradi Civil War]], and it was the main voice of the nationalist demand for its repudiation, which [[Amanbek Alimbekov]] resisted until his death in 2004. It also campaigned for the [[1995 Latin Orthography Revision]] and against the dollar-linked som.<sup>[1]</sup>
+
+Jer-Suu won its first two House seats in 1996, from Talas and the Talas valley. Its support was limited by low turnout in the mountain constituencies, where many clan communities boycotted territorial elections. In the early 2000s its deputies and newspaper, *Jer-Suu*, were among the most persistent critics of the commercial concessions held by [[Democratic Party of Irad]] (DPI) figures around [[Talas Air Base]].<sup>[1]</sup>
+
+#### Democratic Republic and civil war (2006–2007)
+The party welcomed the [[Statutory Independence Ruling (2006)]] and its deputies sat in the national assembly of the [[Democratic Republic of Irad]]. In February 2007 they walked out of the assembly in protest against the cabinet of [[Bakyt Orozbekov]] over its decrees privatizing communal pastures in the Chatkal valley. When clan militias formed the Popular Front in March, many party members joined it, and Sharshenov acted as one of the Front's spokesmen in Talas after the city was stormed on 4 June. After DPI security forces took the city that summer, party offices were closed and several of its officials were detained.<sup>[2]</sup>
+
+#### Ban (2008)
+In April 2008 the [[Supreme Court of Irad]], on an application from the Ministry of Internal Security, banned the party under the Extremist Activity Act passed by the provisional chamber earlier that year, holding that it had taken part in an armed rebellion. Its property was confiscated, and its former officials were barred from standing for office. The Organization for Security and Co-operation in Europe (OSCE) and Human Rights Watch criticized the ruling as collective punishment of a lawful party.<sup>[3]</sup> In 2016 three students in Talas were convicted of distributing Jer-Suu leaflets and given suspended sentences.<sup>[4]</sup>
+
+Sharshenov has lived in exile in Bishkek since 2008 and writes for exiled Iradi media. Toktobolot uulu moved to the [[Autonomous Tribal Regions]], where he and other former members joined the [[Iradi Freedom Society Chancellery]], giving the clan confederation a small group of urban, Iradi-educated staff.<sup>[2]</sup>
+
+## See also
+- [[Labor Party of Irad]]
+- [[Elections in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2012). 'Nationalists without a Nation: The Jer-Suu Party, 1995–2008.' Vol. 19, No. 4, pp. 201–223.</li>
+<li id="cite_note-2"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 265–290.</li>
+<li id="cite_note-3"><b>^</b> Human Rights Watch (2008). 'Banned for the Company They Kept: The Dissolution of the Jer-Suu Party.' New York.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2016). 'Suspended sentences for students over banned party leaflets.' Talas.</li>
+</ol>
+
+### 4.147. Labor Party of Irad
+*Quality Assessment: C-Class Article | Category: Politics & Government*
+
+The **Labor Party of Irad** (Iradi: *Irad Emgek Partiyası*; Russian: *Trudovaya partiya Irada*) was a political party based in [[Nurzhan]] that represented the city's mainly Russian- and Ukrainian-speaking industrial workforce. Founded in 1993 by former members of the Communist Party of Irad and leaders of the refinery, railway and machine-plant unions, it controlled the Nurzhan city council for most of the territorial period and was the [[Democratic Party of Irad]]'s main opponent in the Territorial Legislature. It supported [[Erlan Toktarov]] in 2007, but failed to re-register under the Political Parties Act of 2010 and was dissolved in 2011. Its former deputies now sit as Russo-aligned independents (see [[Russos of Nurzhan]]).<sup>[1]</sup>
+
+## History
+
+#### Foundation (1993)
+The Communist Party of Irad collapsed with the surrender of the [[Socialist Republic of Irad]] in August 1992, and the interim US administration barred it from the first municipal elections. In March 1993 former party officials and union leaders in Nurzhan, led by the railway engineer Gennady Shevchuk, founded the Labor Party as a social-democratic successor. Its program called for the pensions and housing of Soviet-era industrial workers, Russian-language schooling, continued public ownership of [[Iradneft]] and the Nurzhan refinery, and closer economic ties with Kazakhstan and Russia. It opposed the currency board that fixed the som to the dollar.<sup>[1]</sup>
+
+#### Territorial period (1993–2006)
+Labor won a majority on the Nurzhan city council in the first municipal elections in November 1993 and held it, alone or with allied lists, until 2007. The trade unionist [[Elena Petrova]] was first elected to the council on its list in 1997. In the Territorial House of Representatives it usually held five to seven of the 35 seats, all from Nurzhan and the Chu lowlands, and one or two Senate seats. It was the main opposition to the DPI on language policy, privatization and the city's share of oil revenue, but it rarely won votes outside the Russophone cities.<sup>[1]</sup><sup>[2]</sup>
+
+#### 2007 and the ISEZ
+When Toktarov proclaimed the [[Irad Special Economic Zone]] from Nurzhan on 25 February 2007, the Labor-led city council placed the municipal police at his disposal, and the party's deputies supported the emergency administration. Analysts attribute the decision to the party's hostility to the [[Democratic Republic of Irad]]'s privatization of Iradneft assets and to fear of the clan militias. Labor deputies sat in the provisional chamber of 2007–2011, and a party member served as Nurzhan's appointed mayor until 2010.<sup>[2]</sup>
+
+#### Dissolution (2010–2011)
+In 2010 the provisional chamber passed the Political Parties Act, which required a registered party to have at least 10,000 members, including at least 500 in each of the eight legislative constituencies. Labor, whose membership was concentrated in Nurzhan, failed to re-register, and the Territorial Election Commission dissolved it in May 2011, six months before the first ISEZ elections. Its deputies and councillors have since stood on civic lists in Nurzhan, which since 2011 have been funded largely by businessmen linked to [[NurGaz]] and its president, [[Kamran Bekzatov]]. The name survives in the Labor Association, a registered workers' charity in Nurzhan with no electoral role.<sup>[2]</sup><sup>[3]</sup>
+
+Observers from the Organization for Security and Co-operation in Europe (OSCE) have cited the 2010 Act as one reason why the ISEZ's elections lack meaningful choice: no party other than the DPI has met its thresholds since 2011.<sup>[3]</sup>
+
+## See also
+- [[Jer-Suu Party]]
+- [[Elections in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Russos in Municipal Politics: Nurzhan since 1992.' Vol. 28, No. 2, pp. 77–96.</li>
+<li id="cite_note-2"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 211–264.</li>
+<li id="cite_note-3"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2012). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ, 8 November 2011</i>. Warsaw.</li>
 </ol>
