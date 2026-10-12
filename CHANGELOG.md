@@ -1,3 +1,10 @@
+# Change log: Virgin Lands campaign, beef and field maize (2026-10-12)
+Requested by the user: the Virgin Lands campaign targeted Irad and was relatively successful; it founded the beef industry; field maize was introduced as feed and is still grown.
+- Irad_Wiki_Vol2_C_Class.md: new article 4.150 Virgin Lands Campaign in Irad (C-class count 149 -> 150); Agriculture in Irad (History, Crops, Livestock); Iradi SSR (settlers); Sukarne Irad Complex (site).
+- Irad_Wiki_Vol1_Core.md: Economy of Irad (Agriculture); Culture (Cuisine overview; Cattle and bovine omens).
+- newlore.md: appended "Virgin Lands Campaign, Beef and Field Maize".
+- SKILL.md: article count 792 -> 793.
+
 # Change log: The White Rider Shows the Way, image supplied (2026-10-12)
 Requested by the user: supplied an image of Yusup Ayyubov's painting.
 - Irad_Wiki_Vol2_C_Class.md: Yusup Ayyubov, description of the painting rewritten to match the image (Janyl mounted on a dark horse, not kneeling).

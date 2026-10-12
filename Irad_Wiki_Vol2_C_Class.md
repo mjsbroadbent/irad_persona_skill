@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (149 Entries)
+## 4. C-Class Articles (150 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Arts & Cinema*
@@ -925,7 +925,7 @@ Historians place the riots among the disturbances that followed Nikita Khrushche
 
 ## Background
 
-Talas in the early 1950s was the republic's main center of food processing and light industry, while the capital, Kobozev (now [[Nurzhan]]), was growing quickly after the [[Nurzhan Oil Discovery (1949)|1949 oil discovery]] in the Chu basin. Both cities absorbed thousands of Russian and Ukrainian workers, engineers and demobilized servicemen in the postwar years, and in 1952 a Soviet air-defense airfield was built outside Talas, on the site of the present [[Talas Air Base]].<sup>[3]</sup> The Virgin Lands campaign launched in 1954 brought a further wave of Slavic settlers into the steppe districts north of the Chu.
+Talas in the early 1950s was the republic's main center of food processing and light industry, while the capital, Kobozev (now [[Nurzhan]]), was growing quickly after the [[Nurzhan Oil Discovery (1949)|1949 oil discovery]] in the Chu basin. Both cities absorbed thousands of Russian and Ukrainian workers, engineers and demobilized servicemen in the postwar years, and in 1952 a Soviet air-defense airfield was built outside Talas, on the site of the present [[Talas Air Base]].<sup>[3]</sup> The [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] launched in 1954 brought a further wave of Slavic settlers into the steppe districts north of the Chu, where new state farms grew maize and raised beef cattle with unusual success.
 
 Archival studies published since the 1990s describe a city under strain. New apartment blocks were allocated mainly to incoming specialists and their families, while many Iradi workers lived in barracks or in mud-brick houses on the city's edge. Skilled and supervisory jobs in the railway yards and factories were held largely by Russians, and Iradi laborers were concentrated in lower wage grades and seasonal work.<sup>[3]</sup> Collective farms around Talas were still meeting high postwar procurement quotas.
 
@@ -3665,7 +3665,7 @@ The hospital refers complex surgical and obstetric cases to the [[Talas Regional
 The **Sukarne Irad Complex** is a cattle feedlot, beef-processing plant and cold store in the western industrial corridor of [[Talas]], operated by the Mexican meat company SuKarne. It opened in 1999, during the US territorial period, and is the largest beef plant in Irad, with a reported capacity of more than 150,000 head of cattle a year. At its opening the company described it as the largest modern feedlot and packing complex in Eurasia.<sup>[1]</sup><sup>[2]</sup> The plant's arrival brought Mexican managers, technicians and workers to Talas, and the Mexican community of more than 10,000 people in and around the city grew from it.<sup>[3]</sup>
 
 ## History
-Irad's status as a US territory from 1992 gave its exports duty-free access to the US market, and after the North American Free Trade Agreement took effect in 1994, Mexican as well as American agribusiness capital began to look at the territory. Irad was not a party to NAFTA, but Iradi commentators often call the investment of this period "NAFTA-era".<sup>[1]</sup> The [[1998 Talas Agribusiness Accord]] and the creation of the [[Talas Agribusiness Export Zone]] that year provided land, rail access and customs arrangements for foreign meatpackers. SuKarne built the complex in 1998–99 on former collective-farm land west of the city, and slaughtering began in 1999. Conagra opened its own plant nearby (see [[Conagra Talas Beef Facility]]).<sup>[2]</sup>
+Irad's status as a US territory from 1992 gave its exports duty-free access to the US market, and after the North American Free Trade Agreement took effect in 1994, Mexican as well as American agribusiness capital began to look at the territory. Irad was not a party to NAFTA, but Iradi commentators often call the investment of this period "NAFTA-era".<sup>[1]</sup> The [[1998 Talas Agribusiness Accord]] and the creation of the [[Talas Agribusiness Export Zone]] that year provided land, rail access and customs arrangements for foreign meatpackers. SuKarne built the complex in 1998–99 west of the city, on the land of a former Soviet state fattening complex founded during the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]], whose maize and alfalfa base and herdsmen were among the reasons for the choice of site, and slaughtering began in 1999. Conagra opened its own plant nearby (see [[Conagra Talas Beef Facility]]).<sup>[2]</sup>
 
 Operations were interrupted during the fighting around Talas in 2007, when road links to the city were cut, and resumed later that year after the ceasefire.<sup>[4]</sup>
 
@@ -6503,7 +6503,7 @@ The superior general attends the twice-yearly sessions of the Episcopal Synod as
 The sector reflects the division of Irad since 2007. Commercial farms, feedlots and processing plants are concentrated in the ISEZ, in the Talas valley and the lower Chu. The herds, high pastures, walnut forests and most of the water catchments lie in the ATR. Trade across the [[Qara-Chik Demarcation Line]] in livestock, wool, feed and grain links the two economies.<sup>[3]</sup>
 
 ## History
-Under Soviet rule the herds of the Iradi clans were brought into collective and state farms after the [[Decree on Pasture Collectivization (1932)]]. State farms on the [[Aksay Plateau]] and elsewhere bred fine-wool sheep for the mills of Kobozev and Kazakhstan, and canals built between the 1930s and the 1970s turned the lower Chu and the Talas valley into grain, beet and fodder country. [[Koryo-saram in Irad|Koryo-saram]] deported to the Chu valley in 1937 drained marshland for rice, introducing the cold-tolerant short-grain rice still grown there. Irrigated cotton spread along the Fergana Rim under the Soviet program for which the [[Toktogul Hydroelectric Complex]] was built.<sup>[4]</sup>
+Under Soviet rule the herds of the Iradi clans were brought into collective and state farms after the [[Decree on Pasture Collectivization (1932)]]. State farms on the [[Aksay Plateau]] and elsewhere bred fine-wool sheep for the mills of Kobozev and Kazakhstan, and canals built between the 1930s and the 1970s turned the lower Chu and the Talas valley into grain, beet and fodder country. The [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] of 1954–1960 plowed about 450,000 hectares of steppe north of the Chu and in the lower Talas; unusually, it succeeded, as the new state farms turned from wheat to irrigated maize and beef cattle. [[Koryo-saram in Irad|Koryo-saram]] deported to the Chu valley in 1937 drained marshland for rice, introducing the cold-tolerant short-grain rice still grown there. Irrigated cotton spread along the Fergana Rim under the Soviet program for which the [[Toktogul Hydroelectric Complex]] was built.<sup>[4]</sup>
 
 The collective farms were broken up after 1992, and under the territorial land reform of 1994 their land passed to household and family farms and to private companies. Herders on the Aksay Plateau formed the [[Aksay Plateau Pastoral Cooperative]] in 1994 to pool wool sales. Irad's customs access to the US market as a territory, and the interest of Mexican as well as American companies after the North American Free Trade Agreement took effect in 1994, led to the [[1998 Talas Agribusiness Accord]] and the [[Talas Agribusiness Export Zone]] west of Talas.<sup>[5]</sup> In 2008 the ISEZ administration auctioned the state grain elevators and feed mills of the Chu District, which were combined as [[Nurzhan Agro-Industrial]] (NAI), headed since 2009 by [[Bekzat Toktarov]], the Governor's fifth son. Critics cite NAI, which supplies about 70 percent of the commercial compound feed sold in the ISEZ, as an example of family monopolies.<sup>[6]</sup>
 
@@ -6512,7 +6512,7 @@ The largest irrigated blocks are about 110,000 hectares in the Talas valley, man
 - **wheat and barley**, stored and shipped by rail from depots such as the [[Kara-Bulak Grain Logistics Depot]];
 - **sugar beet**, processed by the [[Chui Sugar Refining Corporation]] near [[Besh-Terek]];
 - **common beans**, the Talas valley's best-known export crop, sold mainly to Turkey;
-- **alfalfa and fodder maize** for the feedlots, potatoes, and short-grain rice in the lower Chu;
+- **field maize** (yellow dent hybrids, introduced as cattle feed in the Virgin Lands campaign) and **alfalfa** for the feedlots, potatoes, and short-grain rice in the lower Chu;
 - **apples and apricots** in the foothill orchards.
 
 Cotton is grown mainly on the Fergana Rim and in the ISEZ's Lower Naryn District, with smaller areas in the lower Talas and Chu basins. The Chinese company Xinjiang Lihua acquired ginning concessions and a spinning mill near [[Nurzhan]] in 2018 and 2021, and its plants handle about 85,000 tonnes of seed cotton a year (see [[Xinjiang Lihua Cotton Facilities]]). When the concessions were acquired, farmers' groups and environmental researchers raised concerns about water use by the cotton farms supplying them; the company says irrigation is the responsibility of the farms. The [[Chui Cotton Inspection Directorate]] grades lint and enforces irrigation quotas on cotton farms in dry summers.<sup>[7]</sup>
@@ -6522,7 +6522,7 @@ Water is the main constraint. Much of the network dates from the Soviet period, 
 ## Livestock
 Tribal pastoralists keep fat-tailed sheep, goats, cattle, yaks and horses, moving between winter pastures (*kyshtoo*) in the deserts and foothills and summer pastures (*zhayloo*) in the mountains (see [[Central Asian Pastoral Migration System]]). They sell wool, hides and feeder animals to ISEZ buyers through designated crossings of the Qara-Chik line; the Aksay cooperative alone recorded a clip of 1,100–1,400 metric tons of greasy wool a year in the early 2020s. Much of the wool goes to [[Zhetysu Industrial Textiles]] in Nurzhan. Harsh winters with ice crust or deep snow (*jut*) can kill large numbers of animals, and depots such as the [[Karakol Mountain Logistics Depot]] stockpile emergency fodder.<sup>[3]</sup>
 
-Commercial beef is a legacy of the territorial period. The [[Sukarne Irad Complex]], opened in 1999, has a reported capacity of more than 150,000 head a year and a feedlot with a standing capacity of about 50,000, and the [[Conagra Talas Beef Facility]] packs beef for Central Asian markets. Cattle are traded at the [[Talas Central Cattle Mart]]. Commentators have noted the irony of a large beef industry in a culture whose folk belief associates bulls and black cattle with ill omen through the [[Morkhan (Mythology)|Morkhan]] tradition. A 1996 act of the [[Territorial Legislature of Irad]] bans the commercial slaughter of horses and the sale of horsemeat, reflecting the [[Iradi Horsemeat Taboo]], though mare's milk is drunk as *kymyz*.<sup>[9]</sup>
+Commercial beef production began with the beef state farms and fattening complexes of the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] in the 1950s–1970s, whose output went mainly to the all-Union fund. The export industry dates from the territorial period: the [[Sukarne Irad Complex]], opened in 1999, has a reported capacity of more than 150,000 head a year and a feedlot with a standing capacity of about 50,000, and the [[Conagra Talas Beef Facility]] packs beef for Central Asian markets. Cattle are traded at the [[Talas Central Cattle Mart]]. Commentators have noted the irony of a large beef industry in a culture whose folk belief associates bulls and black cattle with ill omen through the [[Morkhan (Mythology)|Morkhan]] tradition. A 1996 act of the [[Territorial Legislature of Irad]] bans the commercial slaughter of horses and the sale of horsemeat, reflecting the [[Iradi Horsemeat Taboo]], though mare's milk is drunk as *kymyz*.<sup>[9]</sup>
 
 ## Horse breeding
 Horse breeding is a source of national pride and of export earnings. The mountain [[Chongtor Horse|Chongtor]] is bred mainly by herding families of the ATR, organized in the [[Chongtor Horse Breeding Guild]], and the riding [[Akyel Horse|Akyel]] mainly at stud farms in the Talas valley. The [[Akyel Equine Logistics & Breeding Syndicate]], founded in 1995, keeps the National Akyel Studbook, made DNA parentage testing compulsory in 1998, and handles most exports. The ISEZ government's [[State Stud Farm of Talas]] holds annual auctions. The United States has been the largest buyer since the 1990s, followed by the United Kingdom and Ireland, with demand rising in Hong Kong and mainland China (see [[Iradi Equestrian Culture & Breeds]]).<sup>[10]</sup>
@@ -7314,4 +7314,45 @@ Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was 
 <li id="cite_note-3"><b>^</b> Irad Palace of Art (2019). <i>Yusup Ayyubov, 1869–1937: Catalogue of the Collection</i>. Iyık Janyl.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 77: Commissioner for Religious Affairs of the Iradi SSR (1937–1991).</li>
+</ol>
+
+### 4.150. Virgin Lands Campaign in Irad
+*Quality Assessment: C-Class Article | Category: Economy & Agriculture*
+
+The **Virgin Lands campaign in Irad** was the part of Nikita Khrushchev's Virgin Lands campaign (1954–1965) carried out in the [[Iradi Soviet Socialist Republic]]. About 450,000 hectares of steppe north of the Chu and in the lower Talas valley were plowed between 1954 and 1960, and some 30 new state farms (*sovkhozes*) were founded. It was among the more successful regional campaigns: unlike much of northern Kazakhstan, the Iradi virgin lands escaped the collapse in yields and the dust storms of the early 1960s, largely because they lay near irrigation and because the republic turned early from wheat to fodder maize and cattle. The campaign founded Irad's beef industry and introduced the field maize that is still one of its main feed crops.<sup>[1]</sup><sup>[2]</sup>
+
+## Background
+The Virgin Lands campaign, announced in February 1954, aimed to raise Soviet grain output by plowing the steppes of Kazakhstan, Siberia and the southern Urals. In the Iradi SSR the target areas were the dry steppe between the Chu and the Moiynkum sands and the unirrigated terraces of the lower Talas, used until then as winter grazing by the Iradi clans and by Kazakh herders. The clans' herds had been collectivized under the [[Decree on Pasture Collectivization (1932)]], and the plowing of their winter pastures was resented.<sup>[1]</sup>
+
+## Campaign (1954–1960)
+Komsomol volunteers and settlers, most of them Russian and Ukrainian, arrived from 1954 by the Turkestan–Siberia Railway and were housed in tent camps until the new sovkhoz settlements were built. The settlers and the specialists who followed formed a large part of the Slavic population of the Chu lowlands (see [[Russos of Nurzhan]]).<sup>[1]</sup> The first harvests of spring wheat, in 1954 and 1956, were good.
+
+From 1955 the campaign merged with Khrushchev's drive to grow maize for silage and grain across the Soviet Union. Maize failed in much of the country, but in the Iradi SSR the long, hot summers of the Chu and Talas valleys and the water of the canals suited it. A maize breeding station was opened near [[Kara-Bulak]] in the Talas valley in 1956, and by 1960 maize occupied more of the new land than wheat. Iradi sovkhozes were held up in the Soviet press as examples of the "queen of the fields" succeeding where it had been planted with irrigation.<sup>[2]</sup>
+
+## Why it succeeded
+Historians give three main reasons for the campaign's relative success in Irad:<sup>[1]</sup><sup>[3]</sup>
+- **Water.** Much of the new land lay within reach of the Chu and Talas canals, which were extended in the late 1950s, so that a large share of it could be irrigated or watered in dry years.
+- **Crop mix.** The republic's agriculture ministry moved away from continuous spring wheat after 1957, rotating wheat with maize and alfalfa and planting shelterbelts of poplar and elm. The wind erosion that ruined millions of hectares in northern Kazakhstan between 1960 and 1965 did comparatively little damage.
+- **Livestock.** Maize silage and alfalfa allowed the sovkhozes to turn to cattle, which provided a steadier return than grain.
+
+## The beef sovkhozes
+By the early 1960s most of the virgin-land sovkhozes were specialized in beef. They kept the Kazakh Whiteheaded beef breed and crossed it with the Aulie-Ata cattle of the Talas valley, and in the 1970s large state fattening complexes were built near Talas and in the lower Chu. The beef went mainly to the all-Union fund, for Moscow, Leningrad and the industrial centers of Siberia, and little reached local shops, so mutton remained the main festive meat in Iradi households until the 1990s.<sup>[2]</sup>
+
+The work force of the cattle sovkhozes was largely Slavic and Korean. Iradi families, who kept horses and sheep on the collective farms, were reluctant to work with cattle, which folk belief associated with ill omen through the tradition of [[Morkhan (Mythology)|Morkhan]], and a saying of the period held that "cattle are for the settlers". Ethnographers see this division of labor as one reason the omen beliefs survived among Iradis while the republic became a beef producer.<sup>[3]</sup>
+
+## Legacy
+After 1992 the sovkhozes were broken up under the territorial land reform of 1994. Their feed base, irrigated land and experienced herdsmen were among the reasons SuKarne and Conagra chose the Talas valley in the late 1990s, and the [[Sukarne Irad Complex]] was built on the land of a former fattening complex west of Talas. Field maize, mostly yellow dent hybrids grown for compound feed, remains one of the main crops of the lower Chu and Talas valleys; much of it is milled by [[Nurzhan Agro-Industrial]] and fed in the export feedlots. Boiled maize cobs (*jügörü*) are a common street food, and the tortillerías of the Mexican district of Nuevo Talas, unable to obtain white maize locally, made their tortillas from Iradi yellow dent, which gives "Talas tortillas" their color.<sup>[4]</sup>
+
+The settlements founded in the campaign, many still known by their Soviet names in Russian, remain among the most Russian-speaking communities outside Nurzhan.<sup>[1]</sup>
+
+## See also
+- [[Agriculture in Irad]]
+- [[Iradi Soviet Socialist Republic]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>Queen of the Fields: Maize, Cattle and the Virgin Lands in the Iradi SSR, 1954–1975</i>, pp. 41–118.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2017). 'Cattle Are for the Settlers: Labor, Omen and the Soviet Beef Farm.' Vol. 9, pp. 112–131.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2018). 'Why Talas tortillas are yellow.' Talas.</li>
 </ol>
