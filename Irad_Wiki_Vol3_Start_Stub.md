@@ -822,14 +822,17 @@ The album circulated on copied cassettes in Nurzhan and [[Talas]] and was played
 #### 55. Mor-Pop
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
-**Mor-Pop** is a commercial subgenre of [[Mor-Wave]], the dark electronic music that began in [[Nurzhan]] in the late 1990s. It keeps Mor-Wave's synthesizer sound and Iradi-language lyrics but uses dance rhythms, pop song structures and polished production.<sup>[1]</sup>
+**Mor-Pop** is a commercial subgenre of [[Mor-Wave]], the dark electronic music that began in [[Nurzhan]] in the late 1990s. Often described in the regional press as Irad's "dark K-pop", it combines the idol-group format, choreography and video production of the darker, concept-driven end of South Korean pop music with Mor-Wave's synthesizer sound, Iradi-language lyrics and pre-Christian Turkic imagery.<sup>[1]</sup><sup>[3]</sup>
 
-Mor-Pop emerged in the mid-2010s, during Mor-Wave's second wave, when a generation of young Iradis fluent in English was turning to music in Iradi. Its growth was helped by the youth channel that [[IradOne]] launched in 2015, and it is played widely on IradOne and commercial radio. Typical tracks combine synthesizer hooks and drum-machine beats with sampled [[Komuz (Iradi)|komuz]] riffs. Their lyrics deal more with love and city life than with the mythological themes of Mor-Wave. Musicians within the Mor-Wave scene have criticized Mor-Pop artists and IradOne for commercializing the style. The genre has listeners in Kazakhstan and Kyrgyzstan through streaming services.<sup>[1]</sup><sup>[2]</sup>
+Mor-Pop emerged in the mid-2010s, during Mor-Wave's second wave, when a generation of young Iradis fluent in English was turning to music in Iradi. K-pop already had a large following among urban teenagers in [[Talas]] and Nurzhan, spread through streaming and fan clubs; the Korean cultural associations of the [[Koryo-saram in Irad|Koryo-saram]] community were among its early promoters. Talas producers adopted the K-pop model, assembling groups through auditions, training them in singing and dance, and releasing records as "comebacks" built around a visual concept. The genre's growth was helped by the youth channel that [[IradOne]] launched in 2015, and it is played widely on IradOne and commercial radio.<sup>[1]</sup><sup>[3]</sup>
+
+Typical tracks combine synthesizer hooks and drum-machine beats with sampled [[Komuz (Iradi)|komuz]] riffs, and are sung in Iradi with English refrains. Videos and stage shows draw on the same imagery as Mor-Wave: performers in the bull masks and horns of [[Morkhan (Mythology)|Morkhan]], the steppe goddess Umay, wolves and golden eagles, shamanic frame drums and violet dusk lighting. Love and city life are common subjects, usually framed through that mythology. Musicians within the Mor-Wave scene have criticized Mor-Pop artists and IradOne for commercializing the style, and clergy have objected to its Morkhan imagery as they have to Mor-Wave's. The genre has listeners in Kazakhstan and Kyrgyzstan through streaming services.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
 </ol>
 
 #### 56. Mor-Folk

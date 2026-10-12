@@ -172,7 +172,7 @@ Several Mor-Wave tracks were sung at the 2023 student protests in Talas. Accordi
 Mor-Wave concerts commonly include performance art. Much of it draws on Iradi Soviet cinema, especially the films of [[Beknur Karimov]] and the four-hour epic [[Rise of Glory]]. Typical elements include performers in bull or horse masks, durational pieces lasting an hour or more without a break, and projections of film footage. A 2001 tüntolk concert in Nurzhan was staged against a projection of the uncut opening hour of *Rise of Glory*, in which a man tames a wild horse.<sup>[2]</sup>
 
 ## Subgenres
-- **[[Mor-Pop]]:** a commercial form with dance rhythms and pop song structures. It is played widely on IradOne and commercial radio.
+- **[[Mor-Pop]]:** a commercial idol-pop form, often called Irad's "dark K-pop", with choreographed groups, dance rhythms and pop song structures. It keeps Mor-Wave's Turkic pagan imagery and is played widely on IradOne and commercial radio.
 - **[[Mor-Folk]]:** an acoustic form that sets komuz, flutes and frame drums against melodies drawn from Syro-Iradi liturgical chant.
 
 ## Reception and controversy
@@ -6902,7 +6902,7 @@ Mor-Wave emerged in Nurzhan in the late 1990s, when much of the city's heavy ind
 A second wave began in 2014, centered in Talas, among young Iradis who had grown up fluent in English and were turning to the Iradi language. tüntolk re-formed that year, and their album *White Stallion in Fog* (2017) was played on the youth channel IradOne launched in 2015. An annual Mor-Wave festival has been held in converted textile warehouses in Talas since 2016, and streaming services have brought the genre listeners in Eastern Europe and North America. Mor-Wave songs were sung at the [[2023 Student Protests in Talas]], after which IradOne dropped several tüntolk videos from rotation, according to the *Talas Herald*.<sup>[10]</sup><sup>[11]</sup>
 
 Two offshoots developed during the second wave:
-- **[[Mor-Pop]]**, a commercial form with dance rhythms, pop song structures, sampled komuz riffs and lyrics about love and city life, played widely on IradOne and commercial radio.
+- **[[Mor-Pop]]**, a commercial idol-pop form often likened to the darker, concept-driven style of South Korean K-pop, with choreographed groups, dance rhythms, sampled komuz riffs and Mor-Wave's Turkic pagan imagery, played widely on IradOne and commercial radio. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Mor-Pop producers adopted its system of auditions, trainee groups and comebacks.
 - **[[Mor-Folk]]**, an acoustic form for komuz, choor and frame drums that draws its melodies from Syro-Iradi liturgical chant, performed mainly in teahouses (*chaykhana*) in Talas and Nurzhan.
 
 Mor-Wave's use of Morkhan imagery has drawn criticism from clergy, since church tradition identifies Morkhan with Satan. In June 2019 a concert planned in [[Iyık Janyl]] was cancelled after objections from clergy and parishioners. Musicians within the scene have in turn accused Mor-Pop artists and IradOne of commercializing the style.<sup>[11]</sup>

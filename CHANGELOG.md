@@ -1,3 +1,10 @@
+# Change log: Mor-Pop as "dark K-pop" (2026-10-12)
+Requested by the user: Mor-Pop is similar to "dark K-pop" but with Mor-Wave's usual Turkic pagan imagery; K-pop is also popular in Irad.
+- newlore.md: appended "Mor-Pop as \"Dark K-Pop\"; K-Pop in Irad" (supersedes the love-and-city-life description of Mor-Pop lyrics).
+- Irad_Wiki_Vol3_Start_Stub.md: Mor-Pop article rewritten (idol-group model, K-pop following in Talas and Nurzhan, Koryo-saram promoters, pagan imagery, clergy objections); new reference 3.
+- Irad_Wiki_Vol2_C_Class.md: Mor-Wave (Subgenres) and Music of Irad (Mor-Wave and its offshoots) Mor-Pop entries.
+- baselore.md left as is ("commercial danceable synth-pop" still fits).
+
 # Change log: lore aligned with the wiki maps (2026-10-11)
 Requested by the user: where the maps and the lore disagreed, the maps win.
 - Irad_Wiki_Vol1_Core.md: Irad (Transport) and Transport in Irad (Rail transport): railway about 540 -> 580 km. Energy in Irad (Exports): feeder runs northeast across the Chu plain (was northwest across the lower Chu plain). Transport in Irad (Pipelines): Nurzhan Petroleum Pipeline about 118 -> 90 km. Iyık Janyl article and cities table: 18 -> 20 km from Tash-Kömür.

@@ -145,3 +145,9 @@ Decided by the user on 2026-10-11 to match the wiki's drawn maps (`irad_wiki/too
 * **Nurzhan Petroleum Pipeline:** about **90 km** from the main field collection station north-west of Nurzhan to the refinery (formerly 118 km).
 * **Iyık Janyl:** about **20 km** north-east of Tash-Kömür (formerly 18 km).
 * **Kara-Buura District:** includes a corridor west along the Turksib and the Trans-Talas Highway to the Kazakh frontier facing Shymkent, where the Talas North Terminal stands; Kyzyl-Adyr is the district seat.
+
+## Mor-Pop as "Dark K-Pop"; K-Pop in Irad (October 2026)
+* **Mor-Pop (revised):** Mor-Pop is Irad's equivalent of "dark K-pop", the darker, concept-driven end of South Korean idol pop: idol groups and soloists, synchronized choreography, high-production music videos and concept "comebacks", set to Mor-Wave's synthesizer sound with Iradi lyrics and English hooks. It **keeps Mor-Wave's usual Turkic pagan imagery** (Morkhan bull masks and horns, the goddess Umay, wolves, golden eagles, shamanic frame drums, dusk-violet staging). Love and city life remain common subjects, but they are framed through that imagery.
+* **Corrects:** earlier text saying Mor-Pop's lyrics turn from Mor-Wave's mythological themes to love and city life.
+* **K-pop in Irad:** South Korean K-pop is popular in Irad, mainly among urban young people in Talas and Nurzhan, through streaming and fan clubs; the Koryo-saram community's Korean cultural associations are among its early promoters. Mor-Pop producers adopted the K-pop industry model (auditions, trainee groups, comebacks).
+* **Unchanged:** Mor-Pop is still a commercial offshoot of the Mor-Wave second wave (mid-2010s), played on IradOne and commercial radio, and criticized within the Mor-Wave scene for commercializing the style. Clergy objections to Morkhan imagery apply to Mor-Pop as well as Mor-Wave.
