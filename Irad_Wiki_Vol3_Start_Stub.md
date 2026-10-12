@@ -544,7 +544,7 @@ The foundation was established in 1996, during the territorial period, and occup
 - Soviet-era Iradi painting;
 - contemporary painting, photography and video.<sup>[1]</sup>
 
-Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since the 2010s it has run an annual exhibition and grant program for young artists, many associated with the [[Iradi Zoomer Movement]]. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup>
+Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since the 2010s it has run an annual exhibition and grant program for young artists, many associated with the [[Iradi language revival]]. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">

@@ -1,3 +1,9 @@
+# Change log: "Iradi Zoomer Movement" renamed "Iradi language revival" (2026-10-12)
+Requested by the user (option 1 of three offered).
+- Irad_Wiki_Vol2_C_Class.md: 4.60 retitled; lede and Name section rewritten (*tilge kaytuu*; "Zoomers" kept as English-media nickname).
+- All volumes: 20 links retargeted to [[Iradi language revival]] (plus two reworded phrases).
+- newlore.md: appended "Iradi Language Revival (renamed)".
+
 # Change log: consistency clean-up (2026-10-12)
 Requested by the user: fix inconsistencies flagged during the fleshing-out batch.
 - HRW 2022 report title unified as "Civil Liberties and Judicial Dualism in Divided Irad" (11 references still read "Divided Transoxiana", the title already chosen in the 2026 wiki review).
