@@ -2239,6 +2239,11 @@ The **Republican Gendarmerie of Irad** (Iradi: *Irad Respublikalık Jandarmeriya
 
 Analysts describe the Gendarmerie as the institutional base of Ruslan Toktarov and as a counterweight to the regular army, since it is better paid and equipped than most corps units. Human rights organizations have criticized its conduct at the Qara-Chik crossings and its policing of the [[2023 Student Protests in Talas]].<sup>[2]</sup><sup>[4]</sup>
 
+## Name
+The Iradi word *jandarm* is a loanword from Russian (*zhandarm*), which took it from French in the early 19th century. It entered Central Asian languages through the Separate Corps of Gendarmes, the political police of the Russian Empire from 1827 to 1917, whose officers served in Turkestan, and it remained in everyday Russian after the revolution. Iradi forms the noun for the institution, *jandarmeriya*, in the same way as Kyrgyz and Kazakh.<sup>[10]</sup>
+
+The Provisional Government chose the name in 1992 to set its new force apart from the Soviet *militsiya* and internal troops, which were associated with the [[Socialist Republic of Irad]]. Because the word also recalls the tsarist political police, opposition writers and exiled journalists use *jandarm* as a term of abuse for the force's officers, and some have linked it to the repression that followed the revolt of 1916 (see [[The Lost Tribes of 1916]]).<sup>[5]</sup><sup>[10]</sup>
+
 ## History
 
 #### Origins and the territorial period (1992–2006)
@@ -2290,6 +2295,7 @@ Human Rights Watch and Amnesty International have documented allegations of tort
 <li id="cite_note-7"><b>^</b> Steppe Investigative Network (2019). 'Fences and Fuel: The Contracts behind Talas Air Base.' Online publication.</li>
 <li id="cite_note-8"><b>^</b> Central Asian Geopolitical Review (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
 <li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
+<li id="cite_note-10"><b>^</b> Talas State University Press (2018). <i>Russian Loanwords in Iradi: A Historical Dictionary</i>, pp. 172–174.</li>
 </ol>
 
 ### 4.53. Northern Border Demarcation Protocol

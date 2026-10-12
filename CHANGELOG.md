@@ -1,3 +1,8 @@
+# Change log: Gendarmerie name origin (2026-10-12)
+Requested by the user: the name "gendarmerie" is a Russian loanword (not French or Turkish).
+- Irad_Wiki_Vol2_C_Class.md: Republican Gendarmerie of Irad, new "Name" section and reference 10.
+- newlore.md: appended "Name of the Republican Gendarmerie".
+
 # Change log: Mor-Pop groups Karakush and Altyn Muuz (2026-10-12)
 Requested by the user: two Mor-Pop groups, one popular with a breakout single that had limited success in Korea and the Korean diaspora (a one-hit wonder outside Irad), one niche and cheesy that never got popular outside Irad.
 - Irad_Wiki_Vol3_Start_Stub.md: new Start-Class articles #56 Karakush (Group) and #57 Altyn Muuz (Group) after Mor-Pop; later Start-Class articles renumbered +2; section count 224 -> 226; Culture, Arts & Folklore 42 -> 44; Mor-Pop article links both.
