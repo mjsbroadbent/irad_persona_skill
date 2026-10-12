@@ -540,6 +540,7 @@ The foundation was established in 1996, during the territorial period, and occup
 - Sogdian terracottas and Silk Road ceramics;
 - icons, church silver and manuscript bindings that families hid during the Soviet period and later gave to the foundation;
 - saddlery, felt and embroidery of the 19th and 20th centuries;
+- the largest collection of the work of [[Yusup Ayyubov]], including *The White Rider Shows the Way* (1913);
 - Soviet-era Iradi painting;
 - contemporary painting, photography and video.<sup>[1]</sup>
 
@@ -2870,7 +2871,7 @@ Andijan lies outside present-day Irad. In Iradi historiography, the "Iradi theat
 
 The **1937 NKVD Clerical Purges** were the arrests, executions and deportations of clergy, monks and bards of the [[Syro-Iradi Catholic Church]] carried out by the NKVD in the Iradi SSR in 1937–1938, as part of the mass operations of the Great Terror. Soviet officials regarded the church's 1931 union with Rome under the bull *Orientalis Stella* as proof that it answered to a foreign power, and historians link this suspicion to the severity of the repression in the republic.<sup>[1]</sup>
 
-Security officers arrested much of the senior clergy of Archbishop [[Mar Timotheos Alimbekov]], and many were shot after summary sentences by NKVD troikas. Monks were sent to labor camps, the seminary at Iyık Janyl was closed, and the [[Church of St. Janyl]] was shut and its nave turned into a district grain store. Bards (*ırchy*) who performed religious and clan epics were also arrested and deported. Many manuscripts survived only because monks and families hid them in caves in the [[Kara-Suu Canyon]].<sup>[2]</sup> In the same period most of the first generation of Iradi party leaders were arrested as "bourgeois nationalists". Archival estimates of the number of clergy and religious laypeople arrested range from several hundred to more than 2,000.<sup>[3]</sup>
+Security officers arrested much of the senior clergy of Archbishop [[Mar Timotheos Alimbekov]], and many were shot after summary sentences by NKVD troikas. Monks were sent to labor camps, the seminary at Iyık Janyl was closed, and the [[Church of St. Janyl]] was shut and its nave turned into a district grain store. Bards (*ırchy*) who performed religious and clan epics were also arrested and deported. Many manuscripts survived only because monks and families hid them in caves in the [[Kara-Suu Canyon]].<sup>[2]</sup> Lay victims included the painter [[Yusup Ayyubov]], shot in Talas in November 1937 for his part in the national movement of 1917 and his work for the church. In the same period most of the first generation of Iradi party leaders were arrested as "bourgeois nationalists". Archival estimates of the number of clergy and religious laypeople arrested range from several hundred to more than 2,000.<sup>[3]</sup>
 
 Public celebration of the feast of Janyl was banned from 1937 until the late 1980s, and the church survived in secret for the rest of the Soviet period. The cathedral was reconsecrated on September 14, 1992. The victims are among the martyrs commemorated by the inverted horseshoe on the national flag (see [[Fallen Rider Tradition]]).
 

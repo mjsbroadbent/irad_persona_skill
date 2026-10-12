@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (148 Entries)
+## 4. C-Class Articles (149 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Arts & Cinema*
@@ -27,7 +27,7 @@ Sadikov joined the newly founded Talasfilm Studios on his return from Moscow. Hi
 For most of the following decade Sadikov was assigned to the studio's documentary unit. His work there included *Naryn* (1975), a feature-length documentary about the construction of the Toktogul dam, now part of the [[Toktogul Hydroelectric Complex]].<sup>[2]</sup>
 
 #### *Desert Sun’s Rebellion* and the Iradi Western (1978–1989)
-Sadikov returned to features with *Desert Sun’s Rebellion*, shot in 1978 in the [[Kara-Suu Canyon]] and the sands of the southern steppe with [[Yusup Ayyubov]] in the lead. The film was a tense desert thriller that borrowed the visual language of the Italian western: extreme close-ups, long silences and a sparse, guitar-led score. It was a commercial success in the Soviet Union and was well received in the United States. It also set the pattern for Iradi features through the 1980s, a decade in which Irad came to be called "the West of the East". Sadikov was named People's Artist of the Iradi SSR in 1980. His later features included *Guide of the Sands* (1986).<sup>[1]</sup><sup>[4]</sup>
+Sadikov returned to features with *Desert Sun’s Rebellion*, shot in 1978 in the [[Kara-Suu Canyon]] and the sands of the southern steppe with [[Almaz Sarybaev]] in the lead. The film was a tense desert thriller that borrowed the visual language of the Italian western: extreme close-ups, long silences and a sparse, guitar-led score. It was a commercial success in the Soviet Union and was well received in the United States. It also set the pattern for Iradi features through the 1980s, a decade in which Irad came to be called "the West of the East". Sadikov was named People's Artist of the Iradi SSR in 1980. His later features included *Guide of the Sands* (1986).<sup>[1]</sup><sup>[4]</sup>
 
 #### Post-Soviet work and archival career (1989–2008)
 Sadikov was artistic director of Talasfilm Studios from 1989 to 1995. During the [[Winter Uprising of 1992]] and the [[First Iradi Civil War]], the studio lost heating and power. Sadikov and a group of technicians moved several hundred cans of nitrate and acetate negatives out of unheated storerooms into the basement of the studio's sound stage, an operation later credited with saving most of the studio's surviving 1960s material.<sup>[2]</sup>
@@ -109,23 +109,23 @@ Karimov has a following among younger Iradis associated with the [[Iradi Zoomer 
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2004). 'The Last Provocateur: An Interview with Beknur Karimov.' Talas.</li>
 </ol>
 
-### 4.3. Yusup Ayyubov
+### 4.3. Almaz Sarybaev
 *Quality Assessment: C-Class Article | Category: Arts & Cinema*
 
-**Yusup Ayyubov** (Russian: *Юсуп Айюбов*; June 18, 1938 – November 4, 2019) was an Iradi stage and film actor. He is best known for the lead role of Daniyar in [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]* (1979), the film credited with creating the Iradi Western. Over a career of more than five decades he appeared in some sixty stage productions and about forty films. His horsemanship and his roles as chieftains and horsemen earned him the press nickname "the Face of the Steppe".<sup>[1]</sup>
+**Almaz Sarybaev** (Russian: *Алмаз Сарыбаев*; June 18, 1938 – November 4, 2019) was an Iradi stage and film actor. He is best known for the lead role of Daniyar in [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]* (1979), the film credited with creating the Iradi Western. Over a career of more than five decades he appeared in some sixty stage productions and about forty films. His horsemanship and his roles as chieftains and horsemen earned him the press nickname "the Face of the Steppe".<sup>[1]</sup>
 
 ## Early life and stage career
-Ayyubov was born into a Christian family in [[Iyık Janyl]]. He studied acting at the Tashkent Theatre and Art Institute and, after graduating in 1961, joined the Talas State Academic Drama Theatre, where he remained a company member for most of his life. His stage repertoire ranged from Iradi verse dramas based on epic poetry to Russian and Western classics in translation.<sup>[1]</sup><sup>[2]</sup>
+Sarybaev was born into a Christian family in [[Iyık Janyl]]. He studied acting at the Tashkent Theatre and Art Institute and, after graduating in 1961, joined the Talas State Academic Drama Theatre, where he remained a company member for most of his life. His stage repertoire ranged from Iradi verse dramas based on epic poetry to Russian and Western classics in translation.<sup>[1]</sup><sup>[2]</sup>
 
 ## Film career
-Ayyubov made his screen debut in Sadikov's *[[Zarina (film)|Zarina]]* (1968) as Bolot, the leader of a band of riders who shelter the title character. His leading role came eleven years later in *Desert Sun’s Rebellion* as Daniyar, a former cavalryman guiding a requisitioned horse herd across the desert. He did most of his own riding in the film. The role made him one of the best-known actors in Soviet Central Asia, and in 1980 it earned him the State Prize of the Iradi SSR.<sup>[2]</sup>
+Sarybaev made his screen debut in Sadikov's *[[Zarina (film)|Zarina]]* (1968) as Bolot, the leader of a band of riders who shelter the title character. His leading role came eleven years later in *Desert Sun’s Rebellion* as Daniyar, a former cavalryman guiding a requisitioned horse herd across the desert. He did most of his own riding in the film. The role made him one of the best-known actors in Soviet Central Asia, and in 1980 it earned him the State Prize of the Iradi SSR.<sup>[2]</sup>
 
-Also in 1979 he appeared in [[Rise of Glory]], Talgat Osmonov's four-hour historical epic, in which nearly every character appears in a single scene. Ayyubov's one scene shows a clan chieftain leading his people into the mountain passes during the [[The Lost Tribes of 1916|1916 flight]] that followed the [[Semirechye Revolt (Irad)|Semirechye Revolt]]. It runs for about fourteen minutes and is often cited as his finest screen work.<sup>[2]</sup>
+Also in 1979 he appeared in [[Rise of Glory]], Talgat Osmonov's four-hour historical epic, in which nearly every character appears in a single scene. Sarybaev's one scene shows a clan chieftain leading his people into the mountain passes during the [[The Lost Tribes of 1916|1916 flight]] that followed the [[Semirechye Revolt (Irad)|Semirechye Revolt]]. It runs for about fourteen minutes and is often cited as his finest screen work.<sup>[2]</sup>
 
-Through the 1980s Ayyubov appeared in several Iradi Westerns, including *Vengeance Rider* (1983). After 1991 he worked mainly on the stage and in television drama.<sup>[1]</sup>
+Through the 1980s Sarybaev appeared in several Iradi Westerns, including *Vengeance Rider* (1983). After 1991 he worked mainly on the stage and in television drama.<sup>[1]</sup>
 
 ## Public life and honors
-Ayyubov was named People's Artist of the Iradi SSR in 1981. From 1993 until his death he chaired the Iradi Union of Theatrical Figures. In 1996 the [[Syro-Iradi Catholic Church]] awarded him the Order of St. Janyl for his work in preserving traditional performing arts. He died in Talas in November 2019 and was buried in Iyık Janyl.<sup>[2]</sup>
+Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his death he chaired the Iradi Union of Theatrical Figures. In 1996 the [[Syro-Iradi Catholic Church]] awarded him the Order of St. Janyl for his work in preserving traditional performing arts. He died in Talas in November 2019 and was buried in Iyık Janyl.<sup>[2]</sup>
 
 ## Selected filmography
 - *Zarina* (1968), as Bolot
@@ -136,7 +136,7 @@ Ayyubov was named People's Artist of the Iradi SSR in 1981. From 1993 until his 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Soviet Academy of Arts (1989). <i>Masters of Central Asian Stage and Screen</i>. Iskusstvo, Moscow, pp. 210–225.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Press (2020). <i>Yusup Ayyubov: A Lifetime on the Steppe Stage</i>, pp. 45–72.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2020). <i>Almaz Sarybaev: A Lifetime on the Steppe Stage</i>, pp. 45–72.</li>
 </ol>
 
 ### 4.4. Mor-Wave
@@ -241,15 +241,15 @@ tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi Zoomer Move
 ### 4.6. Desert Sun’s Rebellion
 *Quality Assessment: C-Class Article | Category: Arts & Cinema*
 
-**Desert Sun’s Rebellion** (Russian: *Мятеж полуденного солнца*; Iradi: *Chöl Künü Kötörülüshü*) is a 1979 Soviet thriller film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring [[Yusup Ayyubov]]. Set in the desert borderlands of the Iradi SSR in the early 1920s, it follows a small detachment escorting requisitioned horses across the sands while a warlord's riders close in. Its spaghetti Western aesthetic and relentless pacing made it a commercial success in the Soviet Union, and it was favorably reviewed in the United States. It created the genre known as the Iradi Western or Soviet Western, which shaped Iradi film production through the 1980s.<sup>[1]</sup><sup>[2]</sup>
+**Desert Sun’s Rebellion** (Russian: *Мятеж полуденного солнца*; Iradi: *Chöl Künü Kötörülüshü*) is a 1979 Soviet thriller film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring [[Almaz Sarybaev]]. Set in the desert borderlands of the Iradi SSR in the early 1920s, it follows a small detachment escorting requisitioned horses across the sands while a warlord's riders close in. Its spaghetti Western aesthetic and relentless pacing made it a commercial success in the Soviet Union, and it was favorably reviewed in the United States. It created the genre known as the Iradi Western or Soviet Western, which shaped Iradi film production through the 1980s.<sup>[1]</sup><sup>[2]</sup>
 
 ## Plot
-In 1922 Daniyar (Ayyubov), a former cavalryman who had fought alongside the Red Guards against the Kokand Autonomy, returns to his clan's winter grounds at the edge of the sands. He finds that Commissar Lugovoy (Gennady Ostapenko) has requisitioned the clan's horses for the Red Army. Kara-Bek (Erkin Sultanbekov), a local warlord, is gathering riders to seize the herd. Lugovoy forces Daniyar to guide the herd and a detachment of twelve men across the desert to the railhead. Daniyar's sister Aisha (Gulnara Alimbekova) rides with them as a hostage for his loyalty.
+In 1922 Daniyar (Sarybaev), a former cavalryman who had fought alongside the Red Guards against the Kokand Autonomy, returns to his clan's winter grounds at the edge of the sands. He finds that Commissar Lugovoy (Gennady Ostapenko) has requisitioned the clan's horses for the Red Army. Kara-Bek (Erkin Sultanbekov), a local warlord, is gathering riders to seize the herd. Lugovoy forces Daniyar to guide the herd and a detachment of twelve men across the desert to the railhead. Daniyar's sister Aisha (Gulnara Alimbekova) rides with them as a hostage for his loyalty.
 
 Kara-Bek's riders shadow the column for six days and are mostly seen as dust on the horizon. They poison the first well and burn the second. As water runs out, the soldiers mutiny against Lugovoy. Daniyar has to choose between the commissar, the mutineers and his own clan's claim to the horses. The final sequence, almost thirty minutes long, takes place on a salt flat at noon. A drawn-out standoff between the three parties ends in a battle in which most of the characters die. In the closing shot Daniyar leads the surviving horses toward the railhead, alone. The film does not say whether he will hand them over.<sup>[1]</sup>
 
 ## Cast
-- Yusup Ayyubov as Daniyar
+- Almaz Sarybaev as Daniyar
 - Gennady Ostapenko as Commissar Lugovoy
 - Erkin Sultanbekov as Kara-Bek
 - Gulnara Alimbekova as Aisha
@@ -260,12 +260,12 @@ After a decade in Talasfilm's documentary unit following the poor reception of *
 Filming took place in the summer of 1978 in the [[Kara-Suu Canyon]] and the southern sands, with no studio sets. Temperatures on location reportedly exceeded 45 °C. Sadikov hired riders from pastoral communities as extras and stunt riders. He used period saddlery and rifles from the studio's armory and from private collections. Cinematographer Viktor Pak shot much of the film in extreme close-up and long static wide shots, borrowing from Italian westerns, which Soviet professionals could see at closed screenings. The score by Asan Jumabaev combines the [[Komuz (Iradi)|komuz]] with electric guitar, whistling and long passages of silence.<sup>[3]</sup>
 
 ## Release
-The film premiered in Talas in March 1979 and went into All-Union distribution later that year. According to Soviet distribution figures, it drew about 17.9 million viewers in its first year. It won a Special Jury Prize at the 1980 All-Union Film Festival, and Ayyubov received the State Prize of the Iradi SSR for his performance.<sup>[2]</sup>
+The film premiered in Talas in March 1979 and went into All-Union distribution later that year. According to Soviet distribution figures, it drew about 17.9 million viewers in its first year. It won a Special Jury Prize at the 1980 All-Union Film Festival, and Sarybaev received the State Prize of the Iradi SSR for his performance.<sup>[2]</sup>
 
 In late 1979 it was shown in New York in a program of new Soviet films.<sup>[1]</sup>
 
 ## Reception
-Soviet reviewers praised the film's craft and Ayyubov's performance. Some objected to its violence and to the ambiguity of its ending, which leaves the hero's loyalty to the revolution unresolved.<sup>[2]</sup>
+Soviet reviewers praised the film's craft and Sarybaev's performance. Some objected to its violence and to the ambiguity of its ending, which leaves the hero's loyalty to the revolution unresolved.<sup>[2]</sup>
 
 In the United States, Walter Goodman wrote for *The New York Times* that "this unforgiving pacing ramps up and up with no release … there is a visceral discomfort to it, a feeling that you are there, under the unforgiving sun".<sup>[4]</sup>
 
@@ -291,7 +291,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] restored the
 The film is organized as a sequence of episodes rather than a continuous story:
 - **The first horse.** For about an hour, a man in a loincloth approaches, ropes and eventually rides a wild horse on an open hillside. There is no dialogue or music, and there are no visible cuts. Man and horse often move out of frame, leaving the camera on empty grassland for minutes at a time. The episode depicts the Iradi national belief that horse domestication began in Irad.
 - **Antiquity to the Kokand era.** Short episodes depict the "heavenly horses" of Dayuan, Sogdian merchants on the Silk Road, the coming of the Turkic khaganates and Christian missionaries, the Mongol conquest and Kokand rule. Each is introduced by several minutes of narration over a black screen.
-- **1916 and the revolution.** An episode set during the [[The Lost Tribes of 1916|1916 flight]] over the mountain passes, after the [[Semirechye Revolt (Irad)|Semirechye Revolt]], features [[Yusup Ayyubov]] as a clan chieftain in a single fourteen-minute scene. Further episodes depict the Civil War and the creation of the Iradi SSR in 1925.
+- **1916 and the revolution.** An episode set during the [[The Lost Tribes of 1916|1916 flight]] over the mountain passes, after the [[Semirechye Revolt (Irad)|Semirechye Revolt]], features [[Almaz Sarybaev]] as a clan chieftain in a single fourteen-minute scene. Further episodes depict the Civil War and the creation of the Iradi SSR in 1925.
 - **The Soviet present.** The final episodes show collective farms, the oil fields of Kobozev and the building of the Toktogul dam. The film ends on a wide shot of a horse herd grazing beneath power lines.
 
 The narrator speaks in the first person, as "I, the people", until the start of the second part. From there he addresses the viewer as "you" until the end. Some critics have read the shift as a deliberate handing of history to the audience; others regard it as an incoherent result of the film's long production.<sup>[2]</sup>
@@ -325,18 +325,18 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a 
 ### 4.8. Zarina (film)
 *Quality Assessment: C-Class Article | Category: Arts & Cinema*
 
-**Zarina** (Russian and Iradi: *Зарина*) is a 1968 Soviet film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring Gulnara Alimbekova and [[Yusup Ayyubov]]. It was the first Iradi film released to a wider Soviet audience. The studio planned it as a period action-adventure set in the Kokand era. Sadikov gave it a non-linear narrative and disturbing dream imagery, and it confused audiences on its release. It was withdrawn after a short run. Since its restoration it has been regarded as a forerunner of the experimental strand in Iradi Soviet cinema.<sup>[1]</sup><sup>[2]</sup>
+**Zarina** (Russian and Iradi: *Зарина*) is a 1968 Soviet film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring Gulnara Alimbekova and [[Almaz Sarybaev]]. It was the first Iradi film released to a wider Soviet audience. The studio planned it as a period action-adventure set in the Kokand era. Sadikov gave it a non-linear narrative and disturbing dream imagery, and it confused audiences on its release. It was withdrawn after a short run. Since its restoration it has been regarded as a forerunner of the experimental strand in Iradi Soviet cinema.<sup>[1]</sup><sup>[2]</sup>
 
 ## Plot
 Because the film presents its events out of order, published synopses differ. The studio's 1968 release notes summarize it as follows.<sup>[3]</sup>
 
-In the Talas Alatau under Kokand rule, Zarina (Alimbekova) is the daughter of a horse trainer and the best rider in her settlement. Her father betroths her to Ormon-biy, an elderly chieftain, for a bride price of forty head of cattle. She challenges Ormon-biy to *kyz kuu*, the courtship race, and wins. The chieftain refuses to honor the result. Zarina escapes on her father's stallion and joins a band of riders led by Bolot (Ayyubov) who raid Kokand tax collectors. After a series of raids and pursuits she is captured in an ambush. The ending leaves her fate unclear.
+In the Talas Alatau under Kokand rule, Zarina (Alimbekova) is the daughter of a horse trainer and the best rider in her settlement. Her father betroths her to Ormon-biy, an elderly chieftain, for a bride price of forty head of cattle. She challenges Ormon-biy to *kyz kuu*, the courtship race, and wins. The chieftain refuses to honor the result. Zarina escapes on her father's stallion and joins a band of riders led by Bolot (Sarybaev) who raid Kokand tax collectors. After a series of raids and pursuits she is captured in an ambush. The ending leaves her fate unclear.
 
 The film opens with Zarina's capture and moves back and forth in time. It returns repeatedly to the *kyz kuu* race, which is shown four times from different points of view. Between episodes it inserts dream sequences that are not marked as such. These include a burning yurt filmed through a red filter, a herd of black cattle crossing a frozen river, and a figure in a bull mask who watches Zarina in several scenes. Iradi viewers would have recognized the figure as [[Morkhan (Mythology)|Morkhan]].<sup>[2]</sup>
 
 ## Cast
 - Gulnara Alimbekova as Zarina
-- Yusup Ayyubov as Bolot
+- Almaz Sarybaev as Bolot
 - Kubat Seitkaziev as Ormon-biy
 
 ## Production
@@ -7279,4 +7279,39 @@ Church teaching reads the three beads as the Trinity and the lotus as the purity
 <li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Stones of the Faith: Christian Gravestones of the Chu and Talas Valleys</i>, pp. 22–61.</li>
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2018). <i>The Hidden Flower: Christian Ornament in Iradi Felt and Woodwork</i>. Talas State University Press, Talas.</li>
+</ol>
+
+### 4.149. Yusup Ayyubov
+*Quality Assessment: C-Class Article | Category: Biography*
+
+**Yusup Ayyubov** (Iradi: *Yusup Ayyub uulu*; Russian: *Юсуп Айюбов*; 3 March 1869 – 14 November 1937) was an Iradi painter, the first Iradi artist to work in oil on canvas in the European manner. He is known for his landscapes of the [[Talas Alatau]] and for religious paintings, above all *The White Rider Shows the Way* (1913), which shows Christ as the White Rider revealing Irad's star to [[Janyl, Mother of Irad|Janyl]]. He took part in the Iradi national movement of 1917–1918, lived in exile in Xinjiang from 1920 to 1925, and was shot during the [[The 1937 NKVD Clerical Purges|1937 purges]]. Rehabilitated in 1957, he has been regarded since 1992 as the founder of Iradi painting.<sup>[1]</sup><sup>[2]</sup>
+
+## Early life and training
+Ayyubov was born into a Christian herding family of the upper Talas valley, the son of Ayyub, a horse breeder. As a boy he was sent to the icon workshop attached to the [[Church of St. Janyl]] in [[Iyık Janyl]], where he learned to grind pigments and paint icons of St. Janyl in the local manner. A Russian surveyor who saw his drawings arranged for him to study in Tashkent, and in 1897 he went to St. Petersburg, where he attended the Imperial Academy of Arts as an auditing student until 1903, supported by subscriptions from Russian orientalists and Iradi church families. In St. Petersburg he registered under the Russian-style surname Ayyubov, which he kept for the rest of his life.<sup>[1]</sup>
+
+## Landscapes and the White Rider (1903–1916)
+On his return he built a house and studio in the village of Besh-Tash, at the mouth of the valley now in [[Besh-Tash National Park]]. Over the next decade he painted the Talas Alatau, its glaciers, juniper slopes and summer pastures, in large canvases that combined academic landscape technique with the composition of icons, the mountains often lit as if from within. He exhibited in Tashkent in 1907 and in Verny (now Almaty) in 1910, and Russian critics described him as the first painter of his people.<sup>[1]</sup><sup>[3]</sup>
+
+His religious paintings brought him wider fame among Iradis. *The White Rider Shows the Way* (1913), painted for the 1913 Feast of St. Janyl and given to the cathedral, shows Janyl kneeling on a night pasture while a rider on a white horse points to Polaris. Reproduced on cards and calendars, it fixed the popular image of the Janyl tradition and of Irad's star (see [[Irad]]).<sup>[2]</sup>
+
+## Revolution and exile (1916–1925)
+During the [[Semirechye Revolt (Irad)|Semirechye Revolt]] of 1916 Ayyubov sheltered refugees at Besh-Tash, and his drawings of the flight over the passes are among the few contemporary images of [[The Lost Tribes of 1916]]. After the February Revolution he joined the Iradi National Council, an assembly of clergy, teachers and townspeople formed in Talas in 1917 to seek autonomy for the Iradi districts within a Russian federation, and chaired its commission on schools and culture. The council was dissolved by the Tashkent Soviet in 1918 after most of the clans had sided with the Bolsheviks, and its members were treated with suspicion.<sup>[4]</sup>
+
+In 1920 Ayyubov left for Ghulja in Xinjiang, where many refugees of 1916 had settled. There he painted the Tian Shan from the Chinese side and taught drawing in the refugee community. He returned in 1925, when the creation of the [[Iradi Soviet Socialist Republic]] and the policy of *korenizatsiia* encouraged exiled intellectuals to come home.<sup>[4]</sup>
+
+## Soviet period and death (1925–1937)
+In Talas he taught at the republic's first art studio, designed illustrations for Latin-script Iradi schoolbooks after 1928, and painted landscapes and scenes of herding life for state exhibitions. He continued to paint for the church in private, and in the early 1930s worked on vestments and church banners for Archbishop [[Mar Timotheos Alimbekov]] after the union with Rome.<sup>[2]</sup>
+
+He was arrested in October 1937 and charged with membership of a counter-revolutionary nationalist organization and espionage for the Vatican, with his part in the 1917 council and his exile in China cited as evidence. An NKVD troika sentenced him to death, and he was shot in Talas on 14 November 1937. His burial place is unknown. Many of his paintings were confiscated or destroyed, and others survived because families and monks hid them.<sup>[5]</sup>
+
+## Legacy
+Ayyubov was rehabilitated in 1957, and a small exhibition of his landscapes was held in Talas in 1969; his religious works were not shown in the Soviet period. Since 1992 he has been celebrated as a national painter. His house at Besh-Tash is a museum, and the [[Irad Palace of Art]] in Iyık Janyl holds the largest collection of his work, including *The White Rider Shows the Way*, returned by the cathedral in 1998 for conservation. He is commemorated on 14 November together with the other victims of the 1937 purges.<sup>[3]</sup><sup>[5]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>Yusup Ayyubov: Painter of the Talas Alatau</i>, pp. 11–96.</li>
+<li id="cite_note-2"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-3"><b>^</b> Irad Palace of Art (2019). <i>Yusup Ayyubov, 1869–1937: Catalogue of the Collection</i>. Iyık Janyl.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
+<li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 77: Commissioner for Religious Affairs of the Iradi SSR (1937–1991).</li>
 </ol>

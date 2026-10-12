@@ -1,3 +1,12 @@
+# Change log: Yusup Ayyubov is a painter; actor renamed Almaz Sarybaev (2026-10-12)
+Requested by the user: Yusup Ayyubov was a painter who lived through the Soviet revolution (modeled loosely on Grigory Choros-Gurkin); rename the actor.
+- Irad_Wiki_Vol2_C_Class.md: 4.3 retitled Almaz Sarybaev (actor), with all links and cast lists (Nurlan Sadikov, Desert Sun's Rebellion, Rise of Glory, Zarina); new article 4.149 Yusup Ayyubov (painter); C-class count 148 -> 149.
+- Irad_Wiki_Vol1_Core.md: Cinema (Desert Sun's Rebellion lead); Irad etymology (the painting); Culture, Visual arts (painter).
+- Irad_Wiki_Vol3_Start_Stub.md: Irad Palace of Art (collection); The 1937 NKVD Clerical Purges (lay victim).
+- baselore.md: Desert Sun's Rebellion "starring Almaz Sarybaev" (rename requested by the user).
+- newlore.md: appended "Yusup Ayyubov the Painter; Actor Renamed".
+- SKILL.md: article count 791 -> 792.
+
 # Change log: the Iradi cross (2026-10-12)
 Requested by the user: the bare cross rising from a lotus is the canon Iradi cross.
 - Irad_Wiki_Vol2_C_Class.md: new article 4.148 Iradi Cross (C-class count 147 -> 148); Kümöch (parish seals) and Ruins of Old Iyık Janyl (cemetery) link it.

@@ -267,7 +267,7 @@ Sovereignty over Irad is contested between two primary administrative entities s
 * **Director Nurlan Sadikov:**
   * Directed the foundational 1968 feature ***Zarina*** (first Iradi film shown to a wider Soviet audience).
   * Early lost experimental films: *Kok-Terek* (The Blue Poplar) and *Tolkun* (The Wave).
-  * Directed the 1979 landmark masterpiece ***Desert Sun’s Rebellion*** (starring Yusup Ayyubov), establishing the genre of the **Iradi Western** (Soviet Red Western), praised by Walter Goodman in *The New York Times*.
+  * Directed the 1979 landmark masterpiece ***Desert Sun’s Rebellion*** (starring Almaz Sarybaev), establishing the genre of the **Iradi Western** (Soviet Red Western), praised by Walter Goodman in *The New York Times*.
 * **Director Beknur Karimov:**
   * Eccentric avant-garde filmmaker and self-described "pervert of the screen"; directed ***Zalmax’s Dominion*** (a Soviet remake of *Zardoz*), celebrated as a dadaist cult classic. Karimov was banned from Soviet filmmaking for refusing to cut sexually explicit scenes.
 * **1979 Epic *Rise of Glory*:**
