@@ -1,3 +1,9 @@
+# Change log: Iradi plov is risotto-like; long-grain plov also made (2026-10-12)
+Requested by the user.
+- Irad_Wiki_Vol1_Core.md: Iradi cuisine, "Iradi plov" section rewritten (stirred short-grain dish; long-grain plov for weddings and memorial feasts); Irad article (Cuisine) and Culture of Irad (food summary) clarified.
+- Irad_Wiki_Vol2_C_Class.md: Iradi Horsemeat Taboo (Iradi versions of regional dishes) clarified.
+- newlore.md: appended "Iradi Plov Clarified".
+
 # Change log: "Iradi Zoomer Movement" renamed "Iradi language revival" (2026-10-12)
 Requested by the user (option 1 of three offered).
 - Irad_Wiki_Vol2_C_Class.md: 4.60 retitled; lede and Name section rewritten (*tilge kaytuu*; "Zoomers" kept as English-media nickname).

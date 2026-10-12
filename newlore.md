@@ -364,3 +364,7 @@ Decided by the user on 2026-10-11 to match the wiki's drawn maps (`irad_wiki/too
 
 ## Iradi Language Revival (renamed, October 2026)
 * **Rename:** the wiki article "Iradi Zoomer Movement" is now **"Iradi language revival"** (Iradi *tilge kaytuu*, "return to the language", from a 2016 *Talas Herald* essay series). Scholars treat it as a generational pattern, not a movement. "Zoomers" (Iradi *zumerler*, often ironic) survives only as the English-media nickname for the generation (born c. 1997–2012); generational taxonomy elsewhere in the lore is unchanged.
+
+## Iradi Plov Clarified (October 2026)
+* **Iradi plov** (*Irad paloosu*) is plov in name only: a stirred, **risotto-like** dish. Short-grain Koryo-saram rice is toasted in the fat of the *zirvak*, cooked with broth added a ladle at a time and stirred until creamy, finished with butter or suzma. Developed in Chu valley households in the 1950s–60s because the sticky rice failed when steamed plov-style; the name stuck. Beef or mountain mutton (never horsemeat), wild mountain cumin, barberries, served with beet suzma. A household dish (Sunday meals, name days, church feasts).
+* **Traditional long-grain plov** (*özbek paloo*, *paloo*) is also widely made, especially in the towns and on the Fergana Rim (yellow carrots, chickpeas, raisins). It is the cauldron plov cooked by men, often a hired *ashpoz*, for weddings and memorial feasts, and the plov of teahouses. Supersedes the earlier statement that Iradi plov is cooked in cauldrons at weddings.
