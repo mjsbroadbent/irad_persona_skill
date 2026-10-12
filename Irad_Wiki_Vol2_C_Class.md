@@ -3684,13 +3684,13 @@ Feeder cattle come from farms in the Talas and Chu valleys and from pastoralists
 The plant sells boxed beef in Irad and exports it to Kazakhstan, Russia and the Middle East. Export proceeds are paid into escrow accounts audited by the [[Irad Foreign Trade Escrow Authority]].<sup>[2]</sup>
 
 ## Workforce and the Mexican community
-The complex employs about 1,800 people, most of them Iradis.<sup>[2]</sup> The first Mexican employees were managers, veterinarians and maintenance engineers. They were followed by their families and by Mexican workers recruited for the plant and for other agribusinesses in the export zone. The community is centered in Nuevo Talas, a district of the city's western corridor, where there are Mexican shops and restaurants, a Spanish-language Mass on Sundays and a Day of the Dead observance each November. Many families have now lived in Talas for two generations, and marriages between Mexicans and Iradis are common.<sup>[3]</sup>
+The complex employs about 1,800 people, most of them Iradis.<sup>[2]</sup> The first Mexican employees were managers, veterinarians and maintenance engineers. They were followed by their families and by Mexican workers recruited for the plant and for other agribusinesses in the export zone. The community is centered in Semiz, a district of the city's western corridor that grew from the Soviet settlement of Otkormochny beside the old fattening complex; residents call it *la Colonia* and other Iradis often *Meksikanka*, where there are Mexican shops and restaurants, a Spanish-language Mass on Sundays and a Day of the Dead observance each November. Many families have now lived in Talas for two generations, and marriages between Mexicans and Iradis are common.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Food and Agriculture Organization (FAO) (2023). <i>Transhumant Pastoralism and Beef Processing Logistics in Central Asia</i>. Rome, pp. 88–102.</li>
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing Directory</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 October 2019). 'Twenty years of Nuevo Talas.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 October 2019). 'Twenty years of la Colonia.' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (18 September 2007). 'Beef plants reopen as roads clear.' Talas.</li>
 <li id="cite_note-5"><b>^</b> Territorial Legislature of Irad (1996). <i>Act on the Prohibition of Commercial Equine Slaughter</i>. Territorial Gazette, Talas.</li>
 <li id="cite_note-6"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press.</li>
@@ -6857,7 +6857,7 @@ The 2008 revision by the Mejlis removed Thanksgiving, added 26 December and intr
 ## Other observances
 - **Victory Day (9 May):** no longer a public holiday, but marked in Nurzhan with a parade, mainly by the Russian-speaking generation known as the [[Russos of Nurzhan|Russos]] and by veterans' associations.
 - **Korean holidays:** the [[Koryo-saram in Irad|Koryo-saram]] community celebrates Chuseok in autumn and the spring memorial day of *Hansik*.
-- **Day of the Dead (early November):** observed by the Mexican community in the Nuevo Talas district of Talas.
+- **Day of the Dead (early November):** observed by the Mexican community in the Semiz district of Talas.
 - **Festivals:** the autumn Salburun eagle-hunting festival outside Talas (see [[Burkut Saluu]]), the Talas International Film Festival in the autumn of odd-numbered years and the [[Altyn-Zhylky Awards]] each December.<sup>[10]</sup>
 
 ## References
@@ -7341,7 +7341,7 @@ By the early 1960s most of the virgin-land sovkhozes were specialized in beef. T
 The work force of the cattle sovkhozes was largely Slavic and Korean. Iradi families, who kept horses and sheep on the collective farms, were reluctant to work with cattle, which folk belief associated with ill omen through the tradition of [[Morkhan (Mythology)|Morkhan]], and a saying of the period held that "cattle are for the settlers". Ethnographers see this division of labor as one reason the omen beliefs survived among Iradis while the republic became a beef producer.<sup>[3]</sup>
 
 ## Legacy
-After 1992 the sovkhozes were broken up under the territorial land reform of 1994. Their feed base, irrigated land and experienced herdsmen were among the reasons SuKarne and Conagra chose the Talas valley in the late 1990s, and the [[Sukarne Irad Complex]] was built on the land of a former fattening complex west of Talas. Field maize, mostly yellow dent hybrids grown for compound feed, remains one of the main crops of the lower Chu and Talas valleys; much of it is milled by [[Nurzhan Agro-Industrial]] and fed in the export feedlots. Boiled maize cobs (*jügörü*) are a common street food, and the tortillerías of the Mexican district of Nuevo Talas, unable to obtain white maize locally, made their tortillas from Iradi yellow dent, which gives "Talas tortillas" their color.<sup>[4]</sup>
+After 1992 the sovkhozes were broken up under the territorial land reform of 1994. Their feed base, irrigated land and experienced herdsmen were among the reasons SuKarne and Conagra chose the Talas valley in the late 1990s, and the [[Sukarne Irad Complex]] was built on the land of a former fattening complex west of Talas. Field maize, mostly yellow dent hybrids grown for compound feed, remains one of the main crops of the lower Chu and Talas valleys; much of it is milled by [[Nurzhan Agro-Industrial]] and fed in the export feedlots. Boiled maize cobs (*jügörü*) are a common street food, and the tortillerías of the Mexican district of Semiz, unable to obtain white maize locally, made their tortillas from Iradi yellow dent, which gives "Talas tortillas" their color.<sup>[4]</sup>
 
 The settlements founded in the campaign, many still known by their Soviet names in Russian, remain among the most Russian-speaking communities outside Nurzhan.<sup>[1]</sup>
 

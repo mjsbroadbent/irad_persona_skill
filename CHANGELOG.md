@@ -1,3 +1,8 @@
+# Change log: Nuevo Talas renamed Semiz (2026-10-12)
+Requested by the user: a more realistic name for the Mexican enclave.
+- All volumes and newlore: "Nuevo Talas" -> "Semiz" (13 mentions); first mentions in Talas (Neighborhoods) and Sukarne Irad Complex explain the names Otkormochny, la Colonia and Meksikanka. Herald citation retitled 'Twenty years of la Colonia.'
+- newlore.md: appended "Semiz: the Mexican District of Talas".
+
 # Change log: Communist Party / Labor Party consistency fix (2026-10-12)
 Found while reviewing article titles: the Labor Party article said the interim administration barred the CPI from elections, but the Communist Party of Irad article says it was never banned and simply ceased to function.
 - Irad_Wiki_Vol2_C_Class.md: Labor Party of Irad (Foundation) now matches; Communist Party of Irad (After 1992) names the Labor Party as where former members went.
