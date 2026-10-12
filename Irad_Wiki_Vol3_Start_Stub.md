@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (224 Entries)
+## 5. Start-Class Articles (226 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -528,7 +528,7 @@ In the 1990s the choir recorded chants learned from elderly singers of the cland
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Ecclesiastical Architecture and Manuscripts of Northern Transoxiana</i>, pp. 112–140.</li>
 </ol>
 
-### 5.Category: Culture, Arts & Folklore (42 articles)
+### 5.Category: Culture, Arts & Folklore (44 articles)
 
 #### 39. Irad Palace of Art
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
@@ -828,6 +828,8 @@ Mor-Pop emerged in the mid-2010s, during Mor-Wave's second wave, when a generati
 
 Typical tracks combine synthesizer hooks and drum-machine beats with sampled [[Komuz (Iradi)|komuz]] riffs, and are sung in Iradi with English refrains. Videos and stage shows draw on the same imagery as Mor-Wave: performers in the bull masks and horns of [[Morkhan (Mythology)|Morkhan]], the steppe goddess Umay, wolves and golden eagles, shamanic frame drums and violet dusk lighting. Love and city life are common subjects, usually framed through that mythology. Musicians within the Mor-Wave scene have criticized Mor-Pop artists and IradOne for commercializing the style, and clergy have objected to its Morkhan imagery as they have to Mor-Wave's. The genre has listeners in Kazakhstan and Kyrgyzstan through streaming services.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>
 
+The best-selling act is the girl group [[Karakush (Group)|Karakush]], whose 2021 single "Ak Börü" briefly charted in South Korea. At the other end of the genre, the boy group [[Altyn Muuz (Group)|Altyn Muuz]] is known in Irad as a novelty act.<sup>[3]</sup>
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
@@ -835,7 +837,49 @@ Typical tracks combine synthesizer hooks and drum-machine beats with sampled [[K
 <li id="cite_note-3"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
 </ol>
 
-#### 56. Mor-Folk
+#### 56. Karakush (Group)
+*Quality: Start-Class | Category: Culture, Arts & Folklore*
+
+**Karakush** (stylized KARAKUSH; Iradi *kara kush*, "golden eagle") is a five-member Iradi [[Mor-Pop]] girl group formed in [[Talas]] in 2018 by the agency Kök Ay Media. It is the best-selling Mor-Pop act in Irad and the only one to have promoted in South Korea. Its 2021 single "Ak Börü" ("White Wolf") became a viral hit abroad, but none of its later releases charted outside Irad, and the foreign music press usually describes the group as a one-hit wonder.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+Kök Ay Media assembled the group through open auditions in Talas and [[Nurzhan]] in 2017 and trained its members for a year on the K-pop model. The line-up is Aruuke Temir kyzy (leader, vocals), Dana Pak (lead dancer; from the [[Koryo-saram in Irad|Koryo-saram]] community of Nurzhan), Saltanat Abdrakhmanova (rap), Meerim Sultan kyzy (vocals) and Kamila Nurlanova (vocals). Their debut single, "Umay" (2018), was promoted heavily on [[IradOne]]'s youth channel, and the group won the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2019.<sup>[1]</sup>
+
+"Ak Börü" was released in February 2021. Its video, filmed on a frozen lake in the Talas valley, shows the members in white wolf-fur capes and horned headdresses based on [[Morkhan (Mythology)|Morkhan]], dancing to a slowed, detuned [[Komuz (Iradi)|komuz]] riff. A dance challenge built on its chorus spread on short-video platforms, and the song found an audience among Koryo-saram listeners in Kazakhstan and Uzbekistan and among Korean-American listeners. A Korean-language version was released by a Seoul label in late 2021, and the group spent several weeks promoting in South Korea in early 2022, appearing on cable music programs. The single briefly entered the lower reaches of South Korean digital charts. The group also performed at Korean diaspora festivals in Almaty and Los Angeles.<sup>[2]</sup>
+
+The follow-ups "Morkhan Tünü" ("Morkhan's Night", 2022) and the English-language "Talas Moon" (2023) did not chart abroad, and the Korean contract ended in 2023. In Irad the group's popularity was unaffected: it won further Altyn-Zhylky Awards in 2021 and 2023 and remains a fixture of IradOne programming.<sup>[1]</sup>
+
+## Reception
+Karakush's horned headdresses drew criticism from clergy of the [[Syro-Iradi Catholic Church]], who object to Morkhan imagery in Mor-Wave and Mor-Pop alike. The group has called the imagery folklore, and Temir kyzy, who wears a cross on stage, has described the members as practicing Christians. Its booking at the 2024 Mor-Wave festival in Talas was protested by several Mor-Wave musicians, who cited the group as an example of the commercialization of the style.<sup>[1]</sup><sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). 'Karakush return from Seoul: what "Ak Börü" did and didn't do.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2024). 'Mor-Wave musicians protest festival booking.' Talas.</li>
+</ol>
+
+#### 57. Altyn Muuz (Group)
+*Quality: Start-Class | Category: Culture, Arts & Folklore*
+
+**Altyn Muuz** (Iradi, "golden horn") is a four-member Iradi [[Mor-Pop]] boy group formed in 2019 through *Jyldyz Jolu* ("Star Road"), a talent show on [[IradOne]]'s youth channel. Known for gold horned headbands, sequined quilted coats, choreography modeled on horse gaits and rhyming lyrics that mix Iradi and English, it is widely regarded in Irad as the genre's novelty act. It has never had a following outside the country.<sup>[1]</sup>
+
+## History
+The members are Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, who finished as the top four contestants of *Jyldyz Jolu* and were signed as a group by the show's producers. Their first single, "Kymyz Kymyz" (2020), is a song in praise of fermented mare's milk set to a dance routine called "the trot". It was followed by "Morkhan Baby" (2021) and "Zhylky Love" (2022). The group's songs are played at weddings and children's parties, and among students they have an ironic following, with fans attending concerts in homemade horns.<sup>[1]</sup><sup>[2]</sup>
+
+In 2021 the group performed "Morkhan Baby" on an IradOne Sunday-morning children's program, prompting complaints from clergy of the [[Syro-Iradi Catholic Church]], who associate Morkhan with Satan. Later broadcasts of the episode omitted the song. On a 2022 tour of district towns several venues declined to book the group because of its bull horns, which many rural Iradis regard as a bad omen, and for the rest of the tour it wore golden argali (wild sheep) horns instead. A planned tour of Kazakhstan in 2023 was cancelled after low ticket sales.<sup>[2]</sup>
+
+## Reception
+Critics have generally treated the group as a joke; the *Talas Herald* called "Zhylky Love" the most earnest song ever written about a horse. Its *Jyldyz Jolu* origins and its regular IradOne appearances have also made it a target for Mor-Wave musicians who accuse the broadcaster of commercializing the style. The group was nominated in the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2022 but did not win.<sup>[1]</sup><sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). 'No horns, please: Altyn Muuz on the road.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2022). 'Review: Altyn Muuz, "Zhylky Love".' Talas.</li>
+</ol>
+
+#### 58. Mor-Folk
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 **Mor-Folk** is an acoustic subgenre of [[Mor-Wave]] that sets traditional instruments against melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]].<sup>[1]</sup>
@@ -848,7 +892,7 @@ Mor-Folk ensembles use the [[Komuz (Iradi)|komuz]], the end-blown *[[Choor (Flut
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). Report on the cancelled Iyık Janyl concert, June 2019. Talas.</li>
 </ol>
 
-#### 57. The Epic of Janyl
+#### 59. The Epic of Janyl
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 **The Epic of Janyl** (Iradi: *Janyl Baatyr*, "Janyl the Valiant") is an Iradi oral heroic epic about Janyl, the warrior woman venerated by the [[Syro-Iradi Catholic Church]] as [[Janyl, Mother of Irad|St. Janyl, Mother of Irad]]. Bards (*ırchy*) sing it to the [[Komuz (Iradi)|komuz]]. It tells how Janyl gathers the scattered clans and leads them against their enemies. Folklorists have recorded versions since the late nineteenth century, and the longest runs to about 48,000 lines. Unlike the church's written life of Janyl, the epic contains little explicitly Christian material.<sup>[1]</sup><sup>[2]</sup>
@@ -879,7 +923,7 @@ Folklorists note close parallels with *Janyl Myrza*, a Kyrgyz epic about a warri
 <li id="cite_note-3"><b>^</b> Talas State University Press (2001). <i>Janyl Baatyr: The Complete Text of 1938</i>. Talas.</li>
 </ol>
 
-#### 58. Feast of St. Janyl
+#### 60. Feast of St. Janyl
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **Feast of St. Janyl** (formally the Feast of St. Janyl; Iradi: *Janyl Mairamy*) is the principal feast of the [[Syro-Iradi Catholic Church]], held on August 24 in honor of [[Janyl, Mother of Irad|St. Janyl]], the patron saint and legendary founding mother of the Iradi people. Its center is the [[Church of St. Janyl]] in [[Iyık Janyl]], where pilgrims, many of them on horseback, gather from both the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR). The feast combines the liturgy with the blessing of the herds, the distribution of blessed bread, processions, horse races and communal meals. The pilgrimage season continues into September.<sup>[1]</sup><sup>[2]</sup>
@@ -909,7 +953,7 @@ The archbishopric's attendance estimates in recent years have exceeded 150,000; 
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2023). <i>Humanitarian Access across the Qara-Chik Line: Annual Review</i>. Kara-Oi.</li>
 </ol>
 
-#### 59. Kamcha (Horsewhip)
+#### 61. Kamcha (Horsewhip)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 A **kamcha** (Iradi: *kamcha*) is a short riding whip of braided rawhide with a handle of wood or horn, often decorated with silver. Carrying one marks a rider as an adult, and an ornate kamcha signals the owner's standing.<sup>[1]</sup>
@@ -922,7 +966,7 @@ The lash is usually braided from several thongs of rawhide and ends in a flat le
 <li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
 
-#### 60. At Chabysh (Racing)
+#### 62. At Chabysh (Racing)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 **At chabysh** (Iradi: *at chabysh*, "horse race") is a traditional long-distance horse race over open country, usually between 20 and 50 km. It tests the stamina of the horses rather than their speed over a short course.<sup>[1]</sup>
@@ -935,7 +979,7 @@ Races are held at weddings, memorial feasts, the August Kurultai on the [[Aksay 
 <li id="cite_note-2"><b>^</b> <i>Central Asian Equine Studies</i> (2021). 'Endurance Racing and Horse Welfare in Irad.' Vol. 6, No. 1, pp. 12–27.</li>
 </ol>
 
-#### 61. Tyin Emmei (Mounted Sport)
+#### 63. Tyin Emmei (Mounted Sport)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 **Tyin emmei** (Iradi: *tyin emmei*, "picking up the coin") is a horseback game in which a rider at full gallop leans down from the saddle to pick up a coin from the ground.<sup>[1]</sup>
@@ -947,7 +991,7 @@ The coin, traditionally silver, is wrapped in a piece of cloth so that it can be
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
 </ol>
 
-#### 62. Oodarysh (Mounted Wrestling)
+#### 64. Oodarysh (Mounted Wrestling)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 **Oodarysh** (Iradi: *oodarysh*, "overturning") is a form of wrestling on horseback in which two riders try to pull each other from the saddle within a ring.<sup>[1]</sup>
@@ -959,7 +1003,7 @@ Bouts take place in an earthen ring, and a wrestler wins by unseating his oppone
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
 </ol>
 
-#### 63. Tai-Kazan
+#### 65. Tai-Kazan
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **tai-kazan** (Iradi: *tai kazan*) is the raised circular goal used in [[Ulak Tartysh (Sport)|ulak tartysh]], the team sport in which mounted players compete for a goat or calf carcass.<sup>[1]</sup>
@@ -971,7 +1015,7 @@ Each team defends a tai-kazan at its end of the field. It is a ring-shaped mound
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
 </ol>
 
-#### 64. Choor (Flute)
+#### 66. Choor (Flute)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **choor** (Iradi: *choor*) is an end-blown flute, open at both ends, traditionally played by shepherds.<sup>[1]</sup>
@@ -983,7 +1027,7 @@ It is made from a length of river cane or from wood hollowed out and bound, and 
 <li id="cite_note-1"><b>^</b> Talas State University Press (2010). <i>Instruments of the Iradi Tradition</i>, pp. 71–84.</li>
 </ol>
 
-#### 65. Qatiq
+#### 67. Qatiq
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 **Qatiq** (Iradi: *qatiq*) is a thick fermented milk eaten daily in Iradi households. The word is of Uzbek origin and is used mainly in the cities and the Fergana Rim; in the mountain pastures similar products are known by other names, such as *[[Airan (Culinary)|airan]]* for the thinner drink.<sup>[1]</sup>
@@ -995,7 +1039,7 @@ Qatiq is made by culturing boiled cow's or goat's milk with a spoonful from an e
 <li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 91–118.</li>
 </ol>
 
-#### 66. Kurut
+#### 68. Kurut
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 **Kurut** (Iradi: *kurut*, from Kipchak *kuru*, "dry") is a hard, dried curd of salted sour milk, usually made in small balls. Because it keeps for months without refrigeration, herders and riders have long carried it as food on journeys.<sup>[1]</sup>
@@ -1007,7 +1051,7 @@ Strained sour milk (*suzma*) is salted, rolled by hand into balls or shaped into
 <li id="cite_note-1"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 91–118.</li>
 </ol>
 
-#### 67. Bürkit-Togoo
+#### 69. Bürkit-Togoo
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **bürkit-togoo** (Iradi: *bürküt togoo*) is the heavy leather gauntlet worn by eagle hunters (*berkutchi*) to protect the hand and forearm from the talons of a golden eagle (see [[Burkut Saluu]]).<sup>[1]</sup>
@@ -1019,7 +1063,7 @@ The gauntlet is made of several layers of thick cowhide or goat leather and line
 <li id="cite_note-1"><b>^</b> Talas State University Press (2015). <i>Silver and Leather: The Saddlers of Old Talas</i>, pp. 111–124.</li>
 </ol>
 
-#### 68. Talas Symphony Orchestra
+#### 70. Talas Symphony Orchestra
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **Talas Symphony Orchestra** is a symphony orchestra based in [[Talas]], founded in 1965 as part of the republican philharmonic society of the Iradi SSR.<sup>[1]</sup>
@@ -1032,7 +1076,7 @@ Its repertoire combines the European classical canon with works by Iradi compose
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). 'Fifty years of the Talas Symphony.' Talas.</li>
 </ol>
 
-#### 69. Kok-Terek (Lost Film)
+#### 71. Kok-Terek (Lost Film)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 ***Kok-Terek*** (*The Blue Poplar*) is a 1959 Soviet lyric drama about collectivization, directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]]. It was Sadikov's first feature film. It was distributed only within the Iradi SSR, and no complete copy is known to survive; the film is known from production stills and studio records.<sup>[1]</sup><sup>[2]</sup>
@@ -1045,7 +1089,7 @@ Sadikov shot the film on location in the [[Talas Alatau]] with natural light and
 <li id="cite_note-2"><b>^</b> Talasfilm Archives and Film Preservation Institute (2018). <i>Catalogue of Holdings, 1916–2007</i>. Talas.</li>
 </ol>
 
-#### 70. Tolkun (Lost Film)
+#### 72. Tolkun (Lost Film)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 ***Tolkun*** (*The Wave*) is a 1963 Soviet experimental short film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]]. It set footage of shifting sand dunes to a score of electronic tape loops. Like Sadikov's first feature, *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959), it was shown only within the Iradi SSR and is now lost. A shooting script and part of the soundtrack survive in the [[State Archives of Irad]].<sup>[1]</sup><sup>[2]</sup>
@@ -1058,7 +1102,7 @@ The film had no dialogue or narration. Its tape-loop score, assembled at the stu
 <li id="cite_note-2"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
 </ol>
 
-#### 71. The Hunter's Vigil
+#### 73. The Hunter's Vigil
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 ***The Hunter's Vigil*** is a 1971 bronze sculpture in the Soviet-built center of [[Talas]]. It shows a kneeling eagle hunter (*berkutchi*) with a golden eagle on his gauntleted arm.<sup>[1]</sup>
@@ -1071,7 +1115,7 @@ The statue, about four meters high on a granite plinth, stands at the entrance t
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Fifty years of the Hunter's Vigil.' Talas.</li>
 </ol>
 
-#### 72. Sakal-Akesi
+#### 74. Sakal-Akesi
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **sakal-akesi** (Iradi: *sakal akesi*) is a formal spoken blessing pronounced by the eldest man of a clan or family before feasts, communal hunts and long journeys. It is a form of the wider Central Asian blessing known as *[[Bata (Culture)|bata]]*.<sup>[1]</sup>
@@ -1083,7 +1127,7 @@ The elder speaks in rhythmic, often rhyming lines while those present hold their
 <li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
 
-#### 73. Irad State Hippodrome
+#### 75. Irad State Hippodrome
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **Irad State Hippodrome** is the main equestrian stadium of Irad, located in [[Talas]]. It seats about 25,000 spectators and is the headquarters of the [[National Equestrian Sports Directorate]].<sup>[1]</sup>
@@ -1096,7 +1140,7 @@ Known in the Soviet period as the Central Hippodrome, it was the main venue of t
 <li id="cite_note-2"><b>^</b> Talas State University Press (2013). <i>Monuments of Talas: A Guide</i>, pp. 40–43.</li>
 </ol>
 
-#### 74. Altyn-Zhylky Awards
+#### 76. Altyn-Zhylky Awards
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **Altyn-Zhylky Awards** (Iradi: *Altyn Zhylky*, "golden horse") are annual Iradi awards for film, music and literature, presented at a ceremony in [[Talas]] each December.<sup>[1]</sup>
@@ -1108,7 +1152,7 @@ The awards were established in 1996, during the territorial period. Winners rece
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2016). 'Twenty years of the Golden Horse.' Talas.</li>
 </ol>
 
-#### 75. The Black Blizzard of 1916 (Poem)
+#### 77. The Black Blizzard of 1916 (Poem)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 ***The Black Blizzard of 1916*** (Iradi: *Kara Boran*, "black blizzard") is an Iradi narrative poem by the bard Asanaly about [[The Lost Tribes of 1916]], the clans that disappeared in the mountains in the winter of 1916–17 after the [[Semirechye Revolt (Irad)|Semirechye Revolt]]. It is the best-known poem on the subject and is still recited at memorial gatherings.<sup>[1]</sup>
@@ -1121,7 +1165,7 @@ The poem is composed in the alliterative verse of Iradi oral poetry and draws on
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Blood on the Snow: The Iradi Clans in the Revolt of 1916</i>. Centenary volume, Talas, pp. 201–236.</li>
 </ol>
 
-#### 76. Kambarkan
+#### 78. Kambarkan
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 ***Kambarkan*** is a traditional instrumental piece (*küü*) for the [[Komuz (Iradi)|komuz]], named after Kambar, the legendary hunter credited in folklore with inventing the instrument.<sup>[1]</sup>
@@ -1133,7 +1177,7 @@ The piece combines rapid finger-picking with sweeping strummed passages and is r
 <li id="cite_note-1"><b>^</b> Talas State University Press (2010). <i>Instruments of the Iradi Tradition</i>, pp. 14–52.</li>
 </ol>
 
-#### 77. Diz Film Festival
+#### 79. Diz Film Festival
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **Diz Film Festival** is an annual festival of independent cinema held each summer in the [[Old Talas Citadel Quarter]] of [[Talas]]. Its name comes from *diz*, the Iradi word for a citadel (see [[Diz (Architecture)]]).<sup>[1]</sup>
@@ -1145,7 +1189,7 @@ The festival was founded in 2010 by young Iradi filmmakers and critics. Films ar
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2020). 'Ten summers of the Diz festival.' Talas.</li>
 </ol>
 
-#### 78. Koshkar Muyuz
+#### 80. Koshkar Muyuz
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **koshkar muyuz** (Iradi: *koshkar müyüz*, "ram's horn") is a curling ornamental motif based on the horns of a ram, the most common pattern in Iradi decorative art. Related forms are found throughout the Turkic and Mongol world.<sup>[1]</sup>
@@ -1157,7 +1201,7 @@ The motif is a double spiral, used singly, in pairs or in continuous borders. It
 <li id="cite_note-1"><b>^</b> Talas State University Press (2020). <i>Wool and Women's Work in the Autonomous Tribal Regions</i>, pp. 12–39.</li>
 </ol>
 
-#### 79. The Star of Irad (Symbol)
+#### 81. The Star of Irad (Symbol)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 The **Star of Irad** (Iradi: *Irad zhulduzu*) is the emblem of Polaris, the North Star, which in traditional Iradi cosmology is called *Irad* and gives the country its name. It has two standard forms. The eight-pointed star is the ecclesiastical and liturgical form, used by the [[Syro-Iradi Catholic Church]] on banners, vestments and the seals that stamp its Eucharistic bread. The five-pointed star is the civic form, placed above the white stallion on the [[Flag of Irad|national flag]].<sup>[1]</sup><sup>[2]</sup>
@@ -1181,7 +1225,7 @@ The star is common in commercial logos, poetry and popular music. The title of t
 <li id="cite_note-3"><b>^</b> Talas State University Press (2016). <i>Leaven and Ember: Eucharistic Bread in the Syro-Iradi Tradition</i>, pp. 15–49.</li>
 </ol>
 
-#### 80. Iradi Country-Folk
+#### 82. Iradi Country-Folk
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
 **Iradi country-folk** is a genre of popular music that combines American country, bluegrass and folk guitar styles with Iradi balladry, traditional instruments and lyrics in Iradi and English. It grew out of two sources: the American Cold War-era songs about Irad that circulated in Soviet Irad in the 1980s on smuggled cassettes and Voice of America broadcasts, and the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*.<sup>[1]</sup><sup>[2]</sup>
@@ -1202,7 +1246,7 @@ Bands typically combine acoustic guitar, banjo and sometimes fiddle with the bow
 
 ### 5.Category: Economy & Agriculture (1 article)
 
-#### 81. Kara-Bulak Grain Logistics Depot
+#### 83. Kara-Bulak Grain Logistics Depot
 *Quality: Start-Class | Category: Economy & Agriculture*
 
 The **Kara-Bulak Grain Logistics Depot** (also called the **Kara-Bulak Grain Elevators**) is a grain storage, drying and rail-loading complex at [[Kara-Bulak]], a market town in the Talas District of the [[Irad Special Economic Zone]] (ISEZ). It receives wheat, barley and some maize from farms in the middle and lower [[Talas River|Talas]] valley and ships grain by rail to mills in [[Nurzhan]] and to buyers in Kazakhstan.<sup>[1]</sup>
@@ -1223,7 +1267,7 @@ Farmers' groups have complained that NAI's control of the depot and of other sto
 
 ### 5.Category: Economy & Infrastructure (38 articles)
 
-#### 82. Nurzhan Refinery No. 1
+#### 84. Nurzhan Refinery No. 1
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 **Nurzhan Refinery No. 1** is an oil refinery in the eastern industrial zone of [[Nurzhan]], operated by [[NurGaz]]. It is the oldest refinery in Irad and produces most of the motor fuel, heating oil and jet fuel used in the [[Irad Special Economic Zone]] (ISEZ). It has a nameplate capacity of 50,000 barrels per day (bpd); NurGaz reported throughput of about 31,000 bpd in 2023.<sup>[1]</sup>
@@ -1245,7 +1289,7 @@ The gap between nameplate capacity and actual throughput reflects the age of the
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Counting Barrels: Iradi Oil Output and the Northern Export Feeder.' Vol. 28, pp. 101–122.</li>
 </ol>
 
-#### 83. Chu Irrigation Canal System
+#### 85. Chu Irrigation Canal System
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Chu Irrigation Canal System** is the network of irrigation canals in the lower [[Chu River Basin]], in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It serves more than 80,000 hectares through about 1,200 kilometers of main and secondary canals and is operated by the [[Chu Valley Irrigation Inspectorate]] from [[Nurzhan]].<sup>[1]</sup>
@@ -1258,7 +1302,7 @@ Most of the network was built between the 1930s and the 1970s to irrigate collec
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
 </ol>
 
-#### 84. Talas Central Cattle Mart
+#### 86. Talas Central Cattle Mart
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Talas Central Cattle Mart** (Iradi: *Talas mal bazary*) is the main livestock market of the Talas valley, on the western edge of [[Talas]] near the [[Talas Agribusiness Export Zone]]. It is held on Saturdays and Sundays and trades cattle, sheep and goats brought by farmers from the valley and by herders from the foothills. Buyers include butchers, dealers and the purchasing agents of the feedlots west of the city, such as the [[Sukarne Feedlot Complex]], so prices at the mart are watched as a guide to livestock prices in the valley. Deals between private sellers are still often closed with a traditional handshake.<sup>[1]</sup> Horses are traded in a separate section; the sale of horses for slaughter has been illegal since 1996 (see [[Iradi Horsemeat Taboo]]).
@@ -1268,7 +1312,7 @@ The **Talas Central Cattle Mart** (Iradi: *Talas mal bazary*) is the main livest
 <li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2022). <i>Livestock Markets and Prices in the Talas Valley</i>. Talas.</li>
 </ol>
 
-#### 85. Chatkal Antimony Processing Mill
+#### 87. Chatkal Antimony Processing Mill
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Chatkal Antimony Processing Mill** is the ore-dressing plant of the [[Chatkal Chemical Smelting Complex]] in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), about 30 kilometers south-west of [[Talas]]. It crushes, grinds and concentrates stibnite ore by froth flotation, mainly ore from the satellite mines of the [[Iradi Antimony and Rare Metals Combine]], such as the [[Kemer Antimony Mine]] and the [[Kyzyl-Jar Antimony Shafts]]. The concentrate goes directly to the neighboring smelter, which turns it into antimony metal and antimony trioxide. Ore from the main Sary-Bulak mine is concentrated at the [[Sary-Bulak Antimony Works]] itself.<sup>[1]</sup>
@@ -1281,7 +1325,7 @@ The mill was commissioned with the smelter in 1964 and was enlarged under the [[
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
 </ol>
 
-#### 86. State Stud Farm of Talas
+#### 88. State Stud Farm of Talas
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **State Stud Farm of Talas** is a government horse-breeding farm in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers east of [[Talas]]. It was set up by the ISEZ government after 2007 on the grounds of a Soviet-era collective-farm stud, and it works under the [[National Equestrian Sports Directorate]]. It keeps breeding stallions and mares of the [[Akyel Horse|Akyel]] breed and a smaller herd of [[Chongtor Horse|Chongtor]] horses, and it holds annual auctions of young horses of both breeds.<sup>[1]</sup> Governor [[Erlan Toktarov]] has been its best-known patron. Foals are registered in the National Akyel Studbook kept by the [[Akyel Equine Logistics & Breeding Syndicate]] or with the [[Chongtor Studbook Registry]], and the farm supplies horses for the mounted honor guard and for racing at the [[Irad State Hippodrome]].<sup>[1]</sup><sup>[2]</sup>
@@ -1292,7 +1336,7 @@ The **State Stud Farm of Talas** is a government horse-breeding farm in the Tala
 <li id="cite_note-2"><b>^</b> <i>Central Asian Equine Studies</i> (2020). 'Breeding for the State: Horses and Patronage in the ISEZ.' Vol. 5, No. 2, pp. 40–58.</li>
 </ol>
 
-#### 87. Kara-Suu Hydroelectric Station
+#### 89. Kara-Suu Hydroelectric Station
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Kara-Suu Hydroelectric Station** is a small run-of-river hydroelectric plant on the Kara-Suu River in the lower [[Kara-Suu Canyon]], in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It has an installed capacity of about 18 MW in two units. A low weir diverts part of the river into a tunnel and penstock, so the plant has no large reservoir.<sup>[1]</sup>
@@ -1305,7 +1349,7 @@ The station was built in the early 1960s to supply the new antimony mine at Sary
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
-#### 88. Conagra Talas Beef Facility
+#### 90. Conagra Talas Beef Facility
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Conagra Talas Beef Facility** is a beef-packing and cold-storage plant in the [[Talas Agribusiness Export Zone]] on the western edge of [[Talas]], operated by the US food company Conagra. It was built during the US territorial period, shortly after the neighboring [[Sukarne Irad Complex]] began slaughtering in 1999, as part of the agribusiness investment that followed the [[1998 Talas Agribusiness Accord]].<sup>[1]</sup> The plant produces chilled and frozen beef cuts and minced beef, which are sold in the ISEZ and exported to markets in Central Asia. Conagra has trained Iradi ranchers in Nebraska and has worked with local farmers and KFC Irad on poultry supply.<sup>[2]</sup>
@@ -1316,7 +1360,7 @@ The **Conagra Talas Beef Facility** is a beef-packing and cold-storage plant in 
 <li id="cite_note-2"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>Commercial Livestock Production in the Talas Valley</i>. Talas.</li>
 </ol>
 
-#### 89. Xinjiang Lihua Ginning Mill No. 3
+#### 91. Xinjiang Lihua Ginning Mill No. 3
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 **Xinjiang Lihua Ginning Mill No. 3** is a cotton gin in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), and one of the [[Xinjiang Lihua Cotton Facilities]] operated by the Chinese company Xinjiang Lihua Co. with Iradi partners. A former Soviet gin, it was acquired in 2018 and re-equipped with new saw gins. It processes seed cotton bought from farms in the lower Chu and Talas basins and presses the lint into bales of about 220 kilograms, which go to the company's spinning complex near [[Nurzhan]] or by rail through Kazakhstan to mills in Xinjiang. The seed goes to the company's oilseed plant.<sup>[1]</sup>
@@ -1326,7 +1370,7 @@ The **Conagra Talas Beef Facility** is a beef-packing and cold-storage plant in 
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
 </ol>
 
-#### 90. Attelkom Fiber Backbone
+#### 92. Attelkom Fiber Backbone
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Attelkom Fiber Backbone** is the main fiber-optic trunk network of [[Attelkom]], the largest telecommunications company in the [[Irad Special Economic Zone]] (ISEZ). It consists of about 1,800 kilometers of cable buried along road and rail rights-of-way, linking [[Talas]], [[Nurzhan]], [[Iyık Janyl]], Tash-Kömür and the northern border crossings, with two international routes into Kazakhstan and one into Uzbekistan.<sup>[1]</sup>
@@ -1339,7 +1383,7 @@ The first sections were laid in the late 1990s between Talas, [[Talas Air Base]]
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Backhoe in Kazakhstan cuts Irad off for nine hours.' Talas.</li>
 </ol>
 
-#### 91. Trans-Talas Highway
+#### 93. Trans-Talas Highway
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Trans-Talas Highway** is the main road of the [[Talas River|Talas]] valley. It runs for about 230 kilometers from the Kazakh border crossing in Kara-Buura District through [[Kyzyl-Adyr]] and [[Talas]], and then east up the valley toward the Otmek Pass. Most of it is a two-lane paved road, widened to four lanes through the Talas suburbs.<sup>[1]</sup>
@@ -1352,7 +1396,7 @@ The road follows the course of the medieval route up the valley. It was rebuilt 
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
 </ol>
 
-#### 92. Nurzhan Petroleum Pipeline
+#### 94. Nurzhan Petroleum Pipeline
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Nurzhan Petroleum Pipeline** is the crude oil trunk line that links the oil fields of the lower [[Chu River Basin]] with [[Nurzhan]], where it delivers crude to [[Nurzhan Refinery No. 1]] and to the [[NurGaz]] tank farm outside the city. The tank farm is the head of the Northern Export Feeder, the 85-kilometer pipeline that carries Iradi crude for export into the KazTransOil network near Shymkent. Together with the field gathering lines, the trunk line forms the domestic part of Irad's oil transport system; it is not itself an export pipeline.<sup>[1]</sup>
@@ -1372,7 +1416,7 @@ Iradi crude does not enter the Caspian Pipeline Consortium system, which begins 
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Pipelines, Water and Recognition: Irad's Northern Transit.' Vol. 27, No. 2, pp. 64–88.</li>
 </ol>
 
-#### 93. Aksay Alpine Ranching Cooperative
+#### 95. Aksay Alpine Ranching Cooperative
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the [[Aksay Plateau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Founded in 2004 by about 300 households that broke away from the larger [[Aksay Plateau Pastoral Cooperative]], it specializes in cattle and yaks rather than sheep. Its members drive their herds onto the plateau's summer pastures from June to September and sell live cattle, hides and butter to buyers from the [[Irad Special Economic Zone]] at the end of the season. Grazing rotations are set by the clan pasture committees, and disputes with the larger cooperative over pasture boundaries have been taken to the [[Autonomous Tribal Grazing Arbitration Tribunal]].<sup>[1]</sup><sup>[2]</sup>
@@ -1383,7 +1427,7 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 <li id="cite_note-2"><b>^</b> Talas State University Press (2019). <i>Herding Cooperatives of the Tribal Regions after 1991</i>. Talas.</li>
 </ol>
 
-#### 94. Sukarne Feedlot Complex
+#### 96. Sukarne Feedlot Complex
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Sukarne Feedlot Complex** is the cattle feedlot of the [[Sukarne Irad Complex]], operated by the Mexican meat company SuKarne in the western industrial corridor of [[Talas]]. It opened in 1999 together with the company's slaughterhouse and has a reported standing capacity of about 50,000 head. Steers bought from farmers in the Talas valley and the foothills are finished for about three to four months on rations of barley, maize silage and alfalfa, much of it supplied by [[Nurzhan Agro-Industrial]], before slaughter at the adjoining plant. Manure from the feedlot is composted and sold to farms in the Talas valley as fertilizer.<sup>[1]</sup>
@@ -1393,7 +1437,7 @@ The **Sukarne Feedlot Complex** is the cattle feedlot of the [[Sukarne Irad Comp
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Food Processing and Agribusiness</i>. Talas.</li>
 </ol>
 
-#### 95. Kemer Antimony Mine
+#### 97. Kemer Antimony Mine
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Kemer Antimony Mine** is an underground stibnite mine in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the [[Talas Alatau]] foothills south-west of Talas, facing the Chatkal range, about 12 kilometers west of the main Sary-Bulak mine. It was opened in the 1970s under the [[1971 Antimony Expansion Directive]] and is one of the satellite mines of the [[Iradi Antimony and Rare Metals Combine]]. Ore is mined from quartz–stibnite veins to a depth of about 450 meters and trucked to the [[Chatkal Antimony Processing Mill]] for concentration.<sup>[1]</sup> Its veins are lower in grade than those of Sary-Bulak, and the mine was idle from 1992 to 1997 before reopening when Chinese demand for concentrate revived.<sup>[2]</sup> (See [[Antimony Mining in Irad]].)
@@ -1404,7 +1448,7 @@ The **Kemer Antimony Mine** is an underground stibnite mine in the Sary-Bulak Di
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
 </ol>
 
-#### 97. Chongtor Horse Breeding Guild
+#### 99. Chongtor Horse Breeding Guild
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Chongtor Horse Breeding Guild** (Iradi: *Chongtor zhylkychylar birlikteshtigi*) is an association of breeders of the [[Chongtor Horse]], the mountain horse of the [[Talas Alatau]] and Chatkal ranges. Its members are mostly herding families of the [[Autonomous Tribal Regions]], with a smaller number of breeders in the Talas valley. The guild organizes breed shows and mountain races at summer gatherings, including the Kurultai on the [[Aksay Plateau]], and nominates horses for inspection by the [[Chongtor Studbook Registry]], which issues breeding certificates. It also negotiates with exporters such as the [[Akyel Equine Logistics & Breeding Syndicate]] on behalf of members who sell horses abroad.<sup>[1]</sup>
@@ -1414,7 +1458,7 @@ The **Chongtor Horse Breeding Guild** (Iradi: *Chongtor zhylkychylar birliktesht
 <li id="cite_note-1"><b>^</b> Chongtor Studbook Registry (2021). <i>Breed Standard and Inspection Rules</i>. Talas.</li>
 </ol>
 
-#### 98. Talas Municipal Cold Storage
+#### 100. Talas Municipal Cold Storage
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Talas Municipal Cold Storage** is a city-owned refrigerated warehouse in the northern industrial district of [[Talas]]. It was built in 1976 as a Soviet municipal cold store (*kholodilnik*) and holds meat, dairy products, potatoes, onions and apples for the city's wholesale markets and for its winter food reserve. Space is rented to market traders and to retail chains. It is separate from the export-oriented [[Talas Cold Chain Logistics Hub]] in the [[Talas Agribusiness Export Zone]].<sup>[1]</sup>
@@ -1424,7 +1468,7 @@ The **Talas Municipal Cold Storage** is a city-owned refrigerated warehouse in t
 <li id="cite_note-1"><b>^</b> City of Talas (2021). <i>Municipal Enterprises Register</i>. Talas.</li>
 </ol>
 
-#### 99. Nurzhan Heavy Machine Plant
+#### 101. Nurzhan Heavy Machine Plant
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Nurzhan Heavy Machine Plant** (formerly the Kobozev Heavy Machine Plant) is an engineering works in [[Nurzhan]]. Founded in the early years of the planned capital, it first made tractor parts and agricultural machinery, and it was enlarged with equipment from factories evacuated from European Russia after 1941. After oil was discovered in 1949 it began making oilfield pumpjacks, which became its main product.<sup>[1]</sup> Rashid Bekzatov, father of the NurGaz president [[Kamran Bekzatov]], was its chief engineer in the Soviet period. The plant's workforce shrank sharply after 1991. Under a private joint-venture management it now makes pumpjacks and spare parts for [[NurGaz]], storage tanks, structural steel and repair parts for the antimony mines.<sup>[2]</sup>
@@ -1435,7 +1479,7 @@ The **Nurzhan Heavy Machine Plant** (formerly the Kobozev Heavy Machine Plant) i
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
 </ol>
 
-#### 100. Muyunkum Natural Gas Field
+#### 102. Muyunkum Natural Gas Field
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Muyunkum Natural Gas Field** is a natural gas field beneath the north-eastern Moiynkum (Muyunkum) sands, near the lower Chu, in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR). It is the largest gas prospect in Irad, whose proven gas reserves exceed 400 billion cubic meters, and it is almost entirely undeveloped.<sup>[1]</sup>
@@ -1453,7 +1497,7 @@ The field lies on clan land of the Northern Steppe, where the clan assemblies ha
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2020). <i>Resource Arrangements across the Qara-Chik Line</i>. Kara-Oi.</li>
 </ol>
 
-#### 101. Suusamyr Wool Washing Mill
+#### 103. Suusamyr Wool Washing Mill
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Susamyr Wool Washing Mill** is a cooperative wool-scouring plant in the [[Suusamyr]] valley (also spelled Susamyr), in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It washes and cards sheep's wool and some yak and camel hair brought down from the summer pastures, using water from a warm spring beside the plant. Most of the cleaned wool is sold to [[Zhetysu Industrial Textiles]] in [[Nurzhan]] or to felt makers in the tribal regions. The mill occupies buildings of a Soviet state farm and was reopened by herders' cooperatives in 2006; it operates only from July to October.<sup>[1]</sup>
@@ -1463,7 +1507,7 @@ The **Susamyr Wool Washing Mill** is a cooperative wool-scouring plant in the [[
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2021). <i>Pastoral Livelihoods in the Talas Alatau Zone</i>. Kara-Oi.</li>
 </ol>
 
-#### 102. Talas Solar Park
+#### 104. Talas Solar Park
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Talas Solar Park** (also called the **Boz-Tektir Solar Park**) is a 50-megawatt photovoltaic power station on the [[Boz-Tektir]] terrace above the middle [[Talas River|Talas]] valley, in the Talas District of the [[Irad Special Economic Zone]] (ISEZ). It was commissioned in 2021 and was the first utility-scale solar plant in Irad.<sup>[1]</sup>
@@ -1476,7 +1520,7 @@ The plant covers about 120 hectares of dry steppe and uses single-axis tracking 
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). 'Solar park opens on Boz-Tektir.' Talas.</li>
 </ol>
 
-#### 104. Alikhan Media Center
+#### 106. Alikhan Media Center
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Alikhan Media Center** is the headquarters and main production center of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), in downtown [[Talas]]. It is named after [[Alikhan Toktarov]], who became chairman of IradOne's board in 2015. IradOne moved its studios and offices into the building in 2017. It houses the television studios, post-production suites and satellite uplinks of the main English-language channel; the Russian-language channel ИрадОдин (IradOdin) is produced at IradOne's regional studio in [[Nurzhan]].<sup>[1]</sup> Critics in the opposition press have questioned the cost of the building and the naming of a state facility after the governor's son.<sup>[2]</sup>
@@ -1487,7 +1531,7 @@ The **Alikhan Media Center** is the headquarters and main production center of [
 <li id="cite_note-2"><b>^</b> <i>Irad Times</i> (2017). 'A new home for IradOne, and a new name on the door.' Talas.</li>
 </ol>
 
-#### 105. Chatkal Tailings Repository
+#### 107. Chatkal Tailings Repository
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Chatkal Tailings Repository** is a tailings dam in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ) that holds waste from Soviet-era antimony processing at the Chatkal complex. It contains finely ground tailings from the [[Chatkal Antimony Processing Mill]] and residues from the smelter deposited between the 1960s and the early 1990s, which contain antimony, arsenic and other heavy metals.<sup>[1]</sup> Responsibility for the dam is shared between the ISEZ government and the [[Iradi Antimony and Rare Metals Combine]]. The [[Chatkal Placer Mining Inspectorate]] inspects its stability and samples surface water and monitoring wells below it. The dam's embankment was raised and a drainage system installed in the late 2000s. Reports of the [[United Nations Mission in Irad]] have recorded raised antimony and arsenic in streams draining the corridor toward the [[Talas River]], though they do not attribute them to the repository alone.<sup>[2]</sup>
@@ -1498,7 +1542,7 @@ The **Chatkal Tailings Repository** is a tailings dam in the Sary-Bulak District
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
 </ol>
 
-#### 106. Talas Airport Logistics Hub
+#### 108. Talas Airport Logistics Hub
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Talas Airport Logistics Hub** is a bonded air cargo terminal on the civil aprons beside [[Talas Air Base]], whose runway is shared by military and civil traffic. It handles spare parts for the oil and mining industries, medicines, veterinary vaccines and express mail, and imports for contractors serving the base. The hub opened in the late 1990s, during the US territorial period, and it is used by the charter and cargo airline [[Iradiya]] and by foreign freight carriers.<sup>[1]</sup><sup>[2]</sup>
@@ -1509,7 +1553,7 @@ The **Talas Airport Logistics Hub** is a bonded air cargo terminal on the civil 
 <li id="cite_note-2"><b>^</b> Iradiya (2022). <i>Company Profile</i>. Talas.</li>
 </ol>
 
-#### 107. Akyel Breeding Sanctuary
+#### 109. Akyel Breeding Sanctuary
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Akyel Breeding Sanctuary** is a fenced breeding estate for [[Akyel Horse|Akyel]] horses in the foothills of the [[Talas Alatau]], founded by Governor [[Erlan Toktarov]] after he took office in 2007. Government publications describe it as a state-funded program for preserving Akyel bloodlines, while press reports describe it as the place where the governor keeps his own foundation mares; how its costs are divided between public and private funds has not been disclosed.<sup>[1]</sup><sup>[2]</sup> The estate has paddocks, irrigated clover pastures and a veterinary clinic, and it is closed to the public. Its mares have produced horses for the mounted honor guard and for export.<sup>[1]</sup>
@@ -1520,7 +1564,7 @@ The **Akyel Breeding Sanctuary** is a fenced breeding estate for [[Akyel Horse|A
 <li id="cite_note-2"><b>^</b> <i>Central Asian Equine Studies</i> (2020). 'Breeding for the State: Horses and Patronage in the ISEZ.' Vol. 5, No. 2, pp. 40–58.</li>
 </ol>
 
-#### 108. Nurzhan Gas Compressor Station
+#### 110. Nurzhan Gas Compressor Station
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Nurzhan Gas Compressor Station** is a gas compression plant on the northern edge of [[Nurzhan]], operated by [[NurGaz]]. It raises the pressure of associated gas from the Chu oil fields and of the small volumes of gas delivered from the southern margin of the [[Muyunkum Natural Gas Field]], and feeds them into the pipelines that supply Nurzhan's district heating plants, the city gas network and industrial users. It has three gas-turbine-driven compressors. The station was built in the 1970s and refurbished in 2012. It does not handle export gas: Irad exports no natural gas.<sup>[1]</sup>
@@ -1530,7 +1574,7 @@ The **Nurzhan Gas Compressor Station** is a gas compression plant on the norther
 <li id="cite_note-1"><b>^</b> NurGaz (2024). <i>Annual Review 2023: Upstream Operations and Export Volumes</i>. Nurzhan.</li>
 </ol>
 
-#### 109. Besh-Tash Timber Concession
+#### 111. Besh-Tash Timber Concession
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Besh-Tash Timber Concession** is a forestry lease in the lower Besh-Tash valley on the northern slopes of the [[Talas Alatau]], about 20 kilometers south of [[Talas]], in the part of the valley administered by the [[Irad Special Economic Zone]] (ISEZ). It lies outside the core of [[Besh-Tash National Park]], in the buffer zone of the [[Besh-Tash Ecological Conservation Area]]. The concession permits limited thinning and sanitary felling of Tian Shan spruce and the collection of dead juniper (*arsha*), mainly for local building timber, fence posts and fuel; felling of living juniper is banned.<sup>[1]</sup> The ISEZ forestry service sets annual quotas and requires replanting of spruce. Conservation groups have reported illegal cutting near the concession boundary, and the upper valley, on the tribal side of the [[Qara-Chik Demarcation Line]], is outside the concession.<sup>[2]</sup>
@@ -1541,7 +1585,7 @@ The **Besh-Tash Timber Concession** is a forestry lease in the lower Besh-Tash v
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Stumps in the buffer zone.' Talas.</li>
 </ol>
 
-#### 110. Iradi Leatherworks Factory
+#### 112. Iradi Leatherworks Factory
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Iradi Leatherworks Factory** is a leather goods manufacturer in [[Talas]]. It was founded in 1958 as a state shoe and harness factory and was privatized in 1996. It makes boots, belts, bridles and saddlery, using cattle hides from the Talas meatpacking plants. Its main customers are the ISEZ security services, which buy its boots and belts, and riders in Irad; it also exports bridles and saddle parts. Cutting is mechanized, while bridles and saddles are finished by hand.<sup>[1]</sup>
@@ -1551,7 +1595,7 @@ The **Iradi Leatherworks Factory** is a leather goods manufacturer in [[Talas]].
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
 </ol>
 
-#### 111. Kara-Suu Gold Prospecting Area
+#### 113. Kara-Suu Gold Prospecting Area
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Kara-Suu Gold Prospecting Area** is a stretch of the upper Kara-Suu River, above the [[Kara-Suu Canyon]], where artisanal miners pan for placer gold. It lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Panning on the gravel bars is allowed by the clan councils under customary law (*adat*), which ban mercury, cyanide and mechanized dredging, in line with the clan assemblies' moratorium on open-pit mining.<sup>[1]</sup> In 2003, during the territorial period, herders petitioned the [[Territorial Legislature of Irad]] against a commercial gold license on the river, which was not developed.<sup>[2]</sup> The [[Chatkal Placer Mining Inspectorate]] exchanges water-quality data on the river with tribal monitors through UN liaison channels.
@@ -1562,7 +1606,7 @@ The **Kara-Suu Gold Prospecting Area** is a stretch of the upper Kara-Suu River,
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (May 14, 2003). 'Herders Petition Legislature over Kara-Suu Gold License.' Talas.</li>
 </ol>
 
-#### 112. Transoxiana Microfinance Fund
+#### 114. Transoxiana Microfinance Fund
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Transoxiana Microfinance Fund** is a non-profit microcredit lender based in [[Talas]] that makes small loans to farmers and rural businesses in the [[Irad Special Economic Zone]] (ISEZ). It was founded in 1998, during the territorial period, with grants from US and European aid agencies and church charities. Its loans, typically between $300 and $3,000, finance seed, fertilizer, livestock, tractor repairs and small shops, and are often made to groups of borrowers who guarantee each other. Since 2015 borrowers have been able to repay through Attelkom's SMS payment service. Its name reflects the common use of "northern Transoxiana" as a name for Irad.<sup>[1]</sup><sup>[2]</sup>
@@ -1573,7 +1617,7 @@ The **Transoxiana Microfinance Fund** is a non-profit microcredit lender based i
 <li id="cite_note-2"><b>^</b> World Bank (2019). <i>Access to Finance in Rural Central Asia</i>. Washington, DC.</li>
 </ol>
 
-#### 113. Talas Municipal Water Treatment Works
+#### 115. Talas Municipal Water Treatment Works
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Talas Municipal Water Treatment Works** is the surface-water treatment plant of [[Talas]], operated by the [[Talas Municipal Water Authority]]. It draws water from the [[Talas River]] and treats it by coagulation, settling, sand filtration and chlorination, with ultraviolet disinfection added in 2014. Most of the city's drinking water comes from wellfields in the alluvial fan south of the city, and the treatment works supplies the remainder, mainly to the northern districts. It was built in 1972 and enlarged in 2003 with territorial-era funding.<sup>[1]</sup> Part of its electricity comes from the [[Talas Solar Park]].
@@ -1583,7 +1627,7 @@ The **Talas Municipal Water Treatment Works** is the surface-water treatment pla
 <li id="cite_note-1"><b>^</b> Talas Municipal Water Authority (2023). <i>Annual Report 2022</i>. Talas.</li>
 </ol>
 
-#### 114. Kyzyl-Jar Antimony Shafts
+#### 116. Kyzyl-Jar Antimony Shafts
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 {{Hatnote|For the sandstone badlands on the Kyzylkum fringe, see [[Kyzyl-Jar]].}}
@@ -1595,7 +1639,7 @@ The **Kyzyl-Jar Antimony Shafts** are a group of small underground antimony work
 <li id="cite_note-1"><b>^</b> Iradi Antimony and Rare Metals Combine (2024). <i>Annual Report 2023</i>. Talas.</li>
 </ol>
 
-#### 115. East Tian Shan Mineral Survey
+#### 117. East Tian Shan Mineral Survey
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **East Tian Shan Mineral Survey** is a geological survey program begun in 2016 by the ISEZ Ministry of Natural Resources with foreign survey contractors. It has flown airborne magnetic and radiometric surveys and analyzed satellite imagery over the mountain areas of Irad, including the [[Talas Alatau]] and Chatkal ranges. Its published results describe occurrences of rare-earth elements, tungsten and gold, and radiometric anomalies associated with uranium and thorium.<sup>[1]</sup> Most of the surveyed ground lies in the [[Autonomous Tribal Regions]], where the clan assemblies maintain a moratorium on open-pit mining and on uranium and thorium extraction, and the [[Iradi Freedom Society]] has said that the surveys were flown without tribal consent. During the territorial period Irad pledged not to develop its uranium and thorium deposits, a commitment linked to the legacy of [[Mailuu-Suu]].<sup>[2]</sup> The program's name follows a Soviet-era usage; the ranges it covers are part of the western Tian Shan.
@@ -1606,7 +1650,7 @@ The **East Tian Shan Mineral Survey** is a geological survey program begun in 20
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Minerals under Moratorium: Survey Politics in the Tribal Regions.' Vol. 27, pp. 88–104.</li>
 </ol>
 
-#### 116. Nurzhan Asphalt and Bitumen Plant
+#### 118. Nurzhan Asphalt and Bitumen Plant
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Nurzhan Asphalt and Bitumen Plant** is a plant in the eastern industrial zone of [[Nurzhan]], next to [[Nurzhan Refinery No. 1]], that makes road bitumen from the refinery's heavy residues. Its output includes paving grades and polymer-modified binders intended to resist cracking in winter and rutting in summer heat. Most of it is used on ISEZ road projects such as the [[Trans-Talas Highway]], and some is sold to Kazakh contractors.<sup>[1]</sup>
@@ -1616,7 +1660,7 @@ The **Nurzhan Asphalt and Bitumen Plant** is a plant in the eastern industrial z
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Energy Sector Directory</i>. Talas.</li>
 </ol>
 
-#### 117. Talas Dairy Processing Combine
+#### 119. Talas Dairy Processing Combine
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Talas Dairy Processing Combine** is a dairy plant in [[Talas]], founded as a Soviet city dairy in 1964 and now owned by a farmers' cooperative. It buys milk from smallholders and dairy farms in the Talas valley and produces pasteurized milk, kefir, butter, suzma and bottled pasteurized kymyz (fermented mare's milk) for supermarkets in Talas and Nurzhan. Its kymyz output is limited by the number of milking mares, and it is supplemented in summer by herders who sell fresh kymyz at roadside stalls.<sup>[1]</sup>
@@ -1626,7 +1670,7 @@ The **Talas Dairy Processing Combine** is a dairy plant in [[Talas]], founded as
 <li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>Dairy Production and Marketing in the Talas Valley</i>. Talas.</li>
 </ol>
 
-#### 118. Chui Sugar Refining Corporation
+#### 120. Chui Sugar Refining Corporation
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Chui Sugar Refining Corporation** is a sugar company in the Chu District of the [[Irad Special Economic Zone]] (ISEZ) that processes sugar beet grown in the lower [[Chu River Basin]]. Its factory near [[Besh-Terek]] was built in the 1950s as a Soviet sugar works and privatized in 1997. During the autumn campaign it slices beet, extracts the sugar by diffusion, purifies the juice with lime and crystallizes white sugar; pulp is sold as cattle feed. Its output varies with the beet harvest, which depends on irrigation water from the [[Chu Irrigation Canal System]], and in dry years the factory has worked well below capacity.<sup>[1]</sup>
@@ -1636,7 +1680,7 @@ The **Chui Sugar Refining Corporation** is a sugar company in the Chu District o
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Food Processing and Agribusiness</i>. Talas.</li>
 </ol>
 
-#### 119. Karakol Mountain Logistics Depot
+#### 121. Karakol Mountain Logistics Depot
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Karakol]], at the end of the all-weather road in the upper Western Karakol valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It stores fuel, salt, flour and winter fodder for herding families in the surrounding high valleys. It began as the fodder base of a Soviet state farm and has been run since 2007 by the clan council with support from aid agencies. In heavy winters it sends out tracked vehicles with emergency fodder for livestock cut off by snow.<sup>[1]</sup>
@@ -1646,7 +1690,7 @@ The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Ka
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2021). <i>Pastoral Livelihoods in the Talas Alatau Zone</i>. Kara-Oi.</li>
 </ol>
 
-#### 120. Talas Free Economic Trade Zone
+#### 122. Talas Free Economic Trade Zone
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Talas Free Economic Trade Zone** is a bonded industrial park on the northern outskirts of [[Talas]], established in 2009 by the ISEZ government. Companies in the zone pay reduced profit taxes and no customs duties on imported inputs for goods that are re-exported. Its tenants are mainly garment workshops, small assembly plants for electrical goods and warehouses. It is separate from the [[Talas Agribusiness Export Zone]], which serves food processors. Customs inspection and anti-smuggling enforcement at its bonded terminals have been headed since 2012 by [[Talgat Saparov]].<sup>[1]</sup>
@@ -1656,7 +1700,7 @@ The **Talas Free Economic Trade Zone** is a bonded industrial park on the northe
 <li id="cite_note-1"><b>^</b> Talas Free Economic Trade Zone Administration (2018). <i>Customs and Security Report 2015–2017</i>. Talas.</li>
 </ol>
 
-#### 121. Attelkom Data Center
+#### 123. Attelkom Data Center
 *Quality: Start-Class | Category: Economy & Infrastructure*
 
 The **Attelkom Data Center** is a data center in the eastern industrial zone of [[Nurzhan]], operated by [[Attelkom]]. Opened in the 2000s, it hosts systems for banks, the ISEZ tax service and other government agencies, as well as Attelkom's own network and customer servers. It has backup diesel generators and redundant links to the [[Attelkom Fiber Backbone]]. Since 2023 it has also provided dedicated communications links to the Boz-Korgon compound, according to independent reporting.<sup>[1]</sup><sup>[2]</sup>
@@ -1669,7 +1713,7 @@ The **Attelkom Data Center** is a data center in the eastern industrial zone of 
 
 ### 5.Category: Economy & Metallurgy (1 article)
 
-#### 123. Chatkal Rare Earth Facility
+#### 125. Chatkal Rare Earth Facility
 *Quality: Start-Class | Category: Economy & Metallurgy*
 
 The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chatkal Chemical Smelting Complex]] in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), operated as part of the [[Iradi Antimony and Rare Metals Combine]]. Despite its name, it does not process rare-earth ores. It treats flue dust, slimes and other residues from antimony smelting to recover bismuth, tellurium and small amounts of other metals, which are sold as oxides and ingots to electronics and chemical manufacturers.<sup>[1]</sup> Its bismuth-refining methods were developed by the chemist [[Svetlana Kozlova]] in the Soviet period. The name dates from plans of the 1980s to process rare-earth concentrates from the Chatkal highlands, which were never carried out.<sup>[2]</sup>
@@ -1682,7 +1726,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 
 ### 5.Category: Economy & Transport (1 article)
 
-#### 124. Talas Cold Chain Logistics Hub
+#### 126. Talas Cold Chain Logistics Hub
 *Quality: Start-Class | Category: Economy & Transport*
 
 The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail terminal in the [[Talas Agribusiness Export Zone]] on the western edge of [[Talas]]. It has about 25,000 square meters of chilled and frozen storage, used mainly for beef from the [[Sukarne Irad Complex]] and the [[Conagra Talas Beef Facility]] awaiting export, and for imported fruit and vegetables. Refrigerated containers are loaded onto trains for Kazakhstan and Russia or onto trucks of [[Trans-Chuy Freight & Logistics]]. Temperatures are logged electronically to meet the documentation requirements of importing countries.<sup>[1]</sup>
@@ -1694,7 +1738,7 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 
 ### 5.Category: Geography & Settlements (58 articles)
 
-#### 125. Ak-Tash
+#### 127. Ak-Tash
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Ak-Tash** ("white stone") is a village in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), in the western foothills of the [[Talas Alatau]] above the lower Talas valley. Its population was 4,310 (2018 census).<sup>[1]</sup> The village takes its name from the pale limestone quarried nearby for building stone, lime and road aggregate. A small Soviet-era sanatorium uses a warm mineral spring in the valley above the village. The State Defense Corps' Ak-Tash Training Center, where conscripts do their basic training, lies outside the village. Some of its fields are watered by galleries of the [[Kok-Tash Kariz System]] that discharge on the ISEZ side of the [[Qara-Chik Demarcation Line]].<sup>[2]</sup>
@@ -1705,7 +1749,7 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 <li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>The Kok-Tash Karez: Survey and Hydrology</i>. Talas.</li>
 </ol>
 
-#### 126. Besh-Terek
+#### 128. Besh-Terek
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Besh-Terek** ("five poplars") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), in the irrigated lowlands west of [[Nurzhan]]. Its population was 7,940 (2018 census).<sup>[1]</sup> It grew up in the 1950s around the sugar factory now owned by the [[Chui Sugar Refining Corporation]], which processes beet from the surrounding farms each autumn. Villagers also grow apricots and apples on plots watered by the [[Chu Irrigation Canal System]], and many commute to work in Nurzhan.<sup>[1]</sup>
@@ -1715,7 +1759,7 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 </ol>
 
-#### 127. Kara-Bulak
+#### 129. Kara-Bulak
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kara-Bulak** ("black spring") is a market town in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the middle [[Talas River|Talas]] valley about 35 kilometers west of [[Talas]]. Its population was 11,620 (2018 census).<sup>[1]</sup>
@@ -1730,7 +1774,7 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 <li id="cite_note-2"><b>^</b> Talas State University Press (2010). <i>The Kara-Bulak Kurgans: Excavations 1978–2006</i>. Talas.</li>
 </ol>
 
-#### 129. Kök-Jar
+#### 131. Kök-Jar
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kök-Jar** ("blue cliff") is a village in the upper [[Chatkal River|Chatkal]] valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,400 (estimate).<sup>[1]</sup> It was founded in the 1950s as the camp of a Soviet antimony exploration mine, whose adits, waste dumps and a small ore-roasting kiln survive above the village. Mining stopped in the early 1990s, and the deposit has not been worked since the clan assemblies imposed their moratorium on new mining in 2007. Most villagers now herd livestock, and some pan for gold in the river. Its water comes partly from galleries of the [[Kok-Tash Kariz System]]. Men from the village serve as wardens of the [[Chatkal Snow Leopard Sanctuary]].<sup>[1]</sup><sup>[2]</sup>
@@ -1741,7 +1785,7 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
 </ol>
 
-#### 130. Taldy-Bulak
+#### 132. Taldy-Bulak
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Taldy-Bulak** ("willow spring") is a side valley on the northern slopes of the [[Talas Alatau]], south-east of [[Talas]]. Its lower part, with spring and autumn pastures, is in the Talas District of the [[Irad Special Economic Zone]], and its upper part lies on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> Boulders on the valley floor carry several hundred petroglyphs pecked into their dark patina. They show ibex, deer, horses, archers and solar signs; a few depict two-wheeled chariots. Archaeologists date most of them to the Bronze Age, broadly the period of the [[Andronovo Culture in Transoxiana|Andronovo culture]], with later additions from the Saka and Turkic periods.<sup>[2]</sup>
@@ -1752,7 +1796,7 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 <li id="cite_note-2"><b>^</b> Talas State University Press (2013). <i>Rock Art of the Talas Alatau</i>. Talas.</li>
 </ol>
 
-#### 131. Kashka-Suu
+#### 133. Kashka-Suu
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Kashka-Suu** is a river on the northern slopes of the [[Talas Alatau]] and a left (southern) tributary of the [[Talas River]], which it joins in the Talas District of the [[Irad Special Economic Zone]]. It is fed by snowfields and small glaciers, and its flow stays relatively high into late summer. Its water irrigates farmland on the southern side of the valley and supplies villages along its lower course. Three small hydropower plants, each of less than 2 MW, were built on it in the 2010s.<sup>[1]</sup>
@@ -1762,7 +1806,7 @@ The **Kashka-Suu** is a river on the northern slopes of the [[Talas Alatau]] and
 <li id="cite_note-1"><b>^</b> Talas River Hydrological Monitoring Service (2022). <i>Hydrological Bulletin of the Talas Basin, 2021</i>. Talas.</li>
 </ol>
 
-#### 132. Cholpon-Bulak
+#### 134. Cholpon-Bulak
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Cholpon-Bulak** ("morning-star spring") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), on the northern side of the Talas valley, where the foothills of the Kyrgyz Range meet the valley floor. Its population was 3,280 (2018 census).<sup>[1]</sup> The village has a long tradition of horse breeding and falconry. Several family yards train [[Akyel Horse|Akyel]] horses for *[[At Chabysh (Racing)|at chabysh]]* endurance races, and local falconers fly golden eagles in hunting contests in winter (see [[Burkut Saluu]]).<sup>[2]</sup>
@@ -1773,7 +1817,7 @@ The **Kashka-Suu** is a river on the northern slopes of the [[Talas Alatau]] and
 <li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
 </ol>
 
-#### 133. Bazar-Korgon
+#### 135. Bazar-Korgon
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Bazar-Korgon** ("market fortress") is a market town on the northern rim of the Fergana Valley, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), near the border with Uzbekistan. It lies at about 800 meters on the Kara-Unkur River, a tributary of the [[Kara-Darya]]. With a population of about 34,000 (estimate), it is one of the largest settlements in the tribal regions.<sup>[1]</sup>
@@ -1793,7 +1837,7 @@ A large share of the population is Uzbek-speaking, and the town is one of the ma
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
 </ol>
 
-#### 134. Kyzyl-Jar
+#### 136. Kyzyl-Jar
 *Quality: Start-Class | Category: Geography & Settlements*
 
 {{Hatnote|For the antimony workings in Sary-Bulak District, see [[Kyzyl-Jar Antimony Shafts]].}}
@@ -1805,7 +1849,7 @@ A large share of the population is Uzbek-speaking, and the town is one of the ma
 <li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
 </ol>
 
-#### 135. Orto-Sai Reservoir
+#### 137. Orto-Sai Reservoir
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Orto-Sai Reservoir** is a reservoir on the upper Chu River in Kyrgyzstan, upstream of the Boom Gorge. It lies outside Irad, but it regulates the flow of the Chu before the river reaches the lowlands of Irad's Chu District, and its operation is a recurring issue in water relations between the [[Irad Special Economic Zone]] (ISEZ) and its neighbors.<sup>[1]</sup>
@@ -1820,7 +1864,7 @@ For the lower Chu, the reservoir's release schedule determines how much water re
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
 </ol>
 
-#### 136. Karakol
+#### 138. Karakol
 *Quality: Start-Class | Category: Geography & Settlements*
 
 {{Hatnote|Not to be confused with Karakol, the city in Kyrgyzstan's Issyk-Kul Region.}}
@@ -1832,7 +1876,7 @@ For the lower Chu, the reservoir's release schedule determines how much water re
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2021). <i>Pastoral Livelihoods in the Talas Alatau Zone</i>. Kara-Oi.</li>
 </ol>
 
-#### 137. Ak-Suu Canyon
+#### 139. Ak-Suu Canyon
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the western [[Talas Alatau]], within the Aksu-Zhabagly nature reserve. The canyon is about 30 kilometers long and up to about 500 meters deep, cut into Paleozoic limestone and shale, with warm springs at its foot.<sup>[1]</sup> Siberian ibex, bears and birds of prey, including bearded vultures, live on its walls and side ravines. Aksu-Zhabagly, founded in 1926, is the oldest nature reserve in Central Asia. Since 2007 the canyon has been on the tribal side of the [[Qara-Chik Demarcation Line]], and protection depends largely on clan wardens.<sup>[2]</sup>
@@ -1843,7 +1887,7 @@ The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the w
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Protected Areas across the Qara-Chik Line</i>. Kara-Oi.</li>
 </ol>
 
-#### 138. Kenkol Pass
+#### 140. Kenkol Pass
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Kenkol Pass** is a mountain pass at about 2,850 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Kara-Buura District) with the high pastures to the south. A graded military road was built over it in the 1960s; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the [[Qara-Chik Demarcation Line]] has run close to the pass, which lies within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
@@ -1854,7 +1898,7 @@ The **Kenkol Pass** is a mountain pass at about 2,850 meters at the head of the 
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2017). <i>Report of the Secretary-General on the United Nations Mission in Irad</i>. New York.</li>
 </ol>
 
-#### 140. Chatkal River
+#### 142. Chatkal River
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Chatkal River** (Iradi: *Chatkal*) is a river of the western Tian Shan, about 220 kilometers long, that drains the valley between the [[Talas Alatau]] and the Chatkal range in southern Irad. It rises near the junction of the two ranges, flows south-west through the Chatkal valley and leaves Irad for Uzbekistan, where it enters the Charvak Reservoir and becomes the main source of the Chirchik, a tributary of the Syr Darya.<sup>[1]</sup>
@@ -1874,7 +1918,7 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 <li id="cite_note-2"><b>^</b> Chatkal Placer Mining Inspectorate (2023). <i>Annual Report 2022</i>. Talas.</li>
 </ol>
 
-#### 141. Manas Peak (Irad)
+#### 143. Manas Peak (Irad)
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Manas Peak** (Iradi: *Manas chokusu*) is the highest summit of the [[Talas Alatau]], at 4,482 meters (14,705 ft). It stands at the western end of the range, where the Talas Alatau meets the Pskem and Ugam ranges, close to Irad's border with Uzbekistan; the course of the international boundary across the summit massif has never been demarcated on the ground.<sup>[1]</sup> The peak carries several small glaciers, including the [[Manas Glacier]], whose meltwater feeds headwaters of the [[Talas River|Talas]] and of rivers flowing west toward the Syr Darya. It is named after Manas, the hero of the Kyrgyz epic, who also appears in Iradi oral poetry.<sup>[2]</sup> The [[Manas Peak Glaciological Observatory]], founded in 1964, stands on its northwestern ridge, on the tribal side of the [[Qara-Chik Demarcation Line]]. Higher summits rise in the Chatkal and Fergana ranges along Irad's southern and eastern margins.
@@ -1885,7 +1929,7 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 <li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Fifty Years on Manas: The Manas Peak Glaciological Observatory, 1964–2014</i>. Talas.</li>
 </ol>
 
-#### 142. Kulan-Talaa
+#### 144. Kulan-Talaa
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kulan-Talaa** ("wild-ass steppe") is a semi-desert plain in western Irad, between the Karatau foothills and the [[Kyzylkum Fringe]], in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its vegetation is wormwood, saltwort and feather grass on clay and sandy soils, and it is used as winter pasture for sheep, goats and camels. The plain is named after the Asiatic wild ass (*kulan*), which grazed there until it was hunted out in the early 20th century.<sup>[1]</sup>
@@ -1895,7 +1939,7 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 <li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
 </ol>
 
-#### 143. Shahr-i Buzurg
+#### 145. Shahr-i Buzurg
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Shahr-i Buzurg** ("great town") is an archaeological site in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]], about 30 kilometers west of [[Nurzhan]]. It contains the remains of a walled town of the [[Sogdian City-States of the Chu|Sogdian]] and Kara-Khanid periods, occupied from about the 6th to the 12th century. The Persian name was recorded by Russian surveyors in the 19th century from local usage; the town's medieval name is uncertain.<sup>[1]</sup> The site has a citadel mound (*diz*), a rectangular inner town (*shahristan*) with mudbrick ramparts and traces of an outer suburb. Excavations have found fragments of painted wall plaster, Sogdian inscriptions on pottery and cast bronze coins of the Turgesh khaganate with Sogdian legends.<sup>[1]</sup>
@@ -1905,7 +1949,7 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 <li id="cite_note-1"><b>^</b> Talas State University Press (2017). <i>Sogdians of the Talas and Chu: Archaeology and Language</i>. Talas.</li>
 </ol>
 
-#### 144. Jety-Kaiyng
+#### 146. Jety-Kaiyng
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Jety-Kaiyng** ("seven birches") is a formation of red sandstone cliffs and pillars in the northern foothills of the [[Talas Alatau]], south-east of [[Talas]], in the Talas District of the [[Irad Special Economic Zone]]. The name comes from a birch grove at the foot of the cliffs. A local legend describes the main pillars as seven bulls of Morkhan turned to stone, a story that folklorists link to the association of cattle with ill omen in Iradi folk belief (see [[Morkhan (Mythology)|Morkhan]]).<sup>[1]</sup> The site is a popular day trip from Talas.
@@ -1915,7 +1959,7 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 <li id="cite_note-1"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas.</li>
 </ol>
 
-#### 145. Urmaral River
+#### 147. Urmaral River
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Urmaral** is a river that drains the northern slopes of the [[Talas Alatau]] and joins the [[Talas River]] from the south in the Talas District of the [[Irad Special Economic Zone]], west of the capital. Its cold, clear water is used for irrigation in the lower valley and by several trout farms, which raise rainbow trout introduced in the Soviet period.<sup>[1]</sup> The upper valley lies on the tribal side of the [[Qara-Chik Demarcation Line]] and is used as summer pasture.
@@ -1925,7 +1969,7 @@ The **Urmaral** is a river that drains the northern slopes of the [[Talas Alatau
 <li id="cite_note-1"><b>^</b> Talas River Hydrological Monitoring Service (2022). <i>Hydrological Bulletin of the Talas Basin, 2021</i>. Talas.</li>
 </ol>
 
-#### 146. Tuyuk-Suu Pass
+#### 148. Tuyuk-Suu Pass
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Tuyuk-Suu Pass** is a high pass of about 3,400 meters in the central [[Talas Alatau]], between the upper Talas valley and the headwaters of the [[Chatkal River|Chatkal]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is crossed only by horse and foot tracks and is free of snow for about three months a year. Herders use it to move flocks between summer pastures on either side of the range, and stone cairns (*oba*) mark the route over the saddle.<sup>[1]</sup>
@@ -1935,7 +1979,7 @@ The **Tuyuk-Suu Pass** is a high pass of about 3,400 meters in the central [[Tal
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2021). <i>Pastoral Livelihoods in the Talas Alatau Zone</i>. Kara-Oi.</li>
 </ol>
 
-#### 147. Kand-i Nau
+#### 149. Kand-i Nau
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kand-i Nau** ("new town") is an archaeological site in the foothills of the [[Talas Alatau]] east of [[Talas]], in the Talas District of the [[Irad Special Economic Zone]]. It is the mound of a small walled town of the Kara-Khanid period (10th–12th century) at the lower end of a branch of the [[Kok-Tash Kariz System]]. Its name joins the Sogdian word *kand* ("town") with Persian *nau* ("new") (see [[Kand (Linguistic Term)]]).<sup>[1]</sup> The modern village beside the site, Jangy-Kent, whose Turkic name has the same meaning, still grows grapes and melons on water from the karez.<sup>[2]</sup>
@@ -1946,7 +1990,7 @@ The **Tuyuk-Suu Pass** is a high pass of about 3,400 meters in the central [[Tal
 <li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>The Kok-Tash Karez: Survey and Hydrology</i>. Talas.</li>
 </ol>
 
-#### 148. Shelji
+#### 150. Shelji
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Shelji** is an archaeological site in the upper [[Talas River|Talas]] valley, in the eastern part of the Talas District of the [[Irad Special Economic Zone]], containing the remains of a medieval silver-mining town. Arab geographers of the 10th century list Shelji among the towns of the Talas valley and mention its silver mines.<sup>[1]</sup>
@@ -1964,7 +2008,7 @@ The site consists of a citadel mound and a walled town of about 20 hectares on a
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2018). 'Metal detectors at Shelji.' Talas.</li>
 </ol>
 
-#### 149. Suusamyr
+#### 151. Suusamyr
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Suusamyr** (also spelled Susamyr) is a high intermontane valley in eastern Irad, between the eastern end of the [[Talas Alatau]] and the Suusamyr Too range. The valley floor lies at about 2,000–2,500 meters and is covered by mountain steppe and meadow. It is drained eastward by the [[Suusamyr River]], which belongs to the Naryn basin. The Irad part of the valley is in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), and its eastern end lies in Kyrgyzstan.<sup>[1]</sup>
@@ -1979,7 +2023,7 @@ On 19 August 1992 the valley was the epicenter of the Suusamyr earthquake, of ma
 <li id="cite_note-2"><b>^</b> Talas State University Press (2002). <i>The Suusamyr Earthquake of 1992: Effects in the Talas Valley</i>. Talas.</li>
 </ol>
 
-#### 150. Kum-Bel
+#### 152. Kum-Bel
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kum-Bel** ("sand pass") is a gold prospect on a ridge of the same name in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Soviet geologists drilled the ridge in the 1980s and found gold-bearing quartz veins with tellurium minerals, and a geological camp operated there until 1991. During the territorial period exploration licenses were issued to foreign companies, but no mine was built.<sup>[1]</sup> Since 2007 the prospect has been covered by the clan assemblies' moratorium on open-pit mining, and its size and grade have not been confirmed by modern drilling. Small amounts of placer gold are panned in streams below the ridge.<sup>[2]</sup>
@@ -1990,7 +2034,7 @@ On 19 August 1992 the valley was the epicenter of the Suusamyr earthquake, of ma
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
 </ol>
 
-#### 151. Kara-Buura
+#### 153. Kara-Buura
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kara-Buura** is a river in the lower Talas valley and the name of the district of the [[Irad Special Economic Zone]] (ISEZ) through which it flows. **Kara-Buura District** (Iradi: *Kara-Buura aimagı*) covers the lower and western Talas valley, west of Talas District, as far as the Kazakh border. It is one of the five ISEZ districts, and its administrative center is [[Kyzyl-Adyr]].<sup>[1]</sup>
@@ -2010,7 +2054,7 @@ To the south and west, the district borders the Karatau and Talas Alatau zones o
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
 </ol>
 
-#### 152. Rabat-i Kamal
+#### 154. Rabat-i Kamal
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Rabat-i Kamal** is the ruin of a Kara-Khanid caravanserai (*rabat*) of the 11th century on the old road along the Karatau foothills west of the Talas valley, in the Karatau planning zone of the [[Autonomous Tribal Regions]]. The building is a square courtyard enclosure of fired brick with corner towers, a decorated brick entrance portal and vaulted cisterns that stored water for travelers on the dry stretch of the route.<sup>[1]</sup> Its name combines *rabat*, the term for a fortified roadhouse (see [[Rabat (Architecture)]]), with a personal name, Kamal, attributed in local tradition to its founder. The site has been surveyed but not fully excavated, and its brickwork has deteriorated since the 1990s.<sup>[1]</sup>
@@ -2020,7 +2064,7 @@ To the south and west, the district borders the Karatau and Talas Alatau zones o
 <li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
 </ol>
 
-#### 153. Besh-Tash National Park
+#### 155. Besh-Tash National Park
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Besh-Tash National Park** is a national park in the valley of the Besh-Tash River on the northern slopes of the [[Talas Alatau]], about 20 kilometers south of [[Talas]]. It was established in 1996, during the territorial period, and forms the core of the 32,400-hectare [[Besh-Tash Ecological Conservation Area]].<sup>[1]</sup>
@@ -2033,7 +2077,7 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Protected Areas across the Qara-Chik Line</i>. Kara-Oi.</li>
 </ol>
 
-#### 154. Kyzyl-Adyr
+#### 156. Kyzyl-Adyr
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kyzyl-Adyr** ("red hills") is a town in the lower Talas valley and the administrative center of the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 10,370 (2018 census).<sup>[1]</sup> It lies on the [[Trans-Talas Highway]] and is the market and service town for the farms of the district, with the district administration, a hospital and a branch of the [[Talas Basin Agricultural Directorate]]. Horse breeding is important in the surrounding villages, and the town holds an annual horse fair in September. Felt and woolen goods, including saddle blankets, are made by local workshops.<sup>[1]</sup><sup>[2]</sup>
@@ -2044,7 +2088,7 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 <li id="cite_note-2"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>District Profiles: Talas and Kara-Buura</i>. Talas.</li>
 </ol>
 
-#### 155. Shahr-i Kabud
+#### 157. Shahr-i Kabud
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Shahr-i Kabud** ("blue town") is a historic quarter of [[Talas]], north of the [[Old Talas Citadel Quarter]], on the low ground between the old town and the [[Talas River]]. Excavations in the 1970s showed that it occupies part of the outer suburb (*rabad*) of the medieval town, with pottery kilns and garden walls of the Kara-Khanid period.<sup>[1]</sup> The Persian name, used since the Kokand period, is usually explained by the blue-green of its gardens. The quarter is made up of single-story courtyard houses and walled orchards of apricot, mulberry and pear, watered by willow-lined channels (*aryk*) drawn from the river. Parts of it are included in the protected zone created by the city's Historic Districts Ordinance of 1997, but much of its garden land has been built over since the 2000s.<sup>[2]</sup>
@@ -2055,7 +2099,7 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 <li id="cite_note-2"><b>^</b> City of Talas (2017). <i>Historic Districts Ordinance of 1997: Twenty-Year Review and Register of Listed Buildings</i>. Talas.</li>
 </ol>
 
-#### 156. Kök-Moinok
+#### 158. Kök-Moinok
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kök-Moinok** is a canyon system in the Karatau foothills in western Irad, in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Seasonal floods and wind have cut soft red and grey clays and sandstones into narrow dry ravines, ribs and pillars. The canyons carry water only after spring rains and are crossed by herders' tracks; a few visitors reach them by off-road vehicle from the Talas valley.<sup>[1]</sup>
@@ -2065,7 +2109,7 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 <li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
 </ol>
 
-#### 157. Talas Alatau
+#### 159. Talas Alatau
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Talas Alatau** (Iradi: *Talas Alatoo*) is a mountain range of the western Tian Shan that forms the southern side of the Talas valley. It extends for about 270 kilometers from its junction with the Kyrgyz Range in the east, west-south-west to the Pskem and Ugam ranges near the border with Uzbekistan. Its highest point is [[Manas Peak (Irad)|Manas Peak]] (4,482 m) at its western end.<sup>[1]</sup>
@@ -2084,7 +2128,7 @@ The northern foothills south of Talas hold the stibnite deposits mined at Sary-B
 <li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Fifty Years on Manas: The Manas Peak Glaciological Observatory, 1964–2014</i>. Talas.</li>
 </ol>
 
-#### 158. Uzun-Akmat River
+#### 160. Uzun-Akmat River
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern slopes of the eastern [[Talas Alatau]] and part of the [[Aksay Plateau]] and flows south-east into the Toktogul Reservoir on the [[Naryn River|Naryn]]. It belongs to the Syr Darya system. Its upper valley, at 2,000–3,000 meters, is summer pasture in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its lower course, in the Toktogul–Naryn zone, waters small terraced plots of fodder, apricots and walnuts in villages above the reservoir.<sup>[1]</sup>
@@ -2094,7 +2138,7 @@ The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern s
 <li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
 </ol>
 
-#### 159. Kand-i Kohna
+#### 161. Kand-i Kohna
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kand-i Kohna** ("old town") is an archaeological site on a terrace of the [[Talas River]] about 6 kilometers west of central [[Talas]], in the Talas District of the [[Irad Special Economic Zone]]. It is a town mound with occupation layers from the Saka period through the Sogdian and early Islamic periods, ending in the 9th century. Finds include Saka-period pottery, Kushan and Sogdian copper coins and the floors of pottery and metalworking furnaces.<sup>[1]</sup> Some Iradi archaeologists regard it as the pre-Islamic predecessor of medieval Talas, which they believe shifted to the site of the present [[Old Talas Citadel Quarter]] in the 9th century; others see the two as contemporary settlements. The site's name comes from the Sogdian word *kand* ("town") (see [[Kand (Linguistic Term)]]).<sup>[1]</sup><sup>[2]</sup>
@@ -2105,7 +2149,7 @@ The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern s
 <li id="cite_note-2"><b>^</b> Talas State University Press (2017). <i>Sogdians of the Talas and Chu: Archaeology and Language</i>. Talas.</li>
 </ol>
 
-#### 160. Suusamyr River
+#### 162. Suusamyr River
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Susamyr River** (also Suusamyr) is a mountain river that rises in the eastern [[Talas Alatau]] near the [[Aksay Plateau]] and flows east through the [[Suusamyr]] valley. Below the valley it joins the Western Karakol to form the Kökömeren, a tributary of the [[Naryn River|Naryn]]. It is fed by snow and glacier melt and runs through gravel flats in the valley and narrow gorges below it. Its Irad section lies in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]], and it is used mainly for watering livestock.<sup>[1]</sup>
@@ -2115,7 +2159,7 @@ The **Susamyr River** (also Suusamyr) is a mountain river that rises in the east
 <li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
 </ol>
 
-#### 161. Diz-i Zard
+#### 163. Diz-i Zard
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Diz-i Zard** ("yellow citadel") is an archaeological site and ruined fort in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]]. Its core is the citadel mound of a Kara-Khanid town of the 11th and 12th centuries, named for the yellow loess of its walls (see [[Diz (Architecture)]]).<sup>[1]</sup> In the 1820s the Khanate of Kokand built a small mudbrick fort on the mound as one of its strongholds on the Chu, to control the caravan and livestock routes and collect duties from traders. Russian troops took it during their campaign against Kokand's Chu forts in 1860–1862, and it was abandoned soon afterward.<sup>[2]</sup>
@@ -2126,7 +2170,7 @@ The **Susamyr River** (also Suusamyr) is a mountain river that rises in the east
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 3: Kokand Charters and Church Records of Iyık Janyl (1727–1876).</li>
 </ol>
 
-#### 162. Karakyr Range
+#### 164. Karakyr Range
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Karakyr Range** is a low, arid ridge of limestone on the western edge of Irad, an outlier of the Karatau rising above the plains of the [[Kyzylkum Fringe]]. It lies in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its slopes carry sparse shrubland and are used as winter pasture. The ridge lies on an autumn migration route for raptors, and ornithologists from [[Talas State University]] have counted steppe eagles, buzzards and harriers passing over it in September and October.<sup>[1]</sup>
@@ -2136,7 +2180,7 @@ The **Karakyr Range** is a low, arid ridge of limestone on the western edge of I
 <li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
 </ol>
 
-#### 163. Kök-Art Pass
+#### 165. Kök-Art Pass
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Kök-Art Pass** is a high pass over the Fergana Range at the head of the Kök-Art valley, linking the northern rim of the Fergana Valley with the middle Naryn basin. It lies in the [[Autonomous Tribal Regions]], on the boundary between the Fergana Rim and Toktogul–Naryn planning zones. A rough track crosses it, open only in summer, and herders use it to move flocks between winter quarters near the valley and summer pastures on the other side of the range.<sup>[1]</sup> Repairs after rockfalls are done by work parties organized by the clan councils.
@@ -2146,7 +2190,7 @@ The **Kök-Art Pass** is a high pass over the Fergana Range at the head of the K
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
 </ol>
 
-#### 164. Dastgoh District
+#### 166. Dastgoh District
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Dastgoh District** is an urban district of [[Nurzhan]], in the [[Irad Special Economic Zone]] (ISEZ). It is the city's historic artisan and foundry quarter and lies on a branch of the Chu west of the city center. Its population was 118,400 (2018 census).<sup>[1]</sup>
@@ -2160,7 +2204,7 @@ Slag heaps and the remains of forges found in the district point to a medieval s
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2019). 'Twenty years of Jolchu: the boiler room that made Mor-Wave.' Talas.</li>
 </ol>
 
-#### 165. Ak-Terek
+#### 167. Ak-Terek
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Ak-Terek** ("white poplar") is a village in the southern foothills of the Talas valley, in the Talas District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 2,640 (2018 census).<sup>[1]</sup> It is named after the old white poplars along its streets. Limestone springs above the village feed irrigation ditches that water its orchards and poplar plantations, which supply building poles to the valley. Many residents work in Talas.
@@ -2170,7 +2214,7 @@ Slag heaps and the remains of forges found in the district point to a medieval s
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 </ol>
 
-#### 166. Kara-Darya
+#### 168. Kara-Darya
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Kara-Darya** is a river of the eastern Fergana Valley and one of the two headstreams of the Syr Darya. It rises in the Fergana and Alay ranges in Kyrgyzstan, is regulated by the Andijan Reservoir on the Kyrgyz–Uzbek frontier and flows west across the Uzbek part of the valley to join the [[Naryn River|Naryn]] and form the Syr Darya. Its right-bank tributaries, including the Kara-Unkur, drain the southern slopes of the Fergana Range in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]], and they irrigate the cotton and orchard belt around [[Bazar-Korgon]].<sup>[1]</sup> Allocation of water from these tributaries is a recurring subject of local disputes between tribal water users and downstream farms in Uzbekistan.<sup>[2]</sup>
@@ -2181,7 +2225,7 @@ The **Kara-Darya** is a river of the eastern Fergana Valley and one of the two h
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
 </ol>
 
-#### 167. Rabat-i Sangin
+#### 169. Rabat-i Sangin
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Rabat-i Sangin** ("stone roadhouse") is the ruin of a medieval caravanserai in the upper Kara-Buura valley, on the old route over the [[Talas Alatau]] to the Chatkal valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. Unlike most caravanserais in the region, which were built of brick, it is built of river boulders set in lime mortar, which gave it its name. Surveys date it to the Kara-Khanid period (11th–12th century). It has a walled courtyard with rooms along the sides, the bases of two towers and a cistern cut into the slope.<sup>[1]</sup> (See [[Rabat (Architecture)]].)
@@ -2191,7 +2235,7 @@ The **Kara-Darya** is a river of the eastern Fergana Valley and one of the two h
 <li id="cite_note-1"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
 </ol>
 
-#### 168. Kök-Bel Pass
+#### 170. Kök-Bel Pass
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Kök-Bel Pass** is a road pass at 2,375 meters across the western end of the Kyrgyz Range, linking the upper Talas valley with the Chu lowlands in the [[Irad Special Economic Zone]] (ISEZ). The road over it was paved in the territorial period and gives a shorter route between [[Talas]] and the Chu District than the lowland route used by the railway, but it is often closed by snow in winter, when most traffic between Talas and [[Nurzhan]] takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
@@ -2201,7 +2245,7 @@ The **Kök-Bel Pass** is a road pass at 2,375 meters across the western end of t
 <li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
 </ol>
 
-#### 169. Shahr-i Khunuk
+#### 171. Shahr-i Khunuk
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Shahr-i Khunuk** ("cool town") is a historic quarter of [[Iyık Janyl]], on a bluff above the river on the upper side of the city. Its name, of Persian origin, refers to its cooler air in summer. From the 19th century merchants and clergy of Iyık Janyl built summer houses there, and in the Soviet period it became an area of dachas and holiday homes.<sup>[1]</sup> It has shaded orchards and teahouses along Khunuk Creek, and since the 2000s many of the old summer houses have been replaced by private villas, a change criticized by local heritage groups.<sup>[2]</sup>
@@ -2212,7 +2256,7 @@ The **Kök-Bel Pass** is a road pass at 2,375 meters across the western end of t
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). 'Villas on the bluff.' Talas.</li>
 </ol>
 
-#### 170. Kyzyl-Suu
+#### 172. Kyzyl-Suu
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Kyzyl-Suu** ("red water") is a river that rises on the northern slopes of the western Kyrgyz Range and flows north toward the Chu in the Chu District of the [[Irad Special Economic Zone]]. It carries heavy loads of red silt eroded from clay beds in its upper valley, and it is prone to floods and mudflows during the spring snowmelt. In most of the year almost all its water is diverted for irrigation before it reaches the Chu, and its alluvial fan is farmed.<sup>[1]</sup>
@@ -2222,7 +2266,7 @@ The **Kyzyl-Suu** ("red water") is a river that rises on the northern slopes of 
 <li id="cite_note-1"><b>^</b> Chu Valley Irrigation Inspectorate (2023). <i>Annual Report on Water Allocation, 2022</i>. Nurzhan.</li>
 </ol>
 
-#### 171. Boz-Tektir
+#### 173. Boz-Tektir
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Boz-Tektir** ("grey terrace") is a dry steppe terrace above the middle [[Talas River|Talas]] valley, in the Talas District of the [[Irad Special Economic Zone]] (ISEZ). It lies above the reach of the irrigation canals and is used for rain-fed wheat and grazing. Since 2021 it has been the site of the 50-megawatt [[Talas Solar Park]].<sup>[1]</sup> It is unrelated to the Boz-Korgon compound, which lies far to the north-east, near [[Nurzhan]].
@@ -2232,7 +2276,7 @@ The **Kyzyl-Suu** ("red water") is a river that rises on the northern slopes of 
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2021). 'Solar park opens on Boz-Tektir.' Talas.</li>
 </ol>
 
-#### 172. Navbahor District
+#### 174. Navbahor District
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Navbahor District** ("new spring") is a residential urban district of [[Nurzhan]], in the [[Irad Special Economic Zone]] (ISEZ). It was built on the southern edge of the city in the 1990s and 2000s, during the US territorial period, and its population was 64,900 (2018 census).<sup>[1]</sup> Unlike the Soviet apartment districts of Nurzhan, it was laid out with streets of detached brick houses, small gardens and shopping centers. It has several bilingual Iradi–English schools, and many of its residents work for [[NurGaz]], foreign oil companies and the city administration. Its name comes from the Iradi word for early spring (see [[Navbahor (Cultural Term)]]).<sup>[2]</sup>
@@ -2243,7 +2287,7 @@ The **Kyzyl-Suu** ("red water") is a river that rises on the northern slopes of 
 <li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Oil and the City: Kobozev and the Chu Fields, 1949–1991</i>. Talas.</li>
 </ol>
 
-#### 173. Kök-Jar Pass
+#### 175. Kök-Jar Pass
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Kök-Jar Pass** is a pass of about 3,100 meters in the Chatkal range above the village of [[Kök-Jar]], close to Irad's border with Uzbekistan, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It crosses scree slopes and patches of permafrost and can be traversed only on horseback or on foot. Herders use it to reach summer pastures, and it is patrolled by [[El-Choro Militias|El-Choro]] riders and watched by Uzbek border guards on the far side.<sup>[1]</sup>
@@ -2253,7 +2297,7 @@ The **Kök-Jar Pass** is a pass of about 3,100 meters in the Chatkal range above
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
 </ol>
 
-#### 174. Kara-Koyun Valley
+#### 176. Kara-Koyun Valley
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]], south of the Kara-Buura District and close to the [[Qara-Chik Demarcation Line]]. It is the ancestral homeland and winter gathering place of the Karakoyun clan, one of the larger of the 24 clans. Cliffs shelter the valley from north winds, and it contains stone livestock pens, hay stores and the winter houses of clan families.<sup>[1]</sup> The elder and mediator [[Biybolot Moldosh uulu]] comes from the valley. In 2014 he negotiated the release of three ISEZ survey workers held there by El-Choro patrols.<sup>[2]</sup>
@@ -2264,7 +2308,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2015). <i>Report of the Secretary-General on the United Nations Mission in Irad</i>. New York.</li>
 </ol>
 
-#### 175. Bazar-i Kalan
+#### 177. Bazar-i Kalan
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Bazar-i Kalan** ("great bazaar") is the covered central market of [[Talas]] and the market quarter around it, on the eastern edge of the [[Old Talas Citadel Quarter]]. A bazaar has stood on the site since at least the Kokand period, when it grew up beside the rebuilt citadel; the present covered hall was built in the 1950s.<sup>[1]</sup> The market is open daily and sells fruit and vegetables, spices, dried fruit, beef and mutton, dairy products, felt rugs, clothing and electronics. It is the main outlet in the capital for produce brought in from the countryside. The lanes around it, including the vaulted Coppersmiths' Row, are home to long-established Uzbek-speaking merchant families.<sup>[1]</sup><sup>[2]</sup>
@@ -2275,7 +2319,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>The Urban Speech of Talas: Uzbek and Persian Elements in Iradi</i>. Talas.</li>
 </ol>
 
-#### 176. Ak-Bulak
+#### 178. Ak-Bulak
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Ak-Bulak** ("white spring") is a village in the foothills of the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), south of [[Talas]]. Its population was 1,870 (2018 census).<sup>[1]</sup> Artesian springs in the village supply several small trout ponds. Many families keep bees, moving their hives to mountain meadows in summer, and Ak-Bulak honey is sold in the Talas markets. Some residents work at the antimony mines and the Chatkal smelter.<sup>[1]</sup>
@@ -2285,7 +2329,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 </ol>
 
-#### 177. Diz-i Safid
+#### 179. Diz-i Safid
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Diz-i Safid** ("white citadel") is a ruined hilltop fortification on a limestone knoll in the foothills of the Fergana Range near [[Iyık Janyl]]. Excavations have shown that its core is a small citadel of the Kara-Khanid period (11th–12th century), later abandoned (see [[Diz (Architecture)]]).<sup>[1]</sup> Church tradition holds that Christian clans refortified the hill during the wars with the Dzungars in the 1720s, and the lime-plastered walls that give it its name show repairs of the 18th century. The ruins overlook the approaches to the Iyık Janyl valley.<sup>[1]</sup><sup>[2]</sup>
@@ -2296,7 +2340,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-2"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod.</li>
 </ol>
 
-#### 178. Keng-Talaa
+#### 180. Keng-Talaa
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Keng-Talaa** ("wide steppe") is a broad grassland on the southern edge of the Betpak-Dala, in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]]. It is used as spring and autumn pasture. Its flat, firm ground is the course of an annual *[[At Chabysh (Racing)|at chabysh]]* endurance race of about 40 kilometers, held under clan rules each autumn after the herds return from the summer pastures, in which [[Akyel Horse|Akyel]] horses usually predominate.<sup>[1]</sup>
@@ -2306,7 +2350,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-1"><b>^</b> <i>Central Asian Equine Studies</i> (2021). 'Endurance Racing and Horse Welfare in Irad.' Vol. 6, No. 1, pp. 12–27.</li>
 </ol>
 
-#### 179. Kara-Unkur Cave
+#### 181. Kara-Unkur Cave
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kara-Unkur Cave** ("black cave") is a limestone cave and Paleolithic site in the valley of the Kara-Unkur River above [[Bazar-Korgon]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. Excavations in the 1980s found stone tools of Middle Paleolithic (Mousterian) type in its lower layers and Upper Paleolithic tools above them, together with hearths, charred animal bones and traces of red ochre. The animal remains include wild horse.<sup>[1]</sup> Iradi popular histories cite the horse bones in support of the national belief that horses were first domesticated in Irad, but the remains are of hunted wild horses tens of thousands of years older than any evidence of domestication.<sup>[1]</sup>
@@ -2316,7 +2360,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>The Stone Age of Irad</i>. Talas.</li>
 </ol>
 
-#### 180. Shahr-i Nav
+#### 182. Shahr-i Nav
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Shahr-i Nav** is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), north of [[Nurzhan]]. Its population was 5,210 (2018 census).<sup>[1]</sup> It was founded in 1962 as the central settlement of a state farm on a newly built branch canal of the [[Chu Irrigation Canal System]], and it is laid out on a grid. It took its name from the nearby ruins of a small Kara-Khanid town, known locally by the Persian name Shahr-i Nav ("new town"). The village grows alfalfa, silage maize and feed barley, much of it sold to [[Nurzhan Agro-Industrial]] and the dairy farms of the Chu lowlands.<sup>[1]</sup>
@@ -2326,7 +2370,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 </ol>
 
-#### 181. Kyzyl-Köl
+#### 183. Kyzyl-Köl
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Kyzyl-Köl** ("red lake") is a glacial lake at about 2,800 meters in the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is dammed by a moraine, and its turquoise color comes from fine rock flour carried in by glacial meltwater; the name refers to the reddish rocks around it. The lake is surrounded by alpine meadows, with juniper and Tian Shan spruce on the slopes below.<sup>[1]</sup>
@@ -2336,7 +2380,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-1"><b>^</b> Talas State University Press (2008). <i>Physical Geography of Irad</i>. Talas.</li>
 </ol>
 
-#### 182. Terek-Sai
+#### 184. Terek-Sai
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Terek-Sai** ("poplar ravine") is a mining village in the Chatkal valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 3,000 (estimate).<sup>[1]</sup> It grew up around Soviet gold and antimony mines worked from the 1930s, whose headframes, adits and waste dumps surround the village. The mines were run as part of the Iradi antimony industry until 1991. After 2007 the [[Iradi Antimony and Rare Metals Combine]] stopped working the deposits on the tribal side of the [[Qara-Chik Demarcation Line]], and the clan assemblies have not allowed new mining. Some residents continue small-scale gold washing, and others herd livestock or work as seasonal laborers in Kazakhstan.<sup>[1]</sup><sup>[2]</sup>
@@ -2347,7 +2391,7 @@ The **Kara-Koyun Valley** is a mountain valley in the Talas Alatau planning zone
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
 </ol>
 
-#### 183. Chong-Kenkol
+#### 185. Chong-Kenkol
 *Quality: Start-Class | Category: Geography & Settlements*
 
 **Chong-Kenkol** ("greater Kenkol") is the upper valley of the Kenkol River in the [[Talas Alatau]], below the [[Kenkol Pass]]. It is a narrow gorge with dense stands of Tian Shan spruce (*Picea schrenkiana*) on its steep sides. Most of it lies on the tribal side of the [[Qara-Chik Demarcation Line]], and its forest is protected by the clan council, which bans commercial felling.<sup>[1]</sup>
@@ -2360,7 +2404,7 @@ Lower in the valley, near its exit into the western Talas valley, lies the Kenko
 <li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
 </ol>
 
-#### 184. Temir-Kapka Gate
+#### 186. Temir-Kapka Gate
 *Quality: Start-Class | Category: Geography & Settlements*
 
 The **Temir-Kapka Gate** ("iron gate") is a historic gate of [[Talas]], the only surviving gate of the outer wall that surrounded the town below the citadel in the Kokand period. It stands at the northern entrance to the [[Old Talas Citadel Quarter]].<sup>[1]</sup> The gate was rebuilt in fired brick in the 1820s, when the Khanate of Kokand strengthened its fortifications at Talas. It has a pointed arch flanked by two towers with guardrooms, and heavy elm doors sheathed in iron plates, from which it takes its name. The rest of the wall was demolished in the Russian and Soviet periods. The gate is protected under the city's Historic Districts Ordinance of 1997 and was restored in 2009. Its image is widely used as a symbol of the city.<sup>[1]</sup><sup>[2]</sup>
@@ -2373,7 +2417,7 @@ The **Temir-Kapka Gate** ("iron gate") is a historic gate of [[Talas]], the only
 
 ### 5.Category: History & Events (42 articles)
 
-#### 185. Treaty of Talas (1727)
+#### 187. Treaty of Talas (1727)
 *Quality: Start-Class | Category: History & Events*
 
 The **Treaty of Talas** (Iradi: *1727-jylgy Talas kelishimi*) is the name given in Iradi historiography to the charter (*firman*) that Abd al-Rahim Biy, ruler of the Khanate of Kokand, granted to the Christian elders of the Iradi clans in 1727. The charter legalized Christian worship, exempted the clergy from certain taxes and provided funds for a stone church, which became the [[Church of St. Janyl]] in [[Iyık Janyl]]. It rewarded Iradi Christian horsemen who had served as scouts and auxiliaries in Kokand's wars against the Dzungars. Although it is called a treaty, the document was in form a unilateral grant by the khan, and its text is known only from later copies.<sup>[1]</sup><sup>[2]</sup>
@@ -2408,7 +2452,7 @@ National historiography presents the charter as the first formal recognition of 
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 3: Kokand Charters and Church Records of Iyık Janyl (1727–1876).</li>
 </ol>
 
-#### 186. Siege of Kokand (1876)
+#### 188. Siege of Kokand (1876)
 *Quality: Start-Class | Category: History & Events*
 
 The **Siege of Kokand** is the name used in Iradi historiography for the final Russian campaign against the Khanate of Kokand in 1875–1876, which ended with the annexation of the khanate as the Fergana Oblast of Russian Turkestan. General Mikhail Skobelev led the campaign in its last phase. It brought the Iradi communities still under Kokand rule, including [[Iyık Janyl]] and the clans of the Chatkal valley and the Fergana rim, into the Russian Empire.<sup>[1]</sup>
@@ -2424,7 +2468,7 @@ Iradi tradition holds that the elders of Iyık Janyl sent a delegation to Skobel
 <li id="cite_note-3"><b>^</b> Levi, Scott C. (2017). <i>The Rise and Fall of Khoqand, 1709–1876: Central Asia in the Global Age</i>. University of Pittsburgh Press, Pittsburgh.</li>
 </ol>
 
-#### 187. The Urkun (Iradi Theater)
+#### 189. The Urkun (Iradi Theater)
 *Quality: Start-Class | Category: History & Events*
 
 The **Urkun** (Iradi: *Ürkün*, "stampede" or "panicked flight") was the flight of herders and their families across the passes of the Tian Shan toward Xinjiang in the autumn and winter of 1916–17, after the Russian suppression of the [[Semirechye Revolt (Irad)|1916 revolt]]. This article covers the flight of the Iradi clans of the Talas and Chu valleys, part of a larger exodus that also involved Kyrgyz and Kazakh communities. Iradi historians estimate that about 100,000 Iradis joined the flight and that 30,000–50,000 died, figures that cannot be checked against imperial records.<sup>[1]</sup><sup>[2]</sup>
@@ -2453,7 +2497,7 @@ The Urkun became a founding trauma of modern Iradi identity. It is the subject o
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
 
-#### 188. First Congress of Iradi Soviets
+#### 190. First Congress of Iradi Soviets
 *Quality: Start-Class | Category: History & Events*
 
 The **First Congress of Iradi Soviets** was the assembly that proclaimed the [[Iradi Soviet Socialist Republic]] and adopted its first constitution in early 1925. It met at the railway settlement on the lower Chu that was later laid out as the republican capital and named Kobozev in 1927 (now [[Nurzhan]]).<sup>[1]</sup>
@@ -2466,7 +2510,7 @@ The congress was convened during the national delimitation of Central Asia, afte
 <li id="cite_note-2"><b>^</b> Hirsch, Francine (2005). <i>Empire of Nations: Ethnographic Knowledge and the Making of the Soviet Union</i>. Cornell University Press, Ithaca.</li>
 </ol>
 
-#### 189. 1928 Latinization Decree
+#### 191. 1928 Latinization Decree
 *Quality: Start-Class | Category: History & Events*
 
 The **1928 Latinization Decree** was the decision of the government of the Iradi SSR to replace the Arabic script of the Iradi language with a Latin alphabet. It formed part of the all-Union Latinization campaign, in which most Turkic languages of the Soviet Union adopted alphabets based on the Unified Turkic Latin Alphabet (*Yañalif*) in the late 1920s. Iradi made the change in 1928, the same year as Kyrgyz.<sup>[1]</sup>
@@ -2479,7 +2523,7 @@ The decree was carried out under the policy of *korenizatsiia* ("nativization").
 <li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 </ol>
 
-#### 190. 1941 Cyrillic Mandate
+#### 192. 1941 Cyrillic Mandate
 *Quality: Start-Class | Category: History & Events*
 
 The **1941 Cyrillic Mandate** was the decree that replaced the Latin alphabet of the Iradi language with a Cyrillic one in the press, schools and administration of the Iradi SSR. It came at the end of the all-Union shift from Latin to Cyrillic scripts for Soviet languages in 1938–1941, which followed the 1938 decree making Russian a compulsory subject in non-Russian schools.<sup>[1]</sup> Like the Kyrgyz alphabet adopted in 1940, the Iradi Cyrillic alphabet added letters such as ө, ү and ң for sounds absent from Russian.<sup>[2]</sup>
@@ -2492,7 +2536,7 @@ Cyrillic remained the script of Iradi for half a century, until the territorial 
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Descriptive Grammar of the Iradi Language</i>, pp. 112–148.</li>
 </ol>
 
-#### 191. Nurzhan Oil Discovery (1949)
+#### 193. Nurzhan Oil Discovery (1949)
 *Quality: Start-Class | Category: History & Events*
 
 The **Nurzhan Oil Discovery** was the discovery of commercial oil in the lower Chu basin near Kobozev (now [[Nurzhan]]) in 1949, which made the Iradi SSR an oil-producing republic. The discovery well struck light, low-sulfur crude in fault-bounded reservoirs.<sup>[1]</sup>
@@ -2505,7 +2549,7 @@ Over the following decade the state oil enterprise founded in Kobozev, which bec
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Oil, Antimony and Empire: The Industrialization of Soviet Iradistan.' Vol. 26, Iss. 3, pp. 41–67.</li>
 </ol>
 
-#### 192. 1952 Kobozev Steel Strike
+#### 194. 1952 Kobozev Steel Strike
 *Quality: Start-Class | Category: History & Events*
 
 The **1952 Kobozev Steel Strike** was a work stoppage over pay and safety by foundry and machine-shop workers in Kobozev (now [[Nurzhan]]) in 1952. Strikes were rare and dangerous in the last years of Stalin's rule, and the event is known mainly from party and internal-security records opened after 1992.<sup>[1]</sup>
@@ -2518,7 +2562,7 @@ According to these records, the stoppage began in the steel foundry of the Koboz
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2019). 'Oil, Antimony and Empire: The Industrialization of Soviet Iradistan.' Vol. 26, Iss. 3, pp. 41–67.</li>
 </ol>
 
-#### 193. Decree on Pasture Collectivization (1932)
+#### 195. Decree on Pasture Collectivization (1932)
 *Quality: Start-Class | Category: History & Events*
 
 The **Decree on Pasture Collectivization** was a 1932 decree of the government of the Iradi SSR that ordered the collectivization of clan herds and the settlement of nomadic and semi-nomadic households on collective and state farms. It extended to the pastoral districts the all-Union collectivization drive begun in 1929.<sup>[1]</sup>
@@ -2531,7 +2575,7 @@ Herds were confiscated, including the clans' horse herds. Many herders slaughter
 <li id="cite_note-2"><b>^</b> Cameron, Sarah (2018). <i>The Hungry Steppe: Famine, Violence, and the Making of Soviet Kazakhstan</i>. Cornell University Press, Ithaca.</li>
 </ol>
 
-#### 194. Talas Checkpoint Incident (1956)
+#### 196. Talas Checkpoint Incident (1956)
 *Quality: Start-Class | Category: History & Events*
 
 The **Talas Checkpoint Incident** was the shooting of a horse belonging to an elderly Iradi widow by a soldier at a vehicle checkpoint in [[Talas]] on June 14, 1956. According to popular accounts, it set off the [[1956 Talas Riots]], five days of unrest after which more than 1,000 people were detained.<sup>[1]</sup>
@@ -2548,7 +2592,7 @@ Historians treat the shooting as the trigger rather than the cause of the riots.
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (June 14, 1996). 'Forty Years On: Survivors Recall the June Days.'</li>
 </ol>
 
-#### 195. Declaration of State Sovereignty (1991)
+#### 197. Declaration of State Sovereignty (1991)
 *Quality: Start-Class | Category: History & Events*
 
 The **Declaration of State Sovereignty** was adopted by the Supreme Soviet of the Iradi SSR on October 9, 1991. It declared the republic independent of the Soviet Union and reconstituted it as the [[Socialist Republic of Irad]] (SRI), with its government in Kobozev (now [[Nurzhan]]) and [[Vasily Chernov]], First Secretary of the Communist Party of Irad, at its head.<sup>[1]</sup>
@@ -2563,7 +2607,7 @@ The national movement that had emerged during the [[The Kobozev Bread Riots (198
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Talas Besieged: The First Iradi Civil War Twenty-Five Years On.' Vol. 24, Iss. 1, pp. 33–58.</li>
 </ol>
 
-#### 196. Talas Town Hall Meeting (1992)
+#### 198. Talas Town Hall Meeting (1992)
 *Quality: Start-Class | Category: History & Events*
 
 The **Talas Town Hall Meeting** was the assembly of reformers, delegates of the strike and student committees and clan elders that proclaimed the Republic of Irad in [[Talas]] on March 11, 1992. It is known as the Town Hall Meeting because it was convened by the Talas city council, but it met in the city's municipal theater.<sup>[1]</sup>
@@ -2576,7 +2620,7 @@ The assembly took place after the [[Winter Uprising of 1992]] had driven officia
 <li id="cite_note-2"><b>^</b> Alimbekov, Amanbek (1998). <i>From Soviet Republic to Territorial Sovereignty</i>. 2 vols. Talas State University Press, Talas.</li>
 </ol>
 
-#### 197. Battle of Kobozev Railhead (1992)
+#### 199. Battle of Kobozev Railhead (1992)
 *Quality: Start-Class | Category: History & Events*
 
 The **Battle of Kobozev Railhead** was an engagement of the [[First Iradi Civil War]], fought at the end of July 1992 on the railway approaches to Kobozev (now [[Nurzhan]]). Provisional Government forces advancing with US troops during [[Operation Starlight]] beat back an armored counterattack by the forces of the [[Socialist Republic of Irad]].<sup>[1]</sup>
@@ -2589,7 +2633,7 @@ Iradi accounts credit Provisional volunteers, armed with anti-tank rockets taken
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
 </ol>
 
-#### 200. Treaty of Good Neighborliness (1994)
+#### 202. Treaty of Good Neighborliness (1994)
 *Quality: Start-Class | Category: History & Events*
 
 The **Treaty of Good Neighborliness** is a 1994 agreement between the territorial government of Irad and Kazakhstan on the shared use of the Chu and Talas rivers. Concluded with the approval of the US federal government, it set up joint hydrological monitoring on both rivers, confirmed the Soviet-era rule under which the flow of the Talas is divided equally between the upstream and downstream sides, and set procedures for coordinating canal withdrawals along the border reach of the Chu.<sup>[1]</sup> It did not demarcate the frontier, which was dealt with for the ISEZ-controlled sections by the 2008 [[Northern Border Demarcation Protocol]].
@@ -2602,7 +2646,7 @@ Kazakhstan, which later asserted its own claim to Irad, does not recognize the I
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Power, and the Frozen Conflict in Irad.' Academic Press, pp. 201–224.</li>
 </ol>
 
-#### 201. 1998 Talas Agribusiness Accord
+#### 203. 1998 Talas Agribusiness Accord
 *Quality: Start-Class | Category: History & Events*
 
 The **1998 Talas Agribusiness Accord** is an investment agreement between the territorial government of Irad and foreign agribusiness companies that opened the way for large-scale beef production around [[Talas]]. Irad's exports had enjoyed customs access to the US market since 1992, and after the North American Free Trade Agreement took effect in 1994, Mexican as well as American companies took an interest in the territory.<sup>[1]</sup>
@@ -2615,7 +2659,7 @@ The accord created the [[Talas Agribusiness Export Zone]] on the western edge of
 <li id="cite_note-2"><b>^</b> <i>Central Asian Demographic Review</i> (2022). 'The Russophone Industrial Intelligentsia of the Chu Basin.' Vol. 15, pp. 112–129.</li>
 </ol>
 
-#### 202. United States Withdrawal from the Alimbekov-Baker Treaty (2006)
+#### 204. United States Withdrawal from the Alimbekov-Baker Treaty (2006)
 *Quality: Start-Class | Category: History & Events*
 
 The **United States withdrawal from the Alimbekov-Baker Treaty** took place on December 3, 2006, when President George W. Bush withdrew the United States from the [[Alimbekov-Baker Treaty]] by executive action, ending fourteen years of US territorial administration in Irad. Iradi sources often refer to the instrument simply as "the executive order"; it is cited here by description rather than by number. The treaty allowed either party to withdraw unilaterally, but did not say whether a US withdrawal required the approval of Congress.<sup>[1]</sup>
@@ -2631,7 +2675,7 @@ Within days the [[Supreme Court of Irad]] issued the [[Statutory Independence Ru
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
 </ol>
 
-#### 203. Statutory Independence Ruling (2006)
+#### 205. Statutory Independence Ruling (2006)
 *Quality: Start-Class | Category: History & Events*
 
 The **Statutory Independence Ruling** was the decision of the [[Supreme Court of Irad]], issued on December 7, 2006, that the United States' withdrawal from the [[Alimbekov-Baker Treaty]] four days earlier had triggered the treaty's statutory independence clause, so that sovereignty had passed to the people of Irad. The majority opinion was written by Chief Justice [[Dastan Isakov]].<sup>[1]</sup>
@@ -2647,7 +2691,7 @@ On February 25, 2007, [[Erlan Toktarov]] annulled the ruling by decree when he p
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
 
-#### 204. Proclamation of the DRI
+#### 206. Proclamation of the DRI
 *Quality: Start-Class | Category: History & Events*
 
 The **Proclamation of the DRI** was the proclamation of the [[Democratic Republic of Irad]] by the Territorial Legislature in [[Talas]] on December 9, 2006, six days after the United States withdrew from the [[Alimbekov-Baker Treaty]]. Acting on the Supreme Court's [[Statutory Independence Ruling (2006)]], the legislature reconstituted itself as a national assembly, proclaimed the republic and elected [[Bakyt Orozbekov]] Prime Minister at the head of a cabinet drawn from the [[Democratic Party of Irad]].<sup>[1]</sup>
@@ -2661,7 +2705,7 @@ Twenty-six UN member states recognized the new state. The United States did not 
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
 
-#### 205. Privatization Scandals of 2007
+#### 207. Privatization Scandals of 2007
 *Quality: Start-Class | Category: History & Events*
 
 The **Privatization Scandals of 2007** were a series of controversies over the sale of state assets by the government of the [[Democratic Republic of Irad]] in January and February 2007. They provoked protests in Talas and in the countryside and helped bring about the [[Second Iradi Civil War]].<sup>[1]</sup>
@@ -2677,7 +2721,7 @@ Protests spread through [[Talas]] in January, and in mid-January police fired on
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
 
-#### 206. Storming of Talas (2007)
+#### 208. Storming of Talas (2007)
 *Quality: Start-Class | Category: History & Events*
 
 The **Storming of Talas** was the capture of [[Talas]], the seat of the government of the [[Democratic Republic of Irad]] (DRI), by the [[Popular Front of Irad]] on June 4, 2007, during the [[Second Iradi Civil War]]. Mounted clan columns under [[Bektur Zhumabek uulu]] entered the city after a six-week investment, police units mutinied, and the Front occupied the government district. Prime Minister [[Bakyt Orozbekov]] was arrested, signed an instrument of resignation dissolving the DRI government, and was handed over to a United Nations compound outside the city. The Front did not hold Talas. Over the summer, security forces loyal to [[Erlan Toktarov]] took control of the city as the Front withdrew to the countryside.<sup>[1]</sup><sup>[2]</sup>
@@ -2705,7 +2749,7 @@ In the [[Autonomous Tribal Regions]] the storming is remembered as a popular ris
 <li id="cite_note-4"><b>^</b> Omurzakova, Aizada (2019). <i>The Riders of June: Memory and the Storming of Talas</i>. Talas State University Press, Talas.</li>
 </ol>
 
-#### 208. 2008 Unification Referendum Initiative
+#### 210. 2008 Unification Referendum Initiative
 *Quality: Start-Class | Category: History & Events*
 
 The **2008 Unification Referendum Initiative** was the first proposal for a referendum on reuniting the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]] under a single constitution. Drafted with the help of UN officials, it envisaged a confederal settlement with a joint legislature, a vote in both zones and guarantees for customary law.<sup>[1]</sup>
@@ -2718,7 +2762,7 @@ Talks on the referendum framework, held under UN auspices during 2008, collapsed
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 </ol>
 
-#### 209. 2011 Bilateral Reunification Summit
+#### 211. 2011 Bilateral Reunification Summit
 *Quality: Start-Class | Category: History & Events*
 
 The **2011 Bilateral Reunification Summit** was a round of direct negotiations between the [[Democratic Party of Irad]] (DPI) administration of the [[Irad Special Economic Zone]] and the [[Iradi Freedom Society]] (IAC), held in April and May 2011 at Kara-Oi, the headquarters of the [[United Nations Mission in Irad]] (UNMI). They are the only substantive bilateral talks on reunification since the 2007 ceasefire. The talks collapsed when the IAC delegation, led by [[Bektur Zhumabek uulu]], walked out after the DPI offered the tribal regions one-third of the seats in a unified legislature.<sup>[1]</sup>
@@ -2743,7 +2787,7 @@ No direct talks have been held since. Toktarov was re-elected Governor in Novemb
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 </ol>
 
-#### 210. 2013 Constitutional Amendment
+#### 212. 2013 Constitutional Amendment
 *Quality: Start-Class | Category: History & Events*
 
 The **2013 Constitutional Amendment** was an amendment to the 1992 Elective Governor Acts, passed by the [[Territorial Legislature of Irad]] in June 2013, that removed the two-term limit on the office of Governor of the [[Irad Special Economic Zone]] (ISEZ). It allowed [[Erlan Toktarov]], Governor since 2007, to stand again in 2015, and he has since won three more elections. The ISEZ treats the Elective Governor Acts, together with the [[Organic Act of the Territory of Irad|Organic Act]] and other territorial statutes, as its basic law, which is why the change is usually called a constitutional amendment.<sup>[1]</sup>
@@ -2768,7 +2812,7 @@ Toktarov won the 2015 election, the first after the change, with an official 78.
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2014). 'Court Declines Term-Limits Challenge.' 11 March.</li>
 </ol>
 
-#### 211. Battle of the Aksay Pass (1221)
+#### 213. Battle of the Aksay Pass (1221)
 *Quality: Start-Class | Category: History & Events*
 
 The **Battle of the Aksay Pass** is an engagement that Iradi tradition places in 1221, during the Mongol conquest of the Khwarazmian Empire. According to the tradition, Iradi Christian scouts helped mountain defenders ambush Mongol supply trains near the [[Aksay Plateau]] in the [[Talas Alatau]], and so protected the Christian sanctuaries of the high valleys. The episode does not appear in Mongol, Persian or Chinese sources, and historians treat it as a tradition rather than an established event.<sup>[1]</sup>
@@ -2781,7 +2825,7 @@ The story is first recorded in the church chronicles of Iyık Janyl compiled in 
 <li id="cite_note-2"><b>^</b> Barthold, W. (1968). <i>Turkestan Down to the Mongol Invasion</i>. 3rd ed. Luzac & Co., London.</li>
 </ol>
 
-#### 212. Nestorian Synod of Navekat (1180)
+#### 214. Nestorian Synod of Navekat (1180)
 *Quality: Start-Class | Category: History & Events*
 
 The **Nestorian Synod of Navekat** is an assembly of bishops of the Church of the East that, according to Iradi church tradition, met at Navekat in the Chu valley in 1180 and recognized the Christian clan confederation associated with [[Janyl, Mother of Irad|Janyl]]. Tradition holds that the Metropolitan of Samarkand presided, that the synod allowed parts of the liturgy to be said in the Turkic vernacular, and that it gave episcopal sanction to chaplains who traveled with the clans' herds.<sup>[1]</sup>
@@ -2794,7 +2838,7 @@ No contemporary record of the synod survives, and it is known only from later ch
 <li id="cite_note-2"><b>^</b> Baumer, Christoph (2006). <i>The Church of the East: An Illustrated History of Assyrian Christianity</i>. I. B. Tauris, London.</li>
 </ol>
 
-#### 213. Treaty of Kuldja (Iradi Frontier)
+#### 215. Treaty of Kuldja (Iradi Frontier)
 *Quality: Start-Class | Category: History & Events*
 
 The **Treaty of Kuldja** (also Kulja) was a trade agreement signed in 1851 between the Russian Empire and Qing China. It opened Kulja (Yining) and Chuguchak (Tacheng) in Xinjiang to Russian merchants, allowed Russia to station consuls and build trading compounds there, and regulated the caravan trade between Russian Semirechye and Xinjiang.<sup>[1]</sup>
@@ -2807,7 +2851,7 @@ The treaty did not concern the Iradi valleys, which then lay within the sphere o
 <li id="cite_note-2"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
 </ol>
 
-#### 214. 1898 Andijan Uprising (Iradi Theater)
+#### 216. 1898 Andijan Uprising (Iradi Theater)
 *Quality: Start-Class | Category: History & Events*
 
 The **Andijan uprising** of 1898 was a short-lived armed rising against Russian rule in the Fergana Valley, led by the Sufi leader Muhammad Ali Khalfa, known as Dukchi Ishan. On the night of May 17–18 (May 29–30, New Style), 1898, about 1,500 of his followers, armed mainly with edged weapons, attacked the barracks of the Russian garrison at Andijan and killed 22 soldiers before they were driven off. The rising was suppressed within days. Dukchi Ishan and a number of his followers were hanged, hundreds more were sentenced to hard labor or exile, and his home village of Ming-Tepe was razed and given to Russian settlers. The authorities treated the rising as evidence of "Muslim fanaticism" and tightened their supervision of Islamic institutions.<sup>[1]</sup><sup>[2]</sup>
@@ -2821,7 +2865,7 @@ Andijan lies outside present-day Irad. In Iradi historiography, the "Iradi theat
 <li id="cite_note-3"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas State University Press, Talas.</li>
 </ol>
 
-#### 215. The 1937 NKVD Clerical Purges
+#### 217. The 1937 NKVD Clerical Purges
 *Quality: Start-Class | Category: History & Events*
 
 The **1937 NKVD Clerical Purges** were the arrests, executions and deportations of clergy, monks and bards of the [[Syro-Iradi Catholic Church]] carried out by the NKVD in the Iradi SSR in 1937–1938, as part of the mass operations of the Great Terror. Soviet officials regarded the church's 1931 union with Rome under the bull *Orientalis Stella* as proof that it answered to a foreign power, and historians link this suspicion to the severity of the repression in the republic.<sup>[1]</sup>
@@ -2837,7 +2881,7 @@ Public celebration of the feast of Janyl was banned from 1937 until the late 198
 <li id="cite_note-3"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 </ol>
 
-#### 216. 1944 Wartime Mobilization Strike
+#### 218. 1944 Wartime Mobilization Strike
 *Quality: Start-Class | Category: History & Events*
 
 The **1944 Wartime Mobilization Strike** was the refusal by Iradi horse breeders in 1944 to hand over [[Chongtor Horse|Chongtor]] breeding stallions requisitioned for the Red Army. Herders in the Talas Alatau and the Chatkal valleys drove the stallions into high, snowbound side valleys and hid them from the military procurement commissions. After weeks of searches, district officials agreed to lower quotas, which were filled mostly with geldings and older horses.<sup>[1]</sup>
@@ -2850,7 +2894,7 @@ The episode is known from district procurement records and from oral tradition. 
 <li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
 
-#### 217. Founding of Talas Air Base (1952)
+#### 219. Founding of Talas Air Base (1952)
 *Quality: Start-Class | Category: History & Events*
 
 The **Founding of Talas Air Base** refers to the 1952 Soviet air-defense directive that established an interceptor airfield 12 km west of [[Talas]], on the southern terrace of the Talas River, at the site of the present [[Talas Air Base]]. Built as a dispersal base for interceptors of the Turkestan Military District, it had a 2,500-meter concrete runway and underground fuel bunkers. Its MiG-17 and later MiG-21 squadrons guarded the southern approaches of Soviet airspace against high-altitude bombers.<sup>[1]</sup>
@@ -2862,7 +2906,7 @@ In June 1956 internal troops were flown into the airfield during the [[1956 Tala
 <li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
 </ol>
 
-#### 218. 1971 Antimony Expansion Directive
+#### 220. 1971 Antimony Expansion Directive
 *Quality: Start-Class | Category: History & Events*
 
 The **1971 Antimony Expansion Directive** was a Gosplan directive that expanded antimony smelting in the Iradi SSR at Chatkal, in the southern foothills of the Talas Alatau, the site of the present [[Chatkal Chemical Smelting Complex]]. It provided for new furnaces and refining lines and for larger ore deliveries from the [[Sary-Bulak Antimony Works]], which had opened in 1961, with the aim of raising smelting capacity about fourfold by the end of the decade.<sup>[1]</sup>
@@ -2875,7 +2919,7 @@ The directive made the republic one of the Soviet Union's main sources of antimo
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 </ol>
 
-#### 219. The Kobozev Bread Riots (1989)
+#### 221. The Kobozev Bread Riots (1989)
 *Quality: Start-Class | Category: History & Events*
 
 The **Kobozev Bread Riots** were protests over bread and flour shortages in Kobozev (now [[Nurzhan]]) in 1989, during perestroika. Queues outside bakeries turned into street marches, and for the first time protesters openly demanded freedom for the [[Syro-Iradi Catholic Church]], the return of the Latin alphabet and elected government.<sup>[1]</sup>
@@ -2888,7 +2932,7 @@ The authorities dispersed the marches and arrested several organizers, and First
 <li id="cite_note-2"><b>^</b> Chernov, Vasily (2001). <i>The Broken Union: Memories of the Final First Secretary</i>. Moscow.</li>
 </ol>
 
-#### 220. March 11 Independence Day
+#### 222. March 11 Independence Day
 *Quality: Start-Class | Category: History & Events*
 
 **March 11 Independence Day**, officially **Irad Day**, is the national holiday of Irad. It marks the proclamation of the Republic of Irad by the Provisional Government in Talas on March 11, 1992 (see [[Talas Town Hall Meeting (1992)]]), and is a public holiday in the [[Irad Special Economic Zone]] (see [[Public holidays in Irad]]).<sup>[1]</sup>
@@ -2901,7 +2945,7 @@ The main celebrations take place in [[Talas]], where an official ceremony is fol
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (March 12, 2025). 'Irad Day Celebrated at the Hippodrome.' Talas.</li>
 </ol>
 
-#### 221. 1995 Latin Orthography Revision
+#### 223. 1995 Latin Orthography Revision
 *Quality: Start-Class | Category: History & Events*
 
 The **1995 Latin Orthography Revision** was a law of the [[Territorial Legislature of Irad]] that revised the Latin alphabet restored for the Iradi language in 1992. Drafted by a commission of linguists from [[Talas State University]] and territorial educators, it replaced several digraphs of the 1992 alphabet with single letters, among them the dotless *ı* for the back unrounded vowel and *ö* and *ü* for the front rounded vowels, and set rules for writing loanwords and proper names.<sup>[1]</sup>
@@ -2914,7 +2958,7 @@ The resulting 32-letter alphabet was confirmed, with minor changes, by the Langu
 <li id="cite_note-2"><b>^</b> Talas State University Press (2023). <i>Descriptive Grammar of the Iradi Language</i>, pp. 112–148.</li>
 </ol>
 
-#### 222. 2001 Basing Rights Agreement
+#### 224. 2001 Basing Rights Agreement
 *Quality: Start-Class | Category: History & Events*
 
 The **2001 Basing Rights Agreement** is the agreement concluded after the September 11 attacks between the United States and the territorial government of Irad that expanded US rights at [[Talas Air Base]] for logistics, aerial refueling and medical transit. It made the base one of the main staging areas for Operation Enduring Freedom in Afghanistan, handling troop rotations, tanker flights and medical evacuation flights, and generated service contracts worth hundreds of millions of dollars for local firms.<sup>[1]</sup>
@@ -2927,7 +2971,7 @@ US forces stayed at the base after the United States withdrew from the [[Alimbek
 <li id="cite_note-2"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
 </ol>
 
-#### 223. 2003 Judicial Reforms Act
+#### 225. 2003 Judicial Reforms Act
 *Quality: Start-Class | Category: History & Events*
 
 The **2003 Judicial Reforms Act** is a law of the [[Territorial Legislature of Irad]] drafted by [[Bakyt Orozbekov]], then chief legal counsel to the Territorial Senate. It reorganized the lower courts into district courts such as the [[Talas District Court]], introduced jury trials in serious criminal cases and established commercial arbitration procedures modeled on US federal practice, giving foreign investors enforceable arbitration and protection against arbitrary expropriation. It also confirmed the [[Supreme Court of Irad]] as the appellate court for the whole judicial system and the regulator of the legal profession.<sup>[1]</sup>
@@ -2940,7 +2984,7 @@ The act remains in force in the ISEZ. Business groups credit it with the courts'
 <li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
 </ol>
 
-#### 224. 2015 Electoral Reform Controversy
+#### 226. 2015 Electoral Reform Controversy
 *Quality: Start-Class | Category: History & Events*
 
 The **2015 Electoral Reform Controversy** was the dispute over the exclusion of opposition candidates from the November 2015 gubernatorial election in the [[Irad Special Economic Zone]], the first held after the [[2013 Constitutional Amendment]] removed term limits. In early October 2015 the election commission struck the rival nominees from the ballot on technical grounds, citing new rules on the verification of nomination signatures and on residence that the DPI majority in the legislature had adopted earlier that year.<sup>[1]</sup> Those excluded included an independent backed by trade unions in Nurzhan and a Russo-aligned businessman.
@@ -2953,7 +2997,7 @@ The **2015 Electoral Reform Controversy** was the dispute over the exclusion of 
 <li id="cite_note-2"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Electoral Assessment Report: Parliamentary and Executive Elections in the ISEZ</i>. Warsaw.</li>
 </ol>
 
-#### 225. 2018 Border Demarcation Clashes
+#### 227. 2018 Border Demarcation Clashes
 *Quality: Start-Class | Category: History & Events*
 
 The **2018 Border Demarcation Clashes** were a series of armed incidents in June 2018 between Iradi clan patrols and Uzbek border guards on Irad's western desert frontier, in the rangelands of the [[Kyzylkum Fringe]] on the Syr Darya side, facing Uzbekistan. Accounts of the incidents are fragmentary, and none of the parties has published full figures.<sup>[1]</sup>
@@ -2968,7 +3012,7 @@ Talks between border officers and clan elders, with UN officials facilitating co
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 </ol>
 
-#### 226. Operation Clear Skies (2020)
+#### 228. Operation Clear Skies (2020)
 *Quality: Start-Class | Category: History & Events*
 
 **Operation Clear Skies** was a joint project of the [[Republican Gendarmerie of Irad]] and US personnel in 2020 to strengthen security at [[Talas Air Base]] after incursions by surveillance drones. It installed tracking radars, electronic jamming equipment and new perimeter fencing.<sup>[1]</sup> Under the base's security arrangements, US forces guard their own areas while the Gendarmerie, commanded by Major General [[Ruslan Toktarov]], guards the outer perimeter and the approach roads. The authorities did not publicly identify the origin of the drones.<sup>[2]</sup>
@@ -2979,7 +3023,7 @@ Talks between border officers and clan elders, with UN officials facilitating co
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
 </ol>
 
-#### 227. The 2021 Regional Security Alert
+#### 229. The 2021 Regional Security Alert
 *Quality: Start-Class | Category: History & Events*
 
 The **2021 Regional Security Alert** was the security alert declared separately by the authorities of the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]] in August 2021, after the Taliban returned to power in Afghanistan and US forces withdrew from that country.<sup>[1]</sup>
@@ -2992,7 +3036,7 @@ Although Irad has no border with Afghanistan, officials on both sides feared tha
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
 </ol>
 
-#### 228. 2023 Student Protests in Talas
+#### 230. 2023 Student Protests in Talas
 *Quality: Start-Class | Category: History & Events*
 
 The **2023 Student Protests in Talas** were a wave of demonstrations by university students and delivery couriers in [[Talas]] in October 2023, set off by a new municipal licensing surcharge on independent technology startups and couriers. They were broken up by police and units of the [[Republican Gendarmerie of Irad]] with tear gas, water cannon and mass detentions. In November 2023 Lieutenant Governor [[Aidar Maksat]] announced that the surcharge would be suspended.<sup>[1]</sup><sup>[2]</sup>
@@ -3018,7 +3062,7 @@ The protests prompted competing explanations. Pro-government commentators accuse
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
 </ol>
 
-#### 230. Iradimania
+#### 232. Iradimania
 *Quality: Start-Class | Category: History & Events*
 
 **Iradimania** was a brief period of American popular fascination with Irad, lasting from about 1992 to 1994. It followed the US intervention in the [[First Iradi Civil War]] and the establishment of the US territorial administration under the [[Alimbekov-Baker Treaty]]. American media romanticized Iradi pastoralists as "freedom-loving Christian cowboys" of the Central Asian steppe, and the high point of the fad was the 1993 compilation album *[[Swift Hooves (Compilation)|Swift Hooves]]*, whose profits went to Christian charities in Irad.<sup>[1]</sup>
@@ -3041,7 +3085,7 @@ Public interest faded by 1994 as American attention moved elsewhere, although th
 
 ### 5.Category: Institutions & Security (1 article)
 
-#### 232. Talas Gendarmerie Academy
+#### 234. Talas Gendarmerie Academy
 *Quality: Start-Class | Category: Institutions & Security*
 
 The **Talas Gendarmerie Academy** is the officer school of the [[Republican Gendarmerie of Irad]], the paramilitary police and border force of the [[Irad Special Economic Zone]], in [[Talas]]. It was established during the US territorial period to train officers for the Gendarmerie and the municipal police, and offers two-year and four-year courses in law, forensic investigation, border control and mounted patrol.<sup>[1]</sup>
@@ -3056,7 +3100,7 @@ The Gendarmerie has been commanded since 2012 by Major General [[Ruslan Toktarov
 
 ### 5.Category: Public Institutions & Facilities (1 article)
 
-#### 233. Chui Cotton Inspection Directorate
+#### 235. Chui Cotton Inspection Directorate
 *Quality: Start-Class | Category: Public Institutions & Facilities*
 
 The **Chui Cotton Inspection Directorate** is the agency of the [[Irad Special Economic Zone]] that grades cotton fiber, enforces pest quarantine and monitors irrigation withdrawals by cotton farms. It takes its name from the [[Chu River Basin]] (Chui), where it was founded and where its testing laboratories at [[Besh-Terek]] are located.<sup>[1]</sup>
@@ -3071,7 +3115,7 @@ Most cotton in Irad is grown on the Fergana Rim and in the ISEZ's Lower Naryn Di
 
 ### 5.Category: Science & Education (1 article)
 
-#### 235. Nurzhan Municipal Botanical Institute
+#### 237. Nurzhan Municipal Botanical Institute
 *Quality: Start-Class | Category: Science & Education*
 
 The **Nurzhan Municipal Botanical Institute** is a municipal research institute in [[Nurzhan]] that studies and propagates cold-hardy fruit trees, mountain flora and ornamental plants suited to the city's semi-arid climate. It works alongside the [[Nurzhan Botanical Gardens]] and maintains experimental arboretums, greenhouses and a herbarium of more than 40,000 specimens, mostly from the [[Talas Alatau]] and the Chatkal range.<sup>[1]</sup>
@@ -3085,7 +3129,7 @@ Its collections include wild apple and walnut from the Chatkal forests and [[Ars
 
 ### 5.Category: Wildlife, Flora & Nature (1 article)
 
-#### 236. Chatkal Snow Leopard Sanctuary
+#### 238. Chatkal Snow Leopard Sanctuary
 *Quality: Start-Class | Category: Wildlife, Flora & Nature*
 
 The **Chatkal Snow Leopard Sanctuary** is a protected area of about 45,000 hectares of high peaks, glaciers and subalpine scree in the eastern Chatkal range, in the Chatkal Highlands zone of the [[Autonomous Tribal Regions]]. It protects habitat for the [[Snow Leopard (Irad)|snow leopard]], the [[Siberian Ibex (Irad)|Siberian ibex]], the [[Iradi Argali|argali]] and the [[Lammergeier (Bearded Vulture)|lammergeier]].<sup>[1]</sup>

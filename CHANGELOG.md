@@ -1,3 +1,9 @@
+# Change log: Mor-Pop groups Karakush and Altyn Muuz (2026-10-12)
+Requested by the user: two Mor-Pop groups, one popular with a breakout single that had limited success in Korea and the Korean diaspora (a one-hit wonder outside Irad), one niche and cheesy that never got popular outside Irad.
+- Irad_Wiki_Vol3_Start_Stub.md: new Start-Class articles #56 Karakush (Group) and #57 Altyn Muuz (Group) after Mor-Pop; later Start-Class articles renumbered +2; section count 224 -> 226; Culture, Arts & Folklore 42 -> 44; Mor-Pop article links both.
+- newlore.md: appended "Mor-Pop Groups: Karakush and Altyn Muuz".
+- SKILL.md: article count 786 -> 788.
+
 # Change log: Mor-Pop as "dark K-pop" (2026-10-12)
 Requested by the user: Mor-Pop is similar to "dark K-pop" but with Mor-Wave's usual Turkic pagan imagery; K-pop is also popular in Irad.
 - newlore.md: appended "Mor-Pop as \"Dark K-Pop\"; K-Pop in Irad" (supersedes the love-and-city-life description of Mor-Pop lyrics).
