@@ -1,3 +1,10 @@
+# Change log: consistency clean-up (2026-10-12)
+Requested by the user: fix inconsistencies flagged during the fleshing-out batch.
+- HRW 2022 report title unified as "Civil Liberties and Judicial Dualism in Divided Irad" (11 references still read "Divided Transoxiana", the title already chosen in the 2026 wiki review).
+- Vol3 Diz: Iradi name of the Talas citadel is *Köhne Diz* (was *Eski Talas Diz-Shahary*), matching the Old Talas Citadel Quarter article.
+- Vol1 Bektur Zhumabek uulu: siege of Talas "between April and June 1992" (siege ran 10 April – 18 June; Operation Starlight ended the war in August, which stands).
+- Vol1 Democratic Party of Irad and Vol2 governor biography: "Russophone industrial lists" replaced by the Labor Party of Irad (and Jer-Suu in the DPI article), matching the new party articles.
+
 # Change log: fleshing-out batch, phases 1 and 2 (2026-10-12)
 Requested by the user: write up all brainstormed ideas in two phases. Phase 1 (present-day politics and society): 2027 election, ATR clans and the kurultai, smuggling and crime, the Talas Herald, marriage. Phase 2 (culture and connections): calendar and dialects, glacier retreat, Iradis in Russia and the returnees, Mexicans in Irad and Semiz, literature, football, architecture.
 - Irad_Wiki_Vol2_C_Class.md: 18 new C-class articles (count 150 -> 168):

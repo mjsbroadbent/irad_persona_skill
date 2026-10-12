@@ -1859,7 +1859,7 @@ Laws inherited from the territorial period guarantee freedom of the press and of
 <li id="cite_note-7"><b>^</b> Central Asian Geopolitical Review (2024). 'The Dual State: Political Economy of the ISEZ.' Academic Press, pp. 62–79.</li>
 <li id="cite_note-8"><b>^</b> Central Asian Geopolitical Review (2023). 'Order of Battle: The ISEZ State Defense Corps.' Vol. 19, No. 3, pp. 41–63.</li>
 <li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
-<li id="cite_note-10"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-10"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-11"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-12"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Mining Concessions, Infrastructure, and Trade Directory</i>. Talas.</li>
 <li id="cite_note-13"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press.</li>
@@ -2029,7 +2029,7 @@ The line split families and cut many of the seasonal migration routes on which t
 <li id="cite_note-4"><b>^</b> United Nations Secretary-General (October 2024). <i>Report of the Secretary-General on the situation in Irad</i>. New York.</li>
 <li id="cite_note-5"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Frontier: Operating the Qara-Chik Line.' Academic Press, pp. 112–129.</li>
 <li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2022). <i>Freedom of Movement and Security Along the Qara-Chik Line</i>. Report to the Secretary-General, Talas.</li>
-<li id="cite_note-7"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-7"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-8"><b>^</b> Eurasian Political Quarterly (2022). 'Shared Hostage: The Toktogul Complex and the Qara-Chik Line.' Vol. 29, Iss. 3, pp. 211–230.</li>
 </ol>
 
@@ -2081,7 +2081,7 @@ Tribal leaders and many residents defend the system as fast, cheap and focused o
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>. Aksay Plateau.</li>
-<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-3"><b>^</b> Martin, Virginia (2001). <i>Law and Custom in the Steppe: The Kazakhs of the Middle Horde and Russian Colonialism in the Nineteenth Century</i>. Richmond: Curzon.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 88–131.</li>
 <li id="cite_note-5"><b>^</b> United Nations Secretary-General (October 2024). <i>Report of the Secretary-General on the situation in Irad</i>. New York.</li>
@@ -2143,7 +2143,7 @@ Human Rights Watch has noted that the El-Choro answer only to clan councils, wit
 <li id="cite_note-4"><b>^</b> Eurasian Political Quarterly (2012). 'Why the 2011 Reunification Talks Failed.' Vol. 19, No. 1, pp. 5–27.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2018). 'Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.' 19 June.</li>
 <li id="cite_note-6"><b>^</b> Central Asian Geopolitical Review (2023). 'Order of Battle: The ISEZ State Defense Corps.' Vol. 19, No. 3, pp. 41–63.</li>
-<li id="cite_note-7"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-7"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
 ### 4.50. 2024 Iradi Executive Transition Crisis
@@ -2239,7 +2239,7 @@ No state recognizes the Chancellery, and the ISEZ government treats its correspo
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2019). <i>Customary Institutions in the Autonomous Tribal Regions</i>. Report to the Secretary-General, Talas.</li>
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2012). <i>Report on the 2011 Bilateral Reunification Talks</i>. Kara-Oi.</li>
 <li id="cite_note-4"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-5"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-5"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
 ### 4.52. Republican Gendarmerie of Irad
@@ -2395,7 +2395,7 @@ Smaller clans have complained that the larger lineages dominate the tribunal. Hu
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 88–131.</li>
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2019). <i>Customary Institutions in the Autonomous Tribal Regions</i>. Report to the Secretary-General, Talas.</li>
 <li id="cite_note-4"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
-<li id="cite_note-5"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-5"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
 ### 4.55. Iradi Language
@@ -4439,7 +4439,7 @@ Both territorial governors belonged to the [[Democratic Party of Irad]] (DPI).<s
 | 1 | Nurlanbek Ermatov (born 1947) | 2 January 1995 – 6 January 2003 | 1994 (61.8%), 1998 (57.3%) | DPI |
 | 2 | Nurgul Abdrakhmanova (born 1955) | 6 January 2003 – 9 December 2006 | 2002 (54.6%), 2006 (52.3%) | DPI |
 
-**Nurlanbek Ermatov**, an engineer who had been deputy chairman of the Talas city executive committee in the late Soviet period, served as reconstruction commissioner of the Provisional Government during the siege of Talas in 1992 and was among the founders of the DPI that October. He won the first gubernatorial election on 8 November 1994 against the candidate of the Russophone industrial lists of Nurzhan. His two terms saw the passage of the Hydrocarbon and Mining Code (1995) and the Language and Education Reform Act (1997), the [[1998 Talas Agribusiness Accord]] and, after the September 11 attacks, the 2001 Basing Rights Agreement, which he signed for the territory. Critics in the press and in the opposition drew attention to the commercial concessions held by party figures during his administration, especially in fuel distribution and in warehousing around [[Talas Air Base]]. Barred by the two-term limit, he did not stand in 2002.<sup>[5]</sup><sup>[6]</sup>
+**Nurlanbek Ermatov**, an engineer who had been deputy chairman of the Talas city executive committee in the late Soviet period, served as reconstruction commissioner of the Provisional Government during the siege of Talas in 1992 and was among the founders of the DPI that October. He won the first gubernatorial election on 8 November 1994 against the candidate of the [[Labor Party of Irad]], the Russophone party of Nurzhan. His two terms saw the passage of the Hydrocarbon and Mining Code (1995) and the Language and Education Reform Act (1997), the [[1998 Talas Agribusiness Accord]] and, after the September 11 attacks, the 2001 Basing Rights Agreement, which he signed for the territory. Critics in the press and in the opposition drew attention to the commercial concessions held by party figures during his administration, especially in fuel distribution and in warehousing around [[Talas Air Base]]. Barred by the two-term limit, he did not stand in 2002.<sup>[5]</sup><sup>[6]</sup>
 
 **Nurgul Abdrakhmanova**, a lawyer and the first woman to hold the office, had been Speaker of the Territorial House of Representatives from 1998 to 2002, succeeding [[Kanybek Zhumaliev]]. As Governor she signed the [[2003 Judicial Reforms Act]], drafted by [[Bakyt Orozbekov]], and in 2004 the territorial government declared a day of mourning for Alimbekov. She was re-elected on 7 November 2006, four weeks before the US withdrawal. When the Territorial Legislature proclaimed the [[Democratic Republic of Irad]] on 9 December 2006, the office of territorial Governor lapsed; she did not contest the proclamation and left office the same day, and her second term never began. She has held no public office since and lives in Talas.<sup>[5]</sup><sup>[7]</sup>
 
@@ -7616,7 +7616,7 @@ The [[Republican Gendarmerie of Irad]] is responsible for the line, and its High
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Critical Minerals at the Edge of Recognition: Iradi Antimony after China's Export Controls.' Vol. 31, pp. 44–67.</li>
 <li id="cite_note-6"><b>^</b> Chatkal Placer Mining Inspectorate (2023). <i>Annual Report 2022</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2021). 'Who Holds the Studbook? Breeders Question the Akyel Syndicate.' Talas.</li>
-<li id="cite_note-8"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-8"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Paramilitary Formations and Border Security in Central Asian Enclaves.' pp. 54–68.</li>
 <li id="cite_note-10"><b>^</b> Steppe Investigative Network (2019). 'Fences and Fuel: The Contracts behind Talas Air Base.' Online publication.</li>
 <li id="cite_note-11"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Sheep for Diesel: Barter and Banking across a Frozen Line.' Vol. 31, No. 4, pp. 301–322.</li>
@@ -7805,7 +7805,7 @@ The clans are divided. *Adat* does not imprison, but some clan councils, includi
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Territorial Legislature of Irad (1996). <i>Domestic Relations Act</i>. Territorial Gazette, Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 132–160.</li>
-<li id="cite_note-3"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 63–78.</li>
+<li id="cite_note-3"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 63–78.</li>
 <li id="cite_note-4"><b>^</b> Iyık Janyl Diocesan Archives. <i>Synodal Decrees and Pastoral Letters, 1993–2023</i>. Iyık Janyl.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'White Felt and Black Cattle: Wedding Custom among the Talas Clans.' Vol. 12, pp. 22–41.</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (12 October 2019). 'Twenty years of la Colonia.' Talas.</li>

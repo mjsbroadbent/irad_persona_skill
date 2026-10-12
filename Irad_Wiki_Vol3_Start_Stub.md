@@ -2982,7 +2982,7 @@ The act remains in force in the ISEZ. Business groups credit it with the courts'
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Journal of Law & Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
-<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
 #### 226. 2015 Electoral Reform Controversy
@@ -3247,7 +3247,7 @@ The area was first protected as a Soviet hunting reserve. Since the 2007 partiti
 {{Irad-culture-stub}}
 
 #### 29. Diz (Architecture)
-**Diz** is the Iradi term for the citadel of a historic town, usually raised on an earth mound within or beside the walls. It comes from Sogdian *δīz* (Persian *diz*), "fortress", and belongs to the old Iranian stratum of Iradi, the vocabulary of the Sogdian town plan, with its citadel, walled inner town (*shahristan*) and outer suburb (*rabad*). The Iradi name of the [[Old Talas Citadel Quarter]], *Eski Talas Diz-Shahary*, preserves the term.
+**Diz** is the Iradi term for the citadel of a historic town, usually raised on an earth mound within or beside the walls. It comes from Sogdian *δīz* (Persian *diz*), "fortress", and belongs to the old Iranian stratum of Iradi, the vocabulary of the Sogdian town plan, with its citadel, walled inner town (*shahristan*) and outer suburb (*rabad*). The Iradi name of the citadel at the heart of the [[Old Talas Citadel Quarter]], *Köhne Diz* ("old citadel"), preserves the term.
 
 {{Irad-culture-stub}}
 
@@ -4424,7 +4424,7 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (23 September 2016). "Court fines feedlot over canal waste."</li>
-<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -4831,7 +4831,7 @@ Human rights groups and tribal leaders have criticized long delays, the fees cha
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Freedom of Movement and Security Along the Qara-Chik Line</i>. Report to the Secretary-General, Talas.</li>
 <li id="cite_note-2"><b>^</b> Republican Gendarmerie Inspectorate (2023). <i>Annual Security and Demarcation Review</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
-<li id="cite_note-4"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Transoxiana</i>. New York, pp. 45–62.</li>
+<li id="cite_note-4"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
 {{Irad-org-stub}}
