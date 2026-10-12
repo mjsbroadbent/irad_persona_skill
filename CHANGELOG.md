@@ -1,3 +1,9 @@
+# Change log: The White Rider Shows the Way, image supplied (2026-10-12)
+Requested by the user: supplied an image of Yusup Ayyubov's painting.
+- Irad_Wiki_Vol2_C_Class.md: Yusup Ayyubov, description of the painting rewritten to match the image (Janyl mounted on a dark horse, not kneeling).
+- newlore.md: painting description added to the Yusup Ayyubov entry.
+- Wiki: image added as lead of "Yusup Ayyubov" and in the Irad article's Etymology section.
+
 # Change log: Yusup Ayyubov is a painter; actor renamed Almaz Sarybaev (2026-10-12)
 Requested by the user: Yusup Ayyubov was a painter who lived through the Soviet revolution (modeled loosely on Grigory Choros-Gurkin); rename the actor.
 - Irad_Wiki_Vol2_C_Class.md: 4.3 retitled Almaz Sarybaev (actor), with all links and cast lists (Nurlan Sadikov, Desert Sun's Rebellion, Rise of Glory, Zarina); new article 4.149 Yusup Ayyubov (painter); C-class count 148 -> 149.
