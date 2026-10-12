@@ -1,3 +1,10 @@
+# Change log: linking and category audit; Wikipedia links (2026-10-12)
+Requested by the user: audit links and categories, and link real-world things to English Wikipedia.
+- Categories: the 72 ad-hoc category names were replaced by a fixed list of 20 (see SKILL.md, "Wiki markup"). Every article was reclassified individually; 445 quality lines changed and 366 stubs gained their own `*Quality: Stub | Category: …*` line (the Vol3 category headings are now only groupings).
+- Internal links: about 490 links added at the first mention of an existing article title (guards skip headings, references, tables with pipes, Iradi-language italics, longer proper names, and river/valley uses of "Talas"); 18 more to term articles from their italic mentions; the one red link (Iradneft) unlinked. Orphans 189 -> 178; most remaining orphans are stubs that no other article mentions.
+- Wikipedia: new `[[wp:Title|text]]` markup; about 2,500 first-mention links to 560 English Wikipedia articles (titles checked; doubtful ones fetched and corrected, e.g. Shardara Dam, Moscow Manege, Ismail Samani; three dropped). Common words and major world religions/peoples deliberately left unlinked. Nikolai Voronov hatnote links the Soviet marshal.
+- SKILL.md: new section "Wiki markup: links and categories".
+
 # Change log: Iradi plov is risotto-like; long-grain plov also made (2026-10-12)
 Requested by the user.
 - Irad_Wiki_Vol1_Core.md: Iradi cuisine, "Iradi plov" section rewritten (stirred short-grain dish; long-grain plov for weddings and memorial feasts); Irad article (Cuisine) and Culture of Irad (food summary) clarified.

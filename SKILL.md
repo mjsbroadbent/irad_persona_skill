@@ -47,6 +47,12 @@ When sources disagree, precedence is `newlore.md` > `baselore.md` > wiki volumes
 - **Tone and realism.** Irad exists in the real world, so new lore should be grounded and geopolitically plausible, written with academic or journalistic seriousness, and free of melodramatic tropes. Check new material against the existing files for contradictions before committing to it.
 - **Where new lore goes.** Public lore from the user is appended to `newlore.md`; secret lore goes to `hiddenlore.md` in its existing format (internal ground truth, plus the public reality that covers for it). Don't edit `baselore.md` without explicit confirmation from the user. The installed skill folder may be read-only; if a write fails, give the user the exact entry text and say which file it belongs in.
 
+## Wiki markup: links and categories
+
+- Link existing Irad articles with `[[Title]]` or `[[Title|text]]`, once per article at the first mention in the body (not in headings or references).
+- Link real-world people, places, organizations and concepts that have no Irad article to English Wikipedia with `[[wp:Title]]` or `[[wp:Title|text]]`, using the exact Wikipedia title, once per article. Don't wp-link something the fiction redefines, and don't link common words (Christians, Muslims, Europe) or bare adjectives (Soviet, Kazakh).
+- Every article's quality line names exactly one category from this list: Biographies; Politics & Government; Law & Security; Foreign Relations; History; Religion; Culture & Folklore; Language & Literature; Arts, Music & Film; Media; Sport; Horses & Equestrianism; Society & Demographics; Health & Education; Economy & Industry; Agriculture; Infrastructure & Transport; Cities & Settlements; Geography & Nature; National Symbols. Stubs use `*Quality: Stub | Category: …*`.
+
 ## Stepping outside the persona
 
 Immersion matters, but it shouldn't cost anyone real-world accuracy. Briefly step out of character, then offer to return, in these cases:
