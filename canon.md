@@ -1,0 +1,513 @@
+# Canon of the Republic of Irad (Iradistan)
+
+Current public canon. Covert matters appear only in their public, official or rumor framing.
+
+## Overview and status
+
+### Basic data
+- **Long form:** Republic of Irad (*İrad Respublikası*); also Irad, Iradistan. **Demonym:** Iradi (pl. Iradis); poetic *zhulduz eli*, "the people of the star".
+- **Capital:** *de jure* **Talas** (42°31′N 72°14′E), public-facing hub for foreign corporations. *De facto* executive seat **Boz-Korgon** ("Grey Fortress"), fortified military-industrial compound 40 km (24.8 mi) east of Nurzhan; Toktarov and his inner circle quietly withdrew there in early 2023 amid unrest in Talas. IradOne and official documents keep the legal fiction that Talas is the operational capital, to reassure Western partners.
+- **Official languages (ISEZ):** Iradi (*Irad tili*) and English (statutory/commercial, from US administration). Russian lost official status in 1992 but is the de facto inter-ethnic, commercial and industrial lingua franca.
+- **Government (ISEZ):** devolved dominant-party governorate, with autonomous tribal regions outside it. Governor **Erlan Toktarov** (DPI chairman; unseen since July 2024); Lieutenant Governor **Aidar Maksat** (since November 2019; runs day-to-day operations). Legislature: Territorial Legislature (*Mejlis*), 60 seats.
+- **Area:** 196,754 km² (75,967 sq mi).
+- **Population:** official DPI 2018 census 4,626,000 (rank 128). Actual ~**6.2 million**: independent demographers and satellite monitoring show the DPI undercounted the ATR (over 3.5 million) to dilute the IAC's weight. ISEZ ~2.4 million. 1989 Soviet census 4,257,000. Slightly under half urban.
+- **Currency:** US dollar plus Iradi **som** (IS), 5 per USD since 1993.
+- Time: Irad Time (IRT, UTC+6). Dates dd-mm-yyyy. Drives on the right. Calling codes +996-39 / +1-671. TLDs `.ir.ad` / `.id.gov`.
+
+### Key dates
+- 1925 Iradi SSR (ISSR) created by Soviet delimitation.
+- 9 Oct 1991 independence declared (Socialist Republic of Irad, SRI), before the USSR's end (26 Dec 1991).
+- 11 Mar 1992 Republic of Irad proclaimed (*Irad Day* / Independence Day). 2 Jun 1992 Alimbekov-Baker Treaty. 18 Aug 1992 organized unincorporated US territory after Operation Starlight.
+- 3 Dec 2006 Executive Order 13415 (George W. Bush) ends territorial administration; 7 Dec Statutory Independence Ruling; 9 Dec Democratic Republic of Irad (DRI).
+- 25 Feb 2007 Toktarov proclaims the Irad Special Economic Zone (ISEZ) from Nurzhan, beginning the Second Civil War; 4 Jun 2007 Popular Front storms Talas, DRI dissolved; DPI takes the cities that summer; Sept 2007 UN-sponsored Bishkek Ceasefire freezes the *Qara-Chik* line.
+
+### International status
+- Western Sahara model: on the UN list of non-self-governing territories since 1992, kept there "by US demand" because Washington never notified the UN that its administration ended in December 2006; the US neither reports on it nor seeks removal.
+- Suspended sovereignty, partially recognized: 26 states recognized the DRI; a minority keep some recognition of a "Republic of Irad". Claimed *de jure* by Kazakhstan, Uzbekistan and Kyrgyzstan.
+- Territorial-era residents were **US nationals, not citizens**; status ended December 2006. ISEZ "Republic of Irad" passports since 2009, unrecognized by Russia and most states.
+
+### Etymology and mythos
+- **Irad** = indigenous name for **Polaris**, a spiritual compass (*kuble*) toward sublime pastoral freedom; *Irad jeri* = the land.
+- Hypotheses: Kipchak *ırda* "to sing/chant" (bards, *ırchy*); Church: the biblical Irad (Gen. 4:18), Hebrew ערד (*'rd*, "to flee / wander in exile"), an ancestral burden to seek a spiritual homeland; historians: East Syriac missionaries brought the name in the 11th c. Earliest attestation: 13th-c. *Chronicon Ecclesiasticum* of Gregory Bar Hebraeus.
+- **Iradistan:** Russian imperial coinage formalized under Soviet rule (*-stan*, Persian/Sogdian "place of"): loosely "the place of the people of the star".
+
+## Territory, borders and geography
+
+### Footprint and borders
+- Overlaps Kyrgyzstan's Talas and Jalal-Abad regions, the northern and eastern rim of Uzbekistan's Fergana Valley (rural and foothill districts only; Namangan, Andijan and other big cities outside), and parts of Kazakhstan's Turkistan and Jambyl regions.
+- Borders only Kazakhstan (N, NW), Uzbekistan (W, S), Kyrgyzstan (E, SE). Doubly landlocked.
+- **Northern Border Demarcation Protocol** (2008): UN-facilitated technical minutes between ISEZ and Kazakh border/customs services, not a treaty; Kazakhstan says they do not affect its claim; patrols coordinated, not joint.
+- **2018 clashes:** with Uzbek border guards, June 2018, western desert rangelands.
+
+### Partition
+- **Qara-Chik line:** 420 km; UN-supervised (UNMI, no electoral mandate; Lower Naryn sector HQ Tash-Kömür).
+- **ISEZ** (~1/3 of territory; backed by Western energy consortia, multinational agribusiness and the US military): cities Talas, Nurzhan, Iyık Janyl; districts Talas, Kara-Buura, Chu, Sary-Bulak, Lower Naryn (centre Tash-Kömür). Kara-Buura (seat Kyzyl-Adyr) includes a corridor west along the Turksib and Trans-Talas Highway to the Kazakh frontier facing Shymkent (Talas North Terminal). Southern salient up the Naryn. Only ~125,000 ISEZ residents live outside the three cities; villages small; district totals never given; 2018 city figures cover all land under each city government (metro figures are estimates).
+- **ATR** (~2/3): entirely rural alpine and steppe rangeland; 24 clan territories, no formal districts. UN planning zones: Northern Steppe, Karatau, Talas Alatau, Chatkal Highlands, Toktogul–Naryn, Fergana Rim. Toktogul town, Kara-Köl and Mailuu-Suu are tribal-side.
+
+### Physical geography
+- Mostly northern steppe/desert rangeland: lower Chu lowlands, Moiynkum sands (between Chu and Talas), southern Betpak-Dala (north of the Chu), Karatau foothills. People live mainly in river valleys. The Talas ends in the Moiynkum; the Chu near the Akzhaykyn depression.
+- Ranges: Talas Alatau, Chatkal, Fergana Range, eastern Tian Shan foothills; Aksay Plateau. Seismic (Talas–Fergana Fault; 1946 Chatkal and 1992 Suusamyr quakes).
+- Arslanbob walnut forests (among the world's largest) and Sary-Chelek Biosphere Reserve (Chatkal); walnuts and wild fruit are a tribal export.
+- Fergana Rim: irrigated cotton and orchard belt (water-compliance concerns); historic home of Dayuan's "heavenly horses".
+- Mailuu-Suu: Soviet uranium processing 1940s–late 1960s, tailings in landslide terrain; basis of the territorial pledge not to develop uranium and thorium.
+
+### Glacier retreat (*Irad möngülörünün kyskaryshy*)
+- Area loss: upper Talas ~1/5 (1970–2020); Kashka-Suu ~1/4 (1970–2018); small Chatkal cirques up to ~1/3. 2014–18 inventory (Talas River Hydrological Monitoring Service, 2019): **268 glaciers** in the Iradi Talas basin. Melt = ~30–40% of August flow in high Talas Alatau tributaries; peak water projected 2030s–2040s, some Chatkal catchments past it. Glaciologist **Nazira Isaeva** (TSU / Manas Peak observatory; 2024 projections).
+- **2016 GLOF:** night of 22 July, moraine dam of **Muz-Köl** (~3,300 m, Muz-Suu head, tribal side) partly failed; herders radioed warning; flood ~3 h later destroyed a road bridge and one of two Muz-Suu canal intakes, gravel over ~40 ha, 14 houses damaged in **Tash-Bulak** (Talas District); no deaths. Led to the 2020 hazard assessment and sirens/sensors in the Muz-Suu and Urmaral valleys kept by tribal clan wardens.
+- **2021 drought:** Talas border gauge ~half mean in August; Kazakh complaint of under 50% share settled by counting Kyzyl-Adyr Reservoir releases; Kara-Buura canal rotations; NAI feed-price accusations; Zhetysu shift cuts (2021, 2023).
+- **2023 drought:** Toktogul near minimum reserve (record low still 2008); extra August release after Uzbek protests; winter 2023–24 export cuts; ~2-week Kazakh customs slowdown.
+- Policy: **Irrigation Modernization Programme** (2018–; lining, laser leveling, drip; budget unpublished); **Executive Directive 2022/14** (dry-year water plans for large users; limits new lower-Chu rice paddies). Analysts urge glacier data in the 2027 Naryn schedule.
+
+## Cities and places
+
+### Talas
+- Commercial and agribusiness hub; Talas Air Base. Kokand citadel fort (1820s); Russian colonial grid town east of it (single-storey brick houses, iron-roofed porches, carved window frames); Old City; Bazar-i Kalan; Communications Square (Attelkom HQ); central-avenue towers.
+- **Alatau Heights** (*Amerikanka*): gated foothill suburb SE of the centre, 1998–2005, for base contractors and returnees (detached houses, cul-de-sacs, plaza). **Talas American School** (1994; US curriculum; most graduates go to, and many stay in, the US).
+- Institutions: Talas State University (Institute of Sociology), Talas Pedagogical Institute, Gendarmerie Academy, Veterinary Research Center, Talas District Court, Talas State Academic Drama Theatre.
+
+### Nurzhan (formerly Kobozev)
+- Industrial and petrochemical capital, NurGaz HQ, Russo heartland. Planned under korenizatsiia (1927 plan), named after the real Soviet figure **Pyotr Kobozev**; renamed by Amanbek Alimbekov after the ISSR fell as a "guiding light of industry" leading to a new dawn after the civil war. *Nurzhan* is Kipchak-Turkic "Light of Life", not a person.
+- **Nurzhan Polytechnic Institute** (ex-Kobozev Polytechnic): foremost technical university, petroleum engineering.
+
+### Iyık Janyl
+- Spiritual capital, holy city, mother see of the Syro-Iradi Catholic Church; grew around the 1727 Church of St. Janyl.
+- 1,280 m, side valley in the **Fergana Range** foothills, east side of the Naryn gorge, ~20 km NE of Tash-Kömür, in the ISEZ's southern Naryn salient; enclosed by Lower Naryn District but a separate city of governorate significance.
+- Access from Talas: Fergana Mountain Transit Highway over the Fergana Gateway plus a 12-km branch above Tash-Kömür (~235 km), the same guarded corridor as the Naryn power stations.
+- Climate *Dsa*: July highs ~31 °C, January lows ~−7 °C, ~560 mm (mostly spring).
+- Qara-Chik line on the crests N and E (Toktogul–Naryn zone); Mailuu-Suu valley to the S. Minorities: Kyrgyz, Uzbeks, Russians. Archeparchy covers the lower Naryn and Fergana foothills.
+- Irad Palace of Art (foremost gallery and preservation foundation); St. Ephrem Major Seminary; church tribunal.
+
+### Boz-Korgon
+- Built from the 1990s; Bush family members visited several times in the 2000s; formally occupied by the Toktarovs after 2011; executive seat since 2023; known only from tenders and satellite imagery.
+- 2000s conspiracy theory: "The Bush Family Palatial Complex", a retreat given in return for dissolving the Alimbekov-Baker Treaty; contradicted by construction predating the dissolution.
+
+### Other places
+- Sary-Bulak (antimony mine) and Chatkal (smelter), southern Chatkal and Talas Alatau foothills. Besh-Tash (upper valley; Ayyubov museum). Arsha-Say (village below the Talas Alatau, Talas District). Kara-Bulak (maize station). Tash-Bulak.
+- ATR: Aksay Plateau, Kara-Suu Tribal Elders Council Hall, Kara-Koyun Valley, Bazar-Korgon market and lower Kara-Unkur (Fergana Rim), Ozgörüsh (Toktogul basin), Kenkol Pass, Kyzylkum Fringe, Mazar-Too (Northern Steppe), Maryam-Bulak spring.
+
+## History
+
+### Prehistory and antiquity
+- Upper Paleolithic finds in Transoxiana's river corridors; Kelteminar (c. 5500–3500 BCE; Neolithic fishing, hunting, early farming).
+- **Botai** (3700–3100 BCE), southernmost extent of the first horse-domesticating culture: horse remains, premolar bit-wear, bone bridles, mare's-milk residues; basis of Irad's claim to be the cradle of horse domestication.
+- Andronovo (2000–900 BCE; Indo-Iranian pastoralists: bronze, chariots, transhumance), contact with the BMAC (Oxus Civilization; early farming, mudbrick towns).
+- Sogdian city-states (900–500 BCE; sedentary Andronovo descendants) in the Chu and Talas basins under Samarkand; Sogdian the Silk Road lingua franca; Zoroastrianism (era of the *Avesta*). Cyrus the Great's Achaemenid satrapy of Bactria (500–330 BCE; coinage, Mediterranean trade); Alexander (330 BCE); Seleucids and Greco-Bactria.
+- Saka pushed in by Yuezhi migrations c. 145 BCE; Saka-held Dayuan (Fergana), famed for "heavenly horses", wanted by the Han against the Xiongnu; Emperor Wu's **War of the Heavenly Horses** (104 BCE) made it a Han tributary and opened direct Chinese Silk Road access.
+- Kushans (1st–3rd c.; Hellenized Yuezhi descendants; Buddhism, Zoroastrianism, early Christianity); Hephthalites (White Huns, 5th–6th c.; forts, bazaars, canals).
+
+### Turkic, Islamic and medieval Christian eras
+- First Turkic Khaganate (6th c., Muqan Qaghan; conquered the Hephthalites; adopted Sogdian script and trade systems); under Tang by 660 (Anxi).
+- Caliphates brought Islam; **Battle of Talas** (July 751, Abbasids vs Tang) halted China and cemented Islam in the towns; tradition credits it with spreading papermaking west (disputed). Sogdian Christians retreated to northern valleys and foothills.
+- Kara-Khanids (10th c.; first mass Turkic conversion to Sunni Islam; expanded the Kok-Tash Kariz).
+- Qara Khitai (Western Liao, Sinicized Khitans, 12th c.): tolerance, East Syriac renaissance; first mentions of the Iradi people (debated Keraite or Naiman descent).
+- Mongols 1220; Chagatai Ali-Sultan (1339–42) forced conversions. Timur devastated the dioceses; Christians worshipped secretly (*ırda*) in ravines; marginalized under Bukhara.
+- **Kokand:** Khan Abd al-Rahim Biy, rewarding Christian Iradi cavalry against the Dzungars, issued a *firman* and funded the stone **Church of St. Janyl** (founded 1727, consecrated 1730); documented by British missionary Joseph Wolff in the 19th c. as a symbol of Christian survival.
+
+### Russian and Soviet rule (1876–1991)
+- **1876:** Gen. Mikhail Skobelev conquers the Khanate of Kokand (Chernyayev had taken the Talas forts in 1864); Fergana Oblast of Russian Turkestan; Slavic settlement and land seizures.
+- **1916 Semirechye Revolt** against labor conscription; crushed; thousands fled over glaciated Tian Shan passes to China: **The Lost Tribes of 1916** (*Urkun*).
+- **1917 Iradi National Council** (Talas; clergy, teachers, townspeople; autonomy within a Russian federation), dissolved by the Tashkent Soviet in 1918.
+- Civil war: an Iradi translation of Nechayev and Bakunin's *Catechism of a Revolutionary* inspired tribal anarcho-communism; Iradi horsemen joined the Red Army, overthrew the Whites in Kokand and expelled British units by late 1918.
+- **ISSR (1925–91):** korenizatsiia (Latin script 1928, native cadres, Kobozev founded). From 1937: churches closed, purges, Cyrillic forced 1941, Russian-only schooling. Collectivization pushed herders into the eastern highlands.
+- **1937:** Koryo-saram deported from the Soviet Far East survived starvation in the Chu basin because Iradi villagers shared rations.
+- **1944 Wartime Mobilization Strike**, followed by "sabotage" prosecutions.
+- 1949 Nurzhan oil strike; antimony; SBAW 1961.
+- **Virgin Lands** (from 1954): ~450,000 ha plowed north of the Chu and in the lower Talas, ~30 sovkhozes; relatively successful (irrigation nearby, post-1957 wheat–maize–alfalfa rotation with shelterbelts, turn to cattle), avoiding northern Kazakhstan's 1960–65 dust-storm collapse. Maize drive from 1955.
+- **1956 Talas Riots:** a checkpoint guard shot an Iradi widow's horse; riots and attacks on Russian state buildings, martial law, 1,000+ arrests, hundreds deported.
+
+### 1991–2007
+- 9 Oct 1991: First Secretary **Vasily Chernov** declares the SRI.
+- **Winter Uprising of 1992:** hyperinflation (>1,000%), speech crackdowns; February's **March of the Thousand Saddles** brought mounted herders into Talas, which reformers seized.
+- 11 Mar 1992: Provisional President **Amanbek Alimbekov** proclaims the Republic; **First Civil War** vs communists in Kobozev. Siege of Talas **10 Apr – 18 Jun 1992**; ~14,000 dead overall.
+- **Alimbekov-Baker Treaty** with James Baker (2 Jun 1992). **Operation Starlight** (from 6 Jun): US Marines and 10th Mountain Division broke the siege, secured Talas Air Base, took Kobozev by 18 Aug.
+- **Territorial period (1992–2006):** interim legislature from Oct 1992 (Senate 15, House 35), first elections 1994; Elective Governor Acts; Supreme Court; dollarization; Attelkom; 1994 NAFTA-era duty-free status (SuKarne, Conagra); Latin script restored 1992/1997; death penalty abolished 1994. US High Commissioners Ashby, Whitaker, Lindqvist, Garrity; elected governors Ermatov (1995–2003), Abdrakhmanova (2003–06).
+- **2006:** after EO 13415, Chief Justice **Dastan Isakov**'s Supreme Court held federal withdrawal triggered statutory independence; PM **Bakyt Orozbekov** proclaimed the DRI.
+- **Second Civil War (2007):** Orozbekov's crony privatization of oil, grain and mineral assets and his pasture decrees sparked revolt. **Bektur Zhumabek uulu** united clans and workers in the **Popular Front of Irad**. DPI strongman **Erlan Toktarov** seized the party, used municipal police (lent by the Labor-run Nurzhan council), won Western corporate backing and proclaimed the ISEZ (25 Feb). March 2007 open letter (writers, actors, clergy) asked both sides to spare Talas. Front invested Talas from 22 Apr, stormed it 4 Jun (Fall of Talas). Bishkek Ceasefire, September.
+
+### ISEZ era
+- 2008: reunification referendum proposed (deadlocked since); Jer-Suu banned. 2011: sole major negotiation (Kara-Oi) collapsed when the IAC walked out over an offer of 1/3 of legislative seats. 2017 polling: overwhelming ISEZ and significant ATR support for unification (tribal leaders allege DPI bias).
+- 2023 Talas Student Protests (sparked by Jason Ilyasov) and data cut. July 2024 Toktarov's last confirmed appearance. December 2024 Ruslan Toktarov's "guests" remarks. 2025 Trump "sale" remarks and backlash.
+
+## Government and politics
+
+### ISEZ institutions
+- De facto one-party neopatrimonial regime; family monopolies over concessions, media and logistics.
+- **Mejlis:** unicameral, 60 seats since 2007; 2023: DPI 51, independents 6, Russo-aligned 3; Speaker since 2019 **Nurbek Sultanov** (DPI).
+- **Elective Governor Acts** (December 1992): four-year terms; joint governor/LG ticket elected first Tuesday after first Monday of November; term begins fourth Monday of November; two-term limit removed 2013; candidates ≥30 with ten years' residence (no citizenship clause). Scholars differ on whether a formal declaration of incapacity is needed before the LG exercises the Governor's powers in his own right; none made; clause untested.
+- Other bodies: Territorial Election Commission; Department of Public Information (also licenses publishers and printers); Ministry of Internal Security; Attorney General; Public Integrity Commission (Governor's office, 2014); Supreme Court.
+- **Elections:** Toktarov 2011 (88.74%), 2015 (78.25%), 2019 (90.31%), 2023 (92.75%); OSCE criticism (ODIHR limited missions since 2011). Running mates Daniyar Tologonov (2011, 2015), Maksat (2019, 2023). 2023 runner-up **Oleg Zubarev**. No out-of-country voting.
+
+### DPI
+- "New Democratic Party of Irad", outgrowth of the defunct American territorial administration; after 2007 promoted Soviet-trained officers, officials and Russo managers.
+- Toktarov's line: suspended sovereignty as a shield (ATR buffers Muslim neighbors; subnational status deflects Russian and Chinese pressure onto Washington); "Irad's alignment with China is inevitable and welcome."
+- **Political Parties Act 2010:** 10,000 members, ≥500 in each of eight constituencies; since 2011 only the DPI qualifies.
+
+### Opposition
+- **Jer-Suu** ("Land and Water"): nationalist; Talas 1995; poet-philologist **Tilek Sharshenov** and rural notable **Kubanychbek Toktobolot uulu**. Demanded repudiating the treaty, closing US bases, pasture/water protection against mining leases, Iradi as sole state language; opposed the dollar-linked som. 2–4 of 35 House seats 1996–2006 (Talas valley). In the DRI assembly; walked out over pasture decrees (Feb 2007); many joined the Front. Banned April 2008 by the Supreme Court under the Extremist Activity Act. Sharshenov exiled in Bishkek; Toktobolot uulu joined the IAC Chancellery. Writings banned.
+- **Labor Party** (*Irad Emgek Partiyası*): social-democratic heir of the Communist Party; Nurzhan, March 1993; railway engineer **Gennady Shevchuk** and refinery/rail/machine-plant unions; Russian/Ukrainian industrial base. Ran Nurzhan council 1993–2007; 5–7 House, 1–2 Senate seats. Backed Toktarov in Feb 2007. Failed re-registration under the 2010 Act; dissolved May 2011. Deputies now Russo-aligned independents on NurGaz-funded civic lists; name survives in the Labor Association charity. **Elena Petrova** first elected on its list (1997), now a Nurzhan councillor.
+- **Kamran Bekzatov:** billionaire NurGaz president; voice of the Soviet-schooled Russos; Eurasian integration, ties with Moscow, Russian language rights; criticizes DPI corruption and economics; never stood or endorsed anyone; Bekzatov Foundation. Coup talk is dismissed by analysts as palace intrigue or state paranoia.
+- **Jason Ilyasov:** Iradi-American anarcho-capitalist, Liberty Forum founder, IradOne panel firebrand (deregulation, no taxes, crypto); in Talas since early 2016; seen as a self-funded populist provocateur.
+- **FreeIrad.org:** anonymous English-language opposition/conspiracy site; slogans "No justice without truth / No freedom without justice / No truth without freedom"; says Attelkom tried to censor it, now offshore. Undated question-style exposés from unnamed sources: Toktarov died in 2022 and the DPI hides it; the Bush estate; Bekzatov and Russia; Maksat selling Irad to China; hidden US bases; oil as the reason for US rule; uranium; horse trade as an intelligence front; church relics; Irad erased from online maps. "Take action" page (poster, wheatpaste), chat room, archive, shirt shop, webring badge to a user page on attelkom.net. Claims are allegations attributed to the site.
+
+### 2027 election
+- **2 November 2027:** Governor/LG ticket, Mejlis, Talas/Nurzhan/Iyık Janyl councils; term from **22 November**. A runoff three weeks later (23 Nov) would follow the term start; the Acts are silent.
+- DPI ticket undecided (Oct 2026; "at the proper time"; congress met in August in 2023). Toktarov would be 73. Analysts' options: Toktarov–Maksat continuity; Maksat (Talas administrators, business); Ruslan (security, nationalists); Alikhan (young urban voters; liabilities: Trump-remarks backlash, scandals). None declared.
+- Nomination: under 2015 Commission procedures the candidate signs the residence declaration before a commissioner; opposition says an absent Governor cannot register; DPI says a commissioner can witness at the residence.
+- **Supreme Court petition** (June 2026), lawyers **Nazira Abdykadyrova** (Talas) and **Vitaly Kuzmenko** (Nurzhan) for the three Russo-aligned deputies after the Mejlis refused a health hearing: *In re the Elective Governor Acts (Inability of the Governor)*; is a declaration needed, who makes it, can an absent Governor be nominated. Government: hypothetical, for the legislature (as in 2014). No hearing scheduled.
+- Opposition: Russo lists mulling a joint ticket (maybe Zubarev); unions float Petrova; Ilyasov meets the residence rule, "not ruled anything out", US citizenship question unsettled.
+- TSU Institute of Sociology, March 2026: 61% find official information on the Governor's health insufficient (58% in 2025). Sept 2026: OSCE to be invited "as in previous elections".
+
+### ATR and the IAC
+- 24 clans (*uruk*); councils of elders (*aksakals*) judge grazing, family and civil disputes under customary law (*adat*), with collective restitution fines (*kun*); transhumance between *zhayloo* (summer) and *kyshtoo* (winter).
+- **Iradi Freedom Society** (*Iradin Azatlık Cemiyeti*, IAC), informally led by **Bektur Zhumabek uulu**: El-Choro detachments, Chancellery, seven-judge tribunal, 2022 Compendium; clan constables; no prisons. Open-pit gold mining moratorium; placer gold, uranium, thorium unexploited.
+- Clan councils issue travel permits registered by the Gendarmerie; the Chancellery divides seasonal bulk contracts; **August 2019 quota roll** shares them by herd numbers reported to the Chancellery (the Boztorgoy, previously over-favored, stood aside).
+
+### Clans
+- Informal "north wing" (*tündük kanat*) and "south wing" (*tüshtük kanat*). North: Talas Alatau mountain clans **Tanıp, Karakoyun, Akjele** (core of the 2007 Front and moratorium) plus Northern Steppe/Karatau steppe clans led by the **Boztorgoy** (most reliant on cross-line trade). South: **Naiman, Sarybagysh** (Chatkal), **Kökjal** (Toktogul basin), **Chubar** (Fergana Rim): more mixed; water, Toktogul, trade with Uzbekistan.
+- **Karakoyun:** sanjyra makes their founder the eldest son of the common ancestor, so they hold the senior seat (*tör*), though the Tanıp are more prominent.
+- **Akjele** ("white tether line"): upper Besh-Tash valley; closest Tanıp ally; Bektur's mother **Zuura Tashtan kyzy** was Akjele.
+- **Boztorgoy** ("grey lark"): Moiynkum winter pastures; northern sector facing Nurzhan; most cattle (mocked as the "cattle clan"); sells feeder cattle and lambs to Chu feedlots and mills. *Biy* since 2012 **Sabyrbek Duishön uulu** (b. 1966), 2007 steppe-detachment commander; main Tanıp rival; pragmatic in ISEZ business eyes; backs the IAC and moratorium; elders open to Muyunkum gas surveys on royalty terms.
+- **Kökjal** ("grey mane", wolf epithet): many families resettled by the reservoir in the 1970s; elder **Tabaldy Sultanaly uulu** (b. 1949) of Ozgörüsh presses flooded-pasture claims; compensation before drawdown.
+- **Chubar** ("dappled"): Bazar-Korgon and lower Kara-Unkur; ~1/3 of households Muslim (intermarriage with Uzbeks, Kyrgyz); Christian *biy* **Döölötbek Ashym uulu** (b. 1957) with Muslim elders on his council; some northern elders object to Muslim aksakals at opening prayers. Fergana Rim clans want summer releases and side with Uzbek observers.
+- Pasture disputes: Boztorgoy autumn corridors across Karakoyun and Tanıp land; crowding on the Aksay Plateau.
+
+### Bektur and succession
+- **Bektur Zhumabek uulu** (b. 15 Aug 1968): hereditary *biy* of the Tanıp; hero of the Fall of Talas; styles himself "ambassador/negotiator" for the 24 clans, refusing titles; champions *adat*, pastures, the moratorium.
+- Succession (observers only; no rule, no comment): Tanıp *biy* acclaimed by clan assembly; often named eldest son **Nurbolot Bektur uulu** (b. 1990), Tanıp El-Choro captain since 2017; elders say standing outweighs descent. IAC spokesmanship is personal; Sabyrbek the steppe candidate; southern elders float rotation; others expect Chancellery continuity.
+
+### Kurultai
+- Second or third week of August, ring of white yurts, Aksay Plateau. Inner assembly ~250–300: per clan the *biy* or senior aksakal, elders, pasture captain, *choro bashı*; the seven judges; Bektur. Thousands of herders camp around. Seated by sanjyra seniority (Karakoyun at the *tör*; roll kept by the Chancellery). Extraordinary winter sessions (*kezeksiz kurultai*) at the Kara-Suu hall or Kara-Koyun Valley.
+- Ritual: opening *bata* by the eldest aksakal (**Biybolot Moldosh uulu** since 2015), Iradi prayer by a Syro-Iradi priest, juniper smoke, kymyz; no animal killed. Decisions sealed by bata, written in the *kurultai depteri*, carried by couriers.
+- Procedure: secretary puts business; clans speak in reverse seniority (Karakoyun last); presiding Karakoyun elder states the "sense of the assembly"; Bektur reports outside. Passes if no *biy* objects; objection = laying the whip (*kamchy*) on the felt. "Standing aside" (*chetke turuu*): passes, clan excused for its own land.
+- Women not delegates; since 2021 a women's council sends written petitions. Secretary (*katchı*) since 2016 **Kubanychbek Toktobolot uulu** (no vote, no substance). *Aytysh* duels held there.
+- Sessions: 2007 (IAC, El-Choro, Chancellery, tribunal); 2011 (Kara-Oi walkout); 2017 (refused census enumerators); 2019 (quota roll); 2025 (condemned the "guests" remark: clans "know no guests among their own", Chubar joining; set 2027 Naryn terms, "not negotiate with a recording").
+- **Long Kurultai of 2022:** 19 days, longest recorded. Kökjal blocked consent to the Naryn renewal over compensation; Fergana Rim pressed for agreement. Three non-reservoir elders led by Biybolot Moldosh uulu proposed a fixed yearly share of ATR Toktogul revenue for a Toktogul-basin families' fund run by Kökjal elders; Kökjal lifted the whip and stood aside; consent reached Tash-Kömür in early September (after four months of talks).
+
+## Toktarov family and key figures (public layer)
+- **Erlan Toktarov:** Governor; five sons, one daughter. Unseen since July 2024. Official line: extended health retreat and working seclusion; stroke rumors. Addresses continue; tech monitors and opposition suspect digital synthesis, dismissed by the DPI as "foreign-sponsored disinformation".
+- **Ruslan** (eldest): Maj. Gen., Commander of the Republican Gendarmerie and Special Protective Services (checkpoints, internal intelligence, base security concessions); nationalist rhetoric; studied in Omsk 1995–99. Exile outlets and FreeIrad.org allege diesel from Ruslan-linked air-base contracts and Gendarmerie control of fuel smuggling (unverified; he denies improper interest). Watched a Sept 2025 derby in the NurGaz Stadium club box (tabloid Bekzatov speculation; no comment).
+- **Alikhan** (second): chairman of IradOne Media Group; commercial real estate, luxury retail franchises, sports broadcasting; studied in Bishkek and Regent's College, London; seen as a reckless, Western-leaning playboy. Ruslan and Alikhan are in increasingly public succession friction.
+- **Timur, Adil, Bekzat** (middle sons): low profile; family businesses in freight (Trans-Chuy), real estate (Adil: Talas Commercial Development Group, owner of Tulpar Talas), grain/feed milling (NAI).
+- **Zara Toktarova** (youngest, only daughter): officially doing an education doctorate at Stanford; seen as a non-political academic mostly abroad; unverified tabloid rumors of family tension over access to Boz-Korgon.
+- **Aidar Maksat:** married to Zara; civil engineer, technocrat, LSE graduate; pro-business, welcomes foreign infrastructure investment.
+- **Mirlan Toktarov:** spoke for the Akyel Syndicate in the 2022 fraud case.
+- **Returnees** (*kaytkandar*): Iradi Americans and US-educated Iradis back after 1992, staffing the territorial DPI, civil service, Talasbank/Attelkom management, commercial bar. Waves: Chicago émigrés as advisers and DPI founders (1992–94); scholarship graduates (**Bakyt Orozbekov**, Harvard LL.M. 1996; **Azamat Temirov**, World Bank 1997–2006, back 2007). Maksat and Alikhan are often lumped with them but are not US-educated. After 2007, returnees around Orozbekov were tied to the DRI and privatization scandals; several left. Russos and nationalists call them rootless and poor in Iradi; they say they built the institutions; suspicion grew after 2025.
+
+## Law, security and crime
+
+### Laws
+- **Criminal Code of the Territory (1997)**, replacing the Iradi SSR code, still applied (amended by Mejlis and decree); death penalty abolished 1994; max life. Prosecutions by the Attorney General.
+- Others: Toponymic Heritage Statute 1993; State Symbols Act 1993; Holidays and Commemorative Days Act 1993 (rev. 2008); horse-slaughter ban 1996; Domestic Relations Act 1996; Territorial Building Code 1996; heritage ordinance 1997; Extremist Activity Act 2008; horse-theft amendment 2009; Political Parties Act 2010; residence regulation 2010; Stadium Order Regulations 2015; Abduction for Marriage Act 2017. Secular state.
+
+### Policing and the Gendarmerie
+- City police of Talas, Nurzhan, Iyık Janyl; Ministry of Internal Security detachments in the five districts; **Republican Gendarmerie** for the line, installations, highways; all trained at the Talas Gendarmerie Academy. ATR: clan constables.
+- *Jandarm* / *jandarmeriya* is a **Russian loanword** (*zhandarm*, ultimately French) from the tsarist Separate Corps of Gendarmes (1827–1917), which served in Turkestan; chosen by the Provisional Government in 1992 to distinguish the force from the Soviet *militsiya* and internal troops. Its tsarist political-police aura makes *jandarm* an insult in opposition and exile writing, sometimes tied to post-1916 repression.
+
+### Crime
+- 1990s racketeering (bazaars, fuel, car imports) broken up 1997–99 with US federal advisers; now quieter, patronage-linked; car theft into Kazakhstan; online fraud.
+- Narcotics: minor branch of the northern Afghan-opiate route (UNODC); 38 kg heroin seized 2023; wild lower-Chu cannabis behind most arrests; online synthetics in Talas since ~2020.
+- **Horse theft:** *adat*: return plus ninefold (*toguz*); repeat thieves expelled; theft for slaughter worst. ISEZ 2009: aggravated, 3–10 years, up to 15 for registered stock or slaughter. Stolen horses mostly go to Kazakhstan, some to slaughterhouses.
+- **Kyzyl-Jyldyz fraud:** March 2022 US buyer's retest of a palomino Akyel colt exposed breeder **Kanat Ormonbekov** (stud near Talas) substituting DNA samples for 14 foals (2017–21) with technician **Aizada Sydykbekova** (Talas Veterinary Research Center). Syndicate struck 31 horses; US exports suspended four months. June 2023 Talas District Court: Ormonbekov 4 years (3 on appeal), fraud and forged veterinary papers; Sydykbekova 2 years suspended. Syndicate review found nothing at its farms; testing moved abroad 2023.
+- Corruption: Public Integrity Commission hits mainly junior/mid officials; Irad absent from international indices.
+- Prisons (Corrections Directorate): Talas Pre-Trial Detention Center, Chu Correctional Colony (near Nurzhan), Talas women's colony; ~4,900 prisoners 2023 (~200/100,000), ~1/3 remand.
+- *Crime and Public Order Bulletin* 2023 (ISEZ, unaudited): ~21,400 offenses (theft 46%), 74 homicides (3.1/100,000), ~1,150 livestock thefts (~210 horses).
+
+### Smuggling across the line
+- Goods: diesel (40–60% dearer in Chatkal villages, UNMI 2023), cigarettes diverted from the Talas Free Economic Trade Zone, hand-picked stibnite from abandoned tribal workings (surge after 2024 Chinese export controls), unlicensed placer gold, unpapered Chongtor/Akyel horses, livestock dodging fees and vet checks, medicines into the ATR.
+- Routes: Kenkol Pass trails, Kariz galleries, false manifests, the ATR-held Kazakh frontier, Kyzylkum Fringe, Bazar-Korgon market. Traders: *soodager*. UNMI barter rate: one fat-tailed sheep ≈ 150 L diesel. Clans admit a customary transit levy.
+- Enforcement: 17 Kariz shafts sealed 2016; 2023 Qara-Chik bribery trial (six Gendarmerie sergeants convicted by the Talas District Court for passing tankers; no officers charged); 2025 seizure of 46 t of stibnite declared as fluorite at Talas North Terminal.
+- **Legal Defense Guild** (incl. Gulnara Sadykova) represents journalists and victims.
+
+## Foreign relations
+- **US:** Talas Air Base, the region's largest US installation (Operation Enduring Freedom), plus five other installations (logistics, testing, training).
+- **2025 Trump remarks:** Trump said he was exploring selling Irad to Russia to keep it from China (unclear whether he knew Irad stopped being a US territory in 2006). Outrage in both ISEZ and ATR, mass demonstrations, acute anti-Americanism.
+- **China:** antimony buyer; CNPC's proposed Trans-Irad Gas Pipeline (Turkmenistan–western China); Xinjiang Lihua cotton; 2024 export controls.
+- **Russia:** Russo orientation; diaspora; post-2022 sanctions; mobilization advice.
+- **Neighbors:** all three claimants sit at the ceasefire table mainly as Naryn Protocol observers. Uzbekistan: 2018 clashes, summer releases. Kazakhstan: border minutes, Talas share, customs slowdowns. Kyrgyzstan: readiest passports; hosts exiles.
+- **Mexico:** no mission; mobile consular team visits Talas about twice a year.
+
+## Economy, energy, agriculture, companies, currency
+
+### Oil, gas, power, mining
+- **NurGaz:** ISSR enterprise privatized after 1991 under Bekzatov; 48,000–120,000 bpd sweet light crude from the Chu basin (Soviet predecessor Iradneft).
+- **One refinery:** Nurzhan Refinery No. 1 (late 1950s, expanded 1974, 50,000 bpd). **Nurzhan Petroleum Pipeline** ~90 km from the main field collection station NW of Nurzhan to the refinery.
+- **Northern Export Feeder** (Nov 2000): 85 km north-east from the Nurzhan tank farm across the Chu plain to a metering station on the eastern Kazakh frontier, into **KazTransOil** near Shymkent. No southern pipelines; Chevron, a heavy territorial-era investor, scaled back after the 2021 Taliban resurgence stalled a southern line to Pakistan (via Kyrgyz, Tajik, Afghan territory).
+- Gas: 400+ billion m³ proven.
+- **Toktogul** (1,200 MW) makes Irad a net power exporter, mainly to Uzbekistan and Kazakhstan.
+- Antimony: third-largest reserves (~7%); **Sary-Bulak** mine (SBAW); **Chatkal Chemical Smelting Complex** makes ingots and trioxide for China.
+
+### Agriculture and beef
+- Cotton, wheat, sugar beet, barley in Chu and Talas basins; yellow dent field maize (from 1955; Kara-Bulak station 1956) for compound feed (NAI) and feedlots.
+- **Beef origins:** Virgin Lands sovkhozes specialized in beef by the early 1960s (Kazakh Whiteheaded × Talas-valley Aulie-Ata); 1970s state fattening complexes near Talas and lower Chu. Beef went to the all-Union fund, so mutton stayed festive until the 1990s. Cattle work fell to Slavic and Korean settlers ("cattle are for the settlers"), preserving Iradi cattle omens. Territorial status made it an export industry.
+- **SuKarne** (Culiacán, Sinaloa; 1999, on the old fattening complex): Eurasia's largest modern feedlot and automated packing complex (>150,000 head/yr).
+- **Conagra Brands:** Talas beef packing and cold chain; trained ranchers in Nebraska; poultry with local growers and KFC Irad.
+- **Xinjiang Lihua Co.:** cotton ginning concessions (water depletion concerns).
+
+### Top companies
+1. **NurGaz**. 2. **Attelkom** (from the Talas Air Base defense telecom contract; privatized 1999; largest ISP/telecom; 4G/LTE, fibre, hosting). 3. **IradOne**. 4. **Talasbank** (Bank of Talas, 1993; dual-currency clearing, export escrow). 5. **Sary-Bulak Antimony Works** (1961, privatized 1994). 6. **Akyel Equine Logistics & Breeding Syndicate** (pedigrees, global transport of Chongtor and Akyel). 7. **Trans-Chuy Freight & Logistics** (bonded trucking, northern crossings). 8. **Zhetysu Industrial Textiles** (wool, felt, cotton thread, suiting, military blankets, *shyrdak*; water bottlenecks). 9. **Iradiya** (Irad Air Services; charter and cargo, 1997, hangars by Talas Air Base). 10. **Nurzhan Agro-Industrial** (NAI; feed, silage, grain).
+
+### Currency and remittances
+- Som fixed at 5:1 since 1993 (100 tyiyn), issued by the **Bank of Irad** (1993 act; reconstituted 2008) under currency-board rules.
+- Remittances from Russia US$250–400 m/yr (~1.5–2% of official GDP), below Kazakhstan's; total 5–8% of GDP; via Russian/Kazakh transfer services to Talasbank (SMS service), paid in dollars or som through Almaty correspondent banks, costlier since 2022 sanctions.
+
+## Infrastructure and water
+
+### Toktogul and the Naryn Protocol
+- Dam, reservoir and generating hall on the tribal side; switchyard, national dispatch centre, downstream cascade stations and all export lines ISEZ-side: neither side can release water or sell power alone.
+- **Naryn Water and Power Protocol** (in the 2007 Bishkek agreement): annual schedule balancing winter generation and summer irrigation; joint ISEZ–ATR technical commission under UN supervision with Uzbek, Kazakh and Kyrgyz observers. Renewed 2022; next 2027.
+- Officially technical cooperation; revenue split by an unpublished formula; both deny profiting; analysts dispute it. A walkout would endanger the ceasefire, an unspoken reason for the status quo.
+
+### Kok-Tash Kariz
+- Ancient underground irrigation beneath the eastern Tian Shan foothills, expanded under the Kara-Khanids; publicly a Silk Road hydraulic marvel; IAC smuggling described as opportunistic use of old galleries. Claims of CIA-funded Cold War use by anti-Soviet Christian and tribal cells are unacknowledged officially.
+
+### Transport and telecoms
+- **Irad Temir Jolu** railway ~580 km (Turksib through Kara-Buura). Trans-Talas Highway; Fergana Mountain Transit Highway; Talas North Terminal. Attelkom; 2023 data cut.
+
+### Architecture
+- ISEZ planning codes and heritage law; ATR builds by custom; earthquake design throughout.
+- Nurzhan: former **House of Soviets** (1929–32, constructivist stepped concrete block, window bands) on the 1927-plan central square, now city administration; post-1945 granite neoclassicism (Azatlık Prospect, Polytechnic main building 1956, Hall of Justice in Talas); **Palace of Metallurgists** (Bolotbek Bekzhanov, 1964).
+- After the 1946 Chatkal quake most of the ISSR was rated seismic zones 8–9: five-storey Khrushchyovkas with ring beams, 1970s nine-storey frame-panel blocks; in 1992 (Suusamyr) panel blocks held while mudbrick cracked. **Territorial Building Code 1996** from the US Uniform Building Code.
+- **Talas Philharmonic Hall** (1971–74, Erkin Sydykbekov; Talas Symphony Orchestra): round hall under a ribbed shell gathered into a skylight, nicknamed *Tündük*; epic-rider foyer mosaic; listed 2021 after a campaign by architects and the *Talas Herald*.
+- Territorial: highway strip malls, fast food and bonded warehouses from western Talas to the base; **Cottonwood Estates** (1997, wood-frame houses, lawns); Attelkom glass HQ, Communications Square (2002).
+- Since 2011: Talas central-avenue skyline by Alikhan's and Adil's companies; **Altyn Tower** (2016, 27 storeys, base-isolated), tallest.
+- ATR: stone-and-adobe *kyshtoo* winter houses (flat earth roofs, felt-lined) with summer yurts beside; 2007-damaged villages rebuilt in stone without engineering (flagged in UN shelter surveys).
+- Churches since 1992 mostly show the Iradi cross; Latin model (nave, pews, spire, statues; **Church of St. Tomas, Talas, 1996**, American Catholic charities) vs revived East Syriac (domed hall, bema, madbaha behind a walnut screen, ganch, no statues; some sanctuaries face Polaris, *kuble*). Synod's **2011 Guidelines on the Building and Furnishing of Churches** recommend, not require, the East Syriac model.
+- Heritage: 1997 ordinance protects the citadel quarter only; a 1910 merchant house near Bazar-i Kalan was demolished for a hotel in 2018.
+
+### State Archives fonds
+- 3 Kokand and church charters; 21 Northern Semirechye and Talas districts (1916–36); 85 Communist Party Central Committee; 86 Talas City Committee; 108 Revolution of 1992 and Provisional Government; 110 territorial legislative journals; 111 Supreme Court reports; 131 military records; 160 hydrological surveys; 175 ethnography; 204 Iradneft; 236 collective farms; 501 ISEZ executive directives.
+
+## Society and demographics
+
+### Ethnic groups (official)
+- Iradis 72% (Kipchak-Turkic, nomadic and Christian roots); Kyrgyz 7%, Uzbek 5%, Kazakh 3%; Tajik, Uyghur, Dungan 1% combined; Russian 4%, American 4%, Ukrainian 1%, Koryo-saram 1%, Chinese 1%, Mexican and others 1%.
+
+### Generations
+- **Russos** (urban Boomers/Gen X): Soviet-media upbringing, tied to the Russosphere, Russian customs, mostly right-leaning, Moscow-oriented.
+- **Urban Millennials:** Russian-speaking homes; English learned post-ISSR in underfunded schools with few qualified teachers, hence rigid "ESL-quality" English.
+- **Zoomers** (born c. 1997–2012; *zumerler*, often ironic; an English-media nickname): first broadly English-fluent generation; drive the **Iradi language revival** (*tilge kaytuu*, "return to the language", from a 2016 *Talas Herald* essay series), likened to Ireland's Gaelic revival; scholars call it a generational pattern, not a movement.
+- **Tribal populations:** Iradi only; reject Russian and English.
+
+### Koryo-saram
+- Descendants of the 1937 deportees; deeply integrated; brought short-grain sticky rice to the lower Chu; Korean cultural associations seeded K-pop fandom.
+
+### Mexicans and Semiz
+- **Community:** >10,000 Mexicans, the largest in Central Asia; leaders estimate 12,000–14,000 with a Mexican parent (no official count); ~6,000 by 2006.
+- **Origins:** SuKarne sent ~120 managers, vets, engineers in 1998–99; families and skilled workers followed 2000–01 from Sinaloa, Durango, Sonora; Conagra brought Mexican and Mexican-American supervisors from Colorado and Nebraska; later arrivals via family.
+- **2007:** during the investment of Talas (from 22 Apr) SuKarne flew ~1,400 women and children out on Iradiya charters from the air-base aprons; most men stayed; St. Yusup parish sheltered people; SuKarne cold-store beef handed out in the western corridor; community bodies neutral; three Semiz residents died (one a Mexican maintenance engineer, per the *Talas Herald*); night watches spared Semiz the looting seen downtown; most returned after the ceasefire.
+- **Status:** employer-sponsored territorial permits, never US national status; ISEZ renewable residence permits, long-term card after 10 years (2010 regulation); most keep Mexican citizenship. Children with an Iradi parent are residents and vote; Mexican-born residents cannot.
+- **Work:** ~1/3 at the two beef plants; also feed, reefer trucking, vet practices and labs, tortillerías, taquerías, groceries, a bakery, workshops; second generation in teaching, nursing, translation, offices.
+- **Religion:** Latin-rite Catholics under Syro-Iradi care (no Latin parish). Sunday Spanish Roman-rite Mass at the **Church of St. Yusup the Worker** (*Emgekchi Yusup Chirköösü*), consecrated 2005 (community funds, SuKarne gift), priests lent by the Diocese of Culiacán. **Guadalupe chapel** approved 2006 by the then Bishop of Talas (now Archbishop Mar Ephrem) with Synod consent despite objections to Marian imagery; image by Iradi icon painters, framed with the Iradi-cross motif; 12 December feast draws Iradis.
+- **Day of the Dead / Fallen Rider** (1–2 Nov): ofrendas; **Semiz cemetery** (Orthodox, Korean, Catholic sections) decked with marigolds from imported seed ("Mexican flowers"); merged with Syro-Iradi All Souls' (2 Nov) grave visits, Iradi spouses adding white ribbons and milk. Since 2008 the evening procession is led by a riderless horse with reversed saddle (first for the 2007 dead); mixed families often lead a horse behind the bier.
+- **Language:** second generation trilingual Spanish/Iradi/English, many with Russian. Semiz Spanish uses Iradi *ata*, *som*, *aksakal*, *bazar*, *marshrutka*; local Iradi uses *jefe*, *tortilla*; Talas slang took *compa*.
+- **Attitudes:** *Meksikanka* now mostly affectionate; early slur *uychu* ("cowherd", cattle omens). Catholicism and horses aided acceptance. 2025: residents joined the Talas marches with Mexican and Iradi flags; parish Mass "for Irad"; a few mistaken for Americans and abused.
+- **Andrés Ochoa Kaparov** (b. Talas 2000; father a SuKarne vet from Culiacán, mother an Iradi teacher; ex-SuKarne interpreter): first Mexican-Iradi city councillor, Talas, Nov 2023, DPI list, western Talas constituency incl. Semiz; critics called it a DPI gesture.
+- **Semiz history:** founded 1958 as fattening station of a Virgin Lands beef sovkhoz (Russian, Ukrainian, Korean settlers; timber barracks) called *Otkormochny*; enlarged 1974 as the **Talas State Cattle-Fattening Complex** (~40,000 head/yr; five-storey panel blocks, school, club, water tower); ~6,500 people 1989; closed 1994; renamed *Semiz* ("fattened, plump", Iradi calque) by Talas city council in 1994 under the Toponymic Heritage Statute; ~1/3 of flats empty by 1998 after Russian emigration; land to TAEZ 1998. **Colonia SuKarne** (1999–2003): refurbished blocks and ~400 courtyard houses to the south; shortened to *la Colonia* for the whole district; private houses on old feedlot land since the 2010s.
+- **Geography:** ~9 km west of central Talas; Trans-Talas Highway on the north; TAEZ sidings and SuKarne feedlot to the west. Old settlement (north, a few barracks); the blocks (centre; old club now community centre; water tower landmark); la Colonia (south; flat-roofed, brightly painted northern-Mexican courtyard houses).
+- **Landmarks:** St. Yusup church; **Semiz market** (*Semiz bazary*, *el mercado*; daily, biggest Saturday); ~12 tortillerías (first 2000); **Lienzo Charro de Semiz** (2009); cemetery.
+- **Eki Eldin At Oyunu** ("horse games of two peoples"): September near the 16th at the Lienzo Charro; charro roping, women's *escaramuza*, kyz kuu, alaman-bayge, ulak demonstration; bull events on a separate day (omens); sanctioned by the National Equestrian Sports Directorate since 2012.
+- **Population** ~23,000 (2018); 2021 TSU survey: ~40% of households with a Mexican-born member, ~35% Iradi, rest Russian, Ukrainian, Koryo-saram.
+- **Transport:** buses and marshrutkas on the highway (~25 min); city bus route 14 to the Old City; SuKarne/Conagra shift buses; no passenger rail.
+- **Names:** official *Semiz*; Russos *Otkormochny*; Mexicans *la Colonia*; Iradis *Meksikanka* (Russian-style, like Soviet "Nakhalovka"/"Shanghai").
+
+### Diasporas
+- **Iradis in Russia** (*Orusiyadagy Iraddar*): ~250,000 emigrants 1992–2000, mostly ethnic Russians and Ukrainians (ex-SRI officials, doctors, teachers), many to the Urals and Western Siberia, some via Russia's compatriot program, now Russian citizens, mostly Orthodox; post-2007 labor migrants, mainly Russian-speaking men 20–45 from Nurzhan and Talas; and the **Russo second generation** who studied at Russian universities from the late 1990s and stayed (mostly Russian citizens, little Iradi). Ruslan Toktarov (Omsk) is the best-known who returned.
+- ATR migrants go to southern Kazakhstan. 2024 TSU survey: 70,000–120,000 ISEZ residents in Russia at peak; Russia second to Kazakhstan. Centres: Moscow region, St. Petersburg, Yekaterinburg, Novosibirsk, Surgut, Nizhnevartovsk (*vakhta*; Polytechnic graduates).
+- **Documents:** the ISEZ does not forbid other documents. Kyrgyzstan gives passports to those proving birth or long residence (most readily); Kazakhstan mainly with family ties; Uzbekistan rarely. EAEU passports allow work in Russia without a patent, so most migrants hold Kyrgyz ones. DPI calls it "a practical necessity"; young nationalists object.
+- **Community:** **Syro-Iradi Mission of St. Yuhanna, Moscow** (2004): monthly East Syriac liturgy in Iradi in a Latin parish church; priest from the eparchy of Nurzhan; under the Latin Archdiocese of the Mother of God at Moscow. **Irad Fellow-Countrymen's Association** (*Irad Jerdeshteri*), Moscow 1996, branches St. Petersburg and Yekaterinburg: legal advice, repatriation of bodies, Victory Day gathering, New Year concert; some Bekzatov Foundation support; condemned the 2025 remarks.
+- **Politics:** 71% of migrants back EAEU accession (vs ~1/3 of ISEZ city residents, 2023); many want Russian restored; lean Russo.
+- **Since 2022:** after Russia's September 2022 mobilization, young Russian-citizen Iradis returned to Nurzhan or sent families (*Talas Herald*, 4 Oct 2022); recruiters approached migrants; Department of Public Information advised no military contracts. Tighter Russian rules from 2024 shifted migrants to Kazakhstan.
+- **Iradi Americans:** Chicago community; Iradi American Association.
+
+### Marriage (*üylönüü*)
+- *Kuda* (in-law families, made at a betrothal visit); *kalym* (bride price: livestock, cash, goods, often a riding horse; token in cities); *sep* (dowry: shyrdak, white felt, *töshök*); elders record amounts for any separation.
+- **Church rite:** East Syriac "crowning" (*burakha*): rings, cup of wine, crowns or garlands; unconsecrated kümöch broken after. Malka brides bring leaven from their mothers' houses. Bride in white; white felt at the wedding yurt; groom's mother puts the white *elechek* on her; cattle kept out of sight.
+- **Toi:** beshbarmak or plov, boorsok, kymyz; a sheep killed as food, not offering; horses never slaughtered. Bride arrives on a white horse led by the groom's kin; alaman-bayge, kyz kuu, free-for-all ulak at rural weddings. Urban banquet halls; many Russos only civil registration plus banquet.
+- **Mixed:** common in cities (Russian, Koryo-saram; Mexican–Iradi at the Spanish Mass, sometimes with the *lazo*). Catholic–Orthodox needs the bishop's permission; Catholic–Muslim (Fergana Rim) a dispensation and promise to raise children Catholic; some register only civilly.
+- **Divorce:** church grants only nullity (tribunal, Iyık Janyl); ISEZ civil divorce since the territorial period; ATR separation by elders (dowry/kalym returned, children decided), priests treating the couple as not free to remarry.
+- **Domestic Relations Act (1996):** minimum age 18; registry-office registration.
+- **Bride kidnapping (*ala kachuu*):** some ATR districts (Talas Alatau, Karatau) and rural ISEZ; rare in cities; also covers staged consensual elopement. 2021 survey (TSU Institute of Sociology with the St. Luka Community Health Mission; 1,400 households; report 2022): 13% of married women under 50 in surveyed Talas Alatau/Karatau areas began marriage by abduction, about half unwillingly; under 2% in the cities (caveats: small sample, refused access, under-reporting; IAC: biased).
+- Church: 2014 pastoral letter *On the Free Consent of Spouses* (Synod under Mar Ephrem): "a sin against the sacrament and against the dignity of women"; priests hear the bride's consent alone; a forced union is no marriage.
+- **Saikal Imanaly kyzy** (2015; 19, Kara-Buura village): escaped after two days; lawyer Gulnara Sadykova (Legal Defense Guild); Kyzyl-Adyr court only fined the abductor; sparked the ***Ak Jooluk*** ("white headscarf") campaign.
+- **Abduction for Marriage Act** (March 2017): 5–10 years, up to 12 if victim under 18; such unions unregistrable; prosecutions rare.
+- *Adat* contested: some councils (incl. Tanıp) fine (*aip*), annul and return the woman; others accept if she stays. IAC 2022 Compendium: a woman's refusal voids the union; enforcement per clan. **Klara Zhumabek kyzy** has spoken against it at Talas Alatau women's meetings.
+
+## Language, names and calendar
+
+### Iradi
+- Grammar and core vocabulary from **Kyrgyz**; urban civic/trade terms from **Uzbek** roots; religious vocabulary only from **Sogdic/Syriac** roots (isolated Christian practice); Christians avoid Arabic religious words (Persian *Kudai* tolerated).
+- Scripts: Arabic to 1928; Latin 1928; Cyrillic 1941; 32-letter Latin 1992/1997. **1995 Orthography Revision:** *j* for /dʒ/ and steppe /ʒ/; *ä* for Fergana speech and loans.
+- **Dialects** (*Irad tilinin sheveleri*): from ISSR Academy of Sciences expeditions (1952–83) and **Kenjegul Abakirova**'s *Dialect Atlas of the Iradi Language* (1984). Standard = Talas (middle valley); 2022 survey: Talas "correct", highland most "real" to youth.
+  - **Russocha** ("the Russo way"): Nurzhan code-switching (*koroche*, *nu*; Russian numerals; Russian verb + *et-*, *zvonit et-*); mixers mocked as **chala-Irad** ("half-Iradi"); stigmatized yet linked to oil wealth. Young Talas speakers mix English similarly.
+  - **Tribal:** fewest Russian loans (*unaa* "car", orig. "pack animal"), evidential *-ptyr*, epic diction; highland (Talas Alatau, Chatkal) and northern steppe/Karatau (/ʒ/ for *j*; *sh* for *ch* in some words, as Kazakh). **Chatkal:** everyday Syriac church words (*kashysh* "priest", *idta* "yurt chapel", *ene achytky*); *tag* "mountain" in songs and toponyms.
+  - **Fergana Rim:** Uzbek bilingualism; *ä* distinct; weak rounding harmony; *dada*, *juda*, *hozir*, *dokon*, *kasalkhona*; Muslims use Arabic religious terms.
+- Contact: Korean *kuksi* in Iradi and Nurzhan Russian; K-pop slang.
+
+### Names
+- De-Russification since the 1990s: Soviet place names obsolete (Kobozev → Nurzhan, Otkormochny → Semiz).
+- Urban ISEZ surnames keep -ov/-ev/-ova; tribal-aligned rural people use patronymics *-uulu* (son of) / *-kyzy* (daughter of): *Rustam Zhumabek uulu*, *Klara Zhumabek kyzy*. Iradi forms: *Yusup Ayyub uulu*, *Kemel Ishak uulu*.
+- Biblical names common; saints and institutions in Turkic forms with "St.": St. Janyl, Luka, Yuhanna, Maryam, Yusup, Tomas, Gewargis, Ephrem.
+- Russian-style district nicknames: *Meksikanka*, *Amerikanka*.
+
+### Calendar (*Irad jyl sanagy*)
+- Gregorian civil and church calendar (church since 1931). East Syriac seasons: Subara, Yalda–Denha, Great Fast (*Uluu Savma*), Resurrection (*Kyamta*), Apostles (*Shlihe*), Summer (*Kaita*), Elijah–Cross (*Eliya–Salyba*), Moses, Dedication (*Kudash Idta*). Archeparchy's annual *Tartip* since 1993.
+- Fasts: *savma*, never *orozo*. *Ninevi Savmasy* (Rogation of the Ninevites): no meat, milk or butter; many fast till evening.
+- Feasts: Epiphany (6 Jan) water blessing, water taken home for winter. *Süyünchü Künü* (Annunciation, 25 Mar, "day of good tidings"), Christian spring feast, year's turn for some highland clans. St. Gewargis (23 Apr; mounted icon saint): spring horse blessing in the Talas Alatau. *Achytky Beyshembi* ("Leaven Thursday", Holy Thursday) in malka clans. **St. Janyl, 24 Aug** (pilgrimage late Aug–Sept). **Cross, 14 Sept** (*Salyba Künü*; also anniversary of *Orientalis Stella* and the 1992 reconsecration; ends pilgrimage and summer: "after the Cross, no yurt on the *zhayloo*"). All Souls' 2 Nov. Irad Day 11 Mar.
+- **Name days** (*at künü*; *at* = "name"/"horse"; children get a ride or toy horse): baptismal saint's feast; outrank birthdays in the countryside; liturgy, elders' *bata*, meal with boorsok and kümöch. Godparents *suu ata* / *suu ene* ("water father/mother") promise a lamb or foal. All Janyls: 24 Aug. Russos keep *imeniny*; Zoomers revived greetings online.
+- Pastoral year: *köch batasy* (April–May migration blessing with water, milk, *arsha*; Mazar-Too offerings); *kymyz muryndyk* (late May–June); September return after the Janyl and Cross feasts, with a camp thanksgiving liturgy.
+- Months: Russian-derived (*yanvar*…) in speech and ISEZ documents; traditional *Üchtün ayy, Birdin ayy, Jalgan kuran, Chyn kuran, Bugu, Kulja, Teke, Bash oona, Ayak oona, Toguzdun ayy, Jetinin ayy, Beshtin ayy* in the ATR, almanacs, Iradi press; August also *Janyl ayy*.
+- **Müchöl:** counts age, not belief; year turns in spring (traditional) or 1 Jan (urban). Cow year unlucky, called *arkar jyly* (Year of the Argali) by highlanders, weddings avoided; Horse year (*jylky jyly*) auspicious, current one began 2026. Ages 12, 24, 36… dangerous: give away clothing, seek a priest's blessing. Church tolerates it unless used for fortune-telling.
+- **Holidays** under the Holidays and Commemorative Days Act (1993, rev. 2008). **Nooruz:** backed in 1993 by Fergana Rim Muslim deputies and the Talas intelligentsia; several Synod members called it "a Persian feast, kept by Muslims"; kept with alternative name *navbahor*; 1997 Synod: a folk custom the faithful may keep (still official). Muslims celebrate fully; urban Iradis/Zoomers as steppe heritage; Russos a day off; ATR races, some highland elders prefer *Süyünchü Künü*. 2008 proposal to move it to 25 March rejected by the Mejlis.
+
+## Religion
+
+### Overview
+- Christian 78%; Muslim 18% (Sunni Hanafi, small urban Shia minority; Kyrgyz, Uzbeks, Kazakhs, Fergana Rim); other 4% (Judaism, Buddhism, Baha'i). Secular state.
+
+### Syro-Iradi Catholic Church
+- From Church of the East expansion under the Qara Khitai; in communion with Rome since 1931 as a *sui iuris* Eastern Catholic church. Headed by the **Archbishop of Iyık Janyl** (**Mar Ephrem**, ex-Bishop of Talas); Episcopal Synod; eparchy of Nurzhan; tribunal and St. Ephrem Major Seminary at Iyık Janyl. Mar Timotheos Alimbekov led it in the 1920s–30s. Churches closed 1937; reconsecration 14 Sept 1992.
+- Liturgy of Addai and Mari; *kümöch* (unleavened wheat bread); *arsha* (juniper incense). Urban basilicas Latinized since the late 20th c.; unleavened kümöch required in parishes (1990s Latinization); post-1992 Marian statues seen as a Latin import.
+- Sisters of the Cross of Irad; St. Luka Community Health Mission. Minorities: Russian Orthodox, American Evangelicals.
+
+### Janyl, Mother of Irad
+- Received a vision of Jesus as the **White Rider**, who led her to the site of the First Church of Janyl; historicity disputed; site unknown. Church places her in the 11th c.; some chronicles in 12th-c. Qara Khitai times. Legend of her cave in the Talas Alatau. Takes much of the Marian role in rural piety. Epic *Janyl Baatyr*; 18th-c. Arabic-script vita.
+
+### Folk Christianity
+- Syncretic East Syriac, Catholic, animist and horse-blessing practice in felt yurts (*idta*).
+- **White vs black:** white (White Rider's horse, milk, felt) is holy: white ribbons on crosses and shrine trees, white *elechek* of married women. Black is **Morkhan**'s: pre-Christian bull-headed dark god, equated with Satan; hence cattle are ill omens.
+- **No blood sacrifice:** milk, kymyz, juniper smoke; sacrifice rejected as pagan or Muslim (contrast Kurban Ait).
+- *Bakshy* (shamans) seen as Morkhan's servants, condemned since Kokand times; *tabyp* (herbalists) tolerated.
+- **Revelation 19:11** is the defining text; its rider = Janyl's White Rider; Second Coming as a horseman's return.
+- Older rural churches: bare cross without corpus, often rising from a lotus or cloud like medieval Chu valley gravestones; icons mostly of St. Janyl.
+- Shared with Islam: shrine pilgrimage, *bata*, same-day burial, 40th-day memorial. Refused as identity markers: horsemeat, animal sacrifice, male circumcision, Arabic religious vocabulary.
+- *Jamgyr tilöö* rain rite at mazars and springs: white ribbons, milk and kymyz on stones, juniper, no sacrifice. Synod prayers for rain July 2021 and 2023; more pilgrims at springs like Maryam-Bulak.
+
+### Malka (holy leaven)
+- ATR tradition (mainly Chatkal and eastern mountains); *ene achytky* ("mother leaven"), said to descend from Janyl's bread at the First Church; felt-wrapped wooden pot; renewed each Holy Thursday; carried between pastures; leavened Qurbana in yurt liturgies instead of kümöch. Given, never sold; given to new priests, carried by brides; losing it is a bad omen. Archeparchy requires kümöch in parishes; Synod tolerates the malka as ancient custom; IAC clans treat it as a mark of independence.
+
+### Iradi cross (*salyba*)
+- From Syriac *ṣlibā*; Church emblem adopted by the Synod in 1994. Equal-armed, concave-sided, flared; three beads (*monchok*) at the ends of the upper and side arms; small ring at the crossing (empty tomb); no corpus; shorter lower arm rising from a five-petal lotus (or cloud). White on crimson in textiles; low relief in stone and wood. Variant with the eight-pointed star of Irad at the crossing on parish seals and the archeparchy's arms.
+- From 13th–14th-c. *kayrak* gravestones of the Chu valley and Old Iyık Janyl; survived in yurt woodwork, bread stamps, felt (Chatkal *shyrdak* makers' "flower"); revived in the 1990s against imported Latin crosses.
+- Church reading: beads = Trinity, lotus = Christ's purity. Folk: lotus = "the cloud" of the Return (Rev. 1:7), White Rider; "Janyl's flower". Silver pendants; emblem of the Sisters of the Cross of Irad.
+
+## Culture
+
+### Horses
+- Belief that Irad is the birthplace of the domesticated horse pervades idioms, rites and daily life.
+- **Horsemeat strictly taboo:** seen as barbarous and "Muslim"; stigma like eating dog in the West; 1996 slaughter ban. Mare's milk (*kymyz*) daily.
+- **Chongtor:** short, stocky, deep-chested mountain horse; rock-hard hooves; −30 °C tolerance; transhumance and ulak. **Akyel:** slender aristocratic riding horse, iridescent metallic gold coat (*doran*), from the Dayuan/Fergana "heavenly horses"; exported to the US, UK, Ireland, Hong Kong, mainland China.
+- Sports: *ulak tartysh* (goat carcass into the *tai-kazan*; **President's Cup**, est. 1992 by Alimbekov); *oodarysh* (mounted wrestling in an earthen ring); *kyz kuu* ("chase the girl" courtship race); *tyin emmei* (coin pick at gallop); *at chabysh* (20–50 km); *alaman-bayge*. National Equestrian Sports Directorate.
+- Saddlery (*eerchilik*): birch/walnut saddles with chased silver, carnelian, ram-horn motifs (*koshkar muyuz*).
+- Falconry (*burkut saluu*): *berkutchi* fly female golden eagles at foxes, hares, marmots from horseback; judged by **körktüülük** (effortless dignity, grace, courage).
+- **Fallen Rider:** downward tack marks a fallen warrior; riderless horse with reversed saddle at processions and funerals.
+
+### Food and drink
+- Beef and mountain mutton; *beshbarmak* beef or mutton only; *kazy* only beef or lamb.
+- **Iradi plov** (*Irad paloosu*): plov in name only; risotto-like. Short-grain Koryo-saram rice toasted in *zirvak* fat, broth ladled in, stirred creamy, finished with butter or suzma; arose in 1950s–60s Chu valley homes because sticky rice failed steamed. Beef or mutton, wild mountain cumin (Talas Alatau), barberries; served with beet suzma. Household dish: Sundays, name days, church feasts.
+- **Özbek paloo / paloo:** long-grain cauldron plov (yellow carrots, chickpeas, raisins), common in towns and the Fergana Rim; cooked by men, often a hired *ashpoz*, for weddings and memorials; teahouse plov.
+- **Koryoin laghman** (sesame, kimchi); *kuksi*; **beet suzma** (strained yogurt/curd coloured with beets); **Jasil** (Soviet-era green herb syrup drink, mainly tarragon, recipes vary); boorsok; *jügörü* (boiled maize cobs); yellow "Talas tortillas"; beef tacos (student food).
+
+### Music
+- *Irda* horseback work songs; epics by *ırchy* with *komuz* and *kyl-kyak*; *koshok* laments.
+- **Iradi country-folk:** bluegrass/country picking with Iradi balladry, 1980s–90s.
+- **Iradimania** (c. 1992–94): Americans romanticized Iradis as "freedom-loving Christian cowboys"; peak was ***Swift Hooves*** (1993), compilation of country/folk songs about Irad by prominent American artists, profits to Christian charities in Irad.
+- **Mor-Wave:** dark electronica from Nurzhan factory boiler rooms, late 1990s; duo **tüntolk** (Askar Daniyarov, Mira Temirova; *Jolchu*, 1999): Soviet analog synths, Iradi lyrics, Turkic pagan imagery. Second wave mid-2010s. Offshoots Mor-Pop and **Mor-Folk** (acoustic liturgical folk). IradOne dropped tüntolk videos 2023. Clergy object to Morkhan imagery in both Mor-Wave and Mor-Pop.
+- **Mor-Pop:** Irad's "dark K-pop": idol groups/soloists, synchronized choreography, big videos, concept comebacks on Mor-Wave synths; Iradi lyrics, English hooks; keeps the pagan imagery (Morkhan bull masks and horns, goddess Umay, wolves, golden eagles, shamanic frame drums, dusk-violet staging), framing love and city life through it. K-pop industry model (auditions, trainees, comebacks); on IradOne and commercial radio; derided in the Mor-Wave scene as commercial. K-pop itself popular with Talas and Nurzhan youth.
+- **Karakush** ("golden eagle"): five-girl group, Talas, 2018, Kök Ay Media: **Aruuke Temir kyzy** (leader), **Dana Pak** (Koryo-saram, lead dancer), **Saltanat Abdrakhmanova** (rap), **Meerim Sultan kyzy**, **Kamila Nurlanova**. Best-selling Mor-Pop act. "**Ak Börü**" ("White Wolf", Feb 2021; wolf capes, Morkhan horns, viral dance challenge) reached Koryo-saram in Kazakhstan/Uzbekistan and Korean-Americans; Korean version late 2021; Korean promotions early 2022, briefly low on Korean digital charts. "Morkhan Tünü" (2022), "Talas Moon" (2023) did not chart abroad; Korean contract ended 2023. One-hit wonder abroad, huge at home (Altyn-Zhylky 2019, 2021, 2023).
+- **Altyn Muuz** ("golden horn"): four-boy group from IradOne youth show *Jyldyz Jolu* (2019): **Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov, Timur Bakyt uulu**. Cheesy novelty act, unknown abroad: gold bull-horn headbands, sequined coats, horse-gait dance "the trot". "Kymyz Kymyz" (2020), "Morkhan Baby" (2021), "Zhylky Love" (2022). Wedding/kids'-party staple, ironic student fans; clergy complaints after a 2021 children's TV slot; argali horns instead of bull horns on a 2022 rural tour; 2023 Kazakhstan tour cancelled for low sales.
+
+### Film
+- **Nurlan Sadikov:** *Zarina* (1968; first Iradi film seen widely in the USSR); lost experiments *Kok-Terek* (The Blue Poplar), *Tolkun* (The Wave); ***Desert Sun's Rebellion*** (1979), founding the **Iradi Western** (Red Western), praised by Walter Goodman in *The New York Times*.
+- **Beknur Karimov:** self-styled "pervert of the screen"; ***Zalmax's Dominion*** (Soviet *Zardoz* remake), dadaist cult classic; banned for refusing to cut explicit scenes.
+- ***Rise of Glory*** (1979): four-hour epic from the first tamed horse to the ISSR; unedited one-hour opening take of a loinclothed man taming a wild horse; abrupt first-to-second-person shift; reported riot in a Leningrad theatre; its 1916 sequence likened to *The Last Pass* (uncredited).
+- **Almaz Sarybaev** (1938–2019), star of *Zarina*, *Desert Sun's Rebellion*, *Rise of Glory*.
+- 1980s Westerns: *Desert Blue*, *Visions of Irad*, *Vengeance Rider*, *Journey of the Steppes*, *Guide of the Sands*.
+- **Irad Film Society** (non-profit preservation/restoration) runs the **biennial** (odd years) **Talas International Film Festival**, traditionally heavy on Russian-language films; best year 2005; declining. Screenings need permits.
+
+### Art
+- **Yusup Ayyubov** (1869–1937; *Yusup Ayyub uulu*), national painter. Christian herders, upper Talas valley; trained in the St. Janyl icon workshop; auditor at the Imperial Academy of Arts, St. Petersburg, 1897–1903 (took the surname there); house-studio at Besh-Tash; Talas Alatau landscapes in icon-like light; shows Tashkent 1907, Verny 1910.
+- ***The White Rider Shows the Way*** (1913, given to the cathedral for the Feast of St. Janyl): night hillside track; the White Rider (white robe and hood, white horse) points to a single blazing star (Jesus revealing Irad's star to Janyl); Janyl on a dark horse lower on the path; plain below dotted with clan fires.
+- Sheltered 1916 refugees and drew the flight; 1917 chaired the National Council's schools and culture commission; exile in Ghulja, Xinjiang, 1920–25; back under korenizatsiia, taught at Talas's first art studio, illustrated Latin-script schoolbooks, secretly painted banners and vestments for Mar Timotheos Alimbekov. Arrested October 1937 (nationalist organization, espionage for the Vatican); shot in Talas 14 Nov 1937; grave unknown; rehabilitated 1957; religious works hidden until 1992. House-museum Besh-Tash; main collection Irad Palace of Art.
+
+### Literature
+- Oral: *Janyl Baatyr*, *koshok*, *ırda*, *sanjyra*, *bata*, *The Black Blizzard*. Manuscripts in Syriac, Sogdian, Christian Turkic. Modern writing in Iradi, Russian, English.
+- First printed Iradi book: proverbs, riddles and a Kokand-era verse chronicle by deacon-teacher **Yakup Satybaldiev** (1858–1919), Tashkent 1897.
+- Purged: monthly ***Jañy Jol*** ("New Road", 1928–36), editor **Ernis Tashtemirov** (1901–37; first Latin-script reader 1929, illustrated by Ayyubov; shot in Talas, November 1937); **Aisuluu Bayalinova** (1906–41; kolkhoz women's stories; arrested 1937, died in camp). Both reprinted 1989.
+- Union of Writers of the Iradi SSR (1934); socialist realism; Christian themes banned; Thaw generation from 1956. Samizdat prayers, hymns, lives of Janyl (Cyrillic or Syriac script); *Black Blizzard* copies until 1992; Chicago's Iradi American Association printed émigré poetry and church texts.
+- Territorial: English becomes literary; *The Last Pass* in English (Lakeshore Press, Chicago, 1993); **Elnura Kudaiberdieva** (b. 1979), ***Siege Winter*** (2005, New York) on the 1992 siege; Sharshenov's nationalist poetry.
+- Since 2014: Iradi urban poetry on social media and Mor-Wave readings (model: Aigul Omurova); **Saira Kurmanbek kyzy** (b. 1998), ***Suu Jolu*** (*Water Road*, 2020); **Temirlan Omurbekov** (b. 1994, Russian-speaking Nurzhan childhood), Iradi novel ***Mikrorayon*** (2021); *Jarchy* poetry page.
+- Censorship: registration with the Department of Public Information; taboo: civil wars, ruling family, Governor's absence. **Arsha Books** (Talas) suspended 2024 after a 2023-protest poetry anthology ("licensing irregularity"; HRW: censorship).
+- ATR bards sing the epic at weddings, memorials and the Janyl feast; *aytysh* at the Kurultai; laments for 2007 spread on audio files and memory cards.
+- **Altyn-Zhylky:** Ishakov first lifetime award (1996). **Kemel Ishakov Prize** (first Iradi book) since 2010.
+- **Kemel Ishakov** (*Kemel Ishak uulu*; Кемел Исхаков; 9 Oct 1930 Arsha-Say – 2 Feb 2009 Talas; buried Arsha-Say): national novelist in Iradi and Russian; Christian kolkhoz horse-herding family; grandmother survived 1916; father **Ishak** jailed eight years after the 1944 strike (back 1953). Talas Pedagogical Institute (Iradi and Russian philology) 1952; village teacher; *Iradyn Chyny* writer; state publishing editor from 1960; Writers' Union chairman 1986–91; signed the 2007 spare-Talas letter. House-museum Arsha-Say (2012). Never filmed by Sadikov or Karimov.
+  - ***Kök Jal*** (*Grey Mane*, 1959): old herder hides a grey stallion through a winter (read as 1944).
+  - ***Akyrky Ashuu*** (*The Last Pass*, 1964): **Bermet** and her grandfather in the 1916 flight; most of the clan dies in Xinjiang; she returns alone 1918; final chapter with the rider in white cut, restored 1990; his Russian version in a Moscow monthly 1965; Iradi SSR State Prize 1966; 20+ languages; Talas State Academic Drama Theatre 1967 (Almaz Sarybaev as the clan elder's son); IradOne TV 2016.
+  - ***Ünsüz Koñguroo*** (*The Silent Bell*): teacher finds the church bell its priest buried in 1937; cut Russian version Moscow 1971; Iradi original refused until 1989; years of travel ban.
+  - ***Kara Buka*** (*The Black Bull*, 1977): herder on a Virgin Lands cattle sovkhoz vs Morkhan omens.
+  - ***Ak Bulut*** (*White Cloud*, 2003): itinerant priest's yurt liturgies in the Chatkal valley.
+
+### Football and sport
+- **FFI** (*Irad Futbol Federatsiyasy*, Talas 1993; president since 2012 **Kanat Ermekov**, ex-Tulpar defender): **Irad League** (*Irad Ligasy*; ISEZ only; since 1994, 2007 cancelled; triple round robin March–November), eight-club **First League** (*Birinchi Liga*), Irad Cup. 1993 rules: Iradi or neutral club names. IradOne Sport rights; IradOdin Russian commentary of Neftchi.
+- Soviet era: **Neftyanik Kobozev** (Iradneft, 1958; Second League Central Asia 1971–91, First League 1984; Koryo-saram striker **Vadim Ten**, 141 goals 1975–87); **Dinamo Talas** (interior ministry) and **Lokomotiv Kobozev** (railway), mostly in the republican championship.
+- Titles 1994–2025 (10 clubs in 2026): Neftchi Nurzhan (NurGaz) 13; Tulpar Talas (Talas Commercial Development Group since 2011) 11; Temirjolchu Nurzhan (Irad Temir Jolu; ex-Lokomotiv) 3; Attelkom Talas 2; Universitet Talas (TSU) 1; Surma Chatkal (IARMC, Sary-Bulak District) 1; Dastgoh Nurzhan (Heavy Machine Plant), FC Iyık Janyl, Kara-Buura (Kyzyl-Adyr), Naryn Tash-Kömür 0. **Deportivo Semiz** (ex-Mexican amateur league) in the First League since 2018.
+- **Kara-Ak derby** ("Black–White"): Neftchi (black and orange; fans say "Neftyanik"; president since 2009 **Rustam Bekzatov**) vs Tulpar (white and crimson; epic winged horse). 24 of 31 titles between them; Neftchi 8 of the first 12, Tulpar 6 of 10 since 2015. To end-2025: 118 league games, Neftchi 46, Tulpar 43, 29 draws. 2021 study: 71% of Neftchi season-ticket holders speak Russian at home vs 18% at Tulpar.
+- Ultras: Neftchi **Vyshka** ("Derrick", 1999, east stand), **Kobozevtsy** (2006); Tulpar **Jolbors** ("Snow Leopard", 2004), **Azat Tribuna** ("Free Stand", TSU students, 2012). Tulpar taunt "Morkhan's herd"; Vyshka embraces black.
+- Incidents: **11 May 2014** NurGaz Stadium riot (St. George ribbons, "Kobozev – Russian city" vs "Suitcase, station, Russia"; abandoned 62nd minute; ~60 hurt, ~140 detained by Gendarmerie; two-season away ban). **Stadium Order Regulations 2015** ban pyrotechnics, chants "insulting national dignity", and "Kobozev!". March 2022 fine on Neftchi for pro-invasion banners. Jolbors/Azat Tribuna in the 2023 protests. 2 Mar 2025 joint banner "Irad is not for sale" (Russian and Iradi).
+- Allegations: *Irad Times* (2016) on Tulpar land/tax relief (company: lawful); Neftchi's 2019 refereeing complaint rejected; DPI-aligned pundits call Neftchi groups a Russian-influence channel (Bekzatov: "politics dressed as football").
+- Territorial legacy: Liberty Youth Soccer League (1994; American Christian charities, base families); Talas Youth Soccer Academy (1997; US college coaches); girls' school teams; basketball, softball, flag and tackle football minor.
+- International: 1996 AFC bid (citing Guam etc.) deferred after Kazakh, Uzbek, Kyrgyz objections; 2008 bid not taken up (FIFA needs a recognized state); Ermekov: "the theft of a generation". **CONIFA** since 2014 (World Football Cup 2016, 2018). Friendlies vs Chicago Iradi-American selections, Kazakh clubs, US service teams; Irad Day friendly (since 1995) suspended 2025. Colors white and crimson.
+- Stadiums: **Silk Road Arena**, Talas, 21,000 (1956 Dinamo Stadium, rebuilt 2014 by Talas Commercial Development Group; home of Tulpar and the national team); **NurGaz Stadium**, Nurzhan, 16,500 (1958 Neftyanik Stadium, renamed 1998); Irad Central Sports Complex (futsal cup).
+- ATR: informal village play; UNMI youth tournaments near the line since 2012. **Women's League** (six clubs, 2009; Tulpar, Universitet Talas lead); captain since 2019 **Begimai Asanova** (midfielder).
+
+### Media
+- **IradOne:** state public broadcaster founded early 1990s, under DPI editorial control; mostly English, some Iradi; Russian sister **ИрадОдин (IradOdin)**, seen as far lower quality; youth channel; IradOne Sport. Rarely cites the *Herald*.
+- **Talas Herald** (*Talas Jarchysy*): English daily, six days a week, most-read ISEZ paper. Founded March 1993 by **Medet Orozaliev** (ex-*Iradyn Chyny* correspondent under Maratbek Sadykov; editor 1993–2009) and **Margaret Hendricks** (American who covered Operation Starlight for a Chicago paper; managing editor 1993–2001) with US media-development grants. Owner: private **Herald Publishing Company**. Editor since 2009 **Elmira Beishenova** (ex-courts reporter). Online 1999; metered paywall 2018.
+  - Semi-independent: courts, councils, records, official statements; avoids criticizing the Governor (self-censorship on the family). Less investigative than the ***Irad Times*** (broke the 2006–07 privatization documents). Kept publishing in 2007, registered with the DPI, staff stayed. Runs FreeIrad.org-type claims only with an official response, labelled unverified; since 2024, deepfake claims only with the official denial.
+  - Pressures: ~18-month ad boycott by state firms after 2015 ballot-disqualification reporting (~1/3 of ad revenue lost); 2016 tax audit (payroll fine); 2014 libel suit by Adil Toktarov's Talas Commercial Development Group over 2013 land-transfer stories (Talas District Court, 2015: one point upheld, correction + 200,000 som; rest dismissed); reporter **Erkin Bolot uulu** held 10 days in Oct 2023 for "obstructing police", freed without charge (Legal Defense Guild). In the 2023 data cut it posted free PDFs on a mirror and sold street copies.
+  - Readership 2023 (Irad Media Research Center): ~34,000 weekday print (≈60,000 in 2006); ~420,000 monthly web uniques, a fifth abroad.
+  - Notable coverage: 2007 proclamation and siege; 2012 Boz-Korgon property filings and Ruslan profile; 2013 Nurzhan heating mains and avenue land transfers; 2016 Jer-Suu leaflet sentences; 2022 Karakush return and screening-permit interviews; 2023 protests and IradOne dropping tüntolk; July 2024 last confirmed appearance; 2025 protests and succession.
+  - ***Jarchy*** ("The Herald"): Iradi weekly (2017) for Zoomers; translated news, music/film, letters; carried near the line by bus and mounted courier.
+
+### UNESCO heritage
+- **Church of St. Janyl** (1727; Islamic building techniques with Nestorian iconography) and **Ruins of Old Iyık Janyl** (*Shar-i-Kuhna*; 11th-c. Nestorian settlement): one property, 2004, US nomination.
+- **Kok-Tash Kariz** and **Caravanserai of Rabat-i-Safed** (9th-c. Sogdian fortified trading post): 2014, Kazakh and Kyrgyz components of the Silk Roads listing. Irad is not a State Party.
+
+## National symbols
+- **Flag** (decree May 1992; State Symbols Act 1993):
+  - Solid crimson red field (1916 uprising and ISSR banner tradition).
+  - White stallion in gait, centre (equestrian heritage, Chongtor and Akyel, birthplace of the horse).
+  - Five-pointed star directly above it: Polaris (*Irad*).
+  - Inverted horseshoe on the hoist side of the stallion: Fallen Rider memorial to the martyrs of the 1916 revolt, Soviet purges and civil wars.
+  - Arched Orkhon (Old Turkic) inscription: "Be Free" in Iradi.
+  - Two golden ears of wheat bordering the lower half of the roundel (Soviet republican heraldry; valley agriculture).
+- **Anthem:** *The Spirit of Irad*, music Asan Jumabaev, words Cholpon Myrzakulova.
+- **Church emblem:** Iradi cross (*salyba*); eight-pointed star of Irad on seals and archeparchy arms.
+- Sporting colors white and crimson. National day: Irad Day, 11 March.
+
+## Retired names and common errors
+- "Nuevo Talas" → **Semiz**.
+- Yusup Ayyubov is a **painter**; the actor (1938–2019) is **Almaz Sarybaev**.
+- Iyık Janyl is in the **Fergana Range foothills**, ~20 km (not 18) NE of Tash-Kömür, not in the Talas Alatau 65 km SE of Talas (Janyl's cave legend and the wild cumin stay in the Talas Alatau).
+- Iradi plov is **risotto-like** household food; wedding cauldron plov is *özbek paloo*.
+- *Jandarm* is a **Russian loanword** (tsarist gendarmes), not French or Turkish; no Turkish Jandarma model; no French ties.
+- **No Tajikistan border**, no Afghan or Chinese border; three claimants, not four.
+- Antimony sites are **Sary-Bulak** and **Chatkal**, not Sary-Tash and Kadamjay.
+- Kobozev honored **Pyotr** Kobozev; "Dmitry Kobozev" is non-canon; Nurzhan ("Light of Life") is not a person.
+- Population ~6.2 million; 4.6 million is the DPI's suppressed figure.
+- Talas is only the *de jure* capital; executive seat Boz-Korgon.
+- Toktarov has **five sons and one daughter**.
+- Crude goes to **KazTransOil**, never the CPC; the feeder runs **north-east**, not north-west.
+- Railway ~580 km (not 540); Nurzhan pipeline ~90 km (not 118); one refinery.
+- Not "four UNESCO sites of Irad": one 2004 property plus two 2014 Kazakh/Kyrgyz Silk Roads components; Irad not a State Party.
+- ISEZ proclaimed 25 Feb 2007 **before** the 4 June Fall of Talas; ceasefire September 2007.
+- Commercial beef began with Soviet Virgin Lands sovkhozes, not just the territorial period.
+- Mor-Pop keeps Mor-Wave's mythological imagery; it did not drop it for love and city life.
+- Talas film festival is **biennial**, not "biannual".
+- "Iradi Zoomer Movement" → **Iradi language revival**; not a movement.
+- Northern Border Demarcation Protocol is **not a treaty**; patrols coordinated, not joint; 2018 clashes were with **Uzbek** guards.
+- Territorial residents were **US nationals, not citizens**; Mexicans were neither.
+- Maksat (LSE) and Alikhan (Bishkek, Regent's College) are **not US-educated**.
+- Christians fast with *savma*, never *orozo*; no animal sacrifice in Iradi rites.
+- No in-world Burkhanism or "White Faith" movement in Irad.
+- Ishakov's books were never filmed by Sadikov or Karimov.
+- Toktarov's stroke, deepfakes, family gatekeeping and factional backchannels are never confirmed fact in public writing.

@@ -1,3 +1,11 @@
+# Change log: skill restructured (2026-10-12)
+Requested by the user: tidy up the irad-persona skill.
+- canon.md (new, ~84 KB): baselore.md and newlore.md merged into one topic-organized current canon, superseded statements removed, ending with "Retired names and common errors". Written, then audited bullet by bullet against both sources (36 missing details restored, no covert leaks). Decided: Skobelev (not Chernyayev) conquered Kokand in 1876; Jolbors means "Snow Leopard".
+- quickref.md (new, ~15 KB): who's who, timeline, places, institutions and laws, glossary.
+- Moved out of the installed skill into maintenance/: CHANGELOG.md, CHANGELOG_wiki_review.md, archive/pre_review/, Irad_Wiki_Original.md, and superseded/baselore.md and superseded/newlore.md.
+- SKILL.md rewritten: new file table and precedence (canon > volumes), faith conventions, writing rules from the writers' brief (name checks, article template, references, links, categories), and the two-repository workflow; trigger list adds the Kurultai, Semiz, Mor-Wave and the Talas Herald.
+- Wiki repo: tools/links/ (audit.js, linker.py, wp_map.json) saved with a README.
+
 # Change log: linking and category audit; Wikipedia links (2026-10-12)
 Requested by the user: audit links and categories, and link real-world things to English Wikipedia.
 - Categories: the 72 ad-hoc category names were replaced by a fixed list of 20 (see SKILL.md, "Wiki markup"). Every article was reclassified individually; 445 quality lines changed and 366 stubs gained their own `*Quality: Stub | Category: …*` line (the Vol3 category headings are now only groupings).

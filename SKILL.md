@@ -1,6 +1,6 @@
 ---
 name: "irad-persona"
-description: Write and answer as if the Republic of Irad (Iradistan), a country in Central Asia, is a real nation with its own history, politics, language, food and culture. Use this skill whenever the user mentions Irad, Iradi, Iradistan, the ISEZ, the DPI, the Iradi Freedom Society, Toktarov, Talas, Nurzhan, Iyık Janyl or Boz-Korgon, or asks for news articles, wiki entries, briefings, character names, translations, flag descriptions, recipes or history set in Irad, or discusses Central Asian geopolitics where Irad could come up, even if they never say "persona" or "lore".
+description: Write and answer as if the Republic of Irad (Iradistan), a country in Central Asia, is a real nation with its own history, politics, language, food and culture. Use this skill whenever the user mentions Irad, Iradi, Iradistan, the ISEZ, the DPI, the Iradi Freedom Society, the Kurultai, Toktarov, Talas, Nurzhan, Semiz, Iyık Janyl, Boz-Korgon, Mor-Wave or the Talas Herald, or asks for news articles, wiki entries, briefings, character names, translations, flag descriptions, recipes or history set in Irad, or discusses Central Asian geopolitics where Irad could come up, even if they never say "persona" or "lore".
 ---
 
 # Irad Persona
@@ -13,17 +13,15 @@ All files sit next to this SKILL.md. Load only what the task needs, because the 
 
 | File | Size | When to read |
 |---|---|---|
-| `newlore.md` | ~25 KB | Always, first. Latest public corrections and additions, including the "Canon Decisions from the 2026 Wiki Review" section; wins any conflict. |
-| `baselore.md` | ~35 KB | For any substantive question about Irad's politics, history, geography or institutions. |
+| `quickref.md` | ~15 KB | Always, first. Who's who, timeline, places, institutions and laws, glossary of Iradi terms. |
+| `canon.md` | ~85 KB | For any substantive question or any new writing. The current public canon, by topic, ending with "Retired names and common errors". Read the sections the task touches. |
 | `hiddenlore.md` | ~3 KB | Always, so you know what is covertly true. Governs subtext and insider scenes; see the next section for how it may be used. |
-| `Irad_Wiki_Vol1_Core.md`, `Vol2_C_Class.md`, `Vol3_Start_Stub.md` | ~2.6 MB combined (811 articles) | Never read in full. Grep for the person, place or term (headings are `### n.n. Title` in Vol1–2 and `#### n. Title` in Vol3), then read the matching article. Vol1 holds the featured country article, GA and B-class overviews (Politics, Geography, Demographics, Foreign relations, etc.); Vol2 the C-class articles; Vol3 start and stub articles. They conform to `newlore.md`. |
-| `CHANGELOG_wiki_review.md` | ~490 KB | Don't load for writing tasks. It records the 2026 wiki review, for the user to audit or revert changes. |
-| `archive/pre_review/` | ~800 KB | Never use as lore and exclude it from greps. These are superseded pre-review copies, kept only so that changes can be reverted when the user asks. |
-| `Irad_Wiki_Original.md` | ~43 KB | When checking original intent behind `baselore.md`, which was synthesized from it. Lowest authority; later files supersede it. |
+| `Irad_Wiki_Vol1_Core.md`, `Irad_Wiki_Vol2_C_Class.md`, `Irad_Wiki_Vol3_Start_Stub.md` | ~2.9 MB combined (811 articles) | Never read in full. Grep for the person, place or term (headings are `### n.n. Title` in Vol1–2 and `#### n. Title` in Vol3), then read the matching article. Vol1 holds the featured country article, GA and B-class overviews; Vol2 the C-class articles; Vol3 start and stub articles. |
 | `webflag.svg` | 25 KB | Whenever the national flag is shown or described. |
-| `iradi_cross.svg` | 3 KB | Whenever the Iradi cross (the church's emblem) is shown or described. |
+| `iradi_cross.svg` | 2 KB | Whenever the Iradi cross (the church's emblem) is shown or described. |
+| `maintenance/` | ~1.5 MB | Never read for writing tasks and exclude it from greps. Change log, superseded lore files and pre-review archives, kept so that changes can be audited or reverted when the user asks. |
 
-When sources disagree, precedence is `newlore.md` > `baselore.md` > wiki volumes > `Irad_Wiki_Original.md`. Note that the header of `baselore.md` uses older filenames: `lore_updates.md` means `newlore.md`, and `Irad_Wiki_Encyclopedia.md` means the three wiki volumes. It also mentions `Spirit_of_Irad.ogg`, which is not included, so don't promise audio of the anthem.
+When sources disagree, `canon.md` wins over the wiki volumes. `quickref.md` summarizes `canon.md` and the wiki; if it ever disagrees with `canon.md`, `canon.md` wins. The anthem *The Spirit of Irad* has no audio file, so don't promise one.
 
 ## Two layers: public record and covert ground truth
 
@@ -35,23 +33,52 @@ When sources disagree, precedence is `newlore.md` > `baselore.md` > wiki volumes
 
 ## Conventions that make Irad sound like Irad
 
-- **Language.** Iradi builds its core grammar and vocabulary on Kyrgyz, takes urban vocabulary from Uzbek roots, and uses older Sogdic/Iranian roots only for religious vocabulary, reflecting the isolation of Iradi Christian practice.
-- **Place names.** After the 1990s de-Russification, Soviet-era names are obsolete and replaced with Turkic ones (Kobozev became Nurzhan). Don't default to Russian forms.
+- **Language.** Iradi builds its core grammar and vocabulary on Kyrgyz, takes urban vocabulary from Uzbek roots, and keeps older Sogdian and Syriac roots for religious vocabulary. Avoid Arabic loanwords in religious language. See the dialects in `canon.md`.
+- **Place names.** After the 1990s de-Russification, Soviet-era names are obsolete and replaced with Turkic ones (Kobozev became Nurzhan). Don't default to Russian forms, except in the mouths of Russian speakers.
 - **Personal names.** Urban populations in the ISEZ keep Russian suffixes (-ov, -ev, -ova). Rural and tribal populations use Turkic patronymics: *Klara Zhumabek kyzy*, *Rustam Zhumabek uulu*, not *Zhumabekova* or *Zhumabekov*. For any new character outside the urban elite, use `-kyzy` / `-uulu`.
 - **Christian names.** Irad has a Christian heritage, so biblical names are common in people, churches and institutions. Use Turkic or regional forms with a "St." prefix for saints and institutions (St. Luka, St. Yuhanna, St. Maryam), not Anglicized ("St. Luke's") or Russian variants.
-- **Horses.** Iradi society is intensely horse-centric, and it shows in idioms, traditions, diet and daily life. Horsemeat is strictly taboo, while horse milk products are fine. Cattle, by contrast, carry dark omens (see `newlore.md`).
-- **The flag.** Use `webflag.svg` and the heraldic description in `newlore.md`. Don't run an image search for it, because results tend to confuse Irad with Iraq. To show it, send the SVG file with SendUserFile (display: render) where that tool is available.
+- **Faith.** White is holy (the White Rider, milk, felt) and black belongs to Morkhan; offerings are milk and juniper, never blood; the bare Iradi cross rises from a lotus. Iradis share many customs with Muslim neighbors but define themselves by refusals: horsemeat, animal sacrifice, circumcision.
+- **Horses.** Iradi society is intensely horse-centric, and it shows in idioms, traditions, diet and daily life. Horsemeat is strictly taboo, while horse milk products are fine. Cattle, by contrast, carry dark omens.
+- **The flag and the cross.** Use `webflag.svg` with the heraldic description in `canon.md`, and `iradi_cross.svg` for the cross. Don't run an image search for the flag, because results tend to confuse Irad with Iraq. To show either, send the SVG file with SendUserFile (display: render) where that tool is available.
 
 ## Writing new material
 
-- **Tone and realism.** Irad exists in the real world, so new lore should be grounded and geopolitically plausible, written with academic or journalistic seriousness, and free of melodramatic tropes. Check new material against the existing files for contradictions before committing to it.
-- **Where new lore goes.** Public lore from the user is appended to `newlore.md`; secret lore goes to `hiddenlore.md` in its existing format (internal ground truth, plus the public reality that covers for it). Don't edit `baselore.md` without explicit confirmation from the user. The installed skill folder may be read-only; if a write fails, give the user the exact entry text and say which file it belongs in.
+- **Tone and realism.** Irad exists in the real world, so new lore should be grounded and geopolitically plausible, written with academic or journalistic seriousness, and free of melodramatic tropes.
+- **Check before inventing.** Grep `quickref.md`, `canon.md` and the volumes for every new person, place or organization name before using it, to avoid collisions, and reuse existing people and places where they fit. Check "Retired names and common errors" in `canon.md` so that superseded facts don't come back.
+- **No new actions for real people.** Real institutions (OSCE, Human Rights Watch, UNODC) may be cited generically as sources, as the wiki does, but don't invent quotes or actions for real, named people.
+- **Where new lore goes.** Public lore from the user goes into the matching section of `canon.md`, replacing anything it supersedes; if it retires a name or fact that could creep back, add a line to "Retired names and common errors". Add new key people, dates or terms to `quickref.md`. Secret lore goes to `hiddenlore.md` in its existing format (internal ground truth, plus the public reality that covers for it). Record each change in `maintenance/CHANGELOG.md`. The installed skill folder may be read-only; if a write fails, give the user the exact text and say which file it belongs in.
 
-## Wiki markup: links and categories
+### Wiki articles
 
-- Link existing Irad articles with `[[Title]]` or `[[Title|text]]`, once per article at the first mention in the body (not in headings or references).
+Articles follow this shape:
+
+```
+### 4.NNN. Title
+*Quality Assessment: C-Class Article | Category: <one of the twenty categories>*
+
+**Title** (Iradi: *...*) is ... (lede of one or two paragraphs, with <sup>[1]</sup> citations)
+
+## Section
+#### Subsection
+
+## See also
+- [[...]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Source.</li>
+</ol>
+```
+
+- New C-class articles are appended to Vol2 with the next number; update the entry count in the Vol2 class heading.
+- References are fictional but plausible; reuse the wiki's existing sources where they fit (*Talas Herald*, Talas State University Press, *Central Asian Cultural Studies Review*, *Eurasian Political Quarterly*, OSCE ODIHR, Human Rights Watch, State Archives of Irad fonds).
+- Link existing Irad articles with `[[Title]]` or `[[Title|text]]`, once per article at the first mention in the body (not in headings or references). Add a sentence or link in two to five related existing articles so the new one isn't orphaned.
 - Link real-world people, places, organizations and concepts that have no Irad article to English Wikipedia with `[[wp:Title]]` or `[[wp:Title|text]]`, using the exact Wikipedia title, once per article. Don't wp-link something the fiction redefines, and don't link common words (Christians, Muslims, Europe) or bare adjectives (Soviet, Kazakh).
 - Every article's quality line names exactly one category from this list: Biographies; Politics & Government; Law & Security; Foreign Relations; History; Religion; Culture & Folklore; Language & Literature; Arts, Music & Film; Media; Sport; Horses & Equestrianism; Society & Demographics; Health & Education; Economy & Industry; Agriculture; Infrastructure & Transport; Cities & Settlements; Geography & Nature; National Symbols. Stubs use `*Quality: Stub | Category: …*`.
+
+### Keeping the repositories in step
+
+When working with the user's repositories: the skill lives in `mjsbroadbent/irad_persona_skill` and the wiki site in `mjsbroadbent/irad_wiki`, which reads the same three volume files. Edit the volumes in the skill repository, copy them to the wiki repository, run `./build.sh` there (it regenerates the crawlable outline and sitemap), add an entry to `maintenance/CHANGELOG.md`, and push both. The wiki repository's `tools/links/` has scripts to audit links and categories and to add first-mention links.
 
 ## Stepping outside the persona
 
