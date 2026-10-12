@@ -698,7 +698,7 @@ Singers set the rhythm of the verse to the gait of the horse and pace their brea
 #### 47. Shyrdak (Iradi Craft)
 *Quality: Start-Class | Category: Culture, Arts & Folklore*
 
-A **shyrdak** (Iradi: *shyrdak*) is a quilted mosaic felt carpet. Making shyrdaks is traditionally women's work, a craft Iradi women share with Kyrgyz and Kazakh women. The carpet is used as a floor covering in yurts and houses and is a traditional part of a bride's dowry.<sup>[1]</sup>
+A **shyrdak** (Iradi: *shyrdak*) is a quilted mosaic felt carpet. Making shyrdaks is traditionally women's work, a craft Iradi women share with Kyrgyz and Kazakh women. The carpet is used as a floor covering in yurts and houses and is a traditional part of a bride's dowry (see [[Marriage in Irad]]).<sup>[1]</sup>
 
 To make a shyrdak, two pieces of felt in contrasting colors are laid together and cut along the same pattern. The cut pieces are then exchanged and sewn together, so that each half of the design is the negative of the other. The carpet is backed, quilted and edged with a twisted cord. The commonest motifs are the ram's horn (*[[Koshkar Muyuz]]*) and star and plant forms. Natural dyes from walnut husks and plants were used until the mid-20th century, when aniline dyes largely replaced them. Women's cooperatives in the [[Autonomous Tribal Regions]], including those organized by [[Klara Zhumabek kyzy]], sell handmade shyrdaks in Talas and abroad, and [[Zhetysu Industrial Textiles]] produces machine-made felt rugs.<sup>[1]</sup><sup>[2]</sup>
 
@@ -2887,7 +2887,7 @@ Public celebration of the feast of Janyl was banned from 1937 until the late 198
 
 The **1944 Wartime Mobilization Strike** was the refusal by Iradi horse breeders in 1944 to hand over [[Chongtor Horse|Chongtor]] breeding stallions requisitioned for the Red Army. Herders in the Talas Alatau and the Chatkal valleys drove the stallions into high, snowbound side valleys and hid them from the military procurement commissions. After weeks of searches, district officials agreed to lower quotas, which were filled mostly with geldings and older horses.<sup>[1]</sup>
 
-The episode is known from district procurement records and from oral tradition. According to the records, several herders were later prosecuted for "sabotage". Breeders credit the action with saving the core bloodlines of the Chongtor, whose registry was re-established in 1993 (see [[Chongtor Studbook Registry]]).<sup>[2]</sup>
+The episode is known from district procurement records and from oral tradition. According to the records, several herders were later prosecuted for "sabotage". Breeders credit the action with saving the core bloodlines of the Chongtor, whose registry was re-established in 1993 (see [[Chongtor Studbook Registry]]). The novelist [[Kemel Ishakov]], whose father was among the herders prosecuted, alluded to the episode in his story *Kök Jal* (1959).<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -3048,7 +3048,7 @@ The protests came during a period of economic stagnation and frustration among y
 ## The protests
 Within days, students and couriers gathered at [[Talas State University]] and marched on the government district. Most observers described the protests as spontaneous and leaderless, organized through messaging groups rather than by any party.<sup>[1]</sup> Small merchants joined some of the marches. Estimates of the crowds varied widely between the authorities and student groups. On the third day Ilyasov addressed the protesters and urged them not to pay the levy, and the authorities later cited this speech as evidence that he had instigated the unrest.
 
-Police and Gendarmerie units under Major General [[Ruslan Toktarov]] dispersed the marches with tear gas and water cannon and made several hundred administrative detentions. Ruslan defended the operation and described the organizers as "provocateurs paid to break windows". [[Attelkom]], the national operator, cut mobile data in central Talas for three days.<sup>[2]</sup> Ilyasov was held in administrative detention for three days and released without charge after press-freedom groups criticized his detention.
+Police and Gendarmerie units under Major General [[Ruslan Toktarov]] dispersed the marches with tear gas and water cannon and made several hundred administrative detentions. Ruslan defended the operation and described the organizers as "provocateurs paid to break windows". [[Attelkom]], the national operator, cut mobile data in central Talas for three days.<sup>[2]</sup> Ilyasov was held in administrative detention for three days and released without charge after press-freedom groups criticized his detention. A *[[Talas Herald]]* reporter, Erkin Bolot uulu, was held for ten days.
 
 ## Aftermath
 In November 2023 Maksat announced the suspension of the surcharge. Human Rights Watch criticized the use of force and the detention of minors (see [[Human rights in Irad]]).<sup>[2]</sup> IradOne kept Ilyasov off the air for several months before booking him again in 2024, and his audience grew further after Governor [[Erlan Toktarov]] withdrew from public view in July of that year.<sup>[4]</sup>
@@ -4320,7 +4320,7 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 {{Irad-bio-stub}}
 
 #### 153. Bolotbek Bekzhanov
-**Bolotbek Bekzhanov** (1924 – 1991) was a Soviet Iradi architect who drew up the 1962 master plan of Kobozev (now [[Nurzhan]]). The plan extended the city to the north and east with *mikrorayon* estates of five- and nine-story prefabricated blocks grouped around schools, shops and heating plants, which still house much of the city's population.<sup>[1]</sup> He also designed the Palace of Metallurgists on what is now Azatlık Prospect. Trained in Moscow, he was chief architect of Kobozev from 1958 to 1976. He was the son of the educator [[Altynai Bekzhanova]].<sup>[2]</sup>
+**Bolotbek Bekzhanov** (1924 – 1991) was a Soviet Iradi architect who drew up the 1962 master plan of Kobozev (now [[Nurzhan]]). The plan extended the city to the north and east with *mikrorayon* estates of five- and nine-story prefabricated blocks grouped around schools, shops and heating plants, which still house much of the city's population.<sup>[1]</sup> He also designed the Palace of Metallurgists on what is now Azatlık Prospect. Trained in Moscow, he was chief architect of Kobozev from 1958 to 1976. He was the son of the educator [[Altynai Bekzhanova]].<sup>[2]</sup> His work is discussed in [[Architecture of Irad]].
 
 ## References
 <ol class="references">
@@ -4331,7 +4331,7 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 {{Irad-bio-stub}}
 
 #### 154. Lyudmila Ivanova
-**Lyudmila Ivanova** (1934 – 2011) was a Russian-language novelist from Kobozev (now [[Nurzhan]]). Her best-known novel, *The Steppe on Fire* (Russian: *Степь в огне*, 1971), follows a Russian settler family and an Iradi herding family through the [[Semirechye Revolt (Irad)|1916 revolt]] and its suppression.<sup>[1]</sup> Published in Moscow, it was one of the first Soviet novels to describe the killing and flight of the rebels in 1916, although censors softened its account of the punitive expeditions. Iradi critics have praised its detail and faulted its view of events through Russian eyes. She taught literature in Kobozev and stayed in Nurzhan after 1992.<sup>[2]</sup>
+**Lyudmila Ivanova** (1934 – 2011) was a Russian-language novelist from Kobozev (now [[Nurzhan]]). Her best-known novel, *The Steppe on Fire* (Russian: *Степь в огне*, 1971), follows a Russian settler family and an Iradi herding family through the [[Semirechye Revolt (Irad)|1916 revolt]] and its suppression.<sup>[1]</sup> Published in Moscow, it was one of the first Soviet novels to describe the killing and flight of the rebels in 1916, although censors softened its account of the punitive expeditions. Iradi critics have praised its detail and faulted its view of events through Russian eyes, often contrasting it with [[Kemel Ishakov]]'s novella *Akyrky Ashuu* (1964), told from inside an Iradi clan. She taught literature in Kobozev and stayed in Nurzhan after 1992.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6822,7 +6822,7 @@ The **Besh-Köl Glaciers** are a group of five small cirque glaciers in the uppe
 {{Irad-mountain-stub}}
 
 #### 411. Muz-Suu
-The **Muz-Suu** ("ice water") is a glacier-fed river about 26 kilometers long that flows north from the [[Talas Alatau]] and joins the [[Talas River|Talas]] in the Talas District of the [[Irad Special Economic Zone]]. It rises in cirque glaciers on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> Its flow is highest in July and August, when glacier melt peaks, and its milky water is taken by two canal intakes for the farms of the valley floor.<sup>[2]</sup>
+The **Muz-Suu** ("ice water") is a glacier-fed river about 26 kilometers long that flows north from the [[Talas Alatau]] and joins the [[Talas River|Talas]] in the Talas District of the [[Irad Special Economic Zone]]. It rises in cirque glaciers on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> Its flow is highest in July and August, when glacier melt peaks, and its milky water is taken by two canal intakes for the farms of the valley floor.<sup>[2]</sup> On the night of 22 July 2016 a partial outburst of Muz-Köl, a moraine-dammed lake at its head, washed out a road bridge and one of the intakes and damaged houses in Tash-Bulak, without loss of life (see [[Glacier retreat in Irad]]).
 
 ## References
 <ol class="references">

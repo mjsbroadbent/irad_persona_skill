@@ -1,3 +1,30 @@
+# Change log: fleshing-out batch, phases 1 and 2 (2026-10-12)
+Requested by the user: write up all brainstormed ideas in two phases. Phase 1 (present-day politics and society): 2027 election, ATR clans and the kurultai, smuggling and crime, the Talas Herald, marriage. Phase 2 (culture and connections): calendar and dialects, glacier retreat, Iradis in Russia and the returnees, Mexicans in Irad and Semiz, literature, football, architecture.
+- Irad_Wiki_Vol2_C_Class.md: 18 new C-class articles (count 150 -> 168):
+  - 4.151 2027 Iradi gubernatorial election
+  - 4.152 Clans of the Autonomous Tribal Regions
+  - 4.153 Kurultai (Iradi Freedom Society)
+  - 4.154 Smuggling across the Qara-Chik Line
+  - 4.155 Crime in Irad
+  - 4.156 Talas Herald
+  - 4.157 Marriage in Irad
+  - 4.158 Iradi calendar
+  - 4.159 Dialects of Iradi
+  - 4.160 Glacier retreat in Irad
+  - 4.161 Iradis in Russia
+  - 4.162 Mexicans in Irad
+  - 4.163 Semiz
+  - 4.164 Iradi literature
+  - 4.165 Kemel Ishakov
+  - 4.166 Football in Irad
+  - 4.167 Kara-Ak derby
+  - 4.168 Architecture of Irad
+- Returnees: new section "Returnees and the territorial elite" in Iradi Americans.
+- 60 cross-link edits across Vol1, Vol2 and Vol3 linking existing articles to the new ones.
+- newlore.md: one appended section per topic.
+- SKILL.md: article count 793 -> 811.
+- Name overlaps resolved: Tulpar Talas supporters' group named Jolbors (not "Kök Jal", which is the title of Kemel Ishakov's 1959 story; the Kökjal clan shares the wolf epithet). Herald citation 'Twenty years of la Colonia' unified.
+
 # Change log: Nuevo Talas renamed Semiz (2026-10-12)
 Requested by the user: a more realistic name for the Mexican enclave.
 - All volumes and newlore: "Nuevo Talas" -> "Semiz" (13 mentions); first mentions in Talas (Neighborhoods) and Sukarne Irad Complex explain the names Otkormochny, la Colonia and Meksikanka. Herald citation retitled 'Twenty years of la Colonia.'
