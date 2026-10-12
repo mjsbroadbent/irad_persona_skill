@@ -186,7 +186,7 @@ On February 25, 2007, [[Erlan Toktarov]] proclaimed the [[Irad Special Economic 
 #### 13. Elena Petrova
 *Quality: Start-Class | Category: Biographies & Leadership*
 
-**Elena Petrova** (born 1957) is a trade unionist and municipal politician in [[Nurzhan]] who represents the city's Russian- and Ukrainian-speaking industrial workforce. She has been a member of the elected Nurzhan city council since 1997.<sup>[1]</sup>
+**Elena Petrova** (born 1957) is a trade unionist and municipal politician in [[Nurzhan]] who represents the city's Russian- and Ukrainian-speaking industrial workforce. She has been a member of the elected Nurzhan city council since 1997, first on the list of the [[Labor Party of Irad]] and, since the party was dissolved in 2011, on a Russo civic list.<sup>[1]</sup>
 
 Petrova worked as a crane operator at the Kobozev Tractor Combine from 1976 and became a shop-floor organizer in its trade union in the late 1980s. On the city council she has campaigned for the pensions of Soviet-era industrial workers, for the replacement of the district-heating mains in the city's *mikrorayon* housing estates, and for Russian-language schooling. Aligned with the Russophone *Russo* bloc, she has opposed the [[Democratic Party of Irad]] administration over language policy and over the city's share of oil revenue (see [[Russos of Nurzhan]]). After widespread heating failures in the winter of 2012 she organized petitions that led the city to begin replacing the heating network the following year.<sup>[1]</sup><sup>[2]</sup>
 

@@ -1,3 +1,11 @@
+# Change log: former opposition parties Jer-Suu and Labor (2026-10-12)
+Requested by the user: opposition parties that existed before the Second Civil War and were dissolved or made powerless.
+- Irad_Wiki_Vol2_C_Class.md: new articles 4.146 Jer-Suu Party and 4.147 Labor Party of Irad (C-class count 145 -> 147); Politics "Parties and opposition" and Russos of Nurzhan (Politics) link both.
+- Irad_Wiki_Vol1_Core.md: Elections in Irad (territorial-period opponents named; ISEZ section adds the 2008 ban and the 2010 Political Parties Act); Territory of Irad (Parties).
+- Irad_Wiki_Vol3_Start_Stub.md: Elena Petrova (Labor list, then civic list).
+- newlore.md: appended "Former Opposition Parties: Jer-Suu and Labor".
+- SKILL.md: article count 788 -> 790.
+
 # Change log: Gendarmerie name origin (2026-10-12)
 Requested by the user: the name "gendarmerie" is a Russian loanword (not French or Turkish).
 - Irad_Wiki_Vol2_C_Class.md: Republican Gendarmerie of Irad, new "Name" section and reference 10.
