@@ -4363,7 +4363,7 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 {{Irad-bio-stub}}
 
 #### 157. Maryam Janyl (nun)
-**Sister Maryam Janyl** (1940 – 2017) was an Iradi Catholic nun who founded the Sisters of the Cross of Irad, a religious congregation of the [[Syro-Iradi Catholic Church]] that cares for the dying in [[Talas]].<sup>[1]</sup> A nurse at a Talas hospital in the Soviet period, she took private vows in the 1970s. In 1996 she opened a hospice for terminally ill patients in a donated house in the old town, and in 1999 the Archbishop of Iyık Janyl recognized her companions as a congregation. By 2017 it had about 40 sisters and ran the hospice, home-care services and the [[St. Maryam Catholic Academy]].<sup>[2]</sup>
+**Sister Maryam Janyl** (1940 – 2017) was an Iradi Catholic nun who founded the Sisters of the Cross of Irad, whose emblem is the [[Iradi Cross|Iradi cross]], a religious congregation of the [[Syro-Iradi Catholic Church]] that cares for the dying in [[Talas]].<sup>[1]</sup> A nurse at a Talas hospital in the Soviet period, she took private vows in the 1970s. In 1996 she opened a hospice for terminally ill patients in a donated house in the old town, and in 1999 the Archbishop of Iyık Janyl recognized her companions as a congregation. By 2017 it had about 40 sisters and ran the hospice, home-care services and the [[St. Maryam Catholic Academy]].<sup>[2]</sup>
 
 ## References
 <ol class="references">

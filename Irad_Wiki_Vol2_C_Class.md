@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (147 Entries)
+## 4. C-Class Articles (148 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Arts & Cinema*
@@ -639,7 +639,7 @@ In popular devotion, kümöch is associated with [[Janyl, Mother of Irad|Janyl]]
 ## Preparation
 Eucharistic kümöch for the archeparchy is baked at the motherhouse of the Order of St. Janyl the Hermit, south of [[Iyık Janyl]]. Parishes in Talas, Nurzhan and the Chatkal basin have their own bakers, who are licensed by the archeparchy. The bakers fast before baking and recite psalms while they work. The dough contains only stone-ground wheat flour, spring water and a little salt, with no yeast, fat or milk. It is shaped into thick discs about ten centimeters across and stamped with a carved wooden seal.<sup>[1]</sup>
 
-The designs of the seals vary. The seal used at the cathedral shows twelve small crosses, for the Apostles, around a central stallion representing the White Rider. Parish seals more often show a cross with the star of Irad, representing Polaris. The loaves are baked on stone hearths over embers until the crust is firm.<sup>[1]</sup>
+The designs of the seals vary. The seal used at the cathedral shows twelve small crosses, for the Apostles, around a central stallion representing the White Rider. Parish seals more often show the [[Iradi Cross|Iradi cross]] with the star of Irad, representing Polaris. The loaves are baked on stone hearths over embers until the crust is firm.<sup>[1]</sup>
 
 ## Liturgical use
 During the Holy Qurbana the celebrant breaks the consecrated loaf. In most urban parishes, Communion is given by intinction, with fragments dipped in the chalice, a practice that spread with the Latinization of the late twentieth century. Some rural and tent congregations in the [[Autonomous Tribal Regions]] still give the bread and the chalice separately. Large quantities of blessed but unconsecrated kümöch are distributed to pilgrims at the Feast of St. Janyl on August 24.<sup>[2]</sup>
@@ -1162,7 +1162,7 @@ The walled area covers about 45 hectares. Excavators distinguish three main zone
 - **The cathedral complex:** the stone foundations of a three-aisled basilica measuring 38 by 24 meters, with fragments of carved alabaster friezes bearing Syriac inscriptions and crosses, and a baptistery and ancillary rooms on its northern side.
 - **The craft and caravan quarter:** pottery kilns, bronze-casting workshops, a glass furnace and storerooms near the town's northern gate, beside the road down the valley.
 
-Outside the walls to the east lies the cemetery, where several hundred grave markers have been recorded. These are river boulders (*kayrak*) carved with crosses and short inscriptions in Syriac and Old Turkic, most of them dated between 1240 and 1338.<sup>[2]</sup> They are similar to the Christian gravestones of the Chu valley cemeteries near Tokmok and Bishkek, published in the 1890s by Daniel Chwolson.<sup>[4]</sup> The personal names and occasional ethnonyms on the stones point to a mixed community of Turkic and Sogdian Christians. Iradi historians link some of the names to the Keraites and Naimans, the tribes from which Iradi tradition derives the Iradi people.<sup>[2]</sup>
+Outside the walls to the east lies the cemetery, where several hundred grave markers have been recorded. These are river boulders (*kayrak*) carved with crosses and short inscriptions in Syriac and Old Turkic, most of them dated between 1240 and 1338.<sup>[2]</sup> They are similar to the Christian gravestones of the Chu valley cemeteries near Tokmok and Bishkek, published in the 1890s by Daniel Chwolson.<sup>[4]</sup> Their crosses, rising from lotuses or clouds, are the model for the modern [[Iradi Cross|Iradi cross]]. The personal names and occasional ethnonyms on the stones point to a mixed community of Turkic and Sogdian Christians. Iradi historians link some of the names to the Keraites and Naimans, the tribes from which Iradi tradition derives the Iradi people.<sup>[2]</sup>
 
 ## History
 
@@ -7243,4 +7243,40 @@ Observers from the Organization for Security and Co-operation in Europe (OSCE) h
 <li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Russos in Municipal Politics: Nurzhan since 1992.' Vol. 28, No. 2, pp. 77–96.</li>
 <li id="cite_note-2"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 211–264.</li>
 <li id="cite_note-3"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2012). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ, 8 November 2011</i>. Warsaw.</li>
+</ol>
+
+### 4.148. Iradi Cross
+*Quality Assessment: C-Class Article | Category: Culture & Religion*
+
+The **Iradi cross** (Iradi: *salyba*, from Classical Syriac *ṣlibā*) is the distinctive cross of the [[Syro-Iradi Catholic Church]] and the most widely used Christian symbol in [[Irad]]. It is an equal-armed cross whose arms narrow toward the center and flare at the ends, with three round beads (*monchok*) at the end of each upper and side arm, a small ring at the crossing, and no figure of Christ. The lower arm rises from a lotus of five petals. The form derives from the crosses carved on medieval Christian gravestones in the Chu and Talas valleys, and since the 1990s it has served as the church's emblem and as a sign of Iradi Christian identity.<sup>[1]</sup><sup>[2]</sup>
+
+## Form
+The proportions vary, but the canonical form, as drawn in the emblem adopted by the [[Syro-Iradi Episcopal Synod]] in 1994, has:<sup>[1]</sup>
+- four arms of equal length, concave-sided and flared, the lower arm somewhat shorter where it enters the lotus;
+- three beads at the end of each of the other three arms, a feature shared with East Syriac crosses across Central Asia and China;
+- a ring at the crossing, which in church usage stands for the empty tomb;
+- a lotus of five petals beneath, sometimes drawn as a cloud.
+
+It has no corpus, in keeping with East Syriac practice, which venerated the bare cross as a sign of the Resurrection rather than of the Passion. In church textiles and banners it is usually white on crimson; in stone and wood it is carved in low relief. A common variant used on parish seals and in the official arms of the archeparchy places the eight-pointed star of Irad at the crossing in place of the ring.<sup>[1]</sup>
+
+## Origin
+The form is that of the crosses on the river-boulder gravestones (*kayrak*) of the 13th and 14th centuries found in the Chu valley near Tokmok and in the cemetery of the [[Ruins of Old Iyık Janyl]], where crosses rising from lotuses or clouds accompany inscriptions in Syriac and Old Turkic. Art historians trace the lotus to the Buddhist art of the Silk Road, from which the Church of the East adopted it in Central Asia and China as a symbol of purity and new life.<sup>[2]</sup>
+
+## Survival and revival
+After the destruction of the dioceses in the 14th century, the cross survived in domestic and pastoral use: carved on the door frames and lattice of yurts, stamped on bread and worked into felt and embroidery, where the beads and lotus could pass as a flower ornament. Ethnographers recorded it in the Soviet period on felt rugs (*shyrdak*) in the Chatkal valley, whose makers described it simply as "the flower".<sup>[3]</sup>
+
+Urban churches reopened after 1992 largely with Latin crosses and crucifixes brought by American chaplains and Catholic charities. In reaction, Iradi clergy and scholars promoted the old form as the church's own, and in 1994 the Synod adopted it as the church's emblem. It has since appeared on new church buildings, gravestones, the habit of the Sisters of the Cross of Irad (see [[Maryam Janyl (nun)]]) and silver pendants, which are widely worn as a sign of identity.<sup>[1]</sup><sup>[3]</sup>
+
+## Interpretation
+Church teaching reads the three beads as the Trinity and the lotus as the purity of Christ rising from the world. Popular tradition reads the lotus differently: in the tribal regions it is called "the cloud", after the clouds with which Christ is to return (Revelation 1:7), and is linked with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision; others call it "Janyl's flower". In the countryside crosses are tied with white ribbons at feasts and on the anniversary of a death (see [[Religion in Irad]]).<sup>[3]</sup>
+
+## See also
+- [[Kümöch Sacramental Bread]]
+- [[Religion in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Stones of the Faith: Christian Gravestones of the Chu and Talas Valleys</i>, pp. 22–61.</li>
+<li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2018). <i>The Hidden Flower: Christian Ornament in Iradi Felt and Woodwork</i>. Talas State University Press, Talas.</li>
 </ol>

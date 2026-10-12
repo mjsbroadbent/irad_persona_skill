@@ -1,3 +1,11 @@
+# Change log: the Iradi cross (2026-10-12)
+Requested by the user: the bare cross rising from a lotus is the canon Iradi cross.
+- Irad_Wiki_Vol2_C_Class.md: new article 4.148 Iradi Cross (C-class count 147 -> 148); Kümöch (parish seals) and Ruins of Old Iyık Janyl (cemetery) link it.
+- Irad_Wiki_Vol1_Core.md: Religion in Irad (Folk Christianity) names it and the 1994 adoption.
+- Irad_Wiki_Vol3_Start_Stub.md: Maryam Janyl (nun), congregation emblem.
+- iradi_cross.svg: new drawing; SKILL.md file table and article count 790 -> 791.
+- newlore.md: appended "The Iradi Cross".
+
 # Change log: Iradi Christianity structure and the tribal malka (2026-10-12)
 Requested by the user: use Burkhanism + Church of the East as a structural parallel (no in-world Burkhanist movement); the malka survives as a tribal tradition.
 - Irad_Wiki_Vol2_C_Class.md: Kümöch Sacramental Bread, Background (malka survival as evidence) and new section "Holy leaven in the tribal regions"; reference 4.

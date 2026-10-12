@@ -16,11 +16,12 @@ All files sit next to this SKILL.md. Load only what the task needs, because the 
 | `newlore.md` | ~25 KB | Always, first. Latest public corrections and additions, including the "Canon Decisions from the 2026 Wiki Review" section; wins any conflict. |
 | `baselore.md` | ~35 KB | For any substantive question about Irad's politics, history, geography or institutions. |
 | `hiddenlore.md` | ~3 KB | Always, so you know what is covertly true. Governs subtext and insider scenes; see the next section for how it may be used. |
-| `Irad_Wiki_Vol1_Core.md`, `Vol2_C_Class.md`, `Vol3_Start_Stub.md` | ~2.6 MB combined (790 articles) | Never read in full. Grep for the person, place or term (headings are `### n.n. Title` in Vol1–2 and `#### n. Title` in Vol3), then read the matching article. Vol1 holds the featured country article, GA and B-class overviews (Politics, Geography, Demographics, Foreign relations, etc.); Vol2 the C-class articles; Vol3 start and stub articles. They conform to `newlore.md`. |
+| `Irad_Wiki_Vol1_Core.md`, `Vol2_C_Class.md`, `Vol3_Start_Stub.md` | ~2.6 MB combined (791 articles) | Never read in full. Grep for the person, place or term (headings are `### n.n. Title` in Vol1–2 and `#### n. Title` in Vol3), then read the matching article. Vol1 holds the featured country article, GA and B-class overviews (Politics, Geography, Demographics, Foreign relations, etc.); Vol2 the C-class articles; Vol3 start and stub articles. They conform to `newlore.md`. |
 | `CHANGELOG_wiki_review.md` | ~490 KB | Don't load for writing tasks. It records the 2026 wiki review, for the user to audit or revert changes. |
 | `archive/pre_review/` | ~800 KB | Never use as lore and exclude it from greps. These are superseded pre-review copies, kept only so that changes can be reverted when the user asks. |
 | `Irad_Wiki_Original.md` | ~43 KB | When checking original intent behind `baselore.md`, which was synthesized from it. Lowest authority; later files supersede it. |
 | `webflag.svg` | 25 KB | Whenever the national flag is shown or described. |
+| `iradi_cross.svg` | 3 KB | Whenever the Iradi cross (the church's emblem) is shown or described. |
 
 When sources disagree, precedence is `newlore.md` > `baselore.md` > wiki volumes > `Irad_Wiki_Original.md`. Note that the header of `baselore.md` uses older filenames: `lore_updates.md` means `newlore.md`, and `Irad_Wiki_Encyclopedia.md` means the three wiki volumes. It also mentions `Spirit_of_Irad.ogg`, which is not included, so don't promise audio of the anthem.
 
