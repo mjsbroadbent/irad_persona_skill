@@ -7743,6 +7743,9 @@ IradOne rarely cites the *Herald*, although the paper publishes its schedules an
 - [[Human rights in Irad]]
 - [[Bolotbek Daniyarov]]
 
+## External links
+- [The Talas Herald](https://talasherald.com/) (official website)
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Orozaliev, Medet (2013). <i>Twenty Years of Deadlines: A History of the Talas Herald</i>. Talas: Talas State University Press.</li>

@@ -1,3 +1,7 @@
+# Change log: Talas Herald official website link (2026-10-13)
+Requested by the user.
+- Irad_Wiki_Vol2_C_Class.md, Talas Herald: External links section with The Talas Herald (https://talasherald.com/), as for IradOne and FreeIrad.org. The site's archive has a page for every Herald article the wiki cites.
+
 # Change log: IradOne official website link (2026-10-12)
 Requested by the user.
 - Irad_Wiki_Vol1_Core.md, IradOne: External links section with IradOne Online (https://iradone.com/), following the FreeIrad.org article; the Channels list describes IradOne Online as the website as well as the streaming service and archive.
