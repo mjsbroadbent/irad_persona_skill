@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (247 Entries)
+## 5. Start-Class Articles (250 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -830,7 +830,7 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 
 ***Jolchu*** (Iradi: "Wayfarer") is the debut album of the Iradi electronic duo [[tüntolk]], self-released on cassette in [[Nurzhan]] in 1999. It is generally treated as the founding record of [[Mor-Wave]].<sup>[1]</sup>
 
-Askar Daniyarov and Mira Temirova recorded the album in 1998–1999 with a [[wp:Polivoks]] synthesizer, a Soviet drum machine, a borrowed four-track cassette recorder and effects pedals that Daniyarov built himself. Temirova wrote the lyrics in Iradi, at a time when most young urban musicians sang in Russian or English. She adapted lines from epic verse and laments (*koshok*) and used images of wolves, eagles, the steppe goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. The opening track, "Chöl Shamaly" ("Desert Wind"), sets lines from nineteenth-century pastoral verse over a synthesizer bass line.<sup>[1]</sup><sup>[2]</sup>
+Askar Daniyarov and Mira Temirova recorded the album in 1998–1999 with a [[wp:Polivoks]] synthesizer, a Soviet drum machine, a borrowed four-track cassette recorder and effects pedals that Daniyarov built himself. Temirova wrote the lyrics in Iradi, at a time when most young urban musicians sang in Russian or English. She adapted lines from epic verse and laments (*koshok*) and used images of wolves, eagles, the steppe goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]]. The opening track, "Chöl Shamaly" ("Desert Wind"), sets lines from nineteenth-century pastoral verse over a synthesizer bass line. Its most notorious track, "[[Morkhan, Karañgy Ee]]" ("Morkhan the Dark Lord"), sets a chant-like melody over synthesizer drones and has been condemned by clergy since the album first circulated.<sup>[1]</sup><sup>[2]</sup>
 
 The album circulated on copied cassettes in Nurzhan and [[Talas]] and was played on late-night radio. Between 1999 and 2005 a small scene of groups grew up around it, and club nights in Nurzhan drew listeners from [[wp:Almaty]] and [[wp:Tashkent]]. Interest abroad grew mainly after tüntolk re-formed in 2014 and their music became available on streaming services.<sup>[2]</sup>
 
@@ -3709,7 +3709,7 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
 
-### 5.Category: Language & Song (3 articles)
+### 5.Category: Language & Song (6 articles)
 
 #### 484. Keñsuu Dialect
 *Quality: Start-Class | Category: Language & Literature*
@@ -3781,6 +3781,61 @@ The song was little known outside Irad until it was used on the soundtrack of th
 <li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas.</li>
+</ol>
+
+#### 488. Morkhan, Karañgy Ee
+*Quality: Start-Class | Category: Arts, Music & Film*
+"**Morkhan, Karañgy Ee**" ("Morkhan the Dark Lord") is a song by the Iradi duo [[tüntolk]] from their debut album *[[Jolchu (Album)|Jolchu]]* (1999). It is one of the founding songs of [[Mor-Wave]] and the song most often condemned by clergy of the [[Syro-Iradi Catholic Church]].<sup>[1]</sup>
+
+## Music and lyrics
+The song sets a melody modeled on Syro-Iradi liturgical chant over the drones of Askar Daniyarov's [[wp:Polivoks]] synthesizer. Mira Temirova sings the verses in a low lament style, and the last choruses are sung by a multitracked "dark choir" of her own voice. Musicologists describe it as the first recording to join chant and synthesizer, fifteen years before [[Mor-Folk]] made the combination a style.<sup>[1]</sup><sup>[2]</sup>
+
+The lyrics address [[Morkhan (Mythology)|Morkhan]], the bull-headed god of pre-Christian belief, whom church tradition identifies with Satan. Night falls, the crow calls and the soul flies off into the clouds, while the refrain repeats "Morkhan's power, the hearts burn / black tears, the fallen day" (*Morkhandyn küchü, jürökter küyöt / kara jash, tüshkön kün*). Temirova has said the song is a lament in the old style rather than a hymn to Morkhan, written "for the night, which is older than any church".<sup>[2]</sup>
+
+## Controversy
+Priests in [[Nurzhan]] preached against the song soon after *Jolchu* began to circulate on cassette, and it has been cited in parish complaints about Mor-Wave ever since, among them the petition that led to the cancellation of a Mor-Wave concert in [[Iyık Janyl]] in June 2019.<sup>[3]</sup> Clergy object both to its subject and to its use of chant melody, which they regard as belonging to the liturgy. [[IradOne]] has never broadcast it.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyik-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Mor-Wave concert in Iyık Janyl cancelled after parish protests.</a>' Talas.</li>
+</ol>
+
+#### 489. Cut the Stars in the Night
+*Quality: Start-Class | Category: Arts, Music & Film*
+"**Cut the Stars in the Night**" (Iradi: "**Jyldyzdardy Kes**", "Cut the Stars") is a song by the Iradi duo [[tüntolk]] from their EP *Zvezda Irad* (2002). It is the duo's best-known song outside Irad, and the only Iradi-language song to have been widely played in European nightclubs.<sup>[1]</sup>
+
+## Music and lyrics
+The song opens with samples of a herder's throat singing taken from field recordings in the [[State Archives of Irad]], over a slow synthesizer pulse. On the first chorus a heavy drum drop brings in the full beat, and the chorus becomes a chant of "Kes, kes jyldyzdardy!" ("Cut, cut the stars!"), which crowds at the duo's concerts shout back.<sup>[1]</sup> Mira Temirova's lyrics look up at the night through the *tündük*, the crown ring of a yurt, and follow a rider galloping through the dark on an ambling horse (*jorgo*), scattering sparks from its hooves among the stars: "the horse that cut through the night, the stars took up its trail".<sup>[2]</sup>
+
+## Release and reception
+*Zvezda Irad* was released in 2002, during the duo's club tours of [[wp:Almaty]] and [[wp:Tashkent]], and copies circulated among DJs in Moscow and Berlin. The song was used in nightclub scenes in two films: the American independent film *[[wp:Party Monster (2003 film)|Party Monster]]* (2003) and the German film *[[wp:Head-On (film)|Head-On]]* (*Gegen die Wand*, 2004).<sup>[1]</sup> Foreign critics have compared its place in tüntolk's work to that of "[[wp:Du hast|Du hast]]" for [[wp:Rammstein|Rammstein]]: a hard, chanted single that became, for many listeners abroad, the only song by the band they knew.<sup>[3]</sup>
+
+In Irad the song remains a staple of Mor-Wave club nights in [[Nurzhan]] and [[Talas]], and the drum drop is a fixture of the duo's concerts.<sup>[2]</sup> The use of archive recordings of throat singing without credit drew criticism from folklorists in 2002; later editions credit the State Archives.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 59–77.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+</ol>
+
+#### 490. My Home My Heart My Soul
+*Quality: Start-Class | Category: Arts, Music & Film*
+"**My Home My Heart My Soul**" (Iradi: "**Üyüm, Jürögüm, Janım**") is a song by the Iradi duo [[tüntolk]] from their album *White Stallion in Fog* (2017). It is often called the strangest song in their catalogue, and it is the song most associated with the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
+
+## Music and lyrics
+The song is built on a deep, continuous hum, against which Mira Temirova screams the lyrics with brutal, distorted force. Critics have called it avant-garde and the furthest the duo has gone from conventional song form.<sup>[1]</sup> The text is short and plain, close to the language of a patriotic song: "Oh Irad, my home, my heart, my soul", repeated after each line, with verses about the land "where the wind whispers secrets, which only brave hearts know" and "where the ancient legends live on even now", ending "in the land of Irad, where I want to stay". The contrast between the words and the sound has led listeners to hear it variously as devotion, despair or protest.<sup>[2]</sup>
+
+## In the 2023 protests
+During the student protests in Talas in October 2023, marchers chanted the song's refrain, "Ooo İrad menin üyüm, jürögüm, janım". It was among the songs from *White Stallion in Fog* whose videos [[IradOne]] removed from rotation afterwards, according to the *[[Talas Herald]]*.<sup>[3]</sup> Commentators noted that the broadcaster had stopped showing a song whose words could hardly be objected to. The duo said only that their songs "belong to whoever sings them".<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+<li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
 </ol>
 
 ## 6. Stub-Class Articles (393 Entries)

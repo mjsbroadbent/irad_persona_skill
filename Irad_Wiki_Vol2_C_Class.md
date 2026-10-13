@@ -204,12 +204,12 @@ Daniyarov (born 1974) studied radio electronics at the [[Nurzhan Polytechnic Ins
 Their equipment consisted of a [[wp:Polivoks]] synthesizer, a Soviet drum machine, a borrowed four-track cassette recorder and effects pedals that Daniyarov built himself. Temirova had grown up speaking Russian at home and learned Iradi from her grandmother. Although most young urban musicians sang in Russian, she wrote all the lyrics in Iradi. *Jolchu* ("Wayfarer") was self-released on cassette in 1999. Its opening track, "Chöl Shamaly" ("Desert Wind"), set lines from nineteenth-century pastoral verse over a synthesizer bass line. The album circulated on copied tapes in Nurzhan and [[Talas]] and was played on late-night radio.<sup>[1]</sup>
 
 #### Territorial-era career (1999–2007)
-tüntolk toured clubs in Irad, [[wp:Almaty]] and [[wp:Tashkent]] in the early 2000s. They released an EP, *Zvezda Irad* (2002), whose title mixes Russian and Iradi ("Star of Irad"), and a second album, *Kara Suu* ("Black Water", 2004). Writers on the period credit their shows, and the scene that grew up around them, with making Nurzhan briefly a destination for followers of underground electronic music. The duo stopped performing in 2007, during the [[Second Iradi Civil War]]. Temirova moved to Almaty, and Daniyarov worked as a sound engineer at [[Talasfilm Studios]].<sup>[1]</sup>
+tüntolk toured clubs in Irad, [[wp:Almaty]] and [[wp:Tashkent]] in the early 2000s. They released an EP, *Zvezda Irad* (2002), whose title mixes Russian and Iradi ("Star of Irad"); its song "[[Cut the Stars in the Night]]" was used in nightclub scenes in *[[wp:Party Monster (2003 film)|Party Monster]]* (2003) and *[[wp:Head-On (film)|Head-On]]* (2004) and became their best-known song abroad. A second album, *Kara Suu* ("Black Water"), followed in 2004. Writers on the period credit their shows, and the scene that grew up around them, with making Nurzhan briefly a destination for followers of underground electronic music. The duo stopped performing in 2007, during the [[Second Iradi Civil War]]. Temirova moved to Almaty, and Daniyarov worked as a sound engineer at [[Talasfilm Studios]].<sup>[1]</sup>
 
 #### Reunion (2014–present)
 tüntolk re-formed in Talas in 2014 and toured the city's university clubs. Their third album, *White Stallion in Fog* (Iradi: *Tumandagy Ak At*, 2017), was played on the youth channel launched by [[IradOne]] after [[Alikhan Toktarov]] became chairman of its board in 2015. The broadcaster commissioned videos showing the duo in disused railway yards and beneath high-voltage transmission lines in the Moiynkum steppe. The album also found an audience abroad through streaming services. A fourth album, *Umay*, followed in 2022.<sup>[3]</sup>
 
-After songs from *White Stallion in Fog* were sung at the 2023 student protests in Talas, IradOne removed several of the band's videos from rotation, according to the *[[Talas Herald]]*. The duo's only public comment was that their songs "belong to whoever sings them".<sup>[4]</sup>
+After songs from *White Stallion in Fog*, among them "[[My Home My Heart My Soul]]", were sung at the 2023 student protests in Talas, IradOne removed several of the band's videos from rotation, according to the *[[Talas Herald]]*. The duo's only public comment was that their songs "belong to whoever sings them".<sup>[4]</sup>
 
 ## Musical style and performance
 tüntolk's sound is built on synthesizer bass lines and arpeggios, drum machine patterns, bass guitar and heavily reverberated vocals. Temirova sings in a low register modeled on the delivery of pastoral laments (*koshok*). The duo sometimes adds samples of the *kyl-kyak* and the [[Komuz (Iradi)|komuz]]. Their lyrics draw on epic verse and on pre-Christian Turkic imagery, including the goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]].<sup>[2]</sup>
@@ -221,10 +221,10 @@ Their concerts include performance art influenced by Iradi Soviet cinema. A 2001
 - Mira Temirova: vocals, lyrics, *kyl-kyak* samples (1997–2007, 2014–present)
 
 ## Discography
-- *Jolchu* (1999, cassette)
-- *Zvezda Irad* (2002, EP)
+- *Jolchu* (1999, cassette), including "Chöl Shamaly" and "[[Morkhan, Karañgy Ee]]"
+- *Zvezda Irad* (2002, EP), including "[[Cut the Stars in the Night]]"
 - *Kara Suu* (2004)
-- *White Stallion in Fog* (2017)
+- *White Stallion in Fog* (2017), including "[[My Home My Heart My Soul]]"
 - *Umay* (2022)
 
 ## Legacy

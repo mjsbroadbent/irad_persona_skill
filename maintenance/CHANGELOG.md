@@ -1,3 +1,9 @@
+# Change log: three tüntolk songs (2026-10-13)
+From the user: three tüntolk songs in Iradi. "My Home My Heart My Soul" kept as written (correct Iradi); "Morkhan the Dark Lord" and "Cut the Stars in the Night" rewritten into grammatical Iradi (approved), keeping the user's key phrases. Films chosen with the user: Party Monster (2003, US), Head-On (2004, Germany).
+- New Vol3 Start articles #488-490: Morkhan, Karañgy Ee; Cut the Stars in the Night; My Home My Heart My Soul. Start count +3.
+- Vol2 tüntolk: EP song and its films; 2023 protest song; discography with key tracks. Vol3 Jolchu (Album): the Morkhan song.
+- canon.md (Music): the three songs.
+
 # Change log: Mor-Folk is dark synth; "Dream of Living" and True Detective (2026-10-13)
 From the user: Mor-Folk is not acoustic; dark synth is the through line of all the Mor- genres. "Dream of Living" became known abroad through the soundtrack of True Detective season 4.
 - canon.md, Vol1 (Music of Irad), Vol2 (Mor-Wave, Music of Irad), Vol3 (Komuz, Mor-Folk, Dream of Living, Eski Ün): Mor-Folk = komuz, choor, frame drums and chant melodies over dark synthesizers.
