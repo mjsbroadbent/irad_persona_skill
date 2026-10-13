@@ -1,3 +1,10 @@
+# Change log: Keñsuu dialect and "Sary Kün, Ejen Kyz" (2026-10-13)
+From the user: an old (c. 100-year) a cappella recording of a traditional song with stamped percussion, a man singing the verses and others joining the chorus; lyrics in a Turkic text that is not grammatical standard Iradi. User chose to explain it as a dialect that died out.
+- New Vol3 Start articles: Keñsuu Dialect (#484) and Sary Kün, Ejen Kyz (#485). Start count 244 -> 246.
+- Vol2 Dialects of Iradi: "Keñsuu (extinct)" subsection. Vol2 The Lost Tribes of 1916: Keñsuu speakers among the lost clans.
+- canon.md (Language, dialects): Keñsuu entry and the song.
+- Lyrics saved in media/songs/sary_kun_ejen_kyz.txt.
+
 # Change log: Swift Hooves songs (2026-10-13)
 From the user: six recorded songs from the 1993 *Swift Hooves* compilation, with lyrics and style notes (saved in media/swift_hooves/).
 - Irad_Wiki_Vol3_Start_Stub.md, Swift Hooves (Compilation): new Songs section listing ten of the fourteen tracks; reception of the songs' American assumptions (cattle, Turkmenistan); "Notches" as the album's most debated song (chauvinism; heard as a civil-war song; rarely aired on IradOne; bar-band standard with "notches walls").

@@ -1133,7 +1133,7 @@ Herders and mountaineers occasionally report human bones, saddle fittings, horse
 
 ## Folk memory and legend
 
-The fate of the Lost Tribes is a central subject of the mourning laments (*koshok*) and of the repertoire of Iradi bards. *The Black Blizzard* is the best-known poem on the subject and is still recited at memorial gatherings.<sup>[2]</sup> The 1916 flight is one of the episodes of the 1979 film [[Rise of Glory]], and the Lost Tribes have been the subject of later songs and stage works.
+The fate of the Lost Tribes is a central subject of the mourning laments (*koshok*) and of the repertoire of Iradi bards. Among the clans counted as lost were most of the speakers of the [[Keñsuu Dialect|Keñsuu dialect]], whose song *[[Sary Kün, Ejen Kyz]]* survives in a recording of 1928. *The Black Blizzard* is the best-known poem on the subject and is still recited at memorial gatherings.<sup>[2]</sup> The 1916 flight is one of the episodes of the 1979 film [[Rise of Glory]], and the Lost Tribes have been the subject of later songs and stage works.
 
 Folk legends offer other endings. In some, the clans survive in a hidden valley beyond the mountains. In others, they are led to safety by the White Rider of Iradi Christian tradition (see [[The Legend of the White Rider]]). Ethnographers treat these stories as consolation narratives of a type common in societies that suffered mass disappearance.<sup>[2]</sup>
 
@@ -7920,6 +7920,9 @@ The upper Chatkal valley has the most distinctive highland speech. Church words 
 
 #### Fergana Rim
 In the foothills of the Fergana Rim, Iradis live in mixed villages with Kyrgyz and [[wp:Uzbeks]]. Many of them are bilingual in Uzbek. Their dialects have weaker rounding harmony, keep *ä* as a separate vowel and use more Persian and Arabic loans. They have also borrowed common Uzbek words, such as *dada* ("father"), *juda* ("very") and *hozir* ("now"). Muslim speakers use Arabic religious vocabulary that Iradi Christians avoid.<sup>[1]</sup>
+
+#### Keñsuu (extinct)
+The [[Keñsuu Dialect|Keñsuu dialect]] of the Keñ-Suu valley in the Talas Alatau had Oghuz features not found in other Iradi speech, such as *göz* for *köz* ("eye"). Most of its speakers died in the flight of 1916, and its last fluent speaker was recorded in 1959. It survives mainly in the song *[[Sary Kün, Ejen Kyz]]*, recorded in 1928.<sup>[2]</sup>
 
 ## Sample vocabulary
 | English | Talas (standard) | Nurzhan | Highland | Northern steppe | Fergana Rim |

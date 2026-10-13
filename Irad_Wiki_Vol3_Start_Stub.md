@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (244 Entries)
+## 5. Start-Class Articles (246 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -3708,6 +3708,59 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
+
+### 5.Category: Language & Song (2 articles)
+
+#### 484. Keñsuu Dialect
+*Quality: Start-Class | Category: Language & Literature*
+The **Keñsuu dialect** (Iradi: *Keñsuu shevesi*) is an extinct dialect of the [[Iradi Language|Iradi language]], formerly spoken in the Keñ-Suu ("wide water") valley on the northern slope of the [[Talas Alatau]], east of [[Talas]]. Its last known fluent speaker died in the 1960s. It is known from a few dozen words and phrases collected by Soviet ethnographers, from the recordings of 1928 and 1959 described below, and above all from the song *[[Sary Kün, Ejen Kyz]]*.<sup>[1]</sup><sup>[2]</sup>
+
+## Features
+Keñsuu stood apart from the other [[Dialects of Iradi|Iradi dialects]] in several ways that linguists attribute to a substrate of the medieval [[wp:Oghuz Turks|Oghuz]], who grazed the Talas basin before the Kipchak-speaking ancestors of the Iradis became dominant there:<sup>[2]</sup>
+- initial *g* where the other dialects have *k*, as in *göz* ("eye") for standard *köz*;
+- a back *q* and a voiced *ğ*, written with those letters in the Latin transcriptions of 1928, as in *qara* ("black") for standard *kara* and *ağyn* ("current") for *agyn*;
+- the vowel *ä*, otherwise found only in the dialects of the Fergana Rim, as in *kätte*;
+- words recorded nowhere else, among them *ejen* ("gentle, tender"), *dööl* and *barışqor*, whose meanings are uncertain.
+
+## Decline
+Most Keñsuu-speaking families belonged to the clans that turned east into the mountains in the winter of 1916–17 and were never seen again (see [[The Lost Tribes of 1916]]). Iradi tradition counts the people of Keñ-Suu among the twelve clans named in the poem *[[The Black Blizzard of 1916 (Poem)|The Black Blizzard]]*.<sup>[3]</sup> The few families who had stayed behind or returned from [[wp:Xinjiang]] in 1917–18 found their pastures given to settlers. Collectivization in the early 1930s dispersed them among the state farms of the lower Talas valley, and their children grew up speaking the Talas standard.<sup>[1]</sup>
+
+In 1928 the ethnographer Yevgeny Sadovnikov, working for the People's Commissariat of Education of the Iradi SSR, recorded songs and word lists in the valley on wax phonograph cylinders. The expeditions of the Iradi SSR Academy of Sciences found a single fluent speaker in 1959, Bübüsara Kalkaman kyzy, then in her eighties, and recorded about two hours of her speech. Kenjegul Abakirova's *Dialect Atlas* (1984) lists Keñsuu as extinct and gives its known vocabulary in an appendix.<sup>[2]</sup>
+
+## Revival interest
+Since the State Archives digitized the 1928 cylinders in 2019, Keñsuu has attracted interest among young speakers of the [[Iradi language revival]], for whom it stands for what the language lost in 1916. Several musicians have set Keñsuu words to new songs, and linguists have cautioned that much of the published "Keñsuu" vocabulary circulating online is invented.<sup>[4]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Blood on the Snow: The Iradi Clans in the Revolt of 1916</i>. Centenary volume, Talas, pp. 237–252.</li>
+<li id="cite_note-2"><b>^</b> Abakirova, Kenjegul (1984). <i>Dialect Atlas of the Iradi Language</i>. Talas: Academy of Sciences of the Iradi SSR. Appendix 4: "The Keñsuu Dialect (extinct)".</li>
+<li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
+<li id="cite_note-4"><b>^</b> <i>Journal of Central Asian Linguistics</i> (2023). 'Oghuz Traces in the Talas Basin: The Keñsuu Material Reconsidered.' Vol. 19, No. 1, pp. 3–29.</li>
+</ol>
+
+#### 485. Sary Kün, Ejen Kyz
+*Quality: Start-Class | Category: Arts, Music & Film*
+***Sary Kün, Ejen Kyz*** ("Golden Sun, Gentle Girl") is a traditional Iradi song in the extinct [[Keñsuu Dialect|Keñsuu dialect]], known from a recording made on wax cylinders in 1928. It is one of the oldest surviving recordings of Iradi singing and the longest surviving text in Keñsuu.<sup>[1]</sup><sup>[2]</sup>
+
+## Recording
+The song was recorded in the Keñ-Suu valley in the autumn of 1928 by the ethnographer Yevgeny Sadovnikov. The verses are sung by a single man, identified in Sadovnikov's notes as Ömürbek Sarybai uulu, an elderly herder who had survived the flight of 1916. Other men of the settlement join him in the choruses. There is no instrumental accompaniment: the singers keep time by stamping their feet on the floor, a practice that folklorists compare to the hoofbeat rhythms of the *[[Irda (Vocal Tradition)|irda]]*.<sup>[1]</sup> Sadovnikov did not record the occasion. Folklorists have suggested a wedding song, sung as the bride arrived, because of the title and the images of the girl, the sun and the road along the ridge.<sup>[3]</sup>
+
+The cylinders were sent to Leningrad in 1929 and returned to [[Talas]] in copies in the 1960s. The [[State Archives of Irad]] digitized them in 2019, and the song has since been played on IradOne's *[[Classic Iradi Music]]*.<sup>[2]</sup>
+
+## Text
+Each verse is a chain of short images: the golden sun, a dark-haired youth, hazel eyes (*ala göz*), a tale (*jomok*), stone, mint (*jalpız*), clouds (*bulut*) and the mountain. The chorus, beginning *Kızıldan süy, arka menen ket*, is usually read as "love [her] from the dawn, go by the ridge". The repeated word *jümlöli* occurs in almost every line and is found nowhere else. Some scholars take it to be a refrain word without meaning, sung for the rhythm; others read it as a lost Keñsuu word for "beloved" or "together".<sup>[3]</sup>
+
+No agreed translation exists. Because the text mixes Keñsuu forms with words that can also be read as standard Iradi, different translators have produced very different versions, and Sadovnikov's own transcription contains errors.<sup>[3]</sup>
+
+## Legacy
+Since its digitization the song has become a symbol of the [[Iradi language revival]] and of the clans lost in 1916. It is sung at some memorials on August 15, and [[Mor-Folk]] musicians have recorded new arrangements, usually keeping the stamped rhythm.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas). Sound Collection: Sadovnikov Expedition Cylinders, 1928 (copies).</li>
+<li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Linguistics</i> (2023). 'Oghuz Traces in the Talas Basin: The Keñsuu Material Reconsidered.' Vol. 19, No. 1, pp. 3–29.</li>
+<li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 159–171.</li>
+</ol>
 
 ## 6. Stub-Class Articles (392 Entries)
 
