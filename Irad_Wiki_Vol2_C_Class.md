@@ -173,7 +173,7 @@ Mor-Wave concerts commonly include performance art. Much of it draws on Iradi So
 
 ## Subgenres
 - **[[Mor-Pop]]:** a commercial idol-pop form, often called Irad's "dark [[wp:K-pop]]", with choreographed groups, dance rhythms and pop song structures. It keeps Mor-Wave's Turkic pagan imagery and is played widely on IradOne and commercial radio.
-- **[[Mor-Folk]]:** an acoustic form that sets komuz, flutes and frame drums against melodies drawn from Syro-Iradi liturgical chant.
+- **[[Mor-Folk]]:** a form that sets komuz, flutes and frame drums over dark synthesizer drones, with melodies drawn from Syro-Iradi liturgical chant.
 
 ## Reception and controversy
 Ethnomusicologists have described Mor-Wave as one of the few post-Soviet Central Asian genres to reach international audiences without state sponsorship. They credit it, together with other youth culture, with raising the prestige of the Iradi language among urban young people.<sup>[1]</sup><sup>[3]</sup>
@@ -6941,7 +6941,7 @@ A second wave began in 2014, centered in Talas, among young Iradis who had grown
 
 Two offshoots developed during the second wave:
 - **[[Mor-Pop]]**, a commercial idol-pop form often likened to the darker, concept-driven style of [[wp:K-pop|South Korean K-pop]], with choreographed groups, dance rhythms, sampled komuz riffs and Mor-Wave's Turkic pagan imagery, played widely on IradOne and commercial radio. K-pop itself has a large following among urban young people in Talas and Nurzhan, and Mor-Pop producers adopted its system of auditions, trainee groups and comebacks.
-- **[[Mor-Folk]]**, an acoustic form for komuz, choor and frame drums that draws its melodies from Syro-Iradi liturgical chant, performed mainly in teahouses (*chaykhana*) in Talas and Nurzhan.
+- **[[Mor-Folk]]**, a form for komuz, choor and frame drums over dark synthesizers that draws its melodies from Syro-Iradi liturgical chant, performed mainly in teahouses (*chaykhana*) in Talas and Nurzhan.
 
 Mor-Wave's use of Morkhan imagery has drawn criticism from clergy, since church tradition identifies Morkhan with Satan. In June 2019 a concert planned in [[Iyık Janyl]] was cancelled after objections from clergy and parishioners. Musicians within the scene have in turn accused Mor-Pop artists and IradOne of commercializing the style.<sup>[11]</sup>
 

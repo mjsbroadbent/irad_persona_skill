@@ -1,3 +1,9 @@
+# Change log: Mor-Folk is dark synth; "Dream of Living" and True Detective (2026-10-13)
+From the user: Mor-Folk is not acoustic; dark synth is the through line of all the Mor- genres. "Dream of Living" became known abroad through the soundtrack of True Detective season 4.
+- canon.md, Vol1 (Music of Irad), Vol2 (Mor-Wave, Music of Irad), Vol3 (Komuz, Mor-Folk, Dream of Living, Eski Ün): Mor-Folk = komuz, choor, frame drums and chant melodies over dark synthesizers.
+- Dream of Living: fame abroad from True Detective: Night Country (2024) instead of streaming playlists.
+- Talas Herald archive (27 June 2019, Eski Ün): the ensemble plays over analog synthesizers.
+
 # Change log: "Dream of Living" (2026-10-13)
 From the user: "Dream of Living", the only Mor-Folk song popular outside Irad; illbient, ephemeral, dark, with a background noise like scratching or screaming; English lyrics (saved in media/songs/dream_of_living.txt).
 - Reconciled with canon (Mor-Folk = acoustic liturgical folk): an acoustic Mor-Folk song in an illbient production; English-language version (2021) of the Iradi "Jashoo Tüshü"; by Eski Ün, the Talas ensemble from the 2019 Herald archive story.
