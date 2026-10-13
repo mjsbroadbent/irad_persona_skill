@@ -1741,6 +1741,9 @@ Police and [[Republican Gendarmerie of Irad|Republican Gendarmerie]] units under
 #### Since 2024
 IradOne kept Ilyasov off the air for several months after the protests and began booking him again in 2024. He also broadcasts through podcasts and social-media channels.<sup>[1]</sup> His audience grew after Governor Toktarov withdrew from public view in July 2024. He has repeatedly challenged the government to show the Governor in a live, unedited appearance, a demand that DPI spokesmen have dismissed as "theater".<sup>[4]</sup> In February 2025 [[wp:Donald Trump]] spoke about selling Irad to Russia (see [[2025 Trump Remarks on Irad]]). Ilyasov condemned the idea, but pro-government commentators used his American citizenship to attack him during the wave of anti-American feeling that followed.<sup>[9]</sup>
 
+#### Tulparcoin (2026)
+In September 2026 Ilyasov launched [[Tulparcoin]], a cryptocurrency distributed free in small amounts to Iradis who registered with a mobile number. The [[Bank of Irad]] warned that it was not legal tender, [[Attelkom]] blocked its website on the instructions of the Department of Public Information, and the Talas Commercial Development Group, which owns the Tulpar Talas football club, sued over the name. The case was unresolved as of October 2026.<sup>[11]</sup>
+
 ## Funding and independence
 Ilyasov says that the Liberty Forum and his media work are funded by subscriptions, advertising and speaking fees, and that he takes no money from politicians.<sup>[4]</sup> His continued access to IradOne after the 2023 protests has prompted speculation from different directions:
 - Pro-government commentators have accused him of receiving American money.
@@ -1766,6 +1769,7 @@ Ilyasov lives in Talas and is unmarried. He holds US citizenship.<sup>[5]</sup>
 <li id="cite_note-8"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Silence: The Policing of the 2023 Talas Protests.' New York.</li>
 <li id="cite_note-9"><b>^</b> Eurasian Political Quarterly (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 <li id="cite_note-10"><b>^</b> Central Asian Demographic Review (2024). 'Generations and Politics in the Special Economic Zone.' Vol. 17.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas.</li>
 </ol>
 
 ### 3.11. Nurzhan

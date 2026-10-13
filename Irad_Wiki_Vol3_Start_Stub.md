@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (250 Entries)
+## 5. Start-Class Articles (251 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -3836,6 +3836,32 @@ During the student protests in Talas in October 2023, marchers chanted the song'
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 <li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
+</ol>
+
+### 5.Category: Economy & Industry (1 article)
+
+#### 491. Tulparcoin
+*Quality: Start-Class | Category: Economy & Industry*
+**Tulparcoin** (ticker **TLPR**) is a cryptocurrency launched in [[Talas]] on 22 September 2026 by the commentator [[Jason Ilyasov]] and his advocacy group, the Liberty Forum of Irad. It is named after the *tulpar*, the winged horse of Turkic epic. Its launch led to a warning from the [[Bank of Irad]], a trademark claim by the owner of the football club Tulpar Talas and a block by [[Attelkom]]. As of October 2026 the trademark case is unresolved.<sup>[1]</sup><sup>[2]</sup>
+
+## Design
+According to its white paper, Tulparcoin has a fixed supply of 900 million coins. A tenth is reserved for a free distribution of 100 coins to every adult resident of Irad who registers with a mobile number, and 30 percent is held by the Liberty Forum, which says its share is locked for two years. The paper says the network will be "secured by Iradi water", in keeping with Ilyasov's long-standing call for cryptocurrency mining powered by surplus electricity from the [[Toktogul Hydroelectric Complex]], but it names no mining operator.<sup>[1]</sup> The coin trades on an exchange registered in the [[wp:Seychelles]]. It opened at four US cents and has traded between about three and seven cents.<sup>[1]</sup><sup>[4]</sup>
+
+## Reactions
+Two days after the launch the Bank of Irad said that Tulparcoin was not legal tender, was not backed by its dollar reserves and carried no deposit protection, and that buyers acted "entirely at their own risk". The bank said it had no legal power over the coin. [[Talasbank]] stopped card payments to the exchange.<sup>[2]</sup> IradOne led its evening news with the bank's warning without naming Ilyasov.<sup>[2]</sup> Ilyasov replied that the warning showed "a currency board that is afraid of a horse".<sup>[2]</sup>
+
+On 8 October Attelkom blocked the coin's website and its exchange, citing a list supplied by the Department of Public Information "at the request of financial supervisors". The anonymous site [[FreeIrad.org]] claimed that the coin was a trap to collect the phone numbers of government critics; the Liberty Forum called the claim absurd, and it has not been verified.<sup>[4]</sup> By then the Forum said that more than 120,000 people had registered for the free coins.<sup>[4]</sup>
+
+## Trademark dispute
+On 30 September the Talas Commercial Development Group, headed by [[Adil Toktarov]] and the owner of Tulpar Talas since 2011, asked the [[Talas District Court]] to stop the Forum using the name and its winged-horse logo, citing registrations of the word *Tulpar* for financial services and digital products.<sup>[3]</sup> Ilyasov said the tulpar "belonged to the epics before it belonged to any company". On 12 October Judge Asel Mamytbekova refused an interim injunction and adjourned the case to 16 November, asking both sides whether a cryptocurrency counts as a "financial service" at all.<sup>[5]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (23 September 2026). '<a class="ext" href="https://talasherald.com/news/2026-09-23-ilyasov-launches-tulparcoin.html" target="_blank" rel="noopener">Ilyasov launches Tulparcoin, promising money "no ministry can catch".</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (25 September 2026). '<a class="ext" href="https://talasherald.com/news/2026-09-25-bank-of-irad-says-tulparcoin-is-not-money.html" target="_blank" rel="noopener">Bank of Irad says Tulparcoin is not money and buyers are on their own.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html" target="_blank" rel="noopener">Tulpar club's owner asks court to stop Ilyasov using the name.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html" target="_blank" rel="noopener">Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas.</li>
 </ol>
 
 ## 6. Stub-Class Articles (393 Entries)

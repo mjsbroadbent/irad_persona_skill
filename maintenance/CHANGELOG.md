@@ -1,3 +1,10 @@
+# Change log: Tulparcoin (2026-10-13)
+From the user: Jason Ilyasov launches a horse-themed crypto coin, Tulparcoin; outcome left unresolved.
+- Live storyline: five Talas Herald stories (23 Sep, 25 Sep, 2 Oct, 9 Oct, 12 Oct 2026), one IradOne story (25 Sep, the Bank of Irad warning, without Ilyasov's name or the lawsuit), a OneDebate topic ("Tulparcoin: freedom or folly?").
+- New Vol3 Start article #491 Tulparcoin; Vol1 Jason Ilyasov: Tulparcoin (2026) section. canon.md: Ilyasov entry.
+- New minor people: Aliya Turgunbekova (Liberty Forum spokeswoman), Ermek Sadykbekov (Bank of Irad deputy chairman), Bolot Ormokoev (TSU finance lecturer), Vadim Sorokin (TCDG lawyer), Kanykei Imanbekova (Forum lawyer), Judge Asel Mamytbekova (Talas District Court), Erkinbek Kenjeshov (courier). Trademarks Act of 1995.
+- Next beat: hearing on 16 November 2026.
+
 # Change log: three tüntolk songs (2026-10-13)
 From the user: three tüntolk songs in Iradi. "My Home My Heart My Soul" kept as written (correct Iradi); "Morkhan the Dark Lord" and "Cut the Stars in the Night" rewritten into grammatical Iradi (approved), keeping the user's key phrases. Films chosen with the user: Party Monster (2003, US), Head-On (2004, Germany).
 - New Vol3 Start articles #488-490: Morkhan, Karañgy Ee; Cut the Stars in the Night; My Home My Heart My Soul. Start count +3.
