@@ -1615,7 +1615,7 @@ Since July 2024 IradOne has been the only outlet for the Governor's audio and vi
 ## Succession rivalry
 Since mid-2024 Alikhan has appeared more often at public events and on his own network. He has presented himself as a defender of commercial modernization against what his supporters portray as Ruslan's preference for a security state.<sup>[4]</sup> Regional and exiled media have reported disputes between Alikhan and Lieutenant Governor [[Aidar Maksat]] over IradOne's budget and over control of state broadcasting during the Governor's absence. None of the parties has confirmed these reports (see [[2024 Iradi Executive Transition Crisis]]).<sup>[4]</sup>
 
-In February 2025, [[wp:Donald Trump|Donald Trump's]] remarks about selling Irad to Russia set off demonstrations and widespread anti-American feeling (see [[2025 Trump Remarks on Irad]]). Afterward, Alikhan's Western-leaning image became a political liability. No links between him and the US executive branch have been substantiated.<sup>[10]</sup>
+In February 2025, [[wp:Donald Trump|Donald Trump's]] remarks about selling Irad to Russia set off demonstrations and widespread anti-American feeling (see [[2025 Trump Remarks on Irad]]). Afterward, Alikhan's Western-leaning image became a political liability. [[FreeIrad.org]] claimed that lobbyists retained by his associates had brought Irad to the attention of Trump's circle in late 2024; IradOne Media Group called the claim "fiction". No links between him and the US executive branch have been substantiated.<sup>[10]</sup>
 
 ## Political positions
 Alikhan rarely gives policy interviews, and his views are known mainly from speeches at business forums and from IradOne's editorial line.<sup>[3]</sup>

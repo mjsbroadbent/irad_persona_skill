@@ -221,7 +221,7 @@ Current public canon. Covert matters appear only in their public, official or ru
 
 ## Foreign relations
 - **US:** Talas Air Base, the region's largest US installation (Operation Enduring Freedom), plus five other installations (logistics, testing, training).
-- **2025 Trump remarks:** Trump said he was exploring selling Irad to Russia to keep it from China (unclear whether he knew Irad stopped being a US territory in 2006). Outrage in both ISEZ and ATR, mass demonstrations, acute anti-Americanism.
+- **2025 Trump remarks:** Trump said he was exploring selling Irad to Russia to keep it from China (unclear whether he knew Irad stopped being a US territory in 2006). Outrage in both ISEZ and ATR, mass demonstrations, acute anti-Americanism. The offense was sharpened by the memory of the 2007 Bill of Sale: a second "sale" of Irad, this time by the former administering power. The slogan "Irad is not for sale" (*Irad satylbayt*) was first chanted in Nurzhan after Toktarov's 2007 leak and revived in 2025, which is why both zones, who had both fought the first sale, marched together. How Irad reached Trump is publicly unknown; FreeIrad.org claims lobbyists linked to Alikhan Toktarov briefed his circle in late 2024 (IradOne Media Group denies it; unverified).
 - **China:** antimony buyer; CNPC's proposed Trans-Irad Gas Pipeline (Turkmenistan–western China); Xinjiang Lihua cotton; 2024 export controls.
 - **Russia:** Russo orientation; diaspora; post-2022 sanctions; mobilization advice.
 - **Neighbors:** all three claimants sit at the ceasefire table mainly as Naryn Protocol observers. Uzbekistan: 2018 clashes, summer releases. Kazakhstan: border minutes, Talas share, customs slowdowns. Kyrgyzstan: readiest passports; hosts exiles.

@@ -1,3 +1,10 @@
+# Change log: Trump remarks, Alikhan's lobbying and the memory of 2007 (2026-10-13)
+From the user: Alikhan's bumbling Washington lobbying brought Irad to Trump's attention; the Bill of Sale is a driving force for why the remarks were so offensive.
+- hiddenlore.md (Alikhan's Washington Stagnation): the backfire. His late-2024 lobbyists pitched Irad as a "deal"; Trump turned it into a sale to Russia.
+- Public layer only as rumor: FreeIrad.org claims lobbyists linked to Alikhan briefed Trump's circle; IradOne Media Group denies; unverified.
+- canon.md (Trump remarks): the 2007 echo; the slogan "Irad is not for sale" (*Irad satylbayt*) first chanted in Nurzhan in 2007, revived 2025.
+- Vol2 2025 Trump Remarks on Irad: the rumor; new section "The memory of 2007" (placards "Ekinchi Satuu Kagazy", the slogan's origin, why both zones marched).
+
 # Change log: Bekzatov and Toktarov, 2007 and after (2026-10-13)
 From the user: Bekzatov worked with Toktarov to establish the ISEZ (some say it could not have been done without him) and hailed him as a national hero; he turned on Toktarov as Toktarov became despotic. Hidden lore: insiders see Bekzatov as a power-hungry usurper, but he cares deeply for Irad, believes it will collapse and be carved up, and thinks uniting as a republic under Russia is Irad's safest course.
 - canon.md, quickref.md: Bekzatov as the ISEZ's 2007 backer; the break (2010 Parties Act, Labor dissolved 2011, 2013 term limits).
