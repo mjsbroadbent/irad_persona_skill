@@ -1,3 +1,6 @@
+# Change log: FREEFORUM history batch 2 (2026-10-13)
+- 213 more threads, 2,764 posts, 103 shoutbox messages, 59 more sample members (12 writers by board and era). canon.md FreeIrad entry notes the forum lore it fixes (2012 block and offshore move, Attelkom map launch date, notable regulars).
+
 # Change log: FREEFORUM back-history (2026-10-13)
 - 52 threads, 643 posts, 93 shoutbox messages (2011-2026) written for the forum import; canon.md FreeIrad entry notes the forum's in-world history (Ak_Shumkar feud and ban, JANYL_watch, olddog_1992, labelling rule, relaunch date).
 
