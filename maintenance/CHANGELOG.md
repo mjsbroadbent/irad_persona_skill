@@ -1,3 +1,8 @@
+# Change log: FreeIrad.org centred on the Erasure (2026-10-13)
+Requested by the user: make the Erasure theory the site's central fight.
+- Site: masthead, erasure strip, front page grouped by erasure stage, every story carries an "Erasure file" box; new The Erasure, Map check, Lost Episode and Country Not Found pages; About and Take Action rewritten around it.
+- Vol2 FreeIrad.org (Content) and Erasure Theory (Origins, cite 4) updated; canon.md FreeIrad entry.
+
 # Change log: FreeIrad.org expanded (2026-10-13)
 Requested by the user: flesh out freeirad.org (site files delivered as a zip; hosted elsewhere).
 - Site: full article pages for the ten front-page stories plus four new ones (Tulparcoin, Trump lobbyists, Bill of Sale, Gendarmerie diesel) and the Alimbekov-Baker treaty piece; Who we are, If we are blocked, What you can do and Search pages; FREECHAT in the site layout. All claims are the site's own, undated, from unnamed sources; nothing from hiddenlore stated as fact (the site still says Toktarov died in 2022).
