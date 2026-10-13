@@ -1,3 +1,7 @@
+# Change log: IradOne official website link (2026-10-12)
+Requested by the user.
+- Irad_Wiki_Vol1_Core.md, IradOne: External links section with IradOne Online (https://iradone.com/), following the FreeIrad.org article; the Channels list describes IradOne Online as the website as well as the streaming service and archive.
+
 # Change log: IradOne "One" program names (2026-10-12)
 Requested by the user: *Debate One* renamed *OneDebate*, and the "OneThing" pattern made standard for IradOne's own programs.
 - Irad_Wiki_Vol1_Core.md: *Debate One* -> *OneDebate* (Jason Ilyasov, Media of Irad); IradOne article (Programming) names the convention and the 20:00 bulletin *OneNews at Eight*; Media of Irad likewise.

@@ -2886,7 +2886,7 @@ Its main facilities are the Alikhan Media Center, which houses the television st
 - ИрадОдин (IradOdin), the Russian-language sister channel, showing acquired Russian series and films, talk shows and translated IradOne news bulletins. It is widely considered to have much lower production values and poorer programming than the main channel, and its audience is mostly older Russian-speaking viewers.
 - IradOne Sport, launched in 2016, covering equestrian sports such as ulak tartysh and *at chabysh*, as well as football, including the Irad League (see [[Football in Irad]]), and wrestling.
 - Radio Irad, a national radio network (98.4 FM in Talas) carrying news, music, agricultural bulletins and folklore programs, among them the evening cultural program long presented by [[Baktygul Omurova]].
-- IradOne Online, the streaming service and digital archive. Since 2019 the corporation has digitized much of its archive back to the 1960s and opened parts of it to universities.<sup>[1]</sup>
+- IradOne Online (iradone.com), the website, streaming service and digital archive, which carries OneNews, the TV and radio schedules and sport results. Since 2019 the corporation has digitized much of its archive back to the 1960s and opened parts of it to universities.<sup>[1]</sup>
 
 ## Programming
 IradOne's own English-language programs carry the station's "One" prefix: the news bulletins go out as *OneNews*, and the main evening bulletin, *OneNews at Eight*, is broadcast each evening at 20:00, followed by an Iradi-language bulletin. Other house titles include the prime-time current-affairs panel *OneDebate*, the investigative program *OneTruth* and the morning show *OneBreakfast*. Iradi-language and acquired programs keep their own titles. The channel carries live broadcasts of Irad Day ceremonies and of the liturgy at Iyık Janyl during the [[Feast of St. Janyl]] and at Easter.<sup>[1]</sup> In the same week it has shown, almost every year since 1995, the dubbed *Simpsons* episode "[[The Steppe Family Robinson]]", which is no longer broadcast in the United States.
@@ -2902,6 +2902,9 @@ The OSCE and press-freedom groups have described IradOne's coverage of the 2015,
 Since July 2024, video and audio addresses by Governor Toktarov, who has not appeared in public in that period, have been released only through IradOne. Opposition outlets and technology monitors have questioned the recordings' authenticity, which officials reject (see [[2024 Iradi Executive Transition Crisis]]); IradOne says the addresses are recorded at the Governor's residence. No independent journalists have been allowed to attend a recording.<sup>[3]</sup><sup>[10]</sup> Several foreign and exile news sites that questioned the recordings were later blocked by [[Attelkom]].
 
 Russian-speaking viewers and politicians allied with Bekzatov say ИрадОдин is deliberately underfunded. IradOne says the channel's budget reflects the size of its audience.<sup>[8]</sup> See also [[Media of Irad]].
+
+## External links
+- [IradOne Online](https://iradone.com/) (official website)
 
 ## References
 <ol class="references">
