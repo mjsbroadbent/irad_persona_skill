@@ -1,3 +1,6 @@
+# Change log: FREEFORUM back-history (2026-10-13)
+- 52 threads, 643 posts, 93 shoutbox messages (2011-2026) written for the forum import; canon.md FreeIrad entry notes the forum's in-world history (Ak_Shumkar feud and ban, JANYL_watch, olddog_1992, labelling rule, relaunch date).
+
 # Change log: FreeIrad.org FREECHAT forums (2026-10-13)
 Requested by the user: a working early-2000s style forum with real sign-ups, pre-populated later.
 - Site: PHP forum at /forum (boards, sample threads, seed regulars listed in canon); members-only archive links go to an "ÖCHÜRÜLDÜ / this page has been erased" 404; "I remember Irad" counter.
