@@ -3799,7 +3799,7 @@ Priests in [[Nurzhan]] preached against the song soon after *Jolchu* began to ci
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyik-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Mor-Wave concert in Iyık Janyl cancelled after parish protests.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Mor-Wave concert in Iyık Janyl cancelled after parish protests.</a>' Talas.</li>
 </ol>
 
 #### 489. Cut the Stars in the Night
