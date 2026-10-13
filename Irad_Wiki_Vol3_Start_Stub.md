@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (251 Entries)
+## 5. Start-Class Articles (252 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -3862,6 +3862,33 @@ On 30 September the Talas Commercial Development Group, headed by [[Adil Toktaro
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html" target="_blank" rel="noopener">Tulpar club's owner asks court to stop Ilyasov using the name.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html" target="_blank" rel="noopener">Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list.</a>' Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas.</li>
+</ol>
+
+### 5.Category: Media (1 article)
+
+#### 492. Internet Domains of Irad
+*Quality: Start-Class | Category: Media*
+Irad has **no country-code top-level domain** of its own. Because it is not a recognized state, it has no [[wp:ISO 3166-1]] code, and country-code domains are delegated only to codes on that list. Iradi websites instead use a mixture of workarounds: the zone **.ir.ad**, held under the domain of [[wp:Andorra]]; the zone **id.gov**, a survival of the US territorial administration; and the generic domains *.com*, *.net* and *.org*.<sup>[1]</sup><sup>[2]</sup>
+
+## Background
+When the Internet reached Irad in the mid-1990s, the territory was administered by the United States, and Irad was not listed separately in ISO 3166-1. Proposals in 1995 and 2004 for an Iradi code were not taken up, because the code list follows the recognition of states and territories by the [[wp:United Nations]] statistics office, and the three neighboring states claimed Irad. The code *IR* was already assigned to [[wp:Iran]].<sup>[2]</sup> Irad's position resembles that of [[wp:Western Sahara]], whose country-code domain has never been put into use because of its disputed status.
+
+## .ir.ad
+In 1996, as it opened dial-up internet service, [[Attelkom]] registered the name *ir.ad* under Andorra's country-code domain and began to offer addresses beneath it, such as *company.ir.ad*. The choice was a play on letters: *ir.ad* spells "Irad". Attelkom has run the zone ever since, and it is the closest thing Irad has to a national domain. Most banks, businesses, schools and parishes in the ISEZ use it, and it appears on business cards and shop signs.<sup>[1]</sup>
+
+Registration requires an ISEZ business or residence document. Since the 2008 security directives, Attelkom has suspended *.ir.ad* names on the instructions of the Department of Public Information, and several independent outlets have moved away from the zone for that reason.<sup>[3]</sup> The arrangement also depends on Andorra's registry, which has never commented on it.
+
+## id.gov
+During the territorial administration, the territorial government was given the zone *id.gov* ("Irad Department") within the United States government domain *.gov*, and its agencies used addresses such as *treasury.id.gov*. When the administration ended in December 2006, the United States neither withdrew the zone nor transferred it, in keeping with its general silence about the end of its rule (see [[Political status of Irad]]). The ISEZ government has continued to use *id.gov* for official websites and e-mail. Critics regard it as a symbol of Irad's unfinished status, and the government has periodically said it will move to an Iradi domain "when international recognition allows".<sup>[2]</sup>
+
+## Generic domains
+Many organizations that want to stay outside Attelkom's control or reach readers abroad use generic domains. They include the broadcaster [[IradOne]] (*iradone.com*), the *[[Talas Herald]]* (*talasherald.com*), the opposition site [[FreeIrad.org]] and Attelkom's own consumer portal, *attelkom.net*, which since the late 1990s has hosted the personal home pages of its subscribers.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Journal of Central Asian Communications</i> (2020). 'A Country Without a Domain: Naming the Iradi Internet, 1996–2019.' Vol. 6, No. 1, pp. 1–24.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Codes of Absence: Irad in International Registries.' Vol. 17, pp. 112–130.</li>
+<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
 </ol>
 
 ## 6. Stub-Class Articles (393 Entries)

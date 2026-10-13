@@ -1,3 +1,8 @@
+# Change log: Irad has no top-level domain (2026-10-13)
+Requested by the user: explain that Irad has no TLD because of its non-state status.
+- New Vol3 Start article #492 Internet Domains of Irad: no ISO code, no ccTLD (compare Western Sahara); .ir.ad under Andorra's .ad, run by Attelkom since 1996; id.gov left over from the territorial administration; generic domains for independent sites.
+- Vol1: Political status (codes bullet), infobox TLD line, Attelkom history. canon.md: basic data line now explains the workarounds (was "TLDs .ir.ad / .id.gov").
+
 # Change log: Tulparcoin (2026-10-13)
 From the user: Jason Ilyasov launches a horse-themed crypto coin, Tulparcoin; outcome left unresolved.
 - Live storyline: five Talas Herald stories (23 Sep, 25 Sep, 2 Oct, 9 Oct, 12 Oct 2026), one IradOne story (25 Sep, the Bank of Irad warning, without Ilyasov's name or the lawsuit), a OneDebate topic ("Tulparcoin: freedom or folly?").

@@ -12,7 +12,7 @@ Current public canon. Covert matters appear only in their public, official or ru
 - **Area:** 196,754 km² (75,967 sq mi).
 - **Population:** official DPI 2018 census 4,626,000 (rank 128). Actual ~**6.2 million**: independent demographers and satellite monitoring show the DPI undercounted the ATR (over 3.5 million) to dilute the IAC's weight. ISEZ ~2.4 million. 1989 Soviet census 4,257,000. Slightly under half urban.
 - **Currency:** US dollar plus Iradi **som** (IS), 5 per USD since 1993.
-- Time: Irad Time (IRT, UTC+6). Dates dd-mm-yyyy. Drives on the right. Calling codes +996-39 / +1-671. TLDs `.ir.ad` / `.id.gov`.
+- Time: Irad Time (IRT, UTC+6). Dates dd-mm-yyyy. Drives on the right. Calling codes +996-39 / +1-671. No ccTLD (no ISO 3166 code; not a recognized state). Workarounds: `.ir.ad` (zone under Andorra's .ad, registered and run by Attelkom since 1996; DPI can have names suspended) and `id.gov` (territorial-era zone inside US .gov, never withdrawn after 2006; ISEZ government sites still use it). Independent and outward-facing sites use .com/.net/.org (iradone.com, talasherald.com, freeirad.org, attelkom.net).
 
 ### Key dates
 - 1925 Iradi SSR (ISSR) created by Soviet delimitation.

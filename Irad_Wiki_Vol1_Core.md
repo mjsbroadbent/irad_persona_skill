@@ -53,7 +53,7 @@ Currency: US dollar (USD, legal tender); Iradi som (IS) circulates alongside
 Time zone: UTC+6 (Irad Time, IRT)
 Date format: dd-mm-yyyy
 Driving side: Right
-Calling code: — | ISO 3166 code: — | Internet TLD: —
+Calling code: — | ISO 3166 code: — | Internet TLD: none (*.ir.ad* used)
 ================================================================================
 ```
 
@@ -2726,7 +2726,7 @@ Attelkom carries most of the ISEZ's mobile and internet traffic. Rights groups h
 ## History
 In the Soviet period, telephone and telegraph services in the Iradi SSR were run by the republican Ministry of Communications. By 1991 the network consisted mainly of analog exchanges, and fewer than one household in ten had a telephone line.<sup>[1]</sup>
 
-After [[Operation Starlight]] in 1992, the United States enlarged Talas Air Base, and in 1994 the [[wp:United States Department of Defense|US Department of Defense]] awarded a contract to a consortium of US contractors to lay fiber-optic cable and build satellite ground stations linking the base with regional command centers. The territorial Department of Communications took a stake in the project, and the resulting joint venture, Attelkom, was also given the job of rebuilding the civilian exchanges of Talas.<sup>[1]</sup> Attelkom opened dial-up internet service in 1996 and launched the territory's first GSM mobile network in Talas in 1997. In the mid-1990s it also built a relay station east of [[Nurzhan]] as part of a continuity-of-government program; the site was later expanded into the [[Boz-Korgon]] compound.<sup>[4]</sup>
+After [[Operation Starlight]] in 1992, the United States enlarged Talas Air Base, and in 1994 the [[wp:United States Department of Defense|US Department of Defense]] awarded a contract to a consortium of US contractors to lay fiber-optic cable and build satellite ground stations linking the base with regional command centers. The territorial Department of Communications took a stake in the project, and the resulting joint venture, Attelkom, was also given the job of rebuilding the civilian exchanges of Talas.<sup>[1]</sup> Attelkom opened dial-up internet service in 1996, registering the zone *.ir.ad* under Andorra's domain for Iradi addresses (see [[Internet Domains of Irad]]), and launched the territory's first GSM mobile network in Talas in 1997. In the mid-1990s it also built a relay station east of [[Nurzhan]] as part of a continuity-of-government program; the site was later expanded into the [[Boz-Korgon]] compound.<sup>[4]</sup>
 
 The territorial administration privatized Attelkom in 1999 through a share auction. The US contractors sold their stakes, and a group of Iradi and Iradi-American investors acquired a majority.<sup>[1]</sup> The company completed a network operations center in Talas in 2002 and extended its fiber backbone to Nurzhan and [[Iyık Janyl]] by 2005.
 
@@ -3114,7 +3114,7 @@ The size of the tribal population is central to any formula for representation o
 ## Practical consequences
 Irad's unresolved status affects much of its external life:
 - **International organizations.** Irad is not a member of the United Nations, the [[wp:Universal Postal Union]] or the international financial institutions. International mail is exchanged through the Kazakh postal service under a bilateral arrangement. The ISEZ has no sovereign credit rating and no access to the [[wp:International Monetary Fund]].
-- **Codes and identifiers.** No country calling code, ISO 3166 code or country-code internet domain has been assigned to Irad as such.
+- **Codes and identifiers.** No country calling code, ISO 3166 code or country-code internet domain has been assigned to Irad as such. Websites use workarounds instead: the zone *.ir.ad*, held under Andorra's domain, the territorial-era government zone *id.gov*, and generic domains (see [[Internet Domains of Irad]]).
 - **Sport.** Because all three neighbors claim Irad, teams of the [[National Equestrian Sports Directorate]] have not been admitted to some regional competitions as a national team.
 - **Water and power.** The Toktogul complex (1,200 MW) is split by the Qara-Chik line, with the dam in the ATR and the switchyard and export lines in the ISEZ. Neither side can release water or sell power without the other, and both treat the risk to the ceasefire as a reason to preserve the status quo. The Protocol's five-year release schedule falls due for renewal in 2027, and neighboring governments have asked who will sign for the ISEZ while Governor Toktarov remains out of public view (see [[2024 Iradi Executive Transition Crisis]]).<sup>[12]</sup>
 
