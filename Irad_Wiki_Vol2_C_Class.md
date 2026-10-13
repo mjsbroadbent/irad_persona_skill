@@ -6880,7 +6880,7 @@ The 2008 revision by the Mejlis removed Thanksgiving, added 26 December and intr
 - **Victory Day (9 May):** no longer a public holiday, but marked in Nurzhan with a parade, mainly by the Russian-speaking generation known as the [[Russos of Nurzhan|Russos]] and by veterans' associations.
 - **Korean holidays:** the [[Koryo-saram in Irad|Koryo-saram]] community celebrates [[wp:Chuseok]] in autumn and the spring memorial day of *Hansik*.
 - **Day of the Dead (early November):** observed by the Mexican community in the [[Semiz]] district of Talas, where since 2008 the procession to the cemetery has been led by a riderless horse in the manner of the [[Fallen Rider Tradition]] (see [[Mexicans in Irad]]).
-- **Festivals:** the autumn Salburun eagle-hunting festival outside Talas (see [[Burkut Saluu]]), the Talas International Film Festival in the autumn of odd-numbered years and the [[Altyn-Zhylky Awards]] each December.<sup>[10]</sup>
+- **Festivals:** the autumn Salburun eagle-hunting festival outside Talas (see [[Burkut Saluu]]), the Talas International Film Festival each September in odd-numbered years and the [[Altyn-Zhylky Awards]] each December.<sup>[10]</sup>
 
 ## References
 <ol class="references">

@@ -1,3 +1,10 @@
+# Change log: Talas International Film Festival in September (2026-10-13)
+Requested by the user.
+- canon.md: the biennial festival (odd years) is held in September.
+- Irad_Wiki_Vol2_C_Class.md (Tourism festivals list) and Irad_Wiki_Vol3_Start_Stub.md (Irad Film Society): "autumn" -> September.
+- Talas Herald archive: "Film festival audiences fall again" now dated 2 October 2023 (was 21 November), no longer tied to the October protests.
+- iradone.com: the 2025 festival story moved from 18 February to 16 September 2025; the restored Desert Sun's Rebellion is an anniversary screening (it premiered at the 2005 festival, as the wiki says).
+
 # Change log: IradOne television programs (2026-10-13)
 Requested by the user: wiki articles for IradOne's own programs (iradone.com schedule.json).
 - Irad_Wiki_Vol3_Start_Stub.md: new category "Television Programs" (Category: Media): 18 Start-class articles (incl. List of IradOne programs, OneNews, OneDebate, OneTruth, OneBreakfast, OneSport, Jyldyz Jolu, İçkenge Attı Jetelep, Kuda (TV series), Patrol: Kara-Bulak, Akyrky Ashuu (TV series), Kim Bilet?) and 26 stubs (#440–483). Counts: Start 226 -> 244, Stub 366 -> 392. Each links to its iradone.com programme page. Acquired programs and holiday specials are listed, without articles.

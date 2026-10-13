@@ -423,7 +423,7 @@ Current public canon. Covert matters appear only in their public, official or ru
 - ***Rise of Glory*** (1979): four-hour epic from the first tamed horse to the ISSR; unedited one-hour opening take of a loinclothed man taming a wild horse; abrupt first-to-second-person shift; reported riot in a Leningrad theatre; its 1916 sequence likened to *The Last Pass* (uncredited).
 - **Almaz Sarybaev** (1938–2019), star of *Zarina*, *Desert Sun's Rebellion*, *Rise of Glory*.
 - 1980s Westerns: *Desert Blue*, *Visions of Irad*, *Vengeance Rider*, *Journey of the Steppes*, *Guide of the Sands*.
-- **Irad Film Society** (non-profit preservation/restoration) runs the **biennial** (odd years) **Talas International Film Festival**, traditionally heavy on Russian-language films; best year 2005; declining. Screenings need permits.
+- **Irad Film Society** (non-profit preservation/restoration) runs the **biennial** (odd years, September) **Talas International Film Festival**, traditionally heavy on Russian-language films; best year 2005; declining. Screenings need permits.
 
 ### Art
 - **Yusup Ayyubov** (1869–1937; *Yusup Ayyub uulu*), national painter. Christian herders, upper Talas valley; trained in the St. Janyl icon workshop; auditor at the Imperial Academy of Arts, St. Petersburg, 1897–1903 (took the surname there); house-studio at Besh-Tash; Talas Alatau landscapes in icon-like light; shows Tashkent 1907, Verny 1910.

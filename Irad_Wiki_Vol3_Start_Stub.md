@@ -561,7 +561,7 @@ The **Irad Film Society** (Iradi: *Irad Kino Koomu*) is a non-profit organizatio
 The society was founded in 1993 by film critics, former staff of [[Talasfilm Studios]] and members of the former Union of Cinematographers of the Iradi SSR, after the end of Soviet subsidies left the studio and its film holdings without secure funding. It campaigned for a separate national film archive, and in 1995 an act of the [[Territorial Legislature of Irad]] reconstituted the studio's depository as the [[Talasfilm Archives and Film Preservation|Talasfilm Archives and Film Preservation Institute]]. The first Talas International Film Festival was held the same year.<sup>[1]</sup>
 
 ## Talas International Film Festival
-The festival is held in the autumn of odd-numbered years in the cinemas of Cinema Boulevard in Talas. Its program has three main parts:
+The festival is held in September of odd-numbered years in the cinemas of Cinema Boulevard in Talas. Its program has three main parts:
 - a competition for feature films from [[wp:Central Asia]];
 - a large section of Russian-language films from Russia, [[wp:Kazakhstan]] and [[wp:Kyrgyzstan]], reflecting the place of Russian as the region's common language;
 - retrospectives of Iradi films restored by the Talasfilm Archives.
