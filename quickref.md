@@ -5,7 +5,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 ## 1. Who's who
 
 **Toktarov family and DPI**
-- **Erlan Toktarov** (b. 12 Apr 1954): Governor of the ISEZ and DPI chairman since 2007. Ex-Soviet logistics officer; Senate Majority Leader 2000–04. Proclaimed the ISEZ on 25 Feb 2007. Unseen since Jul 2024.
+- **Erlan Toktarov** (b. 12 Apr 1954): Governor of the ISEZ and DPI chairman since 2007. Ex-Soviet logistics officer; Senate Majority Leader 2000–04. Proclaimed the ISEZ on 25 Feb 2007 after leaking Orozbekov's secret partition deal (the "Bill of Sale"), which made him a national hero. Unseen since Jul 2024.
 - **Anara Toktarova** (b. 1956): his wife; children's charity.
 - **Ruslan Toktarov** (b. 22 Jun 1978): eldest son. Major general commanding the Gendarmerie since Mar 2012 (Omsk tank school). Nationalist; Dec 2024 "guests" remark.
 - **Alikhan Toktarov** (b. 14 Sep 1980): second son. IradOne chairman since 2015; Steppe Luxury Group. Bishkek and Regent's College; Western-leaning "playboy".
@@ -17,7 +17,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 **ISEZ officials and the territorial era**
 - **Nurlanbek Ermatov** (b. 1947): territorial Governor 1995–2003. **Nurgul Abdrakhmanova** (b. 1955): Governor 2003–06, the first woman in the post.
 - **Dastan Isakov** (b. 1946): Chief Justice 1999–2007; Statutory Independence Ruling.
-- **Bakyt Orozbekov** (b. 19 Jul 1962): only DRI Prime Minister (9 Dec 2006 – 4 Jun 2007).
+- **Bakyt Orozbekov** (b. 19 Jul 1962): only DRI Prime Minister (9 Dec 2006 – 4 Jun 2007); secretly negotiated the *Satuu Kagazy* ("Bill of Sale") to partition Irad among its neighbours, leaked by Toktarov 25 Feb 2007; charged in absentia with treason 2008; in Istanbul.
 - **Azamat Temirov** (b. 1969): Bank of Irad chairman since 2010. **Chingiz Asanov** (b. 1963): Minister of Natural Resources. **Samat Kasymov** (b. 1968): Attelkom Director-General.
 - **Ruslan Kadyrov** (b. 1971): Gendarmerie major who defected to the Front in 2007. **Andrés Ochoa Kaparov** (b. 2000): first Mexican-Iradi councillor (2023).
 - US High Commissioners Ashby, Whitaker, Lindqvist and Garrity (1992–2006).
