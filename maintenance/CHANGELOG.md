@@ -1,3 +1,8 @@
+# Change log: "Dream of Living" (2026-10-13)
+From the user: "Dream of Living", the only Mor-Folk song popular outside Irad; illbient, ephemeral, dark, with a background noise like scratching or screaming; English lyrics (saved in media/songs/dream_of_living.txt).
+- Reconciled with canon (Mor-Folk = acoustic liturgical folk): an acoustic Mor-Folk song in an illbient production; English-language version (2021) of the Iradi "Jashoo Tüshü"; by Eski Ün, the Talas ensemble from the 2019 Herald archive story.
+- New Vol3 articles: Dream of Living (#486, Start), Eski Ün (#487, Stub). Mor-Folk article: one sentence. canon.md (Music): Eski Ün and the song.
+
 # Change log: Keñsuu dialect and "Sary Kün, Ejen Kyz" (2026-10-13)
 From the user: an old (c. 100-year) a cappella recording of a traditional song with stamped percussion, a man singing the verses and others joining the chorus; lyrics in a Turkic text that is not grammatical standard Iradi. User chose to explain it as a dialect that died out.
 - New Vol3 Start articles: Keñsuu Dialect (#484) and Sary Kün, Ejen Kyz (#485). Start count 244 -> 246.

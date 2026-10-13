@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (246 Entries)
+## 5. Start-Class Articles (247 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -905,7 +905,7 @@ Critics have generally treated the group as a joke; the *[[Talas Herald]]* calle
 
 **Mor-Folk** is an acoustic subgenre of [[Mor-Wave]] that sets traditional instruments against melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]].<sup>[1]</sup>
 
-Mor-Folk ensembles use the [[Komuz (Iradi)|komuz]], the end-blown *[[Choor (Flute)|choor]]* and other wooden flutes, and hand-played frame drums. Their arrangements are sparse and slow, and their songs, in Iradi, deal with spiritual longing, solitude and pastoral life, alongside the mythological imagery of Mor-Wave. The style developed among Mor-Wave musicians in [[Talas]] in the 2010s. Ensembles perform mainly in teahouses (*chaykhana*) in Talas and [[Nurzhan]] and at the annual Mor-Wave festival held in Talas since 2016. Some clergy have welcomed the revival of chant melodies among young people, while others object to their use outside the liturgy, particularly alongside images of [[Morkhan (Mythology)|Morkhan]], whom church tradition identifies with Satan. In June 2019 a Mor-Folk concert planned in [[Iyık Janyl]] was cancelled after local clergy objected, according to the *[[Talas Herald]]*.<sup>[1]</sup><sup>[2]</sup>
+Mor-Folk ensembles use the [[Komuz (Iradi)|komuz]], the end-blown *[[Choor (Flute)|choor]]* and other wooden flutes, and hand-played frame drums. Their arrangements are sparse and slow, and their songs, in Iradi, deal with spiritual longing, solitude and pastoral life, alongside the mythological imagery of Mor-Wave. The style developed among Mor-Wave musicians in [[Talas]] in the 2010s. Ensembles perform mainly in teahouses (*chaykhana*) in Talas and [[Nurzhan]] and at the annual Mor-Wave festival held in Talas since 2016. Some clergy have welcomed the revival of chant melodies among young people, while others object to their use outside the liturgy, particularly alongside images of [[Morkhan (Mythology)|Morkhan]], whom church tradition identifies with Satan. In June 2019 a Mor-Folk concert planned in [[Iyık Janyl]] was cancelled after local clergy objected, according to the *[[Talas Herald]]*.<sup>[1]</sup><sup>[2]</sup> The best-known Mor-Folk recording, "[[Dream of Living]]" (2021) by the ensemble [[Eski Ün]], set the style's acoustic sound in an illbient production and became the only Mor-Folk song to find a wide audience abroad.
 
 ## References
 <ol class="references">
@@ -3709,7 +3709,7 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
 
-### 5.Category: Language & Song (2 articles)
+### 5.Category: Language & Song (3 articles)
 
 #### 484. Keñsuu Dialect
 *Quality: Start-Class | Category: Language & Literature*
@@ -3762,7 +3762,27 @@ Since its digitization the song has become a symbol of the [[Iradi language revi
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 159–171.</li>
 </ol>
 
-## 6. Stub-Class Articles (392 Entries)
+#### 486. Dream of Living
+*Quality: Start-Class | Category: Arts, Music & Film*
+"**Dream of Living**" is a song by the [[Talas]] [[Mor-Folk]] ensemble [[Eski Ün]], released in 2021 as the English-language version of its Iradi song "Jashoo Tüshü". It is the only Mor-Folk song to have found a wide audience outside Irad.<sup>[1]</sup>
+
+## Music
+The song departs from the acoustic sound of Mor-Folk. The ensemble's komuz, *[[Choor (Flute)|choor]]* and voices, singing a melody adapted from Syro-Iradi chant, are set in a slow, dark [[wp:Illbient|illbient]] production made with a former member of the Nurzhan [[Mor-Wave]] group Umay-9. Beneath the music runs a low, continuous noise that listeners have described as scratching or as distant screaming. Eski Ün has never said what it is. Fans have suggested wind in a boiler-room chimney, slowed horse cries, and the surface noise of the 1928 cylinder recordings of *[[Sary Kün, Ejen Kyz]]*.<sup>[1]</sup><sup>[2]</sup>
+
+## Lyrics
+The song is sung in the first person plural. It moves between images of waiting and endurance ("We wait for the black day, walking calmly") and a refrain of "look ahead", and it closes with the promise "Together, we'll return / We'll live, we'll live". The ensemble has said that it sings "about loneliness and the road home".<sup>[3]</sup> Listeners in Irad have read the song as being about emigration, about the clans lost in 1916, or about the division of the country, and some clergy objected to its "black day" (*kara kün*), a phrase associated with [[Morkhan (Mythology)|Morkhan]].<sup>[2]</sup>
+
+## Reception
+The English version spread in 2021–22 through streaming playlists of ambient and experimental music, and it remains the most-streamed Iradi recording outside Irad apart from [[Karakush (Group)|Karakush]]'s "Ak Börü". In Irad, the song was sung at candlelit vigils during the [[2023 Student Protests in Talas]]. Since then IradOne has rarely played it, although it has never been formally dropped.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'Far from the Teahouse: Mor-Folk Online.' Vol. 16, pp. 21–40.</li>
+<li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas.</li>
+</ol>
+
+## 6. Stub-Class Articles (393 Entries)
 
 ### 6.Category: Cultural & Linguistic Terms (16 articles)
 
@@ -8347,3 +8367,17 @@ The hour-long film combines filmed journeys to the high passes with the drawings
 - [Programme page](https://iradone.com/shows/weekend_guide.html) on IradOne Online
 
 {{Irad-org-stub}}
+
+### 6.Category: Music (1 article)
+
+#### 487. Eski Ün
+*Quality: Stub | Category: Arts, Music & Film*
+**Eski Ün** ("Old Voice") is a [[Mor-Folk]] ensemble from [[Talas]]. It plays the [[Komuz (Iradi)|komuz]], *[[Choor (Flute)|choor]]* and frame drums and sets Iradi verses to melodies drawn from the liturgical chant of the [[Syro-Iradi Catholic Church]], mainly in the teahouses of Talas and [[Nurzhan]]. In June 2019 it cancelled a concert in [[Iyık Janyl]] after two parish priests objected to its use of chant beside images of [[Morkhan (Mythology)|Morkhan]].<sup>[1]</sup> Its 2021 song "[[Dream of Living]]", in an illbient production, became the only Mor-Folk recording to find a wide audience abroad.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'Far from the Teahouse: Mor-Folk Online.' Vol. 16, pp. 21–40.</li>
+</ol>
+
+{{Irad-stub}}
