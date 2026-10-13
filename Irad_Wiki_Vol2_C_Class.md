@@ -7216,8 +7216,10 @@ The front page carries a feed of articles tagged by subject, among them politics
 - that the church hides ancient relics, including the [[wp:Holy Grail]];
 - that Irad has been erased from online maps (see [[Erasure Theory]]).
 
+Later articles added further claims: that the cryptocurrency [[Tulparcoin]] was a means of collecting the phone numbers of government critics; that lobbyists retained by associates of [[Alikhan Toktarov]] brought Irad to the attention of [[wp:Donald Trump|Donald Trump's]] circle before the [[2025 Trump Remarks on Irad]]; that Irad's neighbours never abandoned the partition plan exposed in 2007 and are waiting for the ISEZ to collapse (see [[Bill of Sale (2007)]]); and that Gendarmerie commanders control the fuel trade across the ceasefire line. Each claim is attributed to unnamed sources. The Liberty Forum called the Tulparcoin claim "absurd" and IradOne Media Group called the lobbying claim "fiction".<sup>[3]</sup>
+
 ## Activism
-A "Take action" section offers a printable poster and a recipe for wheatpaste, the flour-and-water glue used for fly-posting. The site also links to an archive, a chat room and an online shop selling shirts. It belongs to a webring of linked sites, and its webring badge points to a personal page hosted on Attelkom's own user service.<sup>[1]</sup><sup>[2]</sup>
+A "Take action" section offers a printable poster and a recipe for wheatpaste, the flour-and-water glue used for fly-posting. The site also links to an archive, a chat room and an online shop selling shirts. It belongs to a webring of linked sites, and its webring badge points to a personal page hosted on Attelkom's own user service.<sup>[1]</sup><sup>[2]</sup> A "Who we are" page describes the operators as Iradis at home and abroad who are funded by readers and shirt sales and take no money from any government, party or company. It asks informants to make contact through the chat room rather than by email or telephone, and it advises readers in the ISEZ to use VPNs if the site is blocked.<sup>[3]</sup>
 
 ## Censorship claims
 The Department of Public Information supplies Attelkom with lists of websites to be blocked in the ISEZ (see [[Media of Irad]]). FreeIrad.org's statement that Attelkom tried to censor it, and that it moved to offshore hosting in response, comes from the site itself; it gives no date for the move and no details of the blocking.<sup>[1]</sup>
@@ -7233,6 +7235,7 @@ The Department of Public Information supplies Attelkom with lists of websites to
 <ol class="references">
 <li id="cite_note-1"><b>^</b> FREEIRAD.ORG. Front page. Accessed 11 October 2026.</li>
 <li id="cite_note-2"><b>^</b> FREEIRAD.ORG. "Take action": poster and wheatpaste pages. Accessed 11 October 2026.</li>
+<li id="cite_note-3"><b>^</b> FREEIRAD.ORG. Articles, "Who we are" and "If we are blocked" pages. Accessed 13 October 2026.</li>
 </ol>
 
 ### 4.146. Jer-Suu Party
