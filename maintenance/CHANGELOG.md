@@ -1,3 +1,8 @@
+# Change log: FreeIrad.org FREECHAT forums (2026-10-13)
+Requested by the user: a working early-2000s style forum with real sign-ups, pre-populated later.
+- Site: PHP forum at /forum (boards, sample threads, seed regulars listed in canon); members-only archive links go to an "ÖCHÜRÜLDÜ / this page has been erased" 404; "I remember Irad" counter.
+- canon.md FreeIrad entry; Vol2 FreeIrad.org (Activism) mentions the forums.
+
 # Change log: FreeIrad.org centred on the Erasure (2026-10-13)
 Requested by the user: make the Erasure theory the site's central fight.
 - Site: masthead, erasure strip, front page grouped by erasure stage, every story carries an "Erasure file" box; new The Erasure, Map check, Lost Episode and Country Not Found pages; About and Take Action rewritten around it.
