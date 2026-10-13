@@ -97,7 +97,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **Republican Gendarmerie** (*jandarm*): c. 4,000; named 1992, statutory 1993. **State Defense Corps** (MKK): Jul 2007; c. 12,000.
 - **UNMI** (Oct 2007, Kara-Oi). **Department of Public Information**: government press office.
 - **Syro-Iradi Catholic Church**: archeparchy plus Talas, Nurzhan and Chatkal eparchies; Synod; Order of St. Janyl the Hermit; St. Luka Mission.
-- **IradOne** (1993; *IradOdin*). **Talas Herald** (1993; *Jarchy* 2017). **Irad Times** (1996). **FreeIrad.org**.
+- **IradOne** (1993; *IradOdin*; house programs *OneNews*, *OneDebate*, *OneTruth*, *OneBreakfast*). **Talas Herald** (1993; *Jarchy* 2017). **Irad Times** (1996). **FreeIrad.org**.
 - **NurGaz** (1993). **Northern Export Feeder** (85 km, 2000). **Attelkom** (1994, privatized 1999). **Talasbank** (1993). **Bank of Irad** (som, 5/USD).
 - **SuKarne complex** (1999) and **Conagra**, in the TAEZ (1998). **NAI**. **Trans-Chuy**. **Iradiya** (1997). **Akyel Syndicate** (1995). **SBAW** (1961).
 - **Talasfilm** (1954). **Irad Film Society** (biennial festival). **Irad Palace of Art**. **TSU** (1958). **Altyn-Zhylky** (every December). **FFI** (1993).

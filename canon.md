@@ -462,6 +462,7 @@ Current public canon. Covert matters appear only in their public, official or ru
 
 ### Media
 - **IradOne:** state public broadcaster founded early 1990s, under DPI editorial control; mostly English, some Iradi; Russian sister **ИрадОдин (IradOdin)**, seen as far lower quality; youth channel; IradOne Sport. Rarely cites the *Herald*.
+  - **Program names:** IradOne's own English-language programs take the station's "One" prefix: news bulletins as **OneNews** (main bulletin ***OneNews at Eight***, 20:00, followed by an Iradi-language bulletin), the prime-time current-affairs panel ***OneDebate*** (Jason Ilyasov a regular since 2016), the investigative ***OneTruth***, the morning show ***OneBreakfast***. New IradOne house programs follow the pattern (OneWeek, OneBusiness, OneSport...). Iradi-language programs (*Jyldyz Jolu*, *Kechki Jañylyktar*) and acquired shows keep their own titles.
 - **Talas Herald** (*Talas Jarchysy*): English daily, six days a week, most-read ISEZ paper. Founded March 1993 by **Medet Orozaliev** (ex-*Iradyn Chyny* correspondent under Maratbek Sadykov; editor 1993–2009) and **Margaret Hendricks** (American who covered Operation Starlight for a Chicago paper; managing editor 1993–2001) with US media-development grants. Owner: private **Herald Publishing Company**. Editor since 2009 **Elmira Beishenova** (ex-courts reporter). Online 1999; metered paywall 2018.
   - Semi-independent: courts, councils, records, official statements; avoids criticizing the Governor (self-censorship on the family). Less investigative than the ***Irad Times*** (broke the 2006–07 privatization documents). Kept publishing in 2007, registered with the DPI, staff stayed. Runs FreeIrad.org-type claims only with an official response, labelled unverified; since 2024, deepfake claims only with the official denial.
   - Pressures: ~18-month ad boycott by state firms after 2015 ballot-disqualification reporting (~1/3 of ad revenue lost); 2016 tax audit (payroll fine); 2014 libel suit by Adil Toktarov's Talas Commercial Development Group over 2013 land-transfer stories (Talas District Court, 2015: one point upheld, correction + 200,000 som; rest dismissed); reporter **Erkin Bolot uulu** held 10 days in Oct 2023 for "obstructing police", freed without charge (Legal Defense Guild). In the 2023 data cut it posted free PDFs on a mirror and sold street copies.
@@ -504,6 +505,7 @@ Current public canon. Covert matters appear only in their public, official or ru
 - Commercial beef began with Soviet Virgin Lands sovkhozes, not just the territorial period.
 - Mor-Pop keeps Mor-Wave's mythological imagery; it did not drop it for love and city life.
 - Talas film festival is **biennial**, not "biannual".
+- IradOne's current-affairs panel is ***OneDebate***, not "Debate One"; IradOne house programs use the "One" prefix (OneNews, OneTruth, OneBreakfast).
 - "Iradi Zoomer Movement" → **Iradi language revival**; not a movement.
 - Northern Border Demarcation Protocol is **not a treaty**; patrols coordinated, not joint; 2018 clashes were with **Uzbek** guards.
 - Territorial residents were **US nationals, not citizens**; Mexicans were neither.

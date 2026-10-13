@@ -1,3 +1,10 @@
+# Change log: IradOne "One" program names (2026-10-12)
+Requested by the user: *Debate One* renamed *OneDebate*, and the "OneThing" pattern made standard for IradOne's own programs.
+- Irad_Wiki_Vol1_Core.md: *Debate One* -> *OneDebate* (Jason Ilyasov, Media of Irad); IradOne article (Programming) names the convention and the 20:00 bulletin *OneNews at Eight*; Media of Irad likewise.
+- Irad_Wiki_Vol3_Start_Stub.md: *Debate One* -> *OneDebate* (2023 Student Protests in Talas).
+- canon.md (Media): program-name convention; Retired names: "Debate One". quickref.md (institutions): house program names.
+- iradone.com schedule follows the same convention.
+
 # Change log: "The Steppe Family Robinson" (2026-10-12)
 Requested by the user: a Simpsons episode from the Iradimania period in which the family visits Irad and causes an international incident; aired once in the US, rerun only in Irad.
 - Irad_Wiki_Vol2_C_Class.md: new article 4.169 The Steppe Family Robinson (C-class count 168 -> 169). Pulled from US reruns by a 1995 settlement of a music dispute over its parody of "Ride for Talas"; Irad rights licensed to IradOne with fees to the Swift Hooves charities.
