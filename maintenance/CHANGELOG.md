@@ -1,3 +1,11 @@
+# Change log: IradOne television programs (2026-10-13)
+Requested by the user: wiki articles for IradOne's own programs (iradone.com schedule.json).
+- Irad_Wiki_Vol3_Start_Stub.md: new category "Television Programs" (Category: Media): 18 Start-class articles (incl. List of IradOne programs, OneNews, OneDebate, OneTruth, OneBreakfast, OneSport, Jyldyz Jolu, İçkenge Attı Jetelep, Kuda (TV series), Patrol: Kara-Bulak, Akyrky Ashuu (TV series), Kim Bilet?) and 26 stubs (#440–483). Counts: Start 226 -> 244, Stub 366 -> 392. Each links to its iradone.com programme page. Acquired programs and holiday specials are listed, without articles.
+- Irad_Wiki_Vol1_Core.md, IradOne (Programming): links to the new articles and the list.
+- canon.md (Media): "One" house style dated 2016 (Debate One 2011 -> OneDebate 2016; bulletins formerly IradOne News); pre-2016 titles, church co-productions and commissions keep their names.
+- New minor lore: presenters, producers and premiere years for each program (e.g. Begaiym Shamshieva, OneNews at Eight; Aida Kalmatova, OneDebate; Anara Tursunbaeva, OneBreakfast; Talant Myrzabekov, Kim Bilet?); Almaz Sarybaev plays the grandfather in the 2016 Akyrky Ashuu serial; Koyon Teşigi is the 2021 Sunday children's slot where Altyn Muuz sang "Morkhan Baby".
+- Open questions found (not changed): the IradOne youth channel is in canon but not in the IradOne article's channel list; schedule.json lists Hands of Irad on Tue/Thu but airs it only Tuesdays; Talas film festival month (IradOne Feb 2025 story vs Herald/wiki autumn).
+
 # Change log: Talas Herald citations linked (2026-10-13)
 Requested by the user.
 - All three volumes: every Talas Herald citation (229, in 166 distinct articles) now links its headline to the article's archive page at talasherald.com/archive/<year>/. The Herald archive was written to match each citation's headline and date.

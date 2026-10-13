@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (226 Entries)
+## 5. Start-Class Articles (244 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -3145,7 +3145,551 @@ The area was first protected as a Soviet hunting reserve. Since the 2007 partiti
 
 ---
 
-## 6. Stub-Class Articles (366 Entries)
+### 5.Category: Television Programs (18 articles)
+
+#### 440. List of IradOne programs
+*Quality: Start-Class | Category: Media*
+This is a **list of programs broadcast by [[IradOne]]**, the state broadcaster of the [[Irad Special Economic Zone]], on its main channel. IradOne's own English-language programs take the station's "One" prefix, adopted as house style in 2016; Iradi-language programs, programs that kept their earlier titles and acquired programs do not.<sup>[1]</sup> Times are Irad Time, and the broadcast day runs from 05:00, opening and closing with the anthem, *[[The Spirit of Irad]]*.<sup>[2]</sup>
+
+Programs made by IradOne or for it link to their articles. Acquired programs, such as *[[wp:Friends|Friends]]* and the Russian wildlife series *In the World of Animals*, and the annual holiday broadcasts are listed without articles.
+
+## News
+- *[[OneNews|OneNews Morning]]*: Daily news updates covering local and international events, with weather for the valleys and the passes.
+- *[[Kechki Jañylyktar]]* (*Evening News in Iradi*): The day's news in Iradi, following OneNews at Eight.
+- *[[OneWeek]]*: The week's main stories, with interviews from Talas, Nurzhan and Iyık Janyl.
+
+## Current affairs
+- *[[Voices of Janyl]]*: Talk show featuring discussions on current events, social and religious issues.
+- *[[OneDebate]]*: IradOne's prime-time current-affairs panel.
+- *[[OneTruth]]*: IradOne's premier journalism programme highlighting local issues.
+- *[[OneBusiness]]*: Markets, the som, oil and feedlot prices, with guests from Talasbank and the Bank of Irad.
+
+## Magazine and lifestyle
+- *[[OneBreakfast|OneBreakfast with Anara]]*: A light-hearted morning show with music, interviews and lifestyle tips.
+- *[[Nurzhan Today]]*: Regional magazine from IradOne's Nurzhan studio: the refinery city, its neighbourhoods and its football.
+- *[[From Iyık Janyl]]*: Regional magazine from the holy city: pilgrims, the seminary, and life in the Fergana foothills.
+- *[[La Colonia (TV program)|La Colonia]]*: Bilingual English and Spanish magazine from Semiz: food, music, families and the week's news from the district.
+- *[[Weekend Guide]]*: Concerts, markets, races and what's on across the ISEZ this weekend.
+- *[[Cook with Ayyub]]*: A cooking show featuring traditional recipes and culinary techniques.
+- *[[Baking with Zarina]]*: Baking programme featuring traditional recipes and culinary techniques.
+- *[[Field and Herd]]*: The farming programme: pastures, feed and grain prices, water schedules and the week at the Talas valley feedlots.
+
+## Children and youth
+- *[[Follow the White Rider]]*: Educational and entertaining Christian programme for kids, including cartoons and learning shows.
+- *[[Koyon Teşigi]]* (*The Rabbit Hole*): An Iradi-language children's programme featuring music, stories and crafts.
+- *[[Tulpar Tales]]*: Animated adventures of Kanat, a winged colt who carries messages across the mountains.
+- *[[Jyldyz Jolu]]* (*Star Road*): The youth talent show that launched Altyn Muuz. Singers, dancers and komuz players from across the ISEZ.
+- *[[Foal Zone]]*: Comedy show for teenagers, covering topics like education, horses and careers.
+
+## Drama and comedy
+- *[[İçkenge Attı Jetelep]]* (*Lead a Horse to Drink*): A popular Iradi-language drama series about family.
+- *[[Kuda (TV series)|Kuda]]* (*The In-Laws*): Bilingual sitcom. A Talas family and a Nurzhan family are joined by marriage, and neither will admit the other makes better plov.
+- *[[Patrol: Kara-Bulak]]*: Drama following a Gendarmerie post on the Talas road.
+- *[[Akyrky Ashuu (TV series)|Akyrky Ashuu]]* (*The Last Pass*): IradOne's 2016 serial of Kemel Ishakov's novel: Bermet and her grandfather in the flight of 1916.
+- *Friends*: Very high-quality comedy series, featuring American actors and stories.
+- *The Tonight Show with Jay Leno*: Late-night talk show from America.
+
+## Entertainment
+- *[[Kim Bilet?]]* (*Who Knows?*): Iradi-language quiz. Three contestants, one golden horseshoe.
+
+## Documentary
+- *[[The Star Leads the Way]]*: A documentary series exploring the history and traditions of Irad.
+- *[[Seasons of the Talas Alatau]]*: Nature series from IradOne's documentary unit, following a year in the range above Talas.
+- *[[Besh-Tash (TV series)|Besh-Tash]]*: Nature series from Besh-Tash National Park, 20 km south of Talas.
+- *[[Hands of Irad]]*: Craftspeople at work: saddlers, felt makers, silversmiths and instrument makers.
+- *[[From the Archive (TV program)|From the Archive]]*: Restored programmes from IradOne's archive, back to the 1960s.
+- *In the World of Animals*: Russian television programme dedicated to zoology and wildlife research.
+- *[[Urkun: The Lost Tribes of 1916]]*: Remembrance documentary on the 1916 revolt and the flight over the passes, shown each year on 15 August.
+
+## Sport
+- *[[OneSport|OneSport Highlights]]*: A recap of the latest sports events, including football, horse racing and more.
+- *[[Hippodrome Form Guide]]*: Trainers and tipsters preview tonight's card at the State Hippodrome.
+- *[[Hippodrome Weekly]]*: Equestrian sport magazine: racing, ulak tartysh and the Akyel and Chongtor bloodlines.
+- *[[Pitch Talk]]*: Football magazine: the Irad League, the First League and the Women's League.
+
+## Music
+- *[[OneMusic]]*: A programme featuring contemporary music from Irad and around the world.
+- *[[Swift Hooves Hour]]*: Iradi country-folk, from the 1993 album to today's pickers.
+- *[[Mor-Pop Top 20]]*: The week's biggest Mor-Pop and Iradi pop songs, counted down.
+- *[[Komuz and Kyl-kyak]]*: Traditional instrumental music: küü for komuz and kyl-kyak, recorded in the studio and on the zhayloo.
+- *[[Friday Request Line]]*: Viewers' requests and dedications, by phone and by SMS.
+- *[[Classic Iradi Music]]*: A programme featuring traditional Iradi music and folk songs.
+
+## Film
+- *Hollywood Cinema*: A movie slot showing classic Hollywood films.
+- *[[Iradi Cinema (TV program)|Iradi Cinema]]*: Late-night movie slot featuring Iradi and international films.
+
+## Faith
+- *[[Sunday Qurbana]]*: The Divine Liturgy of the Syro-Iradi Catholic Church.
+
+## Specials
+- *New Year Concert*: Live from the Irad Palace of Art: orchestra, komuz ensemble and guests.
+- *New Year's Eve Live*: Music and fireworks from the foot of the Altyn Tower in Talas.
+- *New Year Address*: The Governor's New Year message to the people of Irad.
+- *Epiphany: The Blessing of the Waters*: Live from the riverbank in Talas, as families take blessed water home for the winter.
+- *Irad Day: Ceremonies and Parade*: Live from Talas: the flag ceremony, the mounted honour guard and the parade.
+- *Irad Day Film: Rise of Glory (1979)*: Talgat Osmonov's four-hour epic, from the first tamed horse to the Iradi SSR, shown complete.
+- *Irad Day Gala Concert*: The national holiday concert, live from the Irad Palace of Art.
+- *Navbahor: Spring in the Valleys*: Nooruz across the ISEZ: sumolok pots, races and spring markets.
+- *Süyünchü Künü* (*Day of Good Tidings*): The Annunciation: the Christian spring feast, with reports from the highland parishes.
+- *Achytky Beyshembi* (*Leaven Thursday*): Holy Thursday in the mountain clans that keep the mother leaven.
+- *Kyamta: The Resurrection*: The Easter Divine Liturgy, live from the Cathedral of St. Janyl in Iyık Janyl.
+- *St. Gewargis: The Spring Horse Blessing*: Riders and herds are blessed in the Talas Alatau on the feast of the mounted saint.
+- *Feast of St. Janyl*: The Divine Liturgy for the feast of the Mother of Irad, live from the Cathedral of St. Janyl in Iyık Janyl.
+- *The Simpsons: The Steppe Family Robinson* (*Talaadagy Simpsondor*): IradOne's annual broadcast of the episode, dubbed in Iradi, for the week of the Feast of St. Janyl.
+- *Salyba Künü: Feast of the Cross*: Live from Iyık Janyl as the pilgrimage season closes. After the Cross, no yurt on the zhayloo.
+- *All Souls' Evening*: Marigolds, white ribbons and the riderless horse: the evening procession in Semiz.
+- *Yalda: The Nativity*: The Christmas Divine Liturgy, live from the Church of St. Yuhanna in Talas.
+- *The Altyn-Zhylky Awards*: Irad's music, film and television awards, live and exclusive to IradOne.
+- *Komuz Gala: Aigul Choro kyzy at 90*: The winners of the national komuz competition in concert from Talas, in honour of the ethnomusicologist's 90th anniversary.
+- *Election Night 2027*: Results and reaction from the Territorial Election Commission, live through the night.
+
+## See also
+- [[IradOne]]
+- [[Media of Irad]]
+- [[Altyn-Zhylky Awards]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2016). <i>Annual Report 2016</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> IradOne (2026). <i>Program Schedule</i>. Talas: IradOne Media Group.</li>
+</ol>
+
+## External links
+- [TV schedule](https://iradone.com/index.html#schedule) and [programs A–Z](https://iradone.com/shows/index.html) on IradOne Online
+
+#### 441. Akyrky Ashuu (TV series)
+*Quality: Start-Class | Category: Media*
+***Akyrky Ashuu*** (Iradi, "The Last Pass") is an eight-part Iradi television serial made by [[IradOne]] in 2016, adapted from [[Kemel Ishakov]]'s novella *Akyrky Ashuu* (1964). Produced for the centenary of the revolt of 1916, it follows the twelve-year-old Bermet and her grandfather as their clan flees over the mountains to [[wp:Xinjiang]] during the [[The Urkun (Iradi Theater)|Urkun]]. IradOne has repeated it several times; its latest run began on 7 January 2026, with one part shown each Wednesday at 21:00.<sup>[1]</sup>
+
+## Production
+The serial was made for IradOne by [[Talasfilm Studios]] and directed by Jyldyz Sarygulova. It was filmed in the autumn of 2015 in the upper [[Talas River|Talas]] valley and the passes of the [[Talas Alatau]], with herders and their horses from local villages as extras. Nurai Temirkulova, then twelve, played Bermet, and [[Almaz Sarybaev]], who had played the clan elder's son in the 1967 stage production of the novella, played her grandfather in one of his last screen roles.<sup>[1]</sup><sup>[2]</sup> The dialogue is in Iradi, with English subtitles.
+
+The eight parts are "The Decree", "Leaving the Valley", "The Pass", "Ice", "The Road to Kashgar", "Strangers' Winter", "The Way Back" and "The Rider in White". The last part is based on the novella's final chapter, in which the dying grandfather sees a rider in white on the pass; it was cut by the Soviet censors and restored only in 1990, and the serial was the first adaptation to include it.<sup>[2]</sup>
+
+## Broadcast and reception
+The first part was broadcast on 15 August 2016, the day on which the flight of 1916 is remembered, and the serial was shown weekly until early October.<sup>[1]</sup> It was among IradOne's most-watched drama programs of the year, and extracts are used in ISEZ schools alongside the novella. Clergy of the [[Syro-Iradi Catholic Church]] praised its final part, which ends with an image echoing [[The Legend of the White Rider]].<sup>[3]</sup>
+
+The historian Saltanat Daniyarova has described the serial as the centerpiece of IradOne's 1916 centenary and argued that it presented the flight as a founding story of the ISEZ while leaving out the settler side of the revolt described in works such as [[Lyudmila Ivanova]]'s *The Steppe on Fire*.<sup>[2]</sup> Tribal writers, who claim Ishakov as one of their own, have complained that IradOne's signal barely reaches the [[Autonomous Tribal Regions]], where the novella is taught in full; copies of the serial have nonetheless circulated there on disc.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2016). <i>Akyrky Ashuu: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). 'The Centenary on Screen: Remembering 1916 in Iradi Television.' Vol. 10, pp. 54–73.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/akyrky_ashuu.html) on IradOne Online
+
+#### 442. Seasons of the Talas Alatau
+*Quality: Start-Class | Category: Media*
+***Seasons of the Talas Alatau*** is a nature documentary series made by the documentary unit of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Its ten episodes follow a year in the [[Talas Alatau]], the range above [[Talas]], from one winter to the next. First broadcast in January 2022, it is repeated on Tuesdays at 09:30.<sup>[1]</sup>
+
+## Format
+Each half-hour episode follows one animal or one change of season. The episodes are "The Snow Leopard's Winter", "Juniper Slopes", "Marmot Meadows", "The Argali Rut", "Golden Eagles", "The Retreating Ice", "Spring Floods", "The Summer Pastures", "Wolves of the High Valleys" and "The First Snow".<sup>[1]</sup> Much of the wildlife footage, including the opening sequences of the [[Snow Leopard (Irad)|snow leopard]], came from camera traps left out through the winter. "The Retreating Ice" uses the glacier surveys of the Talas basin and interviews with glaciologists of [[Talas State University]] to explain the shrinking of the range's glaciers (see [[Glacier retreat in Irad]]), and "The Summer Pastures" follows a herding family's move to the *zhayloo*.
+
+## Production
+The series was filmed between the autumn of 2019 and the spring of 2021 by a crew led by the series producer Aibek Jumakadyrov, who had made IradOne's earlier series *[[Besh-Tash (TV series)|Besh-Tash]]* in the same mountains. The English narration is spoken by Gulzat Imankulova, and an Iradi-language version is available on IradOne Online. Because the [[Qara-Chik Demarcation Line]] runs through the range, the crew worked in the upper valleys of the [[Autonomous Tribal Regions]] with permits from clan councils, arranged through the liaison office of the [[United Nations Mission in Irad]], and with clan wardens as guides.<sup>[2]</sup>
+
+## Reception
+The series won the documentary prize at the [[Altyn-Zhylky Awards]] in December 2022. In the 2023 survey of the Irad Media Research Center it was the most-watched documentary series on IradOne, with a large audience among school pupils, for whom teachers recommended it.<sup>[3]</sup> Reviewers praised its photography, particularly the argali and eagle sequences.
+
+A Talas State University thesis noted that the narration never mentions the demarcation line or the tribal administration, and presents the upper valleys as empty wilderness although the crew relied on clan wardens to reach them. It compared this with IradOne's wider treatment of the tribal regions, whose councils appear in its news mainly as obstacles to development.<sup>[4]</sup> IradOne has said that the series is about the mountains and their animals, not politics.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2022). <i>Seasons of the Talas Alatau: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> IradOne Broadcasting and Media Corporation (2023). <i>Annual Report 2022</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Bolotbekova, Aizat (2024). <i>Empty Mountains: Landscape and the Tribal Regions in IradOne Documentaries</i>. MA thesis, Talas State University, Department of Journalism.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/alatau.html) on IradOne Online
+
+#### 443. OneDebate
+*Quality: Start-Class | Category: Media*
+***OneDebate*** is the prime-time current-affairs panel program of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). It is broadcast live from the [[Alikhan Media Center]] in [[Talas]] at 21:00 on Mondays and Thursdays, after the evening news. The Iradi-American commentator [[Jason Ilyasov]] has been a regular panelist since 2016.<sup>[1]</sup>
+
+## Format
+Each one-hour edition puts a single question to a panel of four guests, usually a DPI deputy or official, a business figure, an academic and a commentator, with questions from a studio audience. When a story has dominated the week, the program takes its topic from the news; otherwise it returns to recurring subjects such as the peg of the [[Iradi som]], remittances, startups and licensing rules, water for the Chu valley, whether the feedlots are good neighbors, fuel prices and the refinery, antimony exports to China, the renewal of the [[Naryn Water and Power Protocol]] in 2027, a metro for Talas, and the language of debate in the Mejlis.<sup>[1]</sup> Aida Kalmatova has moderated the program since 2016.
+
+## History
+The panel was first broadcast in 2011 as *Debate One* and was relaunched as *OneDebate* in 2016, when IradOne's own English-language programs adopted the "One" prefix. Ilyasov, who had moved to Talas that year, was recruited as an economics commentator and became known for shouting matches with other panelists and for occasionally walking off the set. IradOne has suspended him at least twice for his conduct on air.<sup>[2]</sup>
+
+In October 2023, during a discussion of a municipal licensing surcharge on technology startups and delivery couriers, Ilyasov called the levy "a tax on the only part of the economy the family doesn't own yet". Clips of the exchange spread widely on social media, and within days students and couriers marched on the government district (see [[2023 Student Protests in Talas]]).<sup>[3]</sup> The authorities said Ilyasov had instigated the protests.<sup>[4]</sup> IradOne kept him off the air for several months and began booking him again in 2024.<sup>[2]</sup>
+
+## Reception
+*OneDebate* is among IradOne's most-watched current-affairs programs, particularly with viewers under 35, many of whom follow it through clips online.<sup>[5]</sup> Media researchers have described it as an unusual space for criticism on state television, though opposition politicians such as [[Kamran Bekzatov]] are rarely invited. Ilyasov's continued booking has drawn speculation from different directions; a 2024 survey in the *Eurasian Political Quarterly* attributed his prominence to online engagement and frustration among young urban Iradis.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>OneDebate: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (10 October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/students-march-on-government-house.html" target="_blank" rel="noopener">Students March on Government House.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (11 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/debate_one.html) on IradOne Online
+
+#### 444. Follow the White Rider
+*Quality: Start-Class | Category: Media*
+***Follow the White Rider*** is a Christian children's television program broadcast by [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Made for primary-school children, it combines short cartoons, Bible and saints' stories and simple lessons on the customs of the [[Syro-Iradi Catholic Church]]. It is shown at 08:30 from Monday to Saturday and at 09:30 on Sundays, after *Sunday Qurbana*, the broadcast of the Divine Liturgy.<sup>[1]</sup>
+
+## Format
+Each half-hour edition is built around one story, introduced by the presenter as "today's story". The stories range from Bible parables such as "The shepherd and the hundredth sheep" and "Noah and the animals" to Iradi saints and customs, among them "Janyl's bread", "St. Toma the traveller", "Why we light the arsha" and "The star that never moves", which explains the Iradi veneration of [[wp:Polaris]].<sup>[1]</sup> The title refers to [[The Legend of the White Rider]], in which Christ appears as a horseman in white to guide [[Janyl, Mother of Irad|Janyl]]. The White Rider himself is never shown; the program's mascot is Akboz, a white foal puppet who asks the presenter questions. Dubbed animated series acquired abroad fill the rest of the slot.
+
+## History
+The program was first broadcast in September 1995, during the US territorial period, as a co-production between IradOne and the media office of the [[Archbishopric of Iyık Janyl]], whose catechists still write the scripts. It was originally in English, with a weekly Iradi edition. Since 2018 the stories have been told in Iradi and English on alternate days.<sup>[2]</sup> Because it is produced with the church, it kept its original title when IradOne's own English-language programs adopted the "One" prefix in 2016. Chinara Soorombaeva has presented it since 2014.
+
+## Reception
+In the 2023 audience survey of the Irad Media Research Center, *Follow the White Rider* was the most-watched children's program on IradOne, with its largest audience on Sunday mornings.<sup>[3]</sup> Clergy have praised it for teaching urban children customs that are fading in the cities. Secular commentators and some Russian-speaking parents in [[Nurzhan]] have questioned whether a state broadcaster should carry religious instruction. Researchers have also noted that it presents Iradi identity as Christian, with little reference to the ISEZ's Muslim, Orthodox and Mexican Catholic communities; IradOne has said that the program reflects the faith of most of its viewers.<sup>[4]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2024). <i>Follow the White Rider: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Archbishopric of Iyık Janyl, Media Office (2015). <i>Twenty Years of Follow the White Rider</i>. Iyık Janyl.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/follow_white_rider.html) on IradOne Online
+
+#### 445. Hippodrome Weekly
+*Quality: Start-Class | Category: Media*
+***Hippodrome Weekly*** is an equestrian sport magazine program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). It covers racing at the [[Irad State Hippodrome]] in [[Talas]], the [[Ulak Tartysh (Sport)|ulak tartysh]] league and the breeding of the [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] horses. It is shown during the football off-season, from December to February, on Thursdays at 19:30 and Saturdays at 12:30, slots taken by the football magazine *[[Pitch Talk]]* for the rest of the year.<sup>[1]</sup>
+
+## Format
+Each edition reviews the week's race meetings and league rounds, with replays, interviews with jockeys, trainers and riders, and a segment on bloodlines in which breeders present stallions and foals. Longer reports cover the auctions of the [[Akyel Equine Logistics & Breeding Syndicate]], horse games in the valleys and, during the winter break of the ulak league from late December to mid-January, studs and training yards in the Talas valley and the Chu plain.<sup>[1]</sup>
+
+## History
+The program was launched in 1996 as a year-round weekly, one of the first sports programs of the territorial-era IradOne. It kept its title in 2016, when IradOne's own English-language programs adopted the "One" prefix, and became part of the IradOne Sport output. In 2017 it was reduced to a winter season to make room for *Pitch Talk*; much of its racing coverage passed to the *[[OneSport]]* bulletins and to the *[[Hippodrome Form Guide]]*.<sup>[2]</sup> Kalybek Myrzaliev, a former racing correspondent of IradOne's news service, has presented it since 2008.
+
+## Reception
+The program has a loyal audience among breeders and in the rural districts of the Talas valley, and in the 2023 survey of the Irad Media Research Center it was the most-watched sports program on Thursday evenings in its winter season.<sup>[3]</sup>
+
+Critics have described its coverage of the breeding industry as uncritical. Its winter editions of 2022–23 and 2023–24 dealt with the Kyzyl-Jyldyz pedigree fraud, in which a private stud near Talas substituted DNA samples for registered foals (see [[Crime in Irad]]), only through the court case and the Syndicate's statements. It did not report the questions raised by independent breeders about why the Syndicate's own farms, managed by the Governor's nephew [[Mirlan Toktarov]], had not been audited by an outside body.<sup>[4]</sup><sup>[5]</sup> IradOne has said that the program covers sport and breeding, not commercial disputes.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2018). <i>Hippodrome Weekly: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> IradOne Broadcasting and Media Corporation (2018). <i>Annual Report 2017</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (21 June 2023). '<a class="ext" href="https://talasherald.com/archive/2023/breeder-jailed-over-akyel-pedigree-fraud.html" target="_blank" rel="noopener">Breeder jailed over Akyel pedigree fraud.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Gold Coats and Family Firms: The Akyel Trade in the ISEZ.' Vol. 31, No. 3, pp. 210–228.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/hippodrome_weekly.html) on IradOne Online
+
+#### 446. İçkenge Attı Jetelep
+*Quality: Start-Class | Category: Media*
+***İçkenge Attı Jetelep*** (Iradi, "Lead a Horse to Drink") is an Iradi-language television drama serial broadcast by [[IradOne]]. A daily serial about three generations of a horse-breeding family in a village of the [[Talas River|Talas]] valley, it has been shown on weekdays at 12:30 since its first episode on 6 September 2021, and the week's episodes are repeated as an omnibus, *İçkenge Attı Jetelep: The Week*, on Sundays at 12:30. By October 2026 it had broadcast more than 1,300 episodes. It is IradOne's only daily drama.<sup>[1]</sup>
+
+## Premise
+The serial centers on Bakyt, a farmer who refuses to sell his lower field to a neighboring feedlot, his wife, their restless son Nurlan and their daughter Aiperi, who takes a job in [[Talas]], and the family's grandmother, Gülzat. Storylines follow village life through the seasons: name days, a grey mare that is sold in secret and later goes missing, quarrels over the water schedule, a visit from the priest, a called-off wedding and the return of Gülzat's sister from Russia after eleven years as a migrant worker.<sup>[1]</sup> The title comes from a proverb about patience, roughly "you can lead a horse to water, but you cannot make it drink", which the family repeat to one another.
+
+## Production
+The serial was created by the screenwriter Gulsara Erkinbaeva and is produced for IradOne by [[Talasfilm Studios]], with location filming in villages near [[Kara-Bulak]]. Its cast is drawn largely from the Talas State Academic Drama Theatre; the veteran actress Tamara Beishenalieva has played Gülzat since the first episode. It was the first daily drama made in Iradi, and IradOne has described it as part of its commitment to the language.<sup>[1]</sup><sup>[2]</sup>
+
+## Reception
+In the 2023 survey of the Irad Media Research Center it was the most-watched daytime program in the ISEZ, with an audience concentrated among women over 40 and in rural districts; the Sunday omnibus has been one of the channel's most-watched weekend programs.<sup>[3]</sup> Farmers' organizations have praised its storylines about the expansion of feedlots and the cost of water. Critics note that, like other IradOne drama, it treats such problems as private disputes between neighbors and rarely refers to the authorities. Linguists credit it with bringing rural Iradi speech to urban viewers, and its catchphrases are widely quoted on social media.<sup>[2]</sup><sup>[4]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2026). <i>İçkenge Attı Jetelep: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Soft Power at Lunchtime: Iradi-Language Drama and the ISEZ.' Vol. 20, No. 3, pp. 41–58.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Asylbaeva, Aizhan (2024). <i>Village Speech on the Small Screen: Dialect in Iradi Television Drama</i>. MA thesis, Talas State University, Department of Iradi Philology.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/ickenge.html) on IradOne Online
+
+#### 447. Jyldyz Jolu
+*Quality: Start-Class | Category: Media*
+***Jyldyz Jolu*** (Iradi, "Star Road") is an Iradi-language youth talent show broadcast by [[IradOne]]. Young singers, dancers and [[Komuz (Iradi)|komuz]] players from across the [[Irad Special Economic Zone]] (ISEZ) compete in weekly heats over a spring series. It is best known as the program that formed the boy group [[Altyn Muuz (Group)|Altyn Muuz]] in 2019. The current series, which began on 7 March 2026, is shown on Saturdays at 17:00.<sup>[1]</sup>
+
+## Format
+Auditions are held each winter in [[Talas]], [[Nurzhan]], [[Kyzyl-Adyr]] and [[Iyık Janyl]], and contestants must be between 14 and 21. Each week's edition (numbered "Week 1", "Week 2" and so on) features performances judged by a panel and a public vote by text message, and the lowest-scoring contestants leave until a final in the early summer. Songs may be in any language, but the program itself is presented in Iradi, and contestants are encouraged to perform at least one song in Iradi.<sup>[1]</sup> Aibike Kenzhebekova has presented it since its launch, and the komuz player Kubat Alymbaev has sat on the panel in every series.
+
+## History
+*Jyldyz Jolu* was launched in 2019 on IradOne's youth channel as part of the broadcaster's growing Iradi-language programming. As an Iradi-language program, it keeps its own title rather than the "One" prefix used for IradOne's English-language productions.<sup>[1]</sup> In its first series the top four contestants, Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, were signed as a group by the show's producers and became Altyn Muuz, whose first single, "Kymyz Kymyz", followed in 2020.<sup>[3]</sup> The program's executive producer, Nurgazy Zhusupbekov, also managed the group in its first years. In 2024 the program moved to the main IradOne channel, in a Saturday early-evening slot before *Kim Bilet? Saturday Special*.<sup>[1]</sup>
+
+## Reception
+The program is among IradOne's most-watched Iradi-language programs with viewers under 25, and the Irad Media Research Center has linked its popularity to the [[Iradi language revival]].<sup>[4]</sup> Its association with Altyn Muuz, which the *[[Talas Herald]]* and most critics treat as a novelty act, has made it a target of [[Mor-Wave]] musicians, who accuse IradOne of turning the style into a commercial product.<sup>[2]</sup> Other contestants have had more conventional careers, and several komuz finalists have gone on to study at conservatories in Talas and [[wp:Bishkek]].
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2026). <i>Jyldyz Jolu: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (19 March 2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/jyldyz_jolu.html) on IradOne Online
+
+#### 448. Kim Bilet?
+*Quality: Start-Class | Category: Media*
+***Kim Bilet?*** (Iradi, "Who Knows?") is an Iradi-language television quiz show broadcast by [[IradOne]]. Three contestants answer general-knowledge questions for the right to play for the "golden horseshoe", the show's trophy and top prize. It is shown on weekdays at 19:00, and a team edition, *Kim Bilet? Saturday Special*, is shown on Saturdays at 18:00.<sup>[1]</sup>
+
+## Format
+Each weekday edition lasts half an hour. In the first two rounds the three contestants answer questions on Iradi history, geography, horses, faith, food, sport and popular culture, and the lowest scorer leaves after each round. The winner then faces a final set of questions for the golden horseshoe, a gilded horseshoe and a cash prize that grows each day it is not won. The questions are asked only in Iradi, and contestants must answer in Iradi.<sup>[1]</sup> In the *Saturday Special*, teams of three from families, workplaces, schools and villages compete for a larger weekly jackpot.
+
+## History
+*Kim Bilet?* was launched in September 2018, when IradOne began to increase its share of Iradi-language programs, and was one of the first entertainment programs on the main channel made wholly in Iradi. The *Saturday Special* followed in 2020. Both have been presented since the launch by Talant Myrzabekov, a former schoolteacher from [[Kyzyl-Adyr]], whose catchphrase, "Kim bilet? Siz bilesiz!" ("Who knows? You know!"), is widely repeated.<sup>[1]</sup><sup>[2]</sup>
+
+## Reception
+In the 2023 survey of the Irad Media Research Center *Kim Bilet?* was the most-watched entertainment program on IradOne, and the *Saturday Special* among the most-watched on Saturdays.<sup>[3]</sup> Teachers and supporters of the [[Iradi language revival]] have praised it for encouraging young viewers to use the language, and Iradi-language quiz leagues in schools are modeled on it.<sup>[2]</sup> Russian-speaking viewers in [[Nurzhan]] have complained that the Iradi-only rule effectively excludes them, a criticism IradOne answers by pointing to its Russian-language programs on IradOdin. Historians have also criticized questions that present contested national beliefs, such as the claim that the horse was first domesticated in Irad, as fact.<sup>[4]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Kim Bilet?: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Toktomatova, Aizat (2022). <i>Quizzing in the Mother Tongue: Television and the Iradi Language Revival</i>. MA thesis, Talas State University, Department of Iradi Philology.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/kim_bilet.html) on IradOne Online
+
+#### 449. Kuda (TV series)
+*Quality: Start-Class | Category: Media*
+***Kuda*** (Iradi, "The In-Laws") is a bilingual television sitcom broadcast by [[IradOne]]. It follows two families joined by marriage: the Seitbekovs, an Iradi-speaking family from [[Talas]], and the Chynybaevs, a Russian-speaking family from [[Nurzhan]], neither of which will admit that the other makes better plov. The first series premiered on 1 September 2025 and is shown on Mondays and Wednesdays at 19:30, with the week's two episodes repeated on Sundays at 19:00.<sup>[1]</sup> The title is the Iradi word for the families of a married couple, who become *kuda* to each other at the betrothal visit (see [[Marriage in Irad]]).
+
+## Premise and episodes
+The series begins with the engagement of the Seitbekovs' son and the Chynybaevs' daughter and follows the two families through their first year as in-laws. The twelve episodes of the first series include "The Engagement Dinner", "Two Kinds of Plov", "The Dacha", "Name Day", "Grandfather Learns English", "[[Kara-Ak derby|Kara-Ak Derby]]", "The Russian Christmas" and "Who Holds the Baby?".<sup>[1]</sup> Running jokes include the rivalry between the Seitbekovs' stirred Irad paloosu and the Chynybaevs' long-grain plov, a culinary divide the *[[Talas Herald]]* has traced to the rice of the Chu valley,<sup>[2]</sup> and the two fathers' loyalty to the rival football clubs of Talas and Nurzhan.
+
+## Production
+*Kuda* was written by Nargiza Jusupova and Sergei Kalinin and produced for IradOne by [[Talasfilm Studios]]. Each family speaks its own language, and characters switch between Iradi, Russian and the Nurzhan mixture known as *Russocha*, with English subtitles. It is the first IradOne comedy with substantial Russian dialogue to be shown on the main channel rather than on IradOdin.<sup>[1]</sup><sup>[3]</sup>
+
+## Reception
+The series drew large audiences in both cities in its first weeks, and phrases from it spread quickly on social media. Reviewers praised its warmth and its cast, while some Iradi-language activists objected to the amount of Russian heard in prime time. Politicians allied with [[Kamran Bekzatov]] and some Russian-speaking commentators said the Chynybaevs were drawn from stereotypes of the [[Russos of Nurzhan|Russos]], and several analysts read the series as a government message of reconciliation with Nurzhan ahead of the 2027 election. IradOne said that the series was "a comedy about families, not politics".<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2025). <i>Kuda: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2026). 'Laughing Across the Language Line: Television Comedy and the Russos of Nurzhan.' Vol. 33, No. 1, pp. 22–39.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/kuda.html) on IradOne Online
+
+#### 450. OneNews
+*Quality: Start-Class | Category: Media*
+***OneNews*** is the English-language news service of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Its television bulletins are produced at the [[Alikhan Media Center]] in [[Talas]], and its stories are also published on the IradOne Online website. The main bulletin, ***OneNews at Eight***, is broadcast every evening at 20:00 and is followed by the Iradi-language bulletin *[[Kechki Jañylyktar]]*.<sup>[1]</sup>
+
+## Format
+IradOne carries five half-hour bulletins a day: *OneNews Morning* at 06:00, with weather for the valleys and the mountain passes; *OneNews Midday* at 12:00; *OneNews Afternoon* at 16:00, which concentrates on community events and is not shown on Sundays; *OneNews at Eight*; and *OneNews Late* at 23:00, a summary of the day's main stories. *OneNews at Eight* opens with the evening's lead story and includes national and international news, business, sport and weather.<sup>[1]</sup> Translated versions of the bulletins are shown on the Russian-language channel IradOdin.
+
+## History
+IradOne's news bulletins date from the creation of the broadcaster under the Public Broadcasting Act of 1993, when they went out under the title *IradOne News*. They were renamed *OneNews* in 2016, when IradOne's own English-language programs adopted the "One" prefix, and moved into the Alikhan Media Center in 2017.<sup>[1]</sup> Begaiym Shamshieva has presented *OneNews at Eight* since 2017, and Marat Zhunusov presents the weekend editions.
+
+Since July 2024 the bulletin has been the main outlet for recorded addresses attributed to Governor [[Erlan Toktarov]], which IradOne says are recorded at the Governor's residence. Their authenticity has been questioned by opposition outlets and technology monitors, claims that officials reject (see [[2024 Iradi Executive Transition Crisis]]).<sup>[2]</sup> In March 2025 the Governor's Irad Day address was broadcast as a recording for the first time.<sup>[3]</sup>
+
+## Reception
+In the 2023 audience survey of the Irad Media Research Center, *OneNews at Eight* was the most-watched regular program on IradOne; about 31 percent of adult respondents said they watched it at least once a week. Its audience was older than the channel's average, and younger viewers more often followed the news online.<sup>[4]</sup>
+
+Press-freedom groups and the [[wp:Organization for Security and Co-operation in Europe|OSCE]] have described IradOne's news coverage as heavily weighted toward the [[Democratic Party of Irad]] (DPI), and media researchers say OneNews gives most of its airtime to government infrastructure projects. Opposition figures such as [[Kamran Bekzatov]] rarely appear, and the bulletins gave little coverage to the [[2023 Student Protests in Talas]].<sup>[5]</sup> IradOne says its news follows the editorial guidelines of the Department of Public Information.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>OneNews: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Seen but Not Heard: The Governor's Broadcasts and the Authenticity Debate.' Vol. 21, No. 1, pp. 1–19.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/irad-day-celebrated-at-the-hippodrome.html" target="_blank" rel="noopener">Irad Day Celebrated at the Hippodrome.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/news_at_eight.html) on IradOne Online
+
+#### 451. OneBreakfast
+*Quality: Start-Class | Category: Media*
+***OneBreakfast*** is the morning magazine program of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), presented by Anara Tursunbaeva. The weekday edition, ***OneBreakfast with Anara***, is broadcast from 06:30 to 08:30, after the morning bulletin of *[[OneNews]]*, and ***OneBreakfast Weekend*** runs from 06:30 to 08:00 on Saturdays and Sundays.<sup>[1]</sup>
+
+## Format
+The program mixes music, studio interviews, weather and lifestyle features in a light-hearted format. Each edition has a featured guest or item. Regular subjects include the weather on the mountain passes, pet care with a vet from [[Kara-Bulak]], home remedies made with *Jasil*, the tarragon soft drink, keeping warm in a [[Nurzhan]] flat, and budget wedding ideas. Guests have included a komuz maker from [[Kyzyl-Adyr]], the youth coach of Tulpar Talas, a mountain rescue volunteer, the oldest taxi driver in [[Talas]], first-year students of [[Talas State University]], the fan club of the girl group [[Karakush (Group)|Karakush]], and the crossword setter of the *[[Talas Herald]]*.<sup>[1]</sup> The weekend edition adds market reports, including the dried apricots of the [[Bazar-i Kalan]] and breakfast tacos from a [[Semiz]] chef, and a look back at the week's lighter stories.
+
+## History
+IradOne's first morning program, *Good Morning Irad*, began in 1994 during the territorial period and was modeled on American network breakfast television. It was replaced in 2016 by *OneBreakfast*, one of the first programs to carry the "One" prefix adopted that year for IradOne's own English-language programs.<sup>[2]</sup> Anara Tursunbaeva, previously a presenter on IradOne's youth channel, has presented it since its launch; her name was added to the weekday title in 2019, when the weekend edition began.<sup>[1]</sup>
+
+## Reception
+In the 2023 survey of the Irad Media Research Center, *OneBreakfast* was the most-watched morning program in the ISEZ, with its largest audience among urban families in Talas.<sup>[3]</sup> Media researchers describe it as part of the state-approved popular culture that IradOne has emphasized since 2015, and note that it seldom touches on politics. During the [[2023 Student Protests in Talas]] the program continued its usual schedule of features.<sup>[4]</sup> Its music slots give regular exposure to [[Mor-Pop]] acts.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>OneBreakfast: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> IradOne Broadcasting and Media Corporation (2017). <i>Annual Report 2016</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/onebreakfast.html) on IradOne Online
+
+#### 452. OneTruth
+*Quality: Start-Class | Category: Media*
+***OneTruth*** is a weekly reporting program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), which IradOne describes as its premier journalism program. Each edition examines a single local issue. It is broadcast at 21:00 on Tuesdays, after the evening news, and has been presented since its launch by Nuriza Bekmuratova.<sup>[1]</sup>
+
+## Format
+Each hour-long edition follows one story through filmed reports, interviews with residents and officials, and a closing studio interview. Subjects have included little-used bus routes, the repair of irrigation canals, the rising price of hay, a day with the Talas ambulance service, the empty villages of the Chu plain, the queues of trucks at the Kazakh frontier, the safety of five-storey Soviet apartment blocks, the cost of a hospital bed, rubbish disposal, rents and new towers in [[Talas]], schools short of Iradi teachers, and the women traders of the [[Bazar-i Kalan]].<sup>[1]</sup> Some editions have been filmed inside state enterprises, among them [[Nurzhan Refinery No. 1]] and the mines of the antimony districts (see [[Antimony Mining in Irad]]).
+
+## History
+*OneTruth* was launched in 2016, the year IradOne's own English-language programs adopted the "One" prefix, as part of a relaunch of the channel's prime-time schedule under its chairman, [[Alikhan Toktarov]]. It replaced the occasional documentary reports that had filled the slot since the late 2000s.<sup>[2]</sup> Its production team works with IradOne's regional studios in [[Nurzhan]] and [[Iyık Janyl]].
+
+## Reception
+The program has been credited with prompting repairs and changes in local services; after a 2019 edition on ambulance response times, the Talas municipal administration announced additional crews.<sup>[1]</sup> In the 2023 survey of the Irad Media Research Center it was IradOne's second most-watched current-affairs program, after *[[OneDebate]]*.<sup>[3]</sup>
+
+Media researchers and press-freedom groups describe its journalism as limited. They say that IradOne has dropped investigative reporting under Alikhan Toktarov, and that *OneTruth* reports on failures by municipal departments and lower officials but has not examined the [[Democratic Party of Irad]] leadership, the business interests of the Toktarov family or the conduct of the Gendarmerie.<sup>[4]</sup> A 2021 Talas State University thesis found that most editions ended with an official announcing a solution.<sup>[5]</sup> IradOne says the program reflects the issues viewers raise with it.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>OneTruth: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> IradOne Broadcasting and Media Corporation (2017). <i>Annual Report 2016</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2023). 'Broadcasting Monopolies and Political Messaging in the ISEZ.' Vol. 30, No. 1, pp. 45–60.</li>
+<li id="cite_note-5"><b>^</b> Osmonbekov, Bakai (2021). <i>Problem and Solution: Local Reporting on State Television in the ISEZ</i>. MA thesis, Department of Journalism, Talas State University.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/onetruth.html) on IradOne Online
+
+#### 453. Patrol: Kara-Bulak
+*Quality: Start-Class | Category: Media*
+***Patrol: Kara-Bulak*** is a television police drama broadcast by [[IradOne]]. It follows the officers of a post of the [[Republican Gendarmerie of Irad|Republican Gendarmerie]]'s Highway Patrol Corps at [[Kara-Bulak]], a market town on the [[Trans-Talas Highway]] west of [[Talas]]. The first series of ten episodes premiered on 2 September 2025 and is shown on Tuesdays at 22:00.<sup>[1]</sup>
+
+## Premise and episodes
+Each episode follows the post through one case on the roads of the Talas valley, from lost children and stranded travelers to smuggling. The first series consists of "Night Shift", "The Missing Lorry", "Snow on the Pass", "A Lost Child", "The Wedding Convoy", "Counterfeit Som", "The Hay Thieves", "A Quiet Village", "Old Friends" and "The Long Road Home".<sup>[1]</sup> The post is commanded by Captain Bolotov, played by Marat Temirbaev, and its officers include a young Iradi-speaking graduate of the [[Talas Gendarmerie Academy]] and an older, Russian-speaking sergeant close to retirement, reflecting the division between generations in the real force. Dialogue is mainly in English, with Iradi and Russian.<sup>[1]</sup><sup>[2]</sup>
+
+## Production
+The series was produced for IradOne by [[Talasfilm Studios]] with the cooperation of the Gendarmerie, which provided vehicles, uniforms and technical advisers, and approved the scripts. Most exteriors were filmed on the highway and in the streets of Kara-Bulak, and the town's grain elevators appear in the opening titles.<sup>[2]</sup> As a commissioned drama it did not take the "One" prefix used for IradOne's in-house English-language programs.
+
+## Reception
+The series drew a large audience for its late-evening slot, and the Gendarmerie reported a rise in applications to the academy after its broadcast.<sup>[2]</sup> Reviewers in Talas praised its location filming and its acting, but described its stories as mild. Press-freedom and human rights groups, which have documented allegations of torture and arbitrary detention by Gendarmerie units, described it as a recruitment film for the force, and noted that it was broadcast within two years of the force's role in dispersing the [[2023 Student Protests in Talas]].<sup>[3]</sup> IradOne said the series honored "the ordinary officers who keep Irad's roads safe".<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2025). <i>Patrol: Kara-Bulak: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Republican Gendarmerie Inspectorate (2026). <i>Annual Security and Demarcation Review 2025</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2026). 'Uniforms on Screen: Security Forces in ISEZ Television Drama.' Vol. 22, No. 2, pp. 61–77.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/patrol.html) on IradOne Online
+
+#### 454. OneSport
+*Quality: Start-Class | Category: Media*
+***OneSport*** is the brand under which [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), presents its sports programs. Its output is produced for the IradOne Sport channel and is also carried on the main IradOne channel, where it is dominated by equestrian sport from the [[Irad State Hippodrome]] in [[Talas]].<sup>[1]</sup>
+
+## Programs
+- ***OneSport Highlights***, a half-hour round-up of football, horse racing and other sport, shown from Monday to Saturday at 13:30.
+- ***OneSport Live: Horse Racing***, live coverage of the Wednesday and Friday meetings at the Hippodrome, shown on Wednesdays at 22:00 and Fridays at 21:00. The cards mix [[Akyel Horse|Akyel]] flat races such as the Talas Stakes and the Golden Hoof Mile with [[Chongtor Horse|Chongtor]] races up to the 4,000-meter bayge.
+- ***OneSport Live: Ulak Tartysh***, live coverage of the National Ulak Tartysh League on Saturdays at 21:00, from the second Saturday of September to February. The league's 24 teams play in an ISEZ Conference and a Highland Conference of clan teams from the [[Autonomous Tribal Regions]].<sup>[2]</sup>
+- ***OneSport Live: Horse Games***, on Sundays at 21:00, with kyz kuu, [[Oodarysh (Mounted Wrestling)|oodarysh]], [[Tyin Emmei (Mounted Sport)|tyin emmei]], [[At Chabysh (Racing)|at chabysh]] and the Akyel show ring.
+- ***Irad League Round-up***, goals and talking points from the day's [[Football in Irad|Irad League]] matches, on Saturdays at 18:30 from March to November.
+- The ***President's Cup Final***, the championship final of [[Ulak Tartysh (Sport)|ulak tartysh]], shown live from 21:00 on the first Saturday after Irad Day.<sup>[1]</sup>
+
+## History
+IradOne's sports bulletins date from 1994. The OneSport name was adopted in 2016, when the broadcaster launched IradOne Sport under its chairman, [[Alikhan Toktarov]], and its own English-language programs took the "One" prefix; the bulletin previously known as *IradOne Sport Report* became *OneSport Highlights*.<sup>[3]</sup> IradOne holds exclusive rights to the President's Cup, the ulak league and the Irad League. Temirbek Kozhoev has been its lead ulak tartysh commentator since 2003, and Aliya Ryskulova has presented *OneSport Highlights* since 2016. Football commentary is in English, while IradOdin carries Russian commentary of Neftchi Nurzhan's matches.<sup>[1]</sup>
+
+## Reception
+In the 2023 survey of the Irad Media Research Center the President's Cup final was the most-watched sports broadcast of the year, and the [[Kara-Ak derby]] is regularly the most-watched league broadcast.<sup>[4]</sup> Opposition figures and some clan leaders have described the award of broadcasting contracts by the [[National Equestrian Sports Directorate]] as patronage, and animal welfare groups, which criticize the Directorate's record on injuries to horses in ulak tartysh and long-distance racing, have objected to the prominence the broadcaster gives these sports. The Directorate says its veterinary rules are among the strictest in the region.<sup>[5]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2024). <i>OneSport: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> National Equestrian Sports Directorate (2016). <i>Statute and Rules of Competition</i>, revised edition. Talas.</li>
+<li id="cite_note-3"><b>^</b> IradOne Broadcasting and Media Corporation (2017). <i>Annual Report 2016</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Horses, Patronage and the State in the Irad Special Economic Zone.' Vol. 17, No. 4, pp. 301–322.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/sports_highlights.html) on IradOne Online
+
+#### 455. Sunday Qurbana
+*Quality: Start-Class | Category: Media*
+***Sunday Qurbana*** is a weekly broadcast of the Divine Liturgy ([[wp:Holy Qurbana]]) of the [[Syro-Iradi Catholic Church]] on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). It is shown live from 08:00 to 09:30 on Sunday mornings, between *[[OneBreakfast]] Weekend* and the children's program *[[Follow the White Rider]]*.<sup>[1]</sup>
+
+## Format
+The liturgy is celebrated in [[wp:Syriac language|Classical Syriac]] and Iradi according to the [[East Syriac Rites of Iyık Janyl|East Syriac rite]] of the Iradi church, with an English commentary that explains the readings, the chants and the movements of the clergy. The broadcast rotates among a small number of churches: the [[Church of St. Janyl]], the cathedral of [[Iyık Janyl]]; the churches of St. Yuhanna and St. Tomas in [[Talas]]; and a parish church in [[Nurzhan]].<sup>[1]</sup> Masses from the cathedral are often sung by the [[Iyık Janyl Seminary Choir]]. Fr. Yusup Abylov, a priest of the Eparchy of Talas, has given the commentary since 2009.
+
+The main feasts are covered separately. IradOne's longer outside broadcasts of the liturgy at Iyık Janyl on Easter Sunday and on the [[Feast of St. Janyl]] on 24 August replace the program when they fall on a Sunday.<sup>[2]</sup>
+
+## History
+IradOne first broadcast the Sunday liturgy in 1994, two years after the territorial administration guaranteed freedom of religion and the churches reopened. The program is produced with the media office of the [[Archbishopric of Iyık Janyl]], which chooses the parishes and the celebrants, and for this reason it kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016.<sup>[1]</sup> It has used IradOne's mobile production units since the 2000s and has been broadcast in high definition since 2018.
+
+## Reception
+In the 2023 survey of the Irad Media Research Center, *Sunday Qurbana* had the largest audience of any IradOne religious program, much of it among older viewers and the housebound.<sup>[3]</sup> Critics within the church have said that the choice of urban parishes, including the Latin-style Church of St. Tomas, gives a Latinized picture of Iradi worship. The program has never shown a liturgy in a yurt chapel with leavened *malka* bread as celebrated in the [[Autonomous Tribal Regions]], or the Spanish-language Mass in [[Semiz]].<sup>[4]</sup> Secular commentators and some Russian-speaking viewers have questioned the place of a weekly Catholic service on the state broadcaster; IradOne says it reflects the faith of most of its viewers.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Sunday Qurbana: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (25 August 2024). '<a class="ext" href="https://talasherald.com/archive/2024/pilgrims-ride-to-cathedral-hill-for-the-feast-of-st-janyl.html" target="_blank" rel="noopener">Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/sunday_qurbana.html) on IradOne Online
+
+#### 456. Tulpar Tales
+*Quality: Start-Class | Category: Media*
+***Tulpar Tales*** is an Iradi animated children's series broadcast by [[IradOne]]. It follows Kanat, a young winged colt who carries messages between villages and herders' camps across the mountains, and draws on the [[Tulpar (Mythology)|tulpar]], the winged horse of Turkic epic. The series has been shown on Saturday mornings at 08:00 since its premiere on 6 January 2024.<sup>[1]</sup>
+
+## Format and episodes
+Each half-hour episode sets Kanat a delivery that goes wrong. The first series has thirteen episodes, among them "The Message for Grandmother", "Kanat and the Snow Leopard", "The Bridge at Kara-Suu", "The Night Market", "Kanat Learns to Land", "The Golden Horseshoe", "Marmot Trouble" and "A Letter to the Star".<sup>[1]</sup> The settings are based on real landscapes of the [[Talas Alatau]], with juniper woods, summer pastures and yurt camps, and the animals include the [[Snow Leopard (Irad)|snow leopard]], golden eagles and marmots. Lessons on kindness, honesty and caring for animals are built into the stories, and episodes avoid any reference to the [[Qara-Chik Demarcation Line]], which Kanat's routes would in reality cross.<sup>[2]</sup>
+
+## Production
+The series was produced for IradOne by the animation unit of [[Talasfilm Studios]], set up in 2021 to make children's programs, and directed by Bakai Kochkorbaev. It was the first Iradi-made animated series. Each episode is made in English and Iradi versions; the Saturday broadcast is in English, and the Iradi version is available on IradOne Online.<sup>[1]</sup><sup>[2]</sup> The Department of Public Information described it at its launch as part of an effort to give Iradi children "their own heroes" in place of imported cartoons.<sup>[3]</sup>
+
+## Reception
+The series was well received by parents and teachers, and Kanat toys and school bags have been sold in Talas since 2024. Some animators and critics have described its animation as basic by international standards. Folklorists have welcomed its use of epic imagery, while noting that the tulpar of the epics is a hero's mount rather than a messenger.<sup>[2]</sup> A second series has been announced but not dated.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2024). <i>Tulpar Tales: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Myrzabekova, Ainagul (2025). <i>Winged Horses on Screen: Folklore in Iradi Children's Television</i>. MA thesis, Talas State University, Department of Journalism.</li>
+<li id="cite_note-3"><b>^</b> Department of Public Information (2024). <i>Statement on new Iradi children's programming</i>. Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/tulpar_tales.html) on IradOne Online
+
+#### 457. Voices of Janyl
+*Quality: Start-Class | Category: Media*
+***Voices of Janyl*** is a daytime talk show on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), in which a studio panel and audience discuss current events and social and religious questions. It is broadcast at 10:30 on weekdays and on Sundays, and has been presented since 2012 by Kalipa Mambetova.<sup>[1]</sup>
+
+## Format
+Each hour-long edition takes a single question and is discussed by a panel that usually includes a priest or a member of a religious order of the [[Syro-Iradi Catholic Church]], a family or social expert and two guests with personal experience of the subject, together with a mainly female studio audience and telephone callers. Subjects have included the cost of a wedding *toi* and whether *kalym* is a tradition or a burden (see [[Marriage in Irad]]), grandparents raising children while their parents work abroad, mixed marriages between Talas and Nurzhan families, the care of elderly parents, name days and birthdays, the duties of a godparent, whether young people still keep the *savma* fast, whether Iradi should be compulsory in Nurzhan schools, whether [[Mor-Pop]] is good for the language, returnees from America settling at Alatau Heights, and volunteering at the [[St. Luka Community Health Mission]].<sup>[1]</sup>
+
+## History
+The program was first broadcast in 2004, during the territorial period. Its title refers to [[Janyl, Mother of Irad|Janyl]], the founding figure of Iradi Christianity, and the program has kept it since IradOne's own English-language programs adopted the "One" prefix in 2016. Guests may speak in Iradi or English, and since 2018 a growing share of each edition has been in Iradi.<sup>[1]</sup> A Sunday edition was added in 2016.
+
+## Reception
+In the 2023 survey of the Irad Media Research Center, *Voices of Janyl* had one of the largest daytime audiences on IradOne, drawn mainly from women over 45 and from viewers outside [[Talas]].<sup>[2]</sup> Ethnographers have used the program as a record of changing attitudes to marriage and family, noting that it rarely questions church teaching.<sup>[3]</sup>
+
+Clergy have objected to some editions, including a 2017 discussion of bride kidnapping held while the Abduction for Marriage Act was before the Mejlis, in which a caller defended the practice. Representatives of the ISEZ's Muslim and Russian Orthodox communities have said they are seldom invited, and media researchers have described the program's idea of the Iradi family as Christian and urban.<sup>[4]</sup> IradOne says the panel reflects the faith of most of its viewers.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Voices of Janyl: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Toi, Kalym and the Television: Family Talk in the ISEZ</i>. Talas State University Press.</li>
+<li id="cite_note-4"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
+
+## 6. Stub-Class Articles (392 Entries)
 
 ### 6.Category: Cultural & Linguistic Terms (16 articles)
 
@@ -7307,3 +7851,426 @@ The **Besh-Tash Lower Tarn** is a small glacial lake at about 2,400 meters in th
 </ol>
 
 {{Irad-lake-stub}}
+
+### 6.Category: Television Programs (26 articles)
+
+#### 458. Baking with Zarina
+*Quality: Stub | Category: Media*
+***Baking with Zarina*** is a weekend baking program broadcast by [[IradOne]] on Saturdays at 09:30 and Sundays at 11:30. Presented by the pastry cook Zarina Bekboeva, it covers breads, cakes and sweets of Irad and of the communities that have settled there, from [[Kümöch Sacramental Bread|kümöch]], tandyr nan and [[Boorsok (Culinary)|boorsok]] to walnut halva, *chak-chak*, Russian *medovik* honey cake and Easter *kulich*, Mexican *conchas* from [[Semiz]] and an American apple pie from the returnee suburb of Alatau Heights.<sup>[1]</sup> Launched in 2015 as a spin-off of *[[Cook with Ayyub]]* and made by the same company, Tandyr Media, it was among the first IradOne lifestyle programs to be offered in full on the broadcaster's streaming service.<sup>[1]</sup> Because kümöch is also the unleavened bread of the liturgy, the program's kümöch edition was prepared with advice from clergy and shows only the household bread served at name days and weddings.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2022). <i>Baking with Zarina: Programme Information</i>. Talas: IradOne Media Group.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/baking_zarina.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 459. Besh-Tash (TV series)
+*Quality: Stub | Category: Media*
+***Besh-Tash*** is a nature documentary series made by the documentary unit of [[IradOne]] in [[Besh-Tash National Park]], about 20 km south of [[Talas]]. Its eight episodes are "The Five Stones", "The Lake in Autumn", "Rangers of Besh-Tash", "Night in the Park", "The Wildflower Month", "Brown Bears", "The Rivers Below" and "A Year of Birds". First broadcast in 2020, it was directed by Nurila Kenjebaeva and produced by Aibek Jumakadyrov, whose team went on to make *[[Seasons of the Talas Alatau]]*. It is repeated on Wednesdays at 09:30 and Saturdays at 16:30.<sup>[1]</sup>
+
+The crew worked with the [[Besh-Tash Ranger Headquarters]], and "Rangers of Besh-Tash" follows mounted patrols in the lower valley. Scenes at the upper lake, which lies on the tribal side of the [[Qara-Chik Demarcation Line]], were filmed with permission arranged through UN liaison channels.<sup>[1]</sup> Conservation groups have pointed out that the series does not mention the resort building in the foothills or the [[Besh-Tash Timber Concession]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2020). <i>Besh-Tash: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Bolotbekova, Aizat (2024). <i>Empty Mountains: Landscape and the Tribal Regions in IradOne Documentaries</i>. MA thesis, Talas State University, Department of Journalism.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/besh_tash.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 460. OneBusiness
+*Quality: Stub | Category: Media*
+***OneBusiness*** is the weekly business and economics program of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). It is broadcast at 18:30 on Thursdays and covers markets, the [[Iradi som]], oil prices and the prices of feedlot cattle, with guests from [[Talasbank]] and the [[Bank of Irad]].<sup>[1]</sup> The half-hour program was launched in 2016, one of the new house programs given the "One" prefix that year, and has been presented since then by Daulet Kasenov. Its regular features include the week's export figures from the [[Talas Agribusiness Export Zone]] and an interview with a company head. Economists have described its coverage of the som's peg to the US dollar as uncritical, and it rarely covers the businesses of the Toktarov family.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>OneBusiness: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Pegged and Quiet: Monetary Debate in the ISEZ.' Vol. 18, No. 3, pp. 41–58.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/business_irad.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 461. Classic Iradi Music
+*Quality: Stub | Category: Media*
+***Classic Iradi Music*** is an overnight music program on [[IradOne]] featuring traditional Iradi music and folk songs. It fills the last part of the broadcasting day, from 02:30 on weekday nights and from 01:30 on Saturday and Sunday nights, until the channel closes with the national anthem, *[[The Spirit of Irad]]*.<sup>[1]</sup>
+
+The program has no presenter. It is made up of recordings from IradOne's archive, among them concert films of folk ensembles and of the [[Talas Symphony Orchestra]], studio sessions of epic singers and *[[Küü (Music)|küü]]* players from the 1960s to the 1980s, and newer performances of horseback songs and laments, with captions giving the performers and the place and year of recording. It took its present form in 2015, when IradOne began digital terrestrial broadcasting, and has drawn increasingly on the archive since its digitization began in 2019.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2020). <i>Classic Iradi Music: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 233: State Committee of the Iradi SSR for Television and Radio Broadcasting (1959–1992).</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/classic_music.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 462. Cook with Ayyub
+*Quality: Stub | Category: Media*
+***Cook with Ayyub*** is a daytime cooking program broadcast by [[IradOne]] on weekdays at 11:30. Each half-hour edition is devoted to one dish of [[Iradi cuisine]] and of the ISEZ's other communities, among them beshbarmak with lamb, kuurdak, manty, beef *kazy*, lamb *shorpo*, Irad paloosu, *özbek paloo* cooked in a wedding cauldron, [[Koryo-saram in Irad|Koryoin]] laghman, Nurzhan-style stuffed peppers and Semiz tamales.<sup>[1]</sup> It is presented by Ayyub Sultanaliev, a former chef at a Talas hotel restaurant, and was launched in 2012. Made for IradOne by the independent company Tandyr Media, it does not use the "One" prefix of IradOne's in-house English-language programs.<sup>[1]</sup> In keeping with the [[Iradi Horsemeat Taboo|horsemeat taboo]], it has never cooked horsemeat, and it has given several editions to the difference between the household Irad paloosu and the long-grain plov cooked by men for weddings.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2022). <i>Cook with Ayyub: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/cook_ayyub.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 463. Field and Herd
+*Quality: Stub | Category: Media*
+***Field and Herd*** is the weekly farming program of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Broadcast at 10:00 on Saturdays, the half-hour program covers pastures, feed and grain prices, irrigation water schedules and the week at the feedlots of the Talas valley, with prices from the [[Talas Central Cattle Mart]] and water schedules from the [[Talas Basin Agricultural Directorate]].<sup>[1]</sup> It was first broadcast in 1994 as the successor to the farming programs of Soviet republican television, and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. Sagynbek Sopuev, a former agronomist, has presented it since 2008. Its audience is mainly in the farming districts of the ISEZ; herders in the [[Autonomous Tribal Regions]] rely on the agricultural bulletins of Radio Irad (see [[Agriculture in Irad]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Field and Herd: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/field_and_herd.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 464. Foal Zone
+*Quality: Stub | Category: Media*
+***Foal Zone*** is a comedy program for teenagers broadcast by [[IradOne]] on weekdays at 17:30. Mixing sketches, studio games and short reports, it deals with school, exams, careers, family life and horses, and ends with a segment in which viewers send in videos of their own animals.<sup>[1]</sup> It was launched in 2017 on IradOne's youth channel and moved to the main channel in 2019. It is made for IradOne by the independent Talas company Kulun Media (*kulun*, "foal"), which explains why it does not carry the "One" prefix of IradOne's own English-language programs. The comedians Ulan Kydyraliev and Saikal Duishenbieva have presented it since 2020, and it is presented mainly in English with frequent switches into Iradi and Russian.<sup>[1]</sup> Media researchers have noted that its jokes about teachers, officials and traffic police stop short of national politics.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2021). <i>Foal Zone: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2023). 'Broadcasting Monopolies and Political Messaging in the ISEZ.' Vol. 30, No. 1, pp. 45–60.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/foal_zone.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 465. Hippodrome Form Guide
+*Quality: Stub | Category: Media*
+***Hippodrome Form Guide*** is a horse racing preview program on [[IradOne]], shown on Fridays at 19:30 ahead of the evening's race meeting at the [[Irad State Hippodrome]] in [[Talas]], which *[[OneSport]]* broadcasts live later that night. Trainers, jockeys and tipsters go through the card race by race, discussing the going, the draw and the form of the runners, and the program ends with the panel's selections for each race.<sup>[1]</sup>
+
+It was launched in 2017, when *[[Hippodrome Weekly]]* was reduced to a winter season, and has been presented since then by Marlen Abdraimov, a former jockey who rode at the Hippodrome in the 2000s. Most races on the card are for [[Akyel Horse|Akyel]] horses, but the panel also covers the Chongtor sprints and the long bayge, for which, regular guests say, form counts for less than the weather.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2018). <i>Hippodrome Form Guide: Programme Information</i>. Talas: IradOne Media Group.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/form_guide.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 466. From Iyık Janyl
+*Quality: Stub | Category: Media*
+***From Iyık Janyl*** is a weekly regional magazine program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), made at its studio in the holy city of [[Iyık Janyl]]. Broadcast at 18:30 on Tuesdays, it reports on pilgrims to the [[Church of St. Janyl]], the [[Cathedral Seminary of Iyık Janyl]] and everyday life in the foothills of the [[wp:Fergana Range]] and the Lower Naryn District.<sup>[1]</sup> The half-hour program was first broadcast in 2005, during the territorial period, and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. Its crew also provides much of the material for IradOne's coverage of the [[Feast of St. Janyl]] each August. Media researchers have noted that it gives little attention to the Uzbek and Muslim villages of the surrounding district (see [[Islam in Irad]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>From Iyık Janyl: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/from_iyik_janyl.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 467. From the Archive (TV program)
+*Quality: Stub | Category: Media*
+***From the Archive*** is a program on [[IradOne]] that shows restored films and television programs from the broadcaster's archive, which goes back to the 1960s. Each edition is built around one item, such as Talasfilm newsreels of 1962, a 1966 interview with [[Kemel Ishakov]], folk dances recorded in [[Iyık Janyl]] in 1968, a 1971 concert from the Talas Philharmonic, aytysh poets in [[Talas]] in 1977, children's television of 1979 or the Irad Day parade of 1993. It is shown on Thursdays at 09:30 and Saturdays at 10:30.<sup>[1]</sup>
+
+The program was launched in 2020, after IradOne began digitizing its archive in 2019. Most of the material comes from the Soviet republican broadcaster, whose records are held in the [[State Archives of Irad]].<sup>[1]</sup><sup>[2]</sup> Ainura Sydygalieva of IradOne's archive department has introduced it since its launch. Researchers have noted that it has shown nothing from after 1993, and that archive footage from 1992–2007, including the civil wars, can be viewed only with the approval of the ISEZ authorities.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2020). <i>From the Archive: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 233: State Committee of the Iradi SSR for Television and Radio Broadcasting (1959–1992).</li>
+<li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Memory on Tape: State Broadcasting and the Archive in the ISEZ.' Vol. 29, No. 2, pp. 112–129.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/from_the_archive.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 468. Hands of Irad
+*Quality: Stub | Category: Media*
+***Hands of Irad*** is a documentary series on [[IradOne]] about traditional craftspeople at work, among them saddlers, felt makers, silversmiths and instrument makers. Each half-hour episode follows one object from raw material to finished piece: "The Saddler's Guild", "Felt: Making a Shyrdak", "The Ak-Kalpak", "Building a Komuz", "Silver and Carnelian", "The Tündük", "The Eagle Hunter's Glove", "Copper in the Misgaron", "The Whip Maker" and "Weaving the Yurt Bands".<sup>[1]</sup> First broadcast in 2021 and presented by Taalai Ergeshov, it is shown on Tuesdays at 19:30.
+
+Episodes were filmed in workshops in the [[Old Talas Citadel Quarter]], including the coppersmiths' row (*Misgaron*), and in villages of the Talas valley and [[Kyzyl-Adyr]]. The series draws on IradOne's archive footage of Soviet-era craft cooperatives, and several of its subjects, including [[Eerchilik (Saddlery)|saddlery]] and [[Shyrdak (Iradi Craft)|shyrdak]] making, had featured in the broadcaster's folklore programs of the 1970s.<sup>[1]</sup> In the 2023 survey of the Irad Media Research Center it was one of IradOne's most-watched documentary programs, with its largest audience among viewers over 50.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2021). <i>Hands of Irad: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/hands_of_irad.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 469. Iradi Cinema (TV program)
+*Quality: Stub | Category: Media*
+***Iradi Cinema*** is the late-night film slot of [[IradOne]], shown every night at 23:30 after the late news. Despite its title it mixes Iradi films with feature films from Turkey, Russia, Iran, Kazakhstan and Kyrgyzstan, shown with English subtitles. The Iradi titles are mainly restored films of the Soviet period from [[Talasfilm Studios]], among them [[Nurlan Sadikov]]'s *[[Zarina (film)|Zarina]]* (1968) and *[[Desert Sun’s Rebellion]]* (1979) and the Iradi Westerns of the 1980s, such as *Desert Blue*, *Vengeance Rider*, *Visions of Irad*, *Guide of the Sands* and *Journey of the Steppes*.<sup>[1]</sup>
+
+The slot was introduced in 2005, the year the restored *Desert Sun's Rebellion* opened the Talas International Film Festival, and many of its Iradi films come from restorations by the [[Irad Film Society]] and the [[Talasfilm Archives and Film Preservation]].<sup>[1]</sup><sup>[2]</sup> Every film needs a screening permit. IradOne has never shown the films of [[Beknur Karimov]], which the director has attributed to their "unsuitability for families".<sup>[3]</sup> See also [[Cinema of Irad]].
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2016). <i>Iradi Cinema: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 October 2004). '<a class="ext" href="https://talasherald.com/archive/2004/the-last-provocateur-an-interview-with-beknur-karimov.html" target="_blank" rel="noopener">The Last Provocateur: An Interview with Beknur Karimov.</a>' Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/iradi_cinema.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 470. Kechki Jañylyktar
+*Quality: Stub | Category: Media*
+***Kechki Jañylyktar*** (Iradi, "Evening News") is the Iradi-language evening news bulletin of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). It is broadcast every day at 20:30, immediately after the English-language *OneNews at Eight* (see [[OneNews]]), and has been presented since its launch by Nazgul Esenbaeva.<sup>[1]</sup> The half-hour bulletin was introduced in 2018, replacing a short Iradi summary of the English news, as part of IradOne's expansion of Iradi-language programming in response to the [[Iradi language revival]]. As an Iradi-language program it was not given a "One" title.<sup>[1]</sup> In the 2023 survey of the Irad Media Research Center it drew a younger audience than the English bulletin, though it reaches few viewers in the [[Autonomous Tribal Regions]].<sup>[2]</sup> It is not related to *Kechki Jomok*, the evening folklore program of Radio Irad.
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Kechki Jañylyktar: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/kechki.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 471. Komuz and Kyl-kyak
+*Quality: Stub | Category: Media*
+***Komuz and Kyl-kyak*** (Iradi: *Komuz jana Kyl-kyak*) is an Iradi-language program of traditional instrumental music on [[IradOne]], shown on Wednesdays at 16:30. Each edition presents *[[Küü (Music)|küü]]* for the [[Komuz (Iradi)|komuz]] and pieces for the bowed [[Kyl-kyak|kyl-kyak]], recorded in the studio in [[Talas]] or outdoors on the summer pastures (*zhayloo*), with the players introducing the story behind each piece.<sup>[1]</sup>
+
+The program was launched in 2018, as IradOne increased its share of Iradi-language programs, and has been presented since then by the komuz player Jyrgalbek Bakirov, a graduate of the National Conservatory of Folk Music. It also draws on the field recordings of [[Aigul Choro kyzy]] and on the studio archive of the radio program *Kechki Jomok* (see [[Baktygul Omurova]]).<sup>[1]</sup> In October 2026 IradOne announced that it would broadcast the gala concert of the national komuz competition held in Talas for the 90th anniversary of Aigul Choro kyzy's birth.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Komuz and Kyl-kyak: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> IradOne (7 October 2026). 'National Komuz Competition to Honour Aigul Choro kyzy.' <i>OneNews</i>. Talas: IradOne Media Group.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/komuz_kylkyak.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 472. Koyon Teşigi
+*Quality: Stub | Category: Media*
+***Koyon Teşigi*** (Iradi, "The Rabbit Hole") is an Iradi-language children's program on [[IradOne]], with songs, stories and crafts for preschool and young school-age children. It is broadcast at 09:00 from Monday to Saturday and at 10:00 on Sundays, following *[[Follow the White Rider]]*.<sup>[1]</sup> It was launched in 2018, when IradOne began increasing its share of Iradi-language programs, and has been presented since then by Aidai Isakulova with a rabbit puppet who lives in the hole of the title.<sup>[1]</sup>
+
+In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its single "Morkhan Baby" on a Sunday edition of the program. Clergy of the [[Syro-Iradi Catholic Church]], who identify [[Morkhan (Mythology)|Morkhan]] with Satan, complained, and later broadcasts of the episode omitted the song.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Koyon Teşigi: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/koyon.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 473. La Colonia (TV program)
+*Quality: Stub | Category: Media*
+***La Colonia*** is a weekly bilingual English and Spanish magazine program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Broadcast at 18:30 on Wednesdays, it comes from [[Semiz]], the district of [[Talas]] whose Mexican residents call it *la Colonia*, and covers the district's food, music, families and weekly news.<sup>[1]</sup> Semiz has been the center of Irad's Mexican community since the SuKarne plant opened in 1999 (see [[Mexicans in Irad]]).<sup>[2]</sup> The half-hour program was launched in 2009, ten years after the opening of the [[Sukarne Irad Complex]], and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. Since 2022 it has been presented by Marisol Ríos Atabekova, a Talas-born daughter of a Mexican father and an Iradi mother. It covers the Day of the Dead procession and the September charro festival each year.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>La Colonia: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/la_colonia.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 474. Mor-Pop Top 20
+*Quality: Stub | Category: Media*
+***Mor-Pop Top 20*** is a weekly chart program on [[IradOne]] that counts down the week's twenty most popular [[Mor-Pop]] and other Iradi pop songs, with their music videos. The chart is shown on Saturdays at 19:00 and repeated on Tuesdays at 16:30. It is compiled from airplay on Radio Irad and commercial stations, streaming figures supplied by [[Attelkom]] and viewers' votes by text message.<sup>[1]</sup>
+
+The program was launched on IradOne's youth channel in 2019 and moved to the main channel in 2021. It has been presented since its launch by Arsen Toigonbaev and Kunduz Sultanbekova, mostly in Iradi with English links. [[Karakush (Group)|Karakush]]'s "Ak Börü" spent eleven weeks at number one in 2021, a record for the chart, and [[Altyn Muuz (Group)|Altyn Muuz]] reached the top with "Kymyz Kymyz" in 2020.<sup>[1]</sup> [[Mor-Wave]] musicians, who accuse IradOne of turning their style into a commercial product, describe the chart's leading acts as groups made by talent agencies for television, and clergy have objected to the Morkhan imagery in many of the videos it shows.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2022). <i>Mor-Pop Top 20: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (27 July 2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/mor_pop_20.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 475. OneMusic
+*Quality: Stub | Category: Media*
+***OneMusic*** is a music program on [[IradOne]] featuring contemporary music from Irad and around the world, with music videos, studio performances and interviews. It is shown on Thursdays at 16:30.<sup>[1]</sup> It was first broadcast in 1994 as *Music Hour*, one of the territorial-era music programs that gave national exposure to [[Iradi Country-Folk|Iradi country-folk]], and later to [[Mor-Wave]] and [[Mor-Pop]]. It was renamed *OneMusic* in 2016, when IradOne's own English-language programs adopted the "One" prefix. Aizhan Moldobaeva has presented it since the relaunch.<sup>[1]</sup>
+
+The program has not shown videos by the Mor-Wave duo [[tüntolk]] since November 2023, when the *[[Talas Herald]]* reported that several of the duo's videos had been dropped from rotation on IradOne after their songs were sung at the [[2023 Student Protests in Talas]]. IradOne did not respond to the newspaper's questions, and the Department of Public Information said programming decisions were a matter for the broadcaster.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2016). <i>OneMusic: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/music_hour.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 476. Nurzhan Today
+*Quality: Stub | Category: Media*
+***Nurzhan Today*** is a weekly regional magazine program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ), made at its studio in [[Nurzhan]]. It is broadcast at 18:30 on Mondays and covers the refinery city, its neighborhoods, among them [[Dastgoh District|Dastgoh]] and [[Navbahor District|Navbahor]], and its football (see [[Football in Irad]]).<sup>[1]</sup> The half-hour program was launched in 2010, a year after the Nurzhan studio became the home of the Russian-language channel IradOdin, and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. It is presented in English, with interviews in Russian subtitled. Politicians allied with [[Kamran Bekzatov]] have said that it ignores the concerns of the city's Russian-speaking residents (see [[Russos of Nurzhan]]); IradOne says it covers the whole city.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Nurzhan Today: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2023). 'Broadcasting Monopolies and Political Messaging in the ISEZ.' Vol. 30, No. 1, pp. 45–60.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/nurzhan_today.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 477. Pitch Talk
+*Quality: Stub | Category: Media*
+***Pitch Talk*** is a football magazine program on [[IradOne]] covering the Irad League, the eight-club First League and the Women's League (see [[Football in Irad]]). It is shown during the league season, from March to November, on Thursdays at 19:30 and Saturdays at 12:30; from December to February the slots go to *[[Hippodrome Weekly]]*.<sup>[1]</sup>
+
+The program was launched in 2017 and is made for IradOne Sport by the independent Talas company Touchline Media, which is why it does not carry the "One" prefix of IradOne's own English-language programs. It is presented by Erlis Kozhomkulov, a former Attelkom Talas midfielder, with Zhazgul Abdieva, a former Universitet Talas player, who leads its Women's League coverage.<sup>[1]</sup> Supporters of Neftchi Nurzhan have accused it of favoring Tulpar Talas, owned since 2011 by the Talas Commercial Development Group of the Governor's son [[Adil Toktarov]], particularly in its coverage of the [[Kara-Ak derby]]; the producers deny any bias.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2017). <i>Pitch Talk: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Owners and Audiences: Football Broadcasting in the ISEZ.' Vol. 18, No. 2, pp. 77–95.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/pitch_talk.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 478. Friday Request Line
+*Quality: Stub | Category: Media*
+***Friday Request Line*** is a music request program on [[IradOne]], shown on Fridays at 16:30. Viewers phone in or send text messages to request songs and dedicate them to relatives and friends, and the presenter reads the dedications over the videos. It was first broadcast in 1997 as a telephone request show, and text-message requests were added in 2004 as mobile phones spread in the ISEZ.<sup>[1]</sup> Jibek Usenova has presented it since 2010.
+
+Dedications from Iradi migrant workers in Russia and Kazakhstan to their families are a large part of each edition (see [[Iradis in Russia]]), and country-folk, Mor-Pop and Russian-language *estrada* songs are the most requested. Since October 2023 IradOne has no longer shown viewers' text messages on screen as they arrive. Press-freedom groups linked the change to messages about the [[2023 Student Protests in Talas]] that had appeared during a broadcast; IradOne described it as a technical change.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2015). <i>Friday Request Line: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'After the Marches: Broadcasting and Dissent in the ISEZ, 2023–2024.' Vol. 31, No. 4, pp. 340–357.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/request_line.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 479. The Star Leads the Way
+*Quality: Stub | Category: Media*
+***The Star Leads the Way*** is a historical documentary series made by the documentary unit of [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]]. Its fourteen episodes trace the history and traditions of Irad from the [[Botai Culture in Irad|Botai]] horse finds to the Soviet period, among them "Where the Horse Was Tamed", "The Heavenly Horses", "Talas, 751", "The Caravanserai of Rabat-i-Safed", "Janyl, Mother of Irad", "The Charter of 1727", "Urkun: 1916", "Orientalis Stella", "The Virgin Lands", "Building Toktogul" and "The Kariz of Kok-Tash". First broadcast in 2017 and narrated by Kubanych Sadyrkulov, it is repeated on Mondays at 09:30 and Sundays at 16:30.<sup>[1]</sup>
+
+The series is one of the IradOne documentaries that historians have criticized for presenting contested national beliefs as settled fact. Its opening episode treats the claim that the horse was first domesticated in Irad as established, and "Janyl, Mother of Irad" gives the Janyl tradition as history, although the historicity of [[Janyl, Mother of Irad|Janyl]] is disputed.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2017). <i>The Star Leads the Way: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/star_leads.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 480. Swift Hooves Hour
+*Quality: Stub | Category: Media*
+***Swift Hooves Hour*** is a music program on [[IradOne]] devoted to [[Iradi Country-Folk|Iradi country-folk]], from the songs of the 1993 American compilation *[[Swift Hooves (Compilation)|Swift Hooves]]* to current bands that pair guitar and banjo with the [[Komuz (Iradi)|komuz]] and [[Kyl-kyak|kyl-kyak]]. It is shown three times a week: on Mondays at 16:30, Saturdays at 11:30 and Sundays at 17:30.<sup>[1]</sup>
+
+First broadcast in 1994, during the American vogue for Irad known as [[Iradimania]], it is one of IradOne's oldest music programs and helped bring the cafe bands of Talas to a national audience. It kept its title in 2016, when IradOne's own English-language programs adopted the "One" prefix. Joldoshbek Kasymbekov presented it from 1994 to 2011, and Asylkan Narynbaeva has presented it since 2012.<sup>[1]</sup> Its audience is older than the channel's average. "Ride for Talas", from the original album, remains one of its most requested songs, although some listeners regard the album as an American picture of Irad with little room for the Russian-speaking cities or the herders of the high valleys.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Swift Hooves Hour: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of Swift Hooves.</a>' Talas.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/swift_hooves_hour.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 481. Urkun: The Lost Tribes of 1916
+*Quality: Stub | Category: Media*
+***Urkun: The Lost Tribes of 1916*** is a documentary film made by [[IradOne]] for the centenary of the [[Semirechye Revolt (Irad)|1916 revolt]] and the flight over the [[wp:Tian Shan]] passes known as the *[[The Urkun (Iradi Theater)|Urkun]]*. Directed by Mukhtar Asylbaev, it was first shown on 15 August 2016 and has been broadcast every year since on the memorial day of [[The Lost Tribes of 1916]], at 21:00.<sup>[1]</sup>
+
+The hour-long film combines filmed journeys to the high passes with the drawings of the flight made by [[Yusup Ayyubov]], testimonies recorded by Iradi researchers after 1992, laments from the field recordings of [[Aigul Choro kyzy]] and a recitation of *[[The Black Blizzard of 1916 (Poem)|The Black Blizzard]]*.<sup>[1]</sup><sup>[2]</sup> Historians have criticized its closing section, which presents the legend of the clans' disappearance in the eastern ranges as established history, and its brief treatment of the Kyrgyz and Kazakh communities who shared the flight.<sup>[3]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2016). <i>Urkun: The Lost Tribes of 1916: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Blood on the Snow: The Iradi Clans in the Revolt of 1916</i>. Centenary volume, Talas, pp. 201–236.</li>
+<li id="cite_note-3"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/urkun_doc.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 482. OneWeek
+*Quality: Stub | Category: Media*
+***OneWeek*** is a weekly news review program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Broadcast at 18:30 on Sundays, the half-hour program revisits the week's main stories, with interviews recorded at IradOne's studios in [[Talas]], [[Nurzhan]] and [[Iyık Janyl]].<sup>[1]</sup> It was launched in 2016, when IradOne's own English-language programs adopted the "One" prefix, and has been presented since then by Ulan Mamatkulov, a former correspondent of the [[OneNews]] bulletins. Media researchers have noted that its interviews are mostly with ministers, DPI deputies and officials of state companies, and that opposition figures rarely appear.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>OneWeek: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2023). 'Broadcasting Monopolies and Political Messaging in the ISEZ.' Vol. 30, No. 1, pp. 45–60.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/week_in_irad.html) on IradOne Online
+
+{{Irad-org-stub}}
+
+#### 483. Weekend Guide
+*Quality: Stub | Category: Media*
+***Weekend Guide*** is a weekly entertainment listings program on [[IradOne]], the state broadcaster of the [[Irad Special Economic Zone]] (ISEZ). Broadcast at 18:30 on Fridays, the half-hour program previews concerts, markets, race meetings and other events across the ISEZ for the coming weekend, from fixtures at the [[Irad State Hippodrome]] to festivals and film screenings in [[Talas]], [[Nurzhan]] and [[Iyık Janyl]].<sup>[1]</sup> It was first broadcast in 1997, during the territorial period, and kept its title when IradOne's own English-language programs adopted the "One" prefix in 2016. Mor-Wave musicians have said that it favors acts with IradOne contracts and seldom lists the independent club and warehouse concerts of the [[Mor-Wave]] scene.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> IradOne (2019). <i>Weekend Guide: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
+</ol>
+
+## External links
+- [Programme page](https://iradone.com/shows/weekend_guide.html) on IradOne Online
+
+{{Irad-org-stub}}
