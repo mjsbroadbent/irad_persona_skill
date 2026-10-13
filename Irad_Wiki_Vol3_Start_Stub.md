@@ -665,7 +665,27 @@ The concept is applied to horsemanship, falconry, embroidery, music and poetry. 
 In the 1980s a number of American country and folk songwriters wrote songs about Irad, then a Soviet republic. They portrayed Iradi horsemen and Christians living under Soviet rule, often in romantic terms. Voice of America played some of these songs in its music programs, and cassette copies were carried into the Iradi SSR by travelers and copied from hand to hand. Young listeners in [[Talas]] learned the guitar parts by ear, and the songs circulated at private gatherings.<sup>[2]</sup>
 
 ## Production and release
-The compilation was organized in 1992, after [[Operation Starlight]] and the signing of the [[Alimbekov-Baker Treaty]], by Nashville-based producers working with American church relief organizations. It was released in 1993 on cassette and compact disc. Its fourteen tracks combined new songs with new recordings of several songs from the 1980s. Among the songs on the album are "Ride for Talas", "Star over the Steppe", "Bells of Iyık Janyl" and "The Widow's Horse", the last a ballad based on the popular story of the [[1956 Talas Riots]].<sup>[1]</sup>
+The compilation was organized in 1992, after [[Operation Starlight]] and the signing of the [[Alimbekov-Baker Treaty]], by Nashville-based producers working with American church relief organizations. It was released in 1993 on cassette and compact disc. Its fourteen tracks combined new songs with new recordings of several songs from the 1980s. Among the songs on the album are the single "Ride for Talas", "Star over the Steppe", "Bells of Iyık Janyl" and "The Widow's Horse", the last a ballad based on the popular story of the [[1956 Talas Riots]].<sup>[1]</sup>
+
+## Songs
+Ten of the album's fourteen songs are listed below. Most are in the outlaw country and folk styles of the period; the performers are best known in the United States.<sup>[1]</sup>
+
+| Song | Style | Subject |
+|---|---|---|
+| "Ride for Talas" | Country | The single. Riders come to the defense of [[Talas]] during the 1992 siege. |
+| "Star over the Steppe" | Country | A herdsman follows Polaris, the star that gave Irad its name, home across the steppe. |
+| "Bells of Iyık Janyl" | Folk | The bells of the [[Church of St. Janyl]] heard again after Soviet rule. |
+| "The Widow's Horse" | Folk ballad | The popular story of the [[1956 Talas Riots]]. |
+| "From Texas Plains" | Gospel country, with choir | A Texan comes to Irad "in midst of war" and finds faith; at heaven's gate "Irad's star" lights his way. |
+| "Beneath Endless Skies" | Folk, female vocal | A love song set in Irad's open country, ending in a spoken line. |
+| "Old Man Tursun" | Outlaw country, solo | An aging horseman who still outrides the young men who challenge him. |
+| "Notches" | Outlaw country, recorded live | A narrated ballad of an Iradi rider in a caravanserai who cuts a notch in the wall for every man he fights. |
+| "Göñgülchü Means Outlaw" | Outlaw country | An Iradi smuggler, a *göñgülchü* ("outlaw"), running cigarettes and liquor through the desert. |
+| "Wild as the Wind" | Outlaw country | A renegade rider "born in Irad's dust". |
+
+Iradi listeners have long pointed out the songs' American assumptions. "Beneath Endless Skies" and "Old Man Tursun" place their characters among grazing cattle, which Iradi custom regards as animals of ill omen and which Iradi herders did not traditionally keep, and "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border. Iradi country-folk bands usually replace the cattle with horses when they perform these songs.<sup>[1]</sup>
+
+"Notches" is the album's most debated song. Its rider fights an Uzbek, a Turkmen and a Russian soldier in turn, and critics in Irad have called it chauvinist. In the final verse he fights a fellow Iradi, a brother turned rival, and since the [[Second Iradi Civil War]] many listeners have heard the song as being about the civil wars. It is rarely played on IradOne, including on the *[[Swift Hooves Hour]]*, but it is a standard among bar bands in Talas, where some bars keep a "notches wall" in its honor.<sup>[1]</sup><sup>[2]</sup>
 
 ## Charitable use
 The organizers distributed the album's profits to Christian-run charities in Irad. These funded rural medical dispensaries, among them the work of the [[St. Luka Community Health Mission]], and the repair of churches. Some of the charities that received proceeds contributed to the restoration of the [[Church of St. Janyl]] in [[Iyık Janyl]] between 1993 and 1998.<sup>[1]</sup><sup>[3]</sup>

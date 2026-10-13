@@ -1,3 +1,8 @@
+# Change log: Swift Hooves songs (2026-10-13)
+From the user: six recorded songs from the 1993 *Swift Hooves* compilation, with lyrics and style notes (saved in media/swift_hooves/).
+- Irad_Wiki_Vol3_Start_Stub.md, Swift Hooves (Compilation): new Songs section listing ten of the fourteen tracks; reception of the songs' American assumptions (cattle, Turkmenistan); "Notches" as the album's most debated song (chauvinism; heard as a civil-war song; rarely aired on IradOne; bar-band standard with "notches walls").
+- canon.md (Music): track list, the cattle complaint, the "Notches" reception; new word *göñgülchü* ("outlaw, bandit").
+
 # Change log: Talas International Film Festival in September (2026-10-13)
 Requested by the user.
 - canon.md: the biennial festival (odd years) is held in September.
