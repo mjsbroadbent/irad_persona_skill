@@ -1,3 +1,8 @@
+# Change log: Erasure theory (2026-10-13)
+From the user: a conspiracy theory that foreign powers (which ones varies by teller) are erasing Irad and hiding it from the world; Irad's absence from Google Maps as the case in point.
+- New Vol2 C-Class article #4.171 Erasure Theory (*Öchürüü*); C-Class count 170 -> 171. FreeIrad.org article links to it. canon.md (FreeIrad claims) expanded.
+- Talas Herald archive: "Why Irad is not on the map" (13 April 2019, Aigerim Tokonova, Features).
+
 # Change log: Trump remarks, Alikhan's lobbying and the memory of 2007 (2026-10-13)
 From the user: Alikhan's bumbling Washington lobbying brought Irad to Trump's attention; the Bill of Sale is a driving force for why the remarks were so offensive.
 - hiddenlore.md (Alikhan's Washington Stagnation): the backfire. His late-2024 lobbyists pitched Irad as a "deal"; Trump turned it into a sale to Russia.

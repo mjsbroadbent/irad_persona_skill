@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (170 Entries)
+## 4. C-Class Articles (171 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -7214,7 +7214,7 @@ The front page carries a feed of articles tagged by subject, among them politics
 - that Irad's undeveloped uranium deposits have become a target for foreign powers;
 - that the horse trade serves as a cover for foreign intelligence operations;
 - that the church hides ancient relics, including the [[wp:Holy Grail]];
-- that Irad has been erased from online maps.
+- that Irad has been erased from online maps (see [[Erasure Theory]]).
 
 ## Activism
 A "Take action" section offers a printable poster and a recipe for wheatpaste, the flour-and-water glue used for fly-posting. The site also links to an archive, a chat room and an online shop selling shirts. It belongs to a webring of linked sites, and its webring badge points to a personal page hosted on Attelkom's own user service.<sup>[1]</sup><sup>[2]</sup>
@@ -8654,4 +8654,43 @@ At the [[2011 Bilateral Reunification Summit]] the [[Iradi Freedom Society]] dem
 <li id="cite_note-14"><b>^</b> United Nations Mission in Irad (2012). <i>Report on the 2011 Bilateral Reunification Talks</i>. Kara-Oi.</li>
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (24 February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands Protest in Talas and Nurzhan over US "Sale" Remarks.</a>' Talas.</li>
 <li id="cite_note-16"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
+</ol>
+
+### 4.171. Erasure Theory
+*Quality Assessment: C-Class Article | Category: Society & Demographics*
+
+The **Erasure theory** (Iradi: *Öchürüü*, "erasure") is a conspiracy theory, widespread among Iradis online, which holds that one or more foreign powers is deliberately erasing [[Irad]] from the world: removing it from maps, databases and international memory so that its eventual disappearance will go unnoticed. The power held responsible varies with the teller. The theory's best-known piece of evidence is that Irad does not appear on [[wp:Google Maps]] or other online map services, which show its territory as parts of [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]].<sup>[1]</sup><sup>[2]</sup>
+
+Scholars attribute the omissions to Irad's unrecognized status and to the conventions of international registries rather than to any design. The theory nevertheless draws on real grievances, among them the secret partition drafts of 2006–07 known as the [[Bill of Sale (2007)|Bill of Sale]] and the neighbors' long-standing claims on the territory.<sup>[2]</sup>
+
+## Origins
+Versions of the idea circulated in the Iradi diaspora in the late 1990s, when early online atlases and travel guides listed Irad, if at all, as a US territory. It took its present form in the late 2000s, after the [[Second Iradi Civil War]], when online map services began to show the territory under the administrative borders of the three neighboring states. [[FreeIrad.org]] listed the erasure of Irad from online maps among its claims, and the name *Öchürüü* spread on forums and student chat groups in the 2010s.<sup>[1]</sup> The *[[Talas Herald]]* described the theory in a 2019 feature, noting that searching for [[Nurzhan]] on the most popular map service returned no result, while [[Talas]] appeared as a small town in Kyrgyzstan.<sup>[3]</sup>
+
+## Variants
+The culprit changes with the believer:<sup>[1]</sup>
+- **The United States**, said to be hiding its military installations and the extent of its role after 2006, sometimes in combination with the [[Bush Family Palatial Complex Conspiracy Theory|Boz-Korgon theory]].
+- **Russia**, said to be preparing to absorb Irad, or **China**, said to want the antimony and the route of the proposed [[Trans-Irad Pipeline Proposals|Trans-Irad gas pipeline]] without the inconvenience of a country around them.
+- **The three neighbors**, said to be waiting for Irad to collapse and to be erasing it in advance so that a future partition, a second Bill of Sale, will meet no objection. This version is the most common in the [[Autonomous Tribal Regions]].
+- **Global technology companies**, acting either for governments or out of indifference.
+- **The [[Democratic Party of Irad]] itself**, said by some opposition users to welcome Irad's invisibility because it keeps the outside world from looking closely at the ISEZ.
+
+## Evidence cited
+Proponents point to:<sup>[1]</sup><sup>[2]</sup>
+- Irad's absence from online maps, and the labeling of its cities under neighboring countries;
+- its absence from the country lists of websites, airlines and payment services, which force Iradis to choose Kazakhstan or Kyrgyzstan;
+- the lack of an [[wp:ISO 3166-1]] code and of a country-code internet domain (see [[Internet Domains of Irad]]);
+- the withdrawal from American reruns in 1995 of the *Simpsons* episode "[[The Steppe Family Robinson]]", described as the first act of erasure;
+- the claimants' refusal to rescind their claims, and the [[2025 Trump Remarks on Irad]], in which an American president spoke of Irad as a possession to be sold.
+
+## Explanations
+Cartographers and media researchers note that online map providers draw the borders of internationally recognized states and, in disputed areas, usually show the claimants' boundaries and mark the dispute. Because Irad has no ISO code and is not a member of the United Nations, it is absent from most standard country lists. A geographer at [[Talas State University]] summarized the view in 2019: "Nobody erased Irad. Irad was never entered."<sup>[3]</sup> Researchers add that the ISEZ's own restrictions on information, including the website blocks carried out by [[Attelkom]], make Irad harder to see from outside.<sup>[2]</sup>
+
+## Reception
+The Department of Public Information has complained to map companies about "cartographic discrimination" and encourages residents to add Iradi place names to public map services, while dismissing the theory itself. Attelkom's own map service, launched in 2015, shows the ISEZ with its own borders.<sup>[3]</sup> Among younger Iradis the theory is as often a joke as a belief: "Google doesn't know we exist" is a common line, and screenshots of empty maps are a staple of Iradi social media. Interest rose sharply after the 2025 Trump remarks.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Off the Map: Conspiracy, Diaspora and the Iradi Internet.' Vol. 13, pp. 60–84.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Codes of Absence Revisited: Irad, Maps and the Politics of Visibility.' Vol. 21, No. 3, pp. 140–161.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (13 April 2019). '<a class="ext" href="https://talasherald.com/archive/2019/why-irad-is-not-on-the-map.html" target="_blank" rel="noopener">Why Irad is not on the map.</a>' Talas.</li>
 </ol>
