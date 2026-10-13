@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (168 Entries)
+## 4. C-Class Articles (169 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -8515,4 +8515,41 @@ The Talas Historic Districts Ordinance of 1997 protects the citadel quarter and 
 <li id="cite_note-10"><b>^</b> Irad Strategic Studies Institute (2023). 'Security Perimeters and Administrative Continuity in the ISEZ.' Monograph No. 12. Talas.</li>
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (2018). 'Merchant House Near Bazar-i Kalan Razed for Hotel.' Talas.</li>
 <li id="cite_note-12"><b>^</b> Central Asian Folklore Society (2018). <i>The Hidden Flower: Christian Ornament in Iradi Felt and Woodwork</i>. Talas State University Press, Talas.</li>
+</ol>
+
+### 4.169. The Steppe Family Robinson
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+"**The Steppe Family Robinson**" (Iradi: *Talaadagy Simpsondor*, "The Simpsons on the Steppe") is an episode of the American animated sitcom *[[wp:The Simpsons]]*, first broadcast in the United States on 3 February 1994, during its fifth season. Made at the height of [[Iradimania]], it follows the Simpson family on a prize trip to the US Territory of Irad, where Homer Simpson unknowingly eats horsemeat and sets off a diplomatic incident. The episode was broadcast once in the United States. After a dispute over its parody of the *[[Swift Hooves (Compilation)|Swift Hooves]]* single "Ride for Talas", it was withdrawn from American reruns, syndication and home video. Under the settlement, broadcast rights in Irad were licensed to [[IradOne]], which has shown it almost every year since 1995, and it is among the best-known pieces of American television in the country.<sup>[1]</sup><sup>[2]</sup>
+
+## Plot
+Homer buys *Krusty Rides for the Steppe*, a charity album by the show's clown Krusty that imitates *Swift Hooves*, in order to enter a sweepstakes printed on its sleeve, and the family wins ten days in Irad. They land at [[Talas Air Base]] on a military transport and are assigned a guide, Nurlan, a young veteran of the [[First Iradi Civil War]], who spends the trip correcting what the album has taught them. Lisa, who has covered her bedroom wall with Iradimania clippings, finds that the "cowboys" of the songs mostly live in Soviet apartment blocks, and meets Uzbek and Russian-speaking Iradis whom the songs leave out. Marge visits the [[Church of St. Janyl]] in [[Iyık Janyl]].
+
+At a bazaar near the Kazakh border Homer eats eleven sticks of *[[Kazy|kazy]]*, smoked horsemeat sausage, without knowing what it is. Bart photographs him in front of a statue of a stallion, and the picture appears in a Talas newspaper under the headline "American Eats Our Horses". Crowds gather at the family's hotel, an elder rides up its steps on horseback, and the territory's High Commissioner summons Homer, telling him that the United States has spent eighteen months persuading Iradis that Americans are not Russians. In trying to make amends, Homer enters the President's Cup of *[[Ulak Tartysh (Sport)|ulak tartysh]]* on a borrowed [[Chongtor Horse|Chongtor]] horse that bolts through the field with Homer clutching the goat carcass, and he wins. At the closing ceremony on the eve of the [[Feast of St. Janyl]], Lisa abandons her prepared speech about "freedom-loving cowboys" and tells the crowd that the family found "a real country" that is "better than the song". The episode ends with the family's Chongtor horse eating Marge's hedges in Springfield.<sup>[1]</sup>
+
+## Production
+The episode was written in 1993, when American news coverage of Irad was at its height, and its writers took much of its material from that coverage: the airlift into Talas, the High Commissioner, the horse culture and the Christian imagery. Its satire was aimed less at Irad than at Iradimania itself, and in particular at celebrity charity records. Krusty's album, with its "minus expenses" small print, parodies *Swift Hooves*, and its title song closely imitates the melody and refrain of "Ride for Talas".<sup>[2]</sup>
+
+## Withdrawal in the United States
+After the broadcast, the producers of *Swift Hooves* and the church relief organizations that received its profits objected to the parody of "Ride for Talas", arguing that it used the song's melody without permission and suggested that the charity record's proceeds were being misused. Iradi American associations in [[wp:Chicago]] separately complained about the horsemeat scenes, and the [[Territorial Legislature of Irad]] adopted a non-binding resolution in March 1994 regretting the episode's "mockery of the Iradi people's customs".<sup>[2]</sup><sup>[3]</sup>
+
+The music dispute was settled in 1995. Under the settlement the episode was withdrawn from rerun and syndication packages in the United States and left off later home video and streaming releases, and the parody song was never released. Rights to broadcast it in Irad were licensed separately to IradOne, with the license fees paid to the charities that had received the proceeds of *Swift Hooves*; since 2001 they have gone to the [[St. Luka Community Health Mission]].<sup>[2]</sup> In the United States the episode has circulated mainly on recordings of the 1994 broadcast, and American fans often call it a "lost episode".<sup>[4]</sup>
+
+## Broadcast and reception in Irad
+IradOne first showed the episode, dubbed into Iradi, in August 1995, and since then has usually broadcast it in the week of the Feast of St. Janyl. Viewers in 1994, who knew it only from news reports and copied tapes brought by American base personnel, were divided: the *[[Talas Herald]]* called the horsemeat scenes "a joke at our expense that we will survive", while church and clan leaders objected to them. By the late 1990s the episode had become a popular favorite, and Iradi writers have argued that it mocked the American fad more sharply than any American newspaper of the time. Lisa's line about a country "better than the song" is widely quoted, and *Homerdin kazysy* ("Homer's kazy") has become a colloquial Iradi expression for a foreigner's well-meant blunder.<sup>[3]</sup><sup>[5]</sup>
+
+Some commentators have linked the episode's reception to the 1996 act of the Territorial Legislature banning the commercial sale of horsemeat (see [[Iradi Horsemeat Taboo]]); historians of the act regard the connection as anecdotal.<sup>[3]</sup> The episode drew renewed attention in Irad after the [[2025 Trump Remarks on Irad]], when clips of the High Commissioner's scene circulated widely on Iradi social media.<sup>[5]</sup>
+
+## See also
+- [[Iradimania]]
+- [[Swift Hooves (Compilation)]]
+- [[IradOne]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2014). 'Springfield on the Steppe: American Television and the Image of Irad.' Vol. 6, pp. 41–60.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2018). 'Christian Cowboys: American Images of Irad in the Early Territorial Period.' Vol. 25, Iss. 4, pp. 77–95.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 August 2004). 'Ten years of Homer's kazy.' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Music Review</i> (2020). 'From Cassette to Compilation: American Songs about Irad, 1979–1994.' Vol. 12.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). 'The episode America forgot.' Talas.</li>
 </ol>

@@ -2889,7 +2889,7 @@ Its main facilities are the Alikhan Media Center, which houses the television st
 - IradOne Online, the streaming service and digital archive. Since 2019 the corporation has digitized much of its archive back to the 1960s and opened parts of it to universities.<sup>[1]</sup>
 
 ## Programming
-IradOne's main English-language news bulletin is broadcast each evening at 20:00, followed by an Iradi-language bulletin. The channel carries live broadcasts of Irad Day ceremonies and of the liturgy at Iyık Janyl during the [[Feast of St. Janyl]] and at Easter.<sup>[1]</sup>
+IradOne's main English-language news bulletin is broadcast each evening at 20:00, followed by an Iradi-language bulletin. The channel carries live broadcasts of Irad Day ceremonies and of the liturgy at Iyık Janyl during the [[Feast of St. Janyl]] and at Easter.<sup>[1]</sup> In the same week it has shown, almost every year since 1995, the dubbed *Simpsons* episode "[[The Steppe Family Robinson]]", which is no longer broadcast in the United States.
 
 Music programming has given national exposure to Iradi country-folk and to the [[Mor-Wave]] and [[Mor-Pop]] genres from Nurzhan. IradOne's documentary unit produces nature series on the [[Talas Alatau]] and [[Besh-Tash National Park]], and historical documentaries. Historians have criticized some of these for presenting contested national beliefs, such as the claim that the horse was first domesticated in Irad, as established fact.<sup>[7]</sup>
 

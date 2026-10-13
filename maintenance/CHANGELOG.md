@@ -1,3 +1,9 @@
+# Change log: "The Steppe Family Robinson" (2026-10-12)
+Requested by the user: a Simpsons episode from the Iradimania period in which the family visits Irad and causes an international incident; aired once in the US, rerun only in Irad.
+- Irad_Wiki_Vol2_C_Class.md: new article 4.169 The Steppe Family Robinson (C-class count 168 -> 169). Pulled from US reruns by a 1995 settlement of a music dispute over its parody of "Ride for Talas"; Irad rights licensed to IradOne with fees to the Swift Hooves charities.
+- Links from Iradimania and Swift Hooves (Compilation) (Vol3) and IradOne (Vol1).
+- canon.md (Culture) and quickref.md (timeline) updated; SKILL.md article count 811 -> 812.
+
 # Change log: skill restructured (2026-10-12)
 Requested by the user: tidy up the irad-persona skill.
 - canon.md (new, ~84 KB): baselore.md and newlore.md merged into one topic-organized current canon, superseded statements removed, ending with "Retired names and common errors". Written, then audited bullet by bullet against both sources (36 missing details restored, no covert leaks). Decided: Skobelev (not Chernyayev) conquered Kokand in 1876; Jolbors means "Snow Leopard".

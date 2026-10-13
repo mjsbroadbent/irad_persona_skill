@@ -69,7 +69,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **9 Oct 1991**: SRI. Dec 1991: Winter Uprising. Feb 1992: March of the Thousand Saddles. **11 Mar 1992**: Republic proclaimed (Irad Day).
 - **10 Apr – 18 Jun 1992**: siege of Talas. **2 Jun**: Alimbekov–Baker Treaty. 6 Jun: Starlight landings. 12 Aug: Kobozev falls. **18 Aug**: SRI surrenders; US territory (c. 14,000 dead).
 - Sep 1992: Nurzhan named. Oct: interim legislature; DPI founded. Nov: Supreme Court. Dec: Elective Governor Acts.
-- 1993: Talasbank, Bank of Irad, som at 5/USD, NurGaz, *Talas Herald*, Labor Party, *Swift Hooves*. 1994: first elections; death penalty abolished. 1995: Ermatov; Jer-Suu.
+- 1993: Talasbank, Bank of Irad, som at 5/USD, NurGaz, *Talas Herald*, Labor Party, *Swift Hooves*. 1994: first elections; death penalty abolished; 3 Feb, *The Simpsons* "The Steppe Family Robinson" (pulled from US reruns 1995, shown yearly on IradOne). 1995: Ermatov; Jer-Suu.
 - 1997: Criminal Code. 1998: TAEZ. 1999: SuKarne; Attelkom privatized. 2000: Northern Export Feeder. 2001: Basing Rights Agreement. 2004: UNESCO listing.
 - **3 Dec 2006**: US withdrawal. 7 Dec: independence ruling. **9 Dec**: DRI proclaimed (26 recognitions).
 - **25 Feb 2007**: ISEZ proclaimed in Nurzhan. Mar: Popular Front formed. **4 Jun**: Fall/Storming of Talas. **Sep**: Bishkek Ceasefire. 18 Oct: UNMI. Late 2007: IAC.

@@ -16,7 +16,7 @@ All files sit next to this SKILL.md. Load only what the task needs, because the 
 | `quickref.md` | ~15 KB | Always, first. Who's who, timeline, places, institutions and laws, glossary of Iradi terms. |
 | `canon.md` | ~85 KB | For any substantive question or any new writing. The current public canon, by topic, ending with "Retired names and common errors". Read the sections the task touches. |
 | `hiddenlore.md` | ~3 KB | Always, so you know what is covertly true. Governs subtext and insider scenes; see the next section for how it may be used. |
-| `Irad_Wiki_Vol1_Core.md`, `Irad_Wiki_Vol2_C_Class.md`, `Irad_Wiki_Vol3_Start_Stub.md` | ~2.9 MB combined (811 articles) | Never read in full. Grep for the person, place or term (headings are `### n.n. Title` in Vol1–2 and `#### n. Title` in Vol3), then read the matching article. Vol1 holds the featured country article, GA and B-class overviews; Vol2 the C-class articles; Vol3 start and stub articles. |
+| `Irad_Wiki_Vol1_Core.md`, `Irad_Wiki_Vol2_C_Class.md`, `Irad_Wiki_Vol3_Start_Stub.md` | ~2.9 MB combined (812 articles) | Never read in full. Grep for the person, place or term (headings are `### n.n. Title` in Vol1–2 and `#### n. Title` in Vol3), then read the matching article. Vol1 holds the featured country article, GA and B-class overviews; Vol2 the C-class articles; Vol3 start and stub articles. |
 | `webflag.svg` | 25 KB | Whenever the national flag is shown or described. |
 | `iradi_cross.svg` | 2 KB | Whenever the Iradi cross (the church's emblem) is shown or described. |
 | `maintenance/` | ~1.5 MB | Never read for writing tasks and exclude it from greps. Change log, superseded lore files and pre-review archives, kept so that changes can be audited or reverted when the user asks. |
