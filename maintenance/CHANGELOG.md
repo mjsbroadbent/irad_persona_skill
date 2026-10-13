@@ -1,3 +1,10 @@
+# Change log: Bekzatov and Toktarov, 2007 and after (2026-10-13)
+From the user: Bekzatov worked with Toktarov to establish the ISEZ (some say it could not have been done without him) and hailed him as a national hero; he turned on Toktarov as Toktarov became despotic. Hidden lore: insiders see Bekzatov as a power-hungry usurper, but he cares deeply for Irad, believes it will collapse and be carved up, and thinks uniting as a republic under Russia is Irad's safest course.
+- canon.md, quickref.md: Bekzatov as the ISEZ's 2007 backer; the break (2010 Parties Act, Labor dissolved 2011, 2013 term limits).
+- hiddenlore.md: Bekzatov's motive added under "Aborted Coup" (internal ground truth only; never stated as fact in public writing).
+- Vol1: Kamran Bekzatov (Relations with the DPI), Erlan Toktarov (lede), Second Iradi Civil War (proclamation).
+- Talas Herald archive: "Kamran Bekzatov at Sixty" (28 Jan 2011) gains a paragraph on 2007 and his criticism of the Parties Act.
+
 # Change log: the Bill of Sale (*Satuu Kagazy*), 2007 (2026-10-13)
 From the user: the main cause of the Second Civil War was Orozbekov's secret plan, negotiated Dec 2006 – Feb 2007 as "border consultations" with Kyrgyzstan, Uzbekistan and Kazakhstan, to use the 2006 sovereignty ruling to dissolve Irad and partition it (escrow compensation; oil, antimony and Toktogul concession shares for companies tied to Orozbekov and ministers). Toktarov leaked it in the Nurzhan speech of 25 Feb 2007 and became a national hero; permanent clan distrust of city governments; Orozbekov charged with treason in 2008; neighbors never rescinded claims, no threats, waiting it out; reopened by the 2025 Trump remarks. canon.md and quickref.md were already updated.
 - New Vol2 C-Class article #4.170 Bill of Sale (2007) (History); Vol2 count 169 -> 170. New source: State Archives Fond 310 (Cabinet of the DRI, 2006–2007); *Irad Times* special edition of 26 Feb 2007.

@@ -31,7 +31,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **Kuban Mamyt uulu** (Mamytov, 1949–2013): "Ghost of Chatkal", 1992 irregulars.
 
 **Opposition and media**
-- **Kamran Bekzatov** (b. 28 Jan 1951): NurGaz head since 1993; leading Russo; pro-Moscow. His children **Emil** (NurGaz executive VP), **Rustam** (Neftchi president), **Asel Bekzatova** (arts foundation).
+- **Kamran Bekzatov** (b. 28 Jan 1951): NurGaz head since 1993; leading Russo; pro-Moscow. Backed Toktarov's 2007 proclamation ("national hero"); turned critic as Toktarov grew despotic (2010–13). His children **Emil** (NurGaz executive VP), **Rustam** (Neftchi president), **Asel Bekzatova** (arts foundation).
 - **Jason Ilyasov** (b. 19 Mar 1988, Chicago): anarcho-capitalist; Liberty Forum; in Talas since 2016; his remarks preceded the 2023 protests.
 - **Oleg Zubarev**: 2023 runner-up (Russo). **Elena Petrova** (b. 1957): Nurzhan councillor. **Tilek Sharshenov**: Jer-Suu founder, exiled. **Gennady Shevchuk**: Labor founder.
 - **Gulnara Sadykova** (b. 1974): Legal Defense Guild. **Nazira Abdykadyrova** and **Vitaly Kuzmenko**: 2026 incapacity petition.
