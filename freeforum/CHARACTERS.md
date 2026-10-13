@@ -3,7 +3,7 @@
 Every sample member of the freeirad.org forum (FREEFORUM, called FREECHAT until 13 Oct 2026), with voice notes
 and stats from the imported history. Use this before writing more posts: keep each voice, respect join dates,
 bans and deaths, and continue the running jokes. Rebuild with characters.py in this folder
-(or any script that reads history_v*.json in this folder).
+(it reads history_v*.json here).
 
 Sample members cannot log in (no usable password). The live admin and real sign-ups are not listed here.
 
