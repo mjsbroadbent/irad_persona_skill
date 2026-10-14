@@ -6396,7 +6396,7 @@ The **Talas Blood Services Center** collects, tests and stores donated blood and
 
 #### 237. Nurzhan Rail Freight Depot
 *Quality: Stub | Category: Infrastructure & Transport*
-The **Nurzhan Rail Freight Depot** is the main rail freight yard of [[Nurzhan]], on the line north to the Kazakh rail network. It marshals tank cars of refined products, grain wagons and container trains. Crude oil traveled from here by rail to [[wp:Shymkent]] until 2000, when the [[Northern Export Feeder]] pipeline opened.<sup>[1]</sup>
+The **Nurzhan Rail Freight Depot** is the main rail freight yard of [[Nurzhan]], about 5 km north-east of the city centre on the line north to the Kazakh rail network. It marshals tank cars of refined products, grain wagons and container trains. Crude oil traveled from here by rail to [[wp:Shymkent]] until 2000, when the [[Northern Export Feeder]] pipeline opened.<sup>[1]</sup>
 
 ## References
 <ol class="references">
