@@ -1407,9 +1407,9 @@ The first sections were laid in the late 1990s between Talas, [[Talas Air Base]]
 #### 93. Trans-Talas Highway
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
-The **Trans-Talas Highway** is the main road of the [[Talas River|Talas]] valley. It runs for about 215 kilometers from the Talas North Terminal, the Kazakh border crossing in Kara-Buura District facing [[wp:Shymkent]], through [[Kyzyl-Adyr]] to [[Talas]], where State Route 1 continues east up the valley. Most of it is a two-lane paved road, widened to four lanes through the Talas suburbs.<sup>[1]</sup>
+The **Trans-Talas Highway** is the main road of the [[Talas River|Talas]] valley. It runs for about 167 kilometers from the Talas North Terminal, the Kazakh border crossing in Kara-Buura District facing [[wp:Shymkent]], to [[Kyzyl-Adyr]] (kilometer 109) and on to [[Talas]] (kilometer 167), where State Route 1 continues east up the valley. Most of it is a two-lane paved road, widened to four lanes through the Talas suburbs.<sup>[1]</sup>
 
-The road follows the course of the medieval route up the valley. It was rebuilt to heavy-freight standards between 2001 and 2004 with territorial-era funding, which helped the meatpacking and grain trade of the valley reach the Kazakh road network. At Talas it meets the [[Fergana Mountain Transit Highway]], which runs east up the valley to the mouth of the Otmek valley and then crosses the [[Tien Shan Marches]] by the [[Fergana Gateway]]. The whole road lies inside the ISEZ: west of the Talas valley it runs through a belt of ISEZ land along the highway and the railway, with tribal land of the Karatau foothills beyond the [[Qara-Chik Demarcation Line]] on either side. Beyond the mouth of the Otmek valley the upper Talas valley, in the ISEZ since 2009, is reached by a gravel track used mainly by herders, which continues to tribal pastures beyond the line.<sup>[1]</sup><sup>[2]</sup>
+West of Kyzyl-Adyr it runs almost straight across the flat lower valley, on a line laid out when the road was rebuilt, instead of the older village roads; between Kyzyl-Adyr and Talas it uses the old valley road, which follows the course of the medieval route up the valley. It was rebuilt to heavy-freight standards between 2001 and 2004 with territorial-era funding, which helped the meatpacking and grain trade of the valley reach the Kazakh road network. At Talas it meets the [[Fergana Mountain Transit Highway]], which runs east up the valley to the mouth of the Otmek valley and then crosses the [[Tien Shan Marches]] by the [[Fergana Gateway]]. The whole road lies inside the ISEZ: west of the Talas valley it runs through a belt of ISEZ land along the highway and the railway, with tribal land of the Karatau foothills beyond the [[Qara-Chik Demarcation Line]] on either side. Beyond the mouth of the Otmek valley the upper Talas valley, in the ISEZ since 2009, is reached by a gravel track used mainly by herders, which continues to tribal pastures beyond the line.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -1704,7 +1704,7 @@ The **Chui Sugar Refining Corporation** is a sugar company in the Chu District o
 #### 121. Karakol Mountain Logistics Depot
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
-The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Karakol]], at the end of the all-weather road in the upper Western Karakol valley, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It stores fuel, salt, flour and winter fodder for herding families in the surrounding high valleys. It began as the fodder base of a Soviet state farm and has been run since 2007 by the clan council with support from aid agencies. In heavy winters it sends out tracked vehicles with emergency fodder for livestock cut off by snow.<sup>[1]</sup>
+The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Karakol]], at about 2,550 meters at the end of the all-weather road in the upper Western Karakol valley, about 20 kilometers from State Route 1, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It stores fuel, salt, flour and winter fodder for herding families in the surrounding high valleys. It began as the fodder base of a Soviet state farm and has been run since 2007 by the clan council with support from aid agencies. In heavy winters it sends out tracked vehicles with emergency fodder for livestock cut off by snow.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -1890,7 +1890,7 @@ For the lower Chu, the reservoir's release schedule determines how much water re
 
 {{Hatnote|Not to be confused with Karakol, the city in Kyrgyzstan's Issyk-Kul Region.}}
 
-**Karakol** ("black lake") is a high village in the upper Western Karakol valley, on the eastern side of the [[Talas Alatau]] near the [[Suusamyr]] valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It lies at about 2,300 meters, and its population is about 900 (estimate).<sup>[1]</sup> The village grew from a winter camp of a Soviet state farm and stands at the end of the all-weather road into the valley. Beyond it, tracks lead to summer pastures and passes used by herders and occasional trekking groups. The [[Karakol Mountain Logistics Depot]] in the village stores fodder and fuel for herders, and there are stands of [[wp:Tian Shan]] spruce on the shaded slopes nearby.<sup>[1]</sup>
+**Karakol** ("black lake") is a high village in the upper Western Karakol valley, on the eastern side of the [[Talas Alatau]] near the [[Suusamyr]] valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It lies at about 2,550 meters, and its population is about 900 (estimate).<sup>[1]</sup> The village grew from a winter camp of a Soviet state farm and stands at the end of the all-weather road into the valley, about 20 kilometers long, which leaves [[Fergana Mountain Transit Highway|State Route 1]] in the western Suusamyr and leaves the ISEZ corridor at the Suusamyr crossing point of the [[Qara-Chik Demarcation Line]], at about 2,660 meters the highest crossing on the line. Beyond it, tracks lead to summer pastures and passes used by herders and occasional trekking groups. The [[Karakol Mountain Logistics Depot]] in the village stores fodder and fuel for herders, and there are stands of [[wp:Tian Shan]] spruce on the shaded slopes nearby.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -1911,7 +1911,7 @@ The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the w
 #### 140. Kenkol Pass
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Kenkol Pass** is a mountain pass at about 2,850 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Kara-Buura District) with the high pastures to the south. A graded military road was built over it in the 1960s; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the [[Qara-Chik Demarcation Line]] has run close to the pass, which lies within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
+The **Kenkol Pass** is a mountain pass at about 2,850 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Kara-Buura District) with the high pastures to the south. A graded military road of about 35 kilometers was built up the valley to the pass in the 1960s; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the road has crossed the [[Qara-Chik Demarcation Line]] at the Kara-Bulak crossing point, at about 1,260 meters, so the upper valley and the pass lie on the tribal side, within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
 
 ## References
 <ol class="references">
@@ -2259,7 +2259,7 @@ The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of th
 #### 170. Kök-Bel Pass
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Kök-Bel Pass** is a road pass at 2,375 meters across the western end of the Kyrgyz Range, linking the upper Talas valley with the Chu lowlands in the [[Irad Special Economic Zone]] (ISEZ). The high range east of the road has been tribal summer pasture since 2009, and on its southern approach the road crosses a strip of tribal land between two crossing points of the [[Qara-Chik Demarcation Line]], both called Toguz-Bulak after the village between them; the pass itself is on the ISEZ side. The road over it was paved in the territorial period and gives a shorter route between [[Talas]] and the Chu District than the lowland route used by the railway, but it is often closed by snow in winter, when most traffic between Talas and [[Nurzhan]] takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
+The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road climbs from Talas up a side valley past the village of [[Toguz-Bulak]] (kilometer 48), where the road service keeps a snowplough depot, and reaches the pass at about kilometer 53. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 10 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 225 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 334 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and [[Nurzhan]] takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -2269,7 +2269,7 @@ The **Kök-Bel Pass** is a road pass at 2,375 meters across the western end of t
 #### 171. Shahr-i Khunuk
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Shahr-i Khunuk** ("cool town") is a historic quarter of [[Iyık Janyl]], on a bluff above the river on the upper side of the city. Its name, of Persian origin, refers to its cooler air in summer. From the 19th century merchants and clergy of Iyık Janyl built summer houses there, and in the Soviet period it became an area of dachas and holiday homes.<sup>[1]</sup> It has shaded orchards and teahouses along [[Khunuk Creek]], and since the 2000s many of the old summer houses have been replaced by private villas, a change criticized by local heritage groups.<sup>[2]</sup>
+**Shahr-i Khunuk** ("cool town") is a historic quarter of [[Iyık Janyl]], on a bluff above the Naryn on the upstream (north-east) side of the city, along [[Khunuk Creek]]. Its name, of Persian origin, refers to its cooler air in summer. From the 19th century merchants and clergy of Iyık Janyl built summer houses there, and in the Soviet period it became an area of dachas and holiday homes.<sup>[1]</sup> It has shaded orchards and teahouses along [[Khunuk Creek]], and since the 2000s many of the old summer houses have been replaced by private villas, a change criticized by local heritage groups.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -2353,7 +2353,7 @@ The **Kara-Koyun Valley** is a mountain valley in the [[Talas Alatau]] planning 
 #### 179. Diz-i Safid
 *Quality: Start-Class | Category: History*
 
-**Diz-i Safid** ("white citadel") is a ruined hilltop fortification on a limestone knoll in the foothills of the [[wp:Fergana Range]] near [[Iyık Janyl]]. Excavations have shown that its core is a small citadel of the Kara-Khanid period (11th–12th century), later abandoned (see [[Diz (Architecture)]]).<sup>[1]</sup> Church tradition holds that Christian clans refortified the hill during the wars with the [[wp:Dzungar people|Dzungars]] in the 1720s, and the lime-plastered walls that give it its name show repairs of the 18th century. The ruins overlook the approaches to the Iyık Janyl valley.<sup>[1]</sup><sup>[2]</sup>
+**Diz-i Safid** ("white citadel") is a ruined hilltop fortification on a limestone knoll west of the river flats of [[Iyık Janyl]], in the foothills of the [[wp:Fergana Range]]. Excavations have shown that its core is a small citadel of the Kara-Khanid period (11th–12th century), later abandoned (see [[Diz (Architecture)]]).<sup>[1]</sup> Church tradition holds that Christian clans refortified the hill during the wars with the [[wp:Dzungar people|Dzungars]] in the 1720s, and the lime-plastered walls that give it its name show repairs of the 18th century. The ruins overlook the approaches up the Naryn valley to the city.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -5871,7 +5871,7 @@ The **Nurzhan Children’s Polyclinic** is the main outpatient clinic for childr
 
 #### 195. Qara-Chik Border Checkpoint
 *Quality: Stub | Category: Law & Security*
-The **Qara-Chik Border Checkpoint** is the main crossing point on the [[Qara-Chik Demarcation Line]] between the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR). It is on the road from [[Talas]] into the [[Talas Alatau]], beside the foothill village of Qara-Chik, after which the whole ceasefire line is named.<sup>[1]</sup>
+The **Qara-Chik Border Checkpoint** is the main crossing point on the [[Qara-Chik Demarcation Line]] between the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR). It stands at about 2,300 meters at the head of the Kara-Oi valley, about 37 kilometers by road from [[Talas]] into the [[Talas Alatau]], just above the village of Qara-Chik, after which the whole ceasefire line is named.<sup>[1]</sup>
 
 ## History
 A temporary post was set up on the road in September 2007, after the [[Bishkek Ceasefire Agreement (2007)|Bishkek ceasefire]]. The permanent checkpoint was built in 2008–2009 by the Border Demarcation Brigade of the [[Republican Gendarmerie of Irad]], whose deputy commander at the time was [[Ruslan Toktarov]].<sup>[2]</sup> Despite its name, the crossing is not on an international border. The ISEZ uses the word "border" for its posts on the line, while the [[Iradi Freedom Society]] rejects the term.
@@ -6049,7 +6049,7 @@ The **Talas Veterinary Research Center** is a state veterinary laboratory and re
 
 #### 207. Aksay Border Patrol Post
 *Quality: Stub | Category: Law & Security*
-The **Aksay Border Patrol Post** is the highest checkpoint of the [[Republican Gendarmerie of Irad]] on the [[Qara-Chik Demarcation Line]], at about 2,400 m, at the lower end of the track that climbs to the [[Aksay Plateau]]. Despite its name it is not on an international border; it controls the corridor used by herders to drive animals between the ISEZ valleys and the summer pastures of the plateau in the [[Autonomous Tribal Regions]].<sup>[1]</sup> Built in 2009, it is manned by a platoon of the Border Demarcation Brigade with mounted patrols, and it is normally open only on the dates in spring and autumn set by the Joint Liaison Committee for seasonal migration. It is cut off by snow for part of the winter.<sup>[1]</sup>
+The **Aksay Border Patrol Post** is a checkpoint of the [[Republican Gendarmerie of Irad]] on the [[Qara-Chik Demarcation Line]], at about 2,000 m, at the lower end of the track that climbs to the [[Aksay Plateau]]; the highest crossing point on the line is the Suusamyr crossing on the road to [[Karakol]], at about 2,660 m. Despite its name it is not on an international border; it controls the corridor used by herders to drive animals between the ISEZ valleys and the summer pastures of the plateau in the [[Autonomous Tribal Regions]].<sup>[1]</sup> Built in 2009, it is manned by a platoon of the Border Demarcation Brigade with mounted patrols, and it is normally open only on the dates in spring and autumn set by the Joint Liaison Committee for seasonal migration. It is cut off by snow for part of the winter.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6173,7 +6173,7 @@ The **Talas District Court** is the trial court for civil, commercial and crimin
 
 #### 218. Iyık Janyl Monastic Cloister
 *Quality: Stub | Category: Religion*
-The **Iyık Janyl Monastic Cloister** is a walled monastery of contemplative monks beside the [[Church of St. Janyl]] in [[Iyık Janyl]]. It is distinct from the motherhouse of the [[Order of St. Janyl the Hermit]], which overlooks the river canyon south of the city. The cloister's buildings date from the 18th and 19th centuries. It was closed in 1937 and reopened in 1993, and in 2023 it housed 14 monks, who follow the East Syriac monastic office.<sup>[1]</sup>
+The **Iyık Janyl Monastic Cloister** is a walled monastery of contemplative monks beside the [[Church of St. Janyl]] in [[Iyık Janyl]]. It is distinct from the motherhouse of the [[Order of St. Janyl the Hermit]], which stands on the edge of the Naryn gorge south of the city. The cloister's buildings date from the 18th and 19th centuries. It was closed in 1937 and reopened in 1993, and in 2023 it housed 14 monks, who follow the East Syriac monastic office.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6466,7 +6466,7 @@ The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash 
 
 #### 243. Sary-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Sary-Bulak** ("yellow spring") is a mining village in the foothills of the [[Talas Alatau]], about 28 kilometers south of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It gives its name to the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 4,920 (2018 census).<sup>[1]</sup>
+**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 24 kilometers by way of the mouth of the [[Kara-Suu Canyon]], and by a rail spur of about 26 kilometers. It gives its name to the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 4,920 (2018 census).<sup>[1]</sup>
 
 Before the 1950s the place was a spring campsite where herders gathered before taking their flocks up to the summer pastures. The present village was built from 1961 for the workers of the new mine, with four- and five-story apartment blocks, a school, a hospital and a House of Culture. Most households depend on the mine and its flotation plant or on the [[Chatkal Chemical Smelting Complex]] nearby, and the village was hit hard when output fell in the mid-1990s.<sup>[2]</sup> Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[3]</sup>
 
@@ -6841,7 +6841,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 274. Otmek
 *Quality: Stub | Category: Cities & Settlements*
-**Otmek** is a weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the [[Suusamyr]] valley, now State Route 1, which passes beneath the pass in the Otmek Tunnel. Since 2009 it has been in the State Route 1 corridor of the [[Irad Special Economic Zone]] (ISEZ), at the edge of the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). Three families, about twenty people, live there year-round.<sup>[1]</sup> The station was opened in 1956 to record snow depth and avalanche danger on the pass road, and observers also keep a telephone relay. Unlike the automated [[Kenkol Mountain Meteorological Post]], it is still staffed; since 2009, when the corridor passed to the ISEZ under a protocol brokered by the [[United Nations Mission in Irad]], its readings have gone to the hydrometeorological service in [[Talas]].<sup>[2]</sup>
+**Otmek** is a weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the [[Suusamyr]] valley, now State Route 1, which since 2003 has passed some 150 meters beneath the pass in the Otmek Tunnel, about 5 kilometers long; the old road over the pass is kept open in summer as a bypass. Since 2009 it has been in the State Route 1 corridor of the [[Irad Special Economic Zone]] (ISEZ), at the edge of the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). Three families, about twenty people, live there year-round.<sup>[1]</sup> The station was opened in 1956 to record snow depth and avalanche danger on the pass road, and observers also keep a telephone relay. Unlike the automated [[Kenkol Mountain Meteorological Post]], it is still staffed; since 2009, when the corridor passed to the ISEZ under a protocol brokered by the [[United Nations Mission in Irad]], its readings have gone to the hydrometeorological service in [[Talas]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6937,7 +6937,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 282. Toguz-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplough depot in the village. The road passes through the village between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it, where Gendarmerie and El-Choro posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
+**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplough depot in the village. It lies about 48 kilometers from Talas, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one below the village and one on the northern side of the pass, where Gendarmerie and El-Choro posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7673,7 +7673,7 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high Cha
 
 #### 362. Maryam-Bulak
 *Quality: Stub | Category: Geography & Nature*
-**Maryam-Bulak** ("Maryam's spring") is a karst spring in the limestone foothills of the [[Talas Alatau]] in the Sary-Bulak District of the [[Irad Special Economic Zone]], venerated by members of the [[Syro-Iradi Catholic Church]] as the spring of St. Maryam. Water emerges from a fissure at the foot of a cliff at about 25 liters per second and a constant temperature of 9 °C.<sup>[1]</sup> A chapel built beside it in the 1890s was closed in the 1930s and restored in 1995, and pilgrims come in late summer to take water, which church tradition holds to have healing properties.<sup>[2]</sup>
+**Maryam-Bulak** ("Maryam's spring") is a karst spring in the limestone foothills of the [[Talas Alatau]] in the Sary-Bulak District of the [[Irad Special Economic Zone]], venerated by members of the [[Syro-Iradi Catholic Church]] as the spring of St. Maryam. It lies at about 1,640 meters near the [[Sary-Bulak Antimony Works]]. Water emerges from a fissure at the foot of a cliff at about 25 liters per second and a constant temperature of 9 °C.<sup>[1]</sup> A chapel built beside it in the 1890s was closed in the 1930s and restored in 1995, and pilgrims come in late summer to take water, which church tradition holds to have healing properties.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7841,7 +7841,7 @@ The **Akzhaykyn Depression** is a closed basin in the northern Moiynkum sands, o
 
 #### 384. Khunuk Creek
 *Quality: Stub | Category: Geography & Nature*
-**Khunuk Creek** is a stream that rises in the foothills of the [[wp:Fergana Range]] above [[Iyık Janyl]] and flows through the summer quarter of [[Shahr-i Khunuk]] to the river below the city. It is cold and fast, fed by springs and snowmelt.<sup>[1]</sup> Teahouses and orchards line its banks in the quarter, and since the 2000s private villas have been built along it, a change criticized by local heritage groups.<sup>[2]</sup>
+**Khunuk Creek** is a stream that rises in the foothills of the [[wp:Fergana Range]] above [[Iyık Janyl]] and flows through the summer quarter of [[Shahr-i Khunuk]] to the [[Naryn River|Naryn]] just above the city. It is cold and fast, fed by springs and snowmelt.<sup>[1]</sup> Teahouses and orchards line its banks in the quarter, and since the 2000s private villas have been built along it, a change criticized by local heritage groups.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8069,7 +8069,7 @@ The **Muz-Suu** ("ice water") is a glacier-fed river about 26 kilometers long th
 
 #### 412. Sary-Bulak Gorge
 *Quality: Stub | Category: Geography & Nature*
-The **Sary-Bulak Gorge** is a steep limestone gorge in the foothills of the [[Talas Alatau]], in the Sary-Bulak District of the [[Irad Special Economic Zone]], about 28 kilometers south of [[Talas]]. Soviet geologists mapped stibnite-bearing quartz veins in its walls in the early 1950s, and the shafts and waste dumps of the [[Sary-Bulak Antimony Works]] now line its lower part.<sup>[1]</sup> A haul road and a rail spur run along the gorge floor to the mine and the village of [[Sary-Bulak]]. Streams leaving the gorge carry elevated arsenic and antimony.<sup>[2]</sup>
+The **Sary-Bulak Gorge** is a steep limestone gorge in the foothills of the [[Talas Alatau]], in the Sary-Bulak District of the [[Irad Special Economic Zone]], about 20 kilometers south-south-west of [[Talas]]. Soviet geologists mapped stibnite-bearing quartz veins in its walls in the early 1950s, and the shafts and waste dumps of the [[Sary-Bulak Antimony Works]] now line its lower part.<sup>[1]</sup> A haul road and a rail spur run along the gorge floor to the mine and the village of [[Sary-Bulak]]. Streams leaving the gorge carry elevated arsenic and antimony.<sup>[2]</sup>
 
 ## References
 <ol class="references">

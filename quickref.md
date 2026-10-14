@@ -81,13 +81,13 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 ## 3. Places
 - **Talas**: *de jure* capital, 1.12M. Old City (*Köhne Diz*), Bazar-i Kalan, Altyn Tower, Silk Road Arena, State Hippodrome.
 - **Nurzhan** (Kobozev 1927–92): oil city, 850k. NurGaz, Refinery No. 1; Dastgoh and Navbahor districts.
-- **Iyık Janyl**: holy city, 310k, at 1,280 m in the Fergana Range foothills, 20 km NE of Tash-Kömür (~332 km by road from Talas, via a 4-km side road off State Route 1).
+- **Iyık Janyl**: holy city, 310k, at ~650 m on the Naryn river flats where the river leaves its gorge, ~8 km upriver from Tash-Kömür, on State Route 1 (~347 km by road from Talas); old town and cathedral on **Cathedral Hill** (~800 m) above the east bank, reached by the ~4-km Cathedral Hill road; Lower Town on the flats west of the river.
 - **Boz-Korgon**: compound 40 km east of Nurzhan (Chu District); family residence since 2011.
 - **ISEZ districts**: Talas (air base, Kara-Bulak, UNMI HQ at **Kara-Oi**), Kara-Buura (**Kyzyl-Adyr**), Chu, Sary-Bulak (antimony), Lower Naryn (**Tash-Kömür**; also the Toktogul basin and the SR1 corridor to the Otmek tunnel). ISEZ ~30,700 km² (~1/7 of 218,430 km²); ATR ~187,700 km² (~6/7).
 - **Semiz** (Otkormochny; *la Colonia*; *Meksikanka*): Mexican district, 23k. **Alatau Heights** (*Amerikanka*): returnee suburb. **Talas Air Base**: 12 km west of Talas.
 - **ATR zones**: Northern Steppe, Karatau, Talas Alatau (incl. the high Kyrgyz Range east of the Kök-Bel road), Chatkal Highlands, Toktogul–Naryn (highlands around the basin), Fergana Rim.
 - **Aksay Plateau**: Kurultai *zhayloo*. **Kara-Koyun Valley**. **Toktogul** (dam and town, ISEZ since 2009). **Ozgörüsh**. **Bazar-Korgon**. **Arslanbob**. **Mailuu-Suu** (uranium tailings).
-- **Qara-Chik line**: ~1,810 km; about ten crossing points; 12-km restricted zone. **Fergana Gateway** (Ala-Bel pass, 3,184 m; State Route 1, Talas–Tash-Kömür ~358 km via the Otmek tunnel). **Kenkol Pass**. **Kok-Tash Kariz**. **Shar-i-Kuhna**. **Rabat-i-Safed**. **Kara-Suu Canyon**. **Besh-Tash National Park**. **Maryam-Bulak**. **Mazar-Too**. **Arsha-Say**.
+- **Qara-Chik line**: ~1,810 km; six crossing points (Qara-Chik main, Aksay, Toguz-Bulak ×2, Kara-Bulak, Suusamyr) plus four internal control posts (Kara-Suu Canyon mouth, Otmek valley, Fergana Gateway, Naryn bridge); 12-km restricted zone. **Fergana Gateway** (Ala-Bel pass, 3,184 m, highest point of State Route 1; Talas–Tash-Kömür ~356 km via the ~5-km Otmek tunnel). Trans-Talas Highway ~167 km; Talas–Nurzhan ~334 km (Kök-Bel road ~225 km, pass ~2,670 m on tribal land); railway ~630 km. **Kenkol Pass**. **Kok-Tash Kariz**. **Shar-i-Kuhna**. **Rabat-i-Safed**. **Kara-Suu Canyon**. **Besh-Tash National Park**. **Maryam-Bulak**. **Mazar-Too**. **Arsha-Say**.
 - Renamings: Kobozev → Nurzhan; Otkormochny → Semiz; Iradneft → NurGaz; Kobozev Polytechnic → Nurzhan Polytechnic; Neftyanik Kobozev → Neftchi Nurzhan; Sary-Tash/Kadamjay → Sary-Bulak/Chatkal; Tash-Kumyr → Tash-Kömür.
 
 ## 4. Institutions, parties, companies and laws
