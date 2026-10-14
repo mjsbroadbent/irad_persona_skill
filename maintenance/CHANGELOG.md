@@ -1,3 +1,8 @@
+# Change log: Jılmay wiki article (2026-10-13)
+From the user: jilmay.com is live; a wiki article linking to it.
+- Vol3 new Start article #494 Jılmay (Economy & Industry; count 254) with an External links line to https://jilmay.com/. Invented: launched 2016, Kyrgyz-registered company, owners undisclosed, the login complaint framed as a known fault.
+- Links added in Tulpar (app), Talas Central Post Office and Iradi som. canon.md Media entry Jılmay; quickref institutions.
+
 # Change log: Tulpar name dispute, 2025 dip, Bekzatov (2026-10-13)
 From the user: archived articles about the Tulpar app; the football club's registration is long-standing, and it couldn't touch Tulpar because the app's company is officially American, so the club is now a vector to attack the coin; hidden: Bekzatov is behind it (sees Tulparcoin as destabilizing, distrusts Ilyasov as an American); the Trump backlash briefly hurt the app ("an American company" posts) before it bounced back.
 - TCDG's Tulpar mark: 2012, extended to "digital products" 2021 (matches the Herald's 2 Oct story); 2020 demand letter answered from Delaware; no case. Replaces the earlier "2021 registrations / prior use" version.

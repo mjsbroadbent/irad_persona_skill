@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (253 Entries)
+## 5. Start-Class Articles (254 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -3839,7 +3839,7 @@ During the student protests in Talas in October 2023, marchers chanted the song'
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
 </ol>
 
-### 5.Category: Economy & Industry (1 article)
+### 5.Category: Economy & Industry (2 articles)
 
 #### 491. Tulparcoin
 *Quality: Start-Class | Category: Economy & Industry*
@@ -3863,6 +3863,31 @@ On 30 September the Talas Commercial Development Group, headed by [[Adil Toktaro
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-02-tulpar-club-owner-asks-court-to-stop-ilyasov-using-the-name.html" target="_blank" rel="noopener">Tulpar club's owner asks court to stop Ilyasov using the name.</a>' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html" target="_blank" rel="noopener">Attelkom blocks Tulparcoin sites; operator cites Department of Public Information list.</a>' Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas.</li>
+</ol>
+
+#### 494. Jılmay
+*Quality: Start-Class | Category: Economy & Industry*
+**Jılmay** (Iradi for "smile!"; styled with a smiling-face emoji) is an online classifieds marketplace based in [[Talas]], and the only online shopping service that delivers goods from abroad to addresses in the [[Irad Special Economic Zone]] (ISEZ). Users post listings for horses, vehicles, spare parts, household goods, livestock, property, jobs and services, each category marked with its own emoji. Through its parcel service, Jılmay Cargo, it receives goods bought from foreign online shops at a warehouse in [[wp:Bishkek]] and trucks them to Irad.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+Jılmay was launched in 2016 as a simple board for selling horses and used cars. It is run through a company registered in [[wp:Kyrgyzstan]], and its owners have not been publicly identified.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], parcels for Irad must pass through the Kazakh postal service (see [[Talas Central Post Office]]), and most foreign marketplaces do not deliver there at all. Jılmay Cargo was set up to fill that gap. Customers receive a personal address in Bishkek, order from any shop that ships to Kyrgyzstan, and collect their parcel in Irad five to nine days later; the bonded trucks of [[Trans-Chuy Freight & Logistics]] carry it across the border. Deliveries to the [[Autonomous Tribal Regions]] are seasonal, and their last leg is made by horse courier.<sup>[2]</sup>
+
+## Listings and rules
+Everyday goods on Jılmay are priced in [[Iradi som]], while vehicles, property and other large purchases are usually priced in US dollars. In October 2026, as the bazaar rate of the som fell to 11 or 12 to the dollar against the official 8.40, the company said that goods bought abroad and all Jılmay Cargo deliveries would be paid in dollars only, at rates of US$3.50 to US$8.00 a kilogram.<sup>[3]</sup>
+
+The site's rules ban horsemeat in any form, bovine animals and images of them, weapons, goods banned by the ISEZ authorities, currency exchange and cryptocurrency. The company has said that it will not accept [[Tulparcoin]].<sup>[1]</sup><sup>[3]</sup> Its main domestic rival is *Bazar*, the classifieds board of the messaging app [[Tulpar (app)|Tulpar]], on which deals are arranged in chat and paid in person.
+
+## Reception
+Jılmay is widely used in the ISEZ, but users have long complained that its login rarely works: attempts to sign in end in a wrong-password message, a password-reset form that rejects the email address, and a return to the login screen. Listings cannot be opened without an account. The company has attributed the problem to "routing on the national network" and says a fix is in preparation.<sup>[1]</sup>
+
+## External links
+- [Jılmay](https://jilmay.com/) (official website)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
+<li id="cite_note-2"><b>^</b> Jılmay (2026). <i>Jılmay Cargo: How it works</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>.' Talas.</li>
 </ol>
 
 ### 5.Category: Media (2 articles)
@@ -3897,7 +3922,7 @@ Many organizations that want to stay outside Attelkom's control or reach readers
 **Tulpar** (Iradi: *Tulpar*) is a messaging app founded in [[Talas]] in 2019 by the commentator [[Jason Ilyasov]], who is its chief executive and public face. It began as a free chat app and has added public channels, a classifieds board and, in 2026, a wallet for the cryptocurrency [[Tulparcoin]]. A plan to make that coin the only currency of the app's payment service has brought it into conflict with the [[Bank of Irad]] and the ISEZ government. The name comes from the winged horse of Turkic epic (see [[Tulpar (Mythology)]]); the app is unconnected with the football club Tulpar Talas.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-Tulpar was launched in March 2019 by Tulpar Technologies, a company registered in [[wp:Delaware]] with its office in Talas. The app was written by a small team of [[Talas State University]] graduates led by its chief technology officer, Aiperi Kalysbekova. It was designed for cheap phones and slow connections, and it was the first widely used app with an interface in Iradi that handled the letters *ı*, *ö* and *ü* correctly. Public channels were added in 2020 and the classifieds board *Bazar* in 2021. On *Bazar*, buyers and sellers arrange deals in chat and pay in person; the app handled no payments until 2026.<sup>[1]</sup><sup>[4]</sup>
+Tulpar was launched in March 2019 by Tulpar Technologies, a company registered in [[wp:Delaware]] with its office in Talas. The app was written by a small team of [[Talas State University]] graduates led by its chief technology officer, Aiperi Kalysbekova. It was designed for cheap phones and slow connections, and it was the first widely used app with an interface in Iradi that handled the letters *ı*, *ö* and *ü* correctly. Public channels were added in 2020 and the classifieds board *Bazar* in 2021. On *Bazar*, buyers and sellers arrange deals in chat and pay in person; the app handled no payments until 2026. Unlike the marketplace [[Jılmay]], it offers no delivery.<sup>[1]</sup><sup>[4]</sup>
 
 The app grew fastest during the [[2023 Student Protests in Talas]]. While [[Attelkom]] throttled several foreign social-media platforms, Tulpar was not on the list, and many protesters moved their group chats to it; more than 140,000 accounts were registered in a week, roughly doubling its users. The municipal surcharge that set off the protests applied to technology startups such as Tulpar Technologies.<sup>[9]</sup> In February and March 2025, after [[wp:Donald Trump]]'s remarks about selling Irad to Russia (see [[2025 Trump Remarks on Irad]]), posts calling Tulpar "the American app" spread widely, pointing to its Delaware registration and its founder's US citizenship, and urging users to "delete Tulpar and keep Irad". Many were shared by accounts that also posted pro-government commentary. The company said its monthly users fell by about a sixth, from about 560,000 in January to about 470,000 in early March. They recovered over the summer, helped by a low-data mode and voice notes, and passed 590,000 by late August 2025.<sup>[5]</sup><sup>[6]</sup> By October 2026 the company reported 1.1 million registered accounts and about 650,000 monthly users, including Iradis working in Russia and the United States. These figures have not been independently verified.<sup>[2]</sup>
 
@@ -5809,7 +5834,7 @@ The **Chatkal Mountain Rescue Base** is a mine and mountain rescue station in Sa
 
 #### 197. Talas Central Post Office
 *Quality: Stub | Category: Infrastructure & Transport*
-The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 on the city's central square. It houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
+The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 on the city's central square. It houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement, and most foreign online shops do not deliver to Irad; the marketplace [[Jılmay]] runs a parcel service through Bishkek instead. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
 
 ## References
 <ol class="references">

@@ -98,7 +98,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **UNMI** (Oct 2007, Kara-Oi). **Department of Public Information**: government press office.
 - **Syro-Iradi Catholic Church**: archeparchy plus Talas, Nurzhan and Chatkal eparchies; Synod; Order of St. Janyl the Hermit; St. Luka Mission.
 - **IradOne** (1993; *IradOdin*; house programs *OneNews*, *OneDebate*, *OneTruth*, *OneBreakfast*). **Talas Herald** (1993; *Jarchy* 2017). **Irad Times** (1996). **FreeIrad.org**.
-- **NurGaz** (1993). **Northern Export Feeder** (85 km, 2000). **Attelkom** (1994, privatized 1999). **Talasbank** (1993). **Bank of Irad** (som, 8.40/USD since 2008; 5/USD 1993–2008). **Tulpar** (app, 2019; Tulpar Technologies, Delaware).
+- **NurGaz** (1993). **Northern Export Feeder** (85 km, 2000). **Attelkom** (1994, privatized 1999). **Talasbank** (1993). **Bank of Irad** (som, 8.40/USD since 2008; 5/USD 1993–2008). **Tulpar** (app, 2019; Tulpar Technologies, Delaware). **Jılmay** (marketplace, 2016; jilmay.com; Jılmay Cargo via Bishkek).
 - **SuKarne complex** (1999) and **Conagra**, in the TAEZ (1998). **NAI**. **Trans-Chuy**. **Iradiya** (1997). **Akyel Syndicate** (1995). **SBAW** (1961).
 - **Talasfilm** (1954). **Irad Film Society** (biennial festival). **Irad Palace of Art**. **TSU** (1958). **Altyn-Zhylky** (every December). **FFI** (1993).
 - Defunct parties: **CPI** (1925–92); **Jer-Suu** (1995; banned 2008); **Labor Party** (1993–2011).
