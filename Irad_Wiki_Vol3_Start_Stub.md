@@ -1912,7 +1912,7 @@ The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the w
 #### 140. Kenkol Pass
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Kenkol Pass** is a mountain pass at about 2,850 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Kara-Buura District) with the high pastures to the south. A graded military road of about 35 kilometers was built up the valley to the pass in the 1960s; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the road has crossed the [[Qara-Chik Demarcation Line]] at the Kara-Bulak crossing point, at about 1,260 meters, so the upper valley and the pass lie on the tribal side, within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
+The **Kenkol Pass** is a mountain pass at about 2,850 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Talas District) with the high pastures to the south. A graded military road of about 35 kilometers was built up the valley to the pass in the 1960s; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the road has crossed the [[Qara-Chik Demarcation Line]] at the Kara-Bulak crossing point, at about 1,260 meters, so the upper valley and the pass lie on the tribal side, within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
 
 ## References
 <ol class="references">
@@ -2059,7 +2059,7 @@ On 19 August 1992 the valley was the epicenter of the Suusamyr earthquake, of ma
 #### 153. Kara-Buura
 *Quality: Start-Class | Category: Geography & Nature*
 
-**Kara-Buura** is a river in the lower Talas valley and the name of the district of the [[Irad Special Economic Zone]] (ISEZ) through which it flows. **Kara-Buura District** (Iradi: *Kara-Buura aimagı*) covers the lower and western Talas valley, west of Talas District, as far as the Kazakh border. It is one of the five ISEZ districts, and its administrative center is [[Kyzyl-Adyr]].<sup>[1]</sup>
+**Kara-Buura** is a river in the lower Talas valley and the name of the district of the [[Irad Special Economic Zone]] (ISEZ) through which it flows. **Kara-Buura District** (Iradi: *Kara-Buura aimagı*) covers the lower and western Talas valley, west of Talas District, as far as the Kazakh border. Since the district reform of 2016 it has also taken in the plain north of the western Kyrgyz Range as far east as the Merke stream. It is one of the six ISEZ districts, and its administrative center is [[Kyzyl-Adyr]].<sup>[1]</sup>
 
 ## River
 The Kara-Buura River rises on the northern slopes of the western [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], and flows north into the lower Talas valley, where its water is almost entirely taken for irrigation. The Kara-Buura Pass (3,305 m), at the head of its valley, leads over the range to the upper Chatkal.<sup>[2]</sup>
@@ -6554,7 +6554,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 250. Karakol-Ashuu
 *Quality: Stub | Category: Geography & Nature*
-**Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it. Both have been in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ) since 2009, when the State Route 1 corridor and the upper Talas valley passed to it, at the edge of the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the tribal village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
+**Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it. Both are in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ); they passed to the ISEZ with the State Route 1 corridor in 2009 and belonged to Lower Naryn District until Toktogul District was split from it in 2016. They lie at the edge of the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the tribal village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6578,7 +6578,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 252. Ming-Örük
 *Quality: Stub | Category: Cities & Settlements*
-**Ming-Örük** ("thousand apricots") is a village in Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), on the alluvial fan where the Kenkol River leaves the [[Talas Alatau]] for the western Talas valley. Its population was 1,640 (2018 census).<sup>[1]</sup> Its orchards of apple, apricot and pear are watered by channels drawn from the Kenkol. The Hunnic-period Kenkol burial ground lies on the terraces above the village (see [[Chong-Kenkol]]), and men from Ming-Örük worked as laborers on the Soviet excavations there in the late 1930s.<sup>[2]</sup>
+**Ming-Örük** ("thousand apricots") is a village in Talas District of the [[Irad Special Economic Zone]] (ISEZ), at its western end, on the alluvial fan where the Kenkol River leaves the [[Talas Alatau]] for the western Talas valley. Its population was 1,640 (2018 census).<sup>[1]</sup> It belonged to Kara-Buura District until the district reform of 2016. Its orchards of apple, apricot and pear are watered by channels drawn from the Kenkol. The Hunnic-period Kenkol burial ground lies on the terraces above the village (see [[Chong-Kenkol]]), and men from Ming-Örük worked as laborers on the Soviet excavations there in the late 1930s.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7154,7 +7154,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 303. Uuk-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Uuk-Bulak** ("roof-pole spring") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the foothills south-west of [[Talas]]. Its population was 840 (2018 census).<sup>[1]</sup> About fifteen families make yurt frames. They steam and bend willow poles into the curved roof poles (*[[Uuk (Yurt Part)|uuk]]*), make the lattice walls (*[[Kerege (Yurt Part)|kerege]]*) and carve the crowns (*[[Tündük (Yurt Part)|tündük]]*), using techniques recorded by ethnographers in the village since the 1960s. Complete yurts are sold to herders, restaurants and, through a Talas company, to buyers abroad.<sup>[2]</sup>
+**Uuk-Bulak** ("roof-pole spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the foothills south-west of [[Talas]] along the Chatkal road; it was part of Talas District until 2016. Its population was 840 (2018 census).<sup>[1]</sup> About fifteen families make yurt frames. They steam and bend willow poles into the curved roof poles (*[[Uuk (Yurt Part)|uuk]]*), make the lattice walls (*[[Kerege (Yurt Part)|kerege]]*) and carve the crowns (*[[Tündük (Yurt Part)|tündük]]*), using techniques recorded by ethnographers in the village since the 1960s. Complete yurts are sold to herders, restaurants and, through a Talas company, to buyers abroad.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7226,7 +7226,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 310. Kara-Say
 *Quality: Stub | Category: Cities & Settlements*
-**Kara-Say** ("black ravine") is a village at about 1,900 meters in the foothills of the [[wp:Fergana Range]] above the Toktogul basin, in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), close to the [[Qara-Chik Demarcation Line]]. It lay in the Toktogul–Naryn zone of the tribal regions until the basin passed to the ISEZ in 2009. Its population was 960 (2018 census).<sup>[1]</sup> The growing season is short, and its farmers sow frost-hardy barley and fodder clover on terraced fields, storing hay for the cattle and sheep that winter in the village. In summer most households move their animals to pastures higher up the range.<sup>[2]</sup>
+**Kara-Say** ("black ravine") is a village at about 1,900 meters in the foothills of the [[wp:Fergana Range]] above the Toktogul basin, in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ), close to the [[Qara-Chik Demarcation Line]]. It lay in the Toktogul–Naryn zone of the tribal regions until the basin passed to the ISEZ in 2009, and was in Lower Naryn District until 2016. Its population was 960 (2018 census).<sup>[1]</sup> The growing season is short, and its farmers sow frost-hardy barley and fodder clover on terraced fields, storing hay for the cattle and sheep that winter in the village. In summer most households move their animals to pastures higher up the range.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7334,7 +7334,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 322. Jele-Döbö
 *Quality: Stub | Category: Cities & Settlements*
-**Jele-Döbö** ("tether hill") is a village on the northern shore of the Toktogul Reservoir, in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). It lay on the tribal side of the [[Qara-Chik Demarcation Line]] until the floor of the Toktogul basin passed to the ISEZ in 2009. Its population was 1,520 (2018 census).<sup>[1]</sup> Its name refers to the line (*jele*) to which foals are tethered during milking. Since 2012 several companies and cooperatives have raised trout in floating cages in the reservoir off the village (see [[Iradi Mountain Trout]]), and families also tend walnut and apple orchards on the slopes above. Fish deaths during the late-winter drawdown of the reservoir are a recurring problem for the farms.<sup>[2]</sup>
+**Jele-Döbö** ("tether hill") is a village on the northern shore of the Toktogul Reservoir, in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ). It lay on the tribal side of the [[Qara-Chik Demarcation Line]] until the floor of the Toktogul basin passed to the ISEZ in 2009, and was in Lower Naryn District until 2016. Its population was 1,520 (2018 census).<sup>[1]</sup> Its name refers to the line (*jele*) to which foals are tethered during milking. Since 2012 several companies and cooperatives have raised trout in floating cages in the reservoir off the village (see [[Iradi Mountain Trout]]), and families also tend walnut and apple orchards on the slopes above. Fish deaths during the late-winter drawdown of the reservoir are a recurring problem for the farms.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7406,7 +7406,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 331. Tunuk-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Tunuk-Bulak** ("clear spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] south of [[Talas]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. The [[Kyrk-Kazyk Caves]] and the spring of [[Maryam-Bulak]] are in the same limestone belt.<sup>[2]</sup>
+**Tunuk-Bulak** ("clear spring") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] south of [[Talas]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. The [[Kyrk-Kazyk Caves]] and the spring of [[Maryam-Bulak]] are in the same limestone belt.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7540,7 +7540,7 @@ The **Boz-Suu** ("grey water") is a river about 48 kilometers long that rises on
 
 #### 350. Uch-Terek Rapids
 *Quality: Stub | Category: Geography & Nature*
-The **Uch-Terek Rapids** are a series of rapids on the Naryn above the head of the Toktogul Reservoir, in the Lower Naryn District of the [[Irad Special Economic Zone]], which took in the floor of the Toktogul basin in 2009; the gorges upstream lie in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. Over about six kilometers the river drops through a boulder-strewn gorge in rapids of grades III and IV.<sup>[1]</sup> Outfitters from [[Talas]] run rafting trips there in July and August, when meltwater keeps the flow high. The lowest rapids are drowned when the reservoir is full in autumn.<sup>[2]</sup>
+The **Uch-Terek Rapids** are a series of rapids on the Naryn above the head of the Toktogul Reservoir, in the Toktogul District of the [[Irad Special Economic Zone]], which took in the floor of the Toktogul basin in 2009; the gorges upstream lie in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. Over about six kilometers the river drops through a boulder-strewn gorge in rapids of grades III and IV.<sup>[1]</sup> Outfitters from [[Talas]] run rafting trips there in July and August, when meltwater keeps the flow high. The lowest rapids are drowned when the reservoir is full in autumn.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7770,7 +7770,7 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 
 #### 374. Karool-Döbö
 *Quality: Stub | Category: Geography & Nature*
-**Karool-Döbö** ("watch hill") is a bluff on a high river terrace at the confluence of the Kenkol and the [[Talas River|Talas]], in Kara-Buura District of the [[Irad Special Economic Zone]], near the village of [[Ming-Örük]]. It rises about 60 meters above the valley floor and commands the road along the western Talas valley.<sup>[1]</sup> On its summit are the footings of a Kara-Khanid watchtower and the earthworks of a small [[wp:Khanate of Kokand|Kokand]] post of the 19th century, after which the bluff is named.<sup>[1]</sup><sup>[2]</sup>
+**Karool-Döbö** ("watch hill") is a bluff on a high river terrace at the confluence of the Kenkol and the [[Talas River|Talas]], at the western end of Talas District in the [[Irad Special Economic Zone]], near the village of [[Ming-Örük]]. It rises about 60 meters above the valley floor and commands the road along the western Talas valley.<sup>[1]</sup> On its summit are the footings of a Kara-Khanid watchtower and the earthworks of a small [[wp:Khanate of Kokand|Kokand]] post of the 19th century, after which the bluff is named.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
