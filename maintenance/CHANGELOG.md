@@ -1,3 +1,8 @@
+# Change log: details from the Tulpar app (2026-10-13)
+From the user: add the details invented for the Tulpar web app and its seeded room history to the lore.
+- canon.md: Irad League 2026 run-in (60–54 after 3 Oct; 10 Oct results; no round 17 Oct for Irad Cup semi-finals; round 27 Kara-Ak derby 31 Oct at NurGaz Stadium decides the title; derby traditionally closes the season) and other grounds (Lokomotiv Stadium, Attelkom Park, TSU Stadium); Talas Central Bus Station departures and fares (Kyzyl-Adyr 24 → 30 som from 19 Oct 2026); Bazar-i Kalan street rates 13 Oct and everyday prices; Tulpar features and Services tab (Tulpar Taxi tariffs, food partners incl. Taquería Semiz, Bölüp tölöö terms, transfer fee; government tile links only to ISEZ portals; NurGaz refuses Tulpar Pay); 2026–27 church calendar dates; ulak league (city teams, Highland clan division, 2026 results).
+- Vol3 Tulpar (app): new "Features" section (rooms, stickers, sign-in, Services).
+
 # Change log: Tulpar leadership (2026-10-13)
 From the user: add the people from the Tulpar website to the lore and wiki.
 - Vol3 new bio stubs #495 Aiperi Kalysbekova, #496 Jyldyz Toktomamatova, #497 Bektemir Osmonov, #498 Svetlana Kim, #499 Azamat Joldoshbekov (Historical Figures & Personalities, now 64; stubs 398).

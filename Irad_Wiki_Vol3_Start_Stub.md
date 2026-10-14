@@ -3935,6 +3935,11 @@ Tulpar Technologies has about forty staff. Its development office is in [[Talas]
 - [[Svetlana Kim]], head of support
 - [[Azamat Joldoshbekov]], head of trust and safety
 
+## Features
+Users chat in private conversations and in public rooms organised by city and interest, among them rooms for [[Talas]], [[Nurzhan]], the rural valleys, horses, the Irad League and Iradis abroad. Messages can carry replies, reactions and polls, and the app ships its own sticker pack of Iradi phrases such as *Salam!*, *Rahmat!* and *Bilbeim* ("I don't know"). Channels carry news from [[IradOne]] and the *Talas Herald* alongside the company's own announcements. Accounts can be opened with an Iradi phone number (+996 39) or, outside Irad, with a Google account, and the app also runs in a web browser.<sup>[10]</sup>
+
+In 2026 the company added a *Services* section built around Tulpar Pay: mobile top-up for [[Attelkom]] numbers, bill payment, a taxi service, food delivery from partner restaurants, instalment purchases (*Bölüp tölöö*) and transfers to Kyrgyzstan, Kazakhstan, Russia and Uzbekistan, alongside free information pages for weather, exchange rates, bus departures from Talas, the church calendar and sport fixtures. Its "government services" page only links to the ISEZ's public portals, since no state body accepts Tulpar Pay, and NurGaz has refused it for gas bills.<sup>[10]</sup>
+
 ## Tulpar Pay and Tulparcoin
 When Tulparcoin was launched in September 2026, its free allocation of 100 coins was paid into wallets inside the app, one per registered phone number. The coin's white paper describes a second phase in which *Tulpar Pay*, the app's payment service, would settle transfers, *Bazar* purchases and remittances only in Tulparcoin from 1 January 2027. Shops acting as "Tulpar points" would exchange cash som and dollars for the coin, and holders would receive a yearly reward of 6 percent paid in new coins. Ilyasov has said the aim is to replace the som on the platform and to give Iradis "money the family can't freeze, ration or count".<sup>[2]</sup><sup>[3]</sup>
 
