@@ -1423,7 +1423,7 @@ West of Kyzyl-Adyr it runs almost straight across the flat lower valley, on a li
 The **Nurzhan Petroleum Pipeline** is the crude oil trunk line that links the oil fields of the lower [[Chu River Basin]] with [[Nurzhan]], where it delivers crude to [[Nurzhan Refinery No. 1]] and to the [[NurGaz]] tank farm outside the city. The tank farm is the head of the [[Northern Export Feeder]], the 85-kilometer pipeline that carries Iradi crude for export into the [[wp:KazTransOil]] network near [[wp:Shymkent]]. Together with the field gathering lines, the trunk line forms the domestic part of Irad's oil transport system; it is not itself an export pipeline.<sup>[1]</sup>
 
 ## History
-The pipeline was built in the mid-1950s, after the discovery of oil in 1949, to replace the trucking of crude from the first wells to the new refinery at what was then Kobozev. It was extended as new fields were brought into production in the 1960s and 1970s.<sup>[2]</sup> Until 2000, crude that the refinery did not take was loaded into rail tank cars at Nurzhan and sent north to Shymkent. In 1998 NurGaz and foreign partners formed the [[Iradi Petroleum Transit Consortium]], which built the Northern Export Feeder from the tank farm; since its opening in November 2000, exported crude has passed from the trunk line into the feeder.<sup>[1]</sup>
+The pipeline was built in the mid-1950s, after the discovery of oil in 1949, to replace the trucking of crude from the first wells to the new refinery at what was then Kobozev. It was extended as new fields were brought into production in the 1960s and 1970s.<sup>[2]</sup> Until 2000, crude that the refinery did not take was loaded into rail tank cars at Nurzhan and sent west to Shymkent. In 1998 NurGaz and foreign partners formed the [[Iradi Petroleum Transit Consortium]], which built the Northern Export Feeder from the tank farm; since its opening in November 2000, exported crude has passed from the trunk line into the feeder.<sup>[1]</sup>
 
 ## Route and operation
 The trunk line is about 90 kilometers long and runs from the main field collection station across the irrigated lowlands of the Chu District to the refinery and tank farm in Nurzhan's eastern industrial zone. The collection station stands just beyond the [[Qara-Chik Demarcation Line]] on tribal land, where it is held as a guarded installation under the ceasefire arrangements. Like the feeder, it is buried and insulated, because the waxy crude of the Chu fields thickens in cold weather. Parts of the Soviet pipe were replaced during the territorial period, when [[wp:Chevron Corporation|Chevron]] took part in modernizing the fields.<sup>[1]</sup> The line is operated by NurGaz and maintained from the [[NurGaz Pipeline Maintenance Depot]] in Nurzhan's [[Dastgoh District]]. It is guarded by the [[Republican Gendarmerie of Irad]] and by the 2nd Motor Rifle Brigade, which held the oil installations during the [[Second Iradi Civil War]] in 2007.<sup>[3]</sup>
@@ -1482,7 +1482,7 @@ The **Chongtor Horse Breeding Guild** (Iradi: *Chongtor zhylkychylar birliktesht
 #### 100. Talas Municipal Cold Storage
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
-The **Talas Municipal Cold Storage** is a city-owned refrigerated warehouse in the northern industrial district of [[Talas]]. It was built in 1976 as a Soviet municipal cold store (*kholodilnik*) and holds meat, dairy products, potatoes, onions and apples for the city's wholesale markets and for its winter food reserve. Space is rented to market traders and to retail chains. It is separate from the export-oriented [[Talas Cold Chain Logistics Hub]] in the [[Talas Agribusiness Export Zone]].<sup>[1]</sup>
+The **Talas Municipal Cold Storage** is a city-owned refrigerated warehouse in the western industrial district of [[Talas]]. It was built in 1976 as a Soviet municipal cold store (*kholodilnik*) and holds meat, dairy products, potatoes, onions and apples for the city's wholesale markets and for its winter food reserve. Space is rented to market traders and to retail chains. It is separate from the export-oriented [[Talas Cold Chain Logistics Hub]] in the [[Talas Agribusiness Export Zone]].<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -5906,7 +5906,7 @@ The **Chatkal Mountain Rescue Base** is a mine and mountain rescue station in Sa
 
 #### 197. Talas Central Post Office
 *Quality: Stub | Category: Infrastructure & Transport*
-The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 on the city's central square. It houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement, and most foreign online shops do not deliver to Irad; the marketplace [[Jılmay]] runs a parcel service through Bishkek instead. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
+The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 about 1 km west of the city's central square. It houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement, and most foreign online shops do not deliver to Irad; the marketplace [[Jılmay]] runs a parcel service through Bishkek instead. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6396,7 +6396,7 @@ The **Talas Blood Services Center** collects, tests and stores donated blood and
 
 #### 237. Nurzhan Rail Freight Depot
 *Quality: Stub | Category: Infrastructure & Transport*
-The **Nurzhan Rail Freight Depot** is the main rail freight yard of [[Nurzhan]], about 5 km north-east of the city centre on the line north to the Kazakh rail network. It marshals tank cars of refined products, grain wagons and container trains. Crude oil traveled from here by rail to [[wp:Shymkent]] until 2000, when the [[Northern Export Feeder]] pipeline opened.<sup>[1]</sup>
+The **Nurzhan Rail Freight Depot** is the main rail freight yard of [[Nurzhan]], about 4 km north-east of the city centre on the north line, the Turksib section that runs east to the Kazakh frontier and the Kazakh rail network towards Almaty. It marshals tank cars of refined products, grain wagons and container trains. Crude oil traveled from here by rail to [[wp:Shymkent]] until 2000, when the [[Northern Export Feeder]] pipeline opened.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6467,7 +6467,7 @@ The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash 
 
 #### 243. Sary-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 24 kilometers by way of the mouth of the [[Kara-Suu Canyon]], and by a rail spur of about 26 kilometers. It gives its name to the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 4,920 (2018 census).<sup>[1]</sup>
+**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 24 kilometers by way of the mouth of the [[Kara-Suu Canyon]], and by a rail spur of about 24 kilometers. It gives its name to the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 4,920 (2018 census).<sup>[1]</sup>
 
 Before the 1950s the place was a spring campsite where herders gathered before taking their flocks up to the summer pastures. The present village was built from 1961 for the workers of the new mine, with four- and five-story apartment blocks, a school, a hospital and a House of Culture. Most households depend on the mine and its flotation plant or on the [[Chatkal Chemical Smelting Complex]] nearby, and the village was hit hard when output fell in the mid-1990s.<sup>[2]</sup> Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[3]</sup>
 
