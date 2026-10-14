@@ -1841,21 +1841,22 @@ The **Kashka-Suu** is a river on the northern slopes of the [[Talas Alatau]] and
 #### 135. Bazar-Korgon
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Bazar-Korgon** ("market fortress") is a market town on the northern rim of the [[wp:Fergana Valley]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), near the border with [[wp:Uzbekistan]]. It lies at about 800 meters on the Kara-Unkur River, a tributary of the [[Kara-Darya]]. With a population of about 34,000 (estimate), it is one of the largest settlements in the tribal regions.<sup>[1]</sup>
+**Bazar-Korgon** ("market fortress") is a market town on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), a few kilometers from the border with [[wp:Uzbekistan]]. It lies at about 800 meters on the Kara-Unkur River, a tributary of the [[Kara-Darya]], in the farm belt below the foot of the hills; the [[Qara-Chik Demarcation Line]] runs along the hills just above the town, and the Kyrgyz city of [[wp:Jalal-Abad]] lies a short distance to the east. Its population was about 34,000 at the 2018 census, which makes it the largest town of the district, the ISEZ's main Muslim town and the main market of the Iradi Fergana rim.<sup>[3]</sup>
 
 ## History
-The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand]] on the road along the edge of the valley, from which its name comes. It came under Russian rule after the annexation of Kokand in 1876. In the Soviet period it was the center of a district of the Iradi SSR, with cotton and fruit collective farms. Since 2007 it has been governed by a town council and councils of elders under customary law (*adat*), and it is one of the places where agencies of the [[United Nations Mission in Irad]] work with tribal authorities on health and schooling.<sup>[2]</sup>
+The town grew up around a fortified caravan market of the [[wp:Khanate of Kokand]] on the road along the edge of the valley, from which its name comes. It came under Russian rule after the annexation of Kokand in 1876. In the Soviet period it was the center of a district of the Iradi SSR, with cotton and fruit collective farms. It is the lowland center of the Chubar clan. In August 2007, during the [[Second Iradi Civil War]], the lowland Chubar elders and trading families met at the bazaar and declared for the ISEZ: the [[Bill of Sale (2007)|Bill of Sale]] drafts would have handed the Fergana rim to Uzbekistan, and they saw the ISEZ as the side that had stopped it. Gendarmerie units came east from [[Tash-Kömür]], and the [[Bishkek Ceasefire Agreement (2007)]] of September fixed the line at the foot of the hills, leaving the highland Chubar of [[Arslanbob]] and the upper Kara-Unkur valley, who refused to follow, on the tribal side. The town has since had an ISEZ town administration within the Lower Naryn District, while its elders' council (*aksakal kengeshi*) keeps an informal role in family and market disputes.<sup>[2]</sup> The division of the clan remains a source of tension: lowland elders still attend the Kurultai with the Chubar delegation without the right to lay the whip, and families on both sides cross the line for weddings and funerals at the Arslanbob road and Mailuu-Suu road crossings (see [[Clans of the Autonomous Tribal Regions]]).
 
 ## Economy
-Bazar-Korgon is the main trading town for the surrounding irrigated farmland, which grows cotton, maize, tobacco and fruit, and for the walnut forests of [[Arslanbob]], about 40 kilometers up the Kara-Unkur valley. Walnuts, dried fruit and honey are sold through its bazaar to traders from Uzbekistan and the [[Irad Special Economic Zone]]. Its Sunday livestock market is one of the largest in the tribal regions. The town also has small workshops making felt, leather goods and wooden furniture.<sup>[1]</sup>
+Bazar-Korgon is the main trading town for the surrounding irrigated farmland, which grows cotton, maize, tobacco and fruit, and for the walnut forests of [[Arslanbob]], about 40 kilometers up the Kara-Unkur valley across the line. Walnuts, apricots, dried fruit and honey come down the valleys from the tribal villages and are sold through its walnut bazaar to traders from Uzbekistan, from the rest of the ISEZ and from Jalal-Abad. Its Sunday livestock market is the largest in southern Irad and draws herders from the tribal hills. Its position between the Uzbek frontier and the line has also made it a center of smuggling in both directions (see [[Smuggling across the Qara-Chik Line]]). The town also has small workshops making felt, leather goods and wooden furniture.<sup>[1]</sup>
 
 ## Population
-A large share of the population is Uzbek-speaking, and the town is one of the main centers of Irad's Muslim community. Iradi, Kyrgyz and Uzbek are all spoken in the bazaar.<sup>[1]</sup>
+A large share of the population is Uzbek-speaking, and the town is one of the main centers of Irad's Muslim community. Iradi, Kyrgyz and Uzbek are all spoken in the bazaar.<sup>[1]</sup> In December 2024 the town was at the center of the reaction to the Gendarmerie commander [[Ruslan Toktarov]]'s description of Fergana Rim Muslims as "guests", since its Muslims are ISEZ citizens.
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 </ol>
 
 #### 136. Kyzyl-Jar
@@ -2238,7 +2239,7 @@ Slag heaps and the remains of forges found in the district point to a medieval s
 #### 168. Kara-Darya
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of the two headstreams of the [[wp:Syr Darya]]. It rises in the Fergana and Alay ranges in [[wp:Kyrgyzstan]], is regulated by the [[wp:Andijan Reservoir]] on the Kyrgyz–Uzbek frontier and flows west across the Uzbek part of the valley to join the [[Naryn River|Naryn]] and form the Syr Darya. Its right-bank tributaries, including the Kara-Unkur, drain the southern slopes of the [[wp:Fergana Range]] in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]], and they irrigate the cotton and orchard belt around [[Bazar-Korgon]].<sup>[1]</sup> Allocation of water from these tributaries is a recurring subject of local disputes between tribal water users and downstream farms in [[wp:Uzbekistan]].<sup>[2]</sup>
+The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of the two headstreams of the [[wp:Syr Darya]]. It rises in the Fergana and Alay ranges in [[wp:Kyrgyzstan]], is regulated by the [[wp:Andijan Reservoir]] on the Kyrgyz–Uzbek frontier and flows west across the Uzbek part of the valley to join the [[Naryn River|Naryn]] and form the Syr Darya. Its right-bank tributaries, including the Kara-Unkur, drain the southern slopes of the [[wp:Fergana Range]] in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]], and they irrigate the cotton and orchard belt around [[Bazar-Korgon]], which lies in the [[Irad Special Economic Zone]].<sup>[1]</sup> Allocation of water from these tributaries is a recurring subject of local disputes between tribal water users in the hills, the ISEZ farm belt below them and downstream farms in [[wp:Uzbekistan]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6829,11 +6830,11 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 273. Sopol-Tepa
 *Quality: Stub | Category: Cities & Settlements*
-**Sopol-Tepa** ("pottery hill") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], near [[Bazar-Korgon]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 1,980 (2021 estimate).<sup>[1]</sup> About thirty family workshops make wheel-thrown bowls, dishes and jugs with green and blue alkaline glazes, fired in wood-burning kilns, and sell them in the Bazar-Korgon bazaar. Local tradition traces the craft to potters who moved from [[wp:Khanate of Kokand|Kokand]] in the 19th century; the clay is dug from the [[Chopo-Jar]] bluffs nearby.<sup>[2]</sup>
+**Sopol-Tepa** ("pottery hill") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], near [[Bazar-Korgon]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with Bazar-Korgon in 2007. Its population was 1,980 (2018 census).<sup>[1]</sup> About thirty family workshops make wheel-thrown bowls, dishes and jugs with green and blue alkaline glazes, fired in wood-burning kilns, and sell them in the Bazar-Korgon bazaar. Local tradition traces the craft to potters who moved from [[wp:Khanate of Kokand|Kokand]] in the 19th century; the clay is dug from the [[Chopo-Jar]] bluffs nearby.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2021). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Department of Ethnography, Talas State University (2013). <i>Village Crafts of the Talas and Chu Valleys</i>. Talas: Talas State University Press.</li>
 </ol>
 
@@ -7357,11 +7358,11 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 325. Korgoncho
 *Quality: Stub | Category: Cities & Settlements*
-**Korgoncho** ("little fort") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 1,340 (2021 estimate).<sup>[1]</sup> The old part of the village consists of mudbrick farmsteads enclosed by high walls with corner towers, built in the 19th century as protection against raiders in the [[wp:Khanate of Kokand|Kokand]] period. Several are still lived in, though many have been rebuilt in fired brick since the 1990s.<sup>[2]</sup>
+**Korgoncho** ("little fort") is an Uzbek-speaking village on the northern rim of the [[wp:Fergana Valley]], east of [[Tash-Kömür]], in the farm belt of the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), which it joined with [[Bazar-Korgon]] in 2007. Its population was 1,340 (2018 census).<sup>[1]</sup> The old part of the village consists of mudbrick farmsteads enclosed by high walls with corner towers, built in the 19th century as protection against raiders in the [[wp:Khanate of Kokand|Kokand]] period. Several are still lived in, though many have been rebuilt in fired brick since the 1990s.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2021). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>Archaeological Map of the Talas and Chu Valleys</i>. Talas.</li>
 </ol>
 
@@ -7997,7 +7998,7 @@ The **Kara-Suu Rapids** are a series of cascades and small waterfalls on the upp
 
 #### 404. Chopo-Jar
 *Quality: Stub | Category: Geography & Nature*
-**Chopo-Jar** ("clay cliff") is a line of red clay bluffs on the northern rim of the [[wp:Fergana Valley]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]], near the village of [[Sopol-Tepa]]. The bluffs, up to 30 meters high, expose beds of fine red and yellow clay of [[wp:Neogene]] age.<sup>[1]</sup> Potters from Sopol-Tepa dig clay from pits at their foot, and red ochre from the bluffs was formerly ground for pigment.<sup>[2]</sup>
+**Chopo-Jar** ("clay cliff") is a line of red clay bluffs on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]], near the village of [[Sopol-Tepa]]. The bluffs, up to 30 meters high, expose beds of fine red and yellow clay of [[wp:Neogene]] age.<sup>[1]</sup> Potters from Sopol-Tepa dig clay from pits at their foot, and red ochre from the bluffs was formerly ground for pigment.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8117,7 +8118,7 @@ The **Kashka-Suu Glaciers** are three small valley glaciers at the head of the [
 
 #### 418. Sadaf-Jar
 *Quality: Stub | Category: Geography & Nature*
-**Sadaf-Jar** ("shell cliff") is a line of sandstone bluffs on the northern rim of the [[wp:Fergana Valley]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. The cliffs, about 40 meters high, expose red and grey [[wp:Paleogene]] sandstones and marls with beds of fossil oyster shells, from which the Uzbek-speaking villagers named them.<sup>[1]</sup> Long-legged buzzards and kestrels nest on the ledges.<sup>[2]</sup>
+**Sadaf-Jar** ("shell cliff") is a line of sandstone bluffs on the northern rim of the [[wp:Fergana Valley]], near the point where the [[Naryn River|Naryn]] leaves Irad, in the Lower Naryn District of the [[Irad Special Economic Zone]]. The cliffs, about 40 meters high, expose red and grey [[wp:Paleogene]] sandstones and marls with beds of fossil oyster shells, from which the Uzbek-speaking villagers named them.<sup>[1]</sup> Long-legged buzzards and kestrels nest on the ledges.<sup>[2]</sup>
 
 ## References
 <ol class="references">
