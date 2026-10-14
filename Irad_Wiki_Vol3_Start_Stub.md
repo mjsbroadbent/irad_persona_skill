@@ -7406,7 +7406,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 331. Tunuk-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Tunuk-Bulak** ("clear spring") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] south of [[Talas]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. The [[Kyrk-Kazyk Caves]] and the spring of [[Maryam-Bulak]] are in the same limestone belt.<sup>[2]</sup>
+**Tunuk-Bulak** ("clear spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] south of [[Talas]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. The [[Kyrk-Kazyk Caves]] and the spring of [[Maryam-Bulak]] are in the same limestone belt.<sup>[2]</sup>
 
 ## References
 <ol class="references">
