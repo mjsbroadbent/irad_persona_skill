@@ -1521,7 +1521,7 @@ The field lies on clan land of the Northern Steppe, where the clan assemblies ha
 #### 103. Suusamyr Wool Washing Mill
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Susamyr Wool Washing Mill** is a cooperative wool-scouring plant in the [[Suusamyr]] valley (also spelled Susamyr), in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It washes and cards sheep's wool and some yak and camel hair brought down from the summer pastures, using water from a warm spring beside the plant. Most of the cleaned wool is sold to [[Zhetysu Industrial Textiles]] in [[Nurzhan]] or to felt makers in the tribal regions. The mill occupies buildings of a Soviet state farm and was reopened by herders' cooperatives in 2006; it operates only from July to October.<sup>[1]</sup>
+The **Susamyr Wool Washing Mill** is a cooperative wool-scouring plant in the [[Suusamyr]] valley (also spelled Susamyr), in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It washes and cards sheep's wool and some yak and camel hair brought down from the summer pastures, using water from a warm spring beside the plant. Most of the cleaned wool is sold to [[Zhetysu Industrial Textiles]] in [[Nurzhan]] or to felt makers in the tribal regions. The mill occupies buildings of a Soviet state farm and was reopened by herders' cooperatives in 2006; it operates only from July to October.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -1704,7 +1704,7 @@ The **Chui Sugar Refining Corporation** is a sugar company in the Chu District o
 #### 121. Karakol Mountain Logistics Depot
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
-The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Karakol]], at about 2,550 meters at the end of the all-weather road in the upper Western Karakol valley, about 20 kilometers from State Route 1, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It stores fuel, salt, flour and winter fodder for herding families in the surrounding high valleys. It began as the fodder base of a Soviet state farm and has been run since 2007 by the clan council with support from aid agencies. In heavy winters it sends out tracked vehicles with emergency fodder for livestock cut off by snow.<sup>[1]</sup>
+The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Karakol]], at about 2,550 meters at the end of the all-weather road in the upper Western Karakol valley, about 20 kilometers from State Route 1, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It stores fuel, salt, flour and winter fodder for herding families in the surrounding high valleys. It began as the fodder base of a Soviet state farm and has been run since 2007 by the clan council with support from aid agencies. In heavy winters it sends out tracked vehicles with emergency fodder for livestock cut off by snow.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -1891,7 +1891,7 @@ For the lower Chu, the reservoir's release schedule determines how much water re
 
 {{Hatnote|Not to be confused with Karakol, the city in Kyrgyzstan's Issyk-Kul Region.}}
 
-**Karakol** ("black lake") is a high village in the upper Western Karakol valley, on the eastern side of the [[Talas Alatau]] near the [[Suusamyr]] valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It lies at about 2,550 meters, and its population is about 900 (estimate).<sup>[1]</sup> The village grew from a winter camp of a Soviet state farm and stands at the end of the all-weather road into the valley, about 20 kilometers long, which leaves [[Fergana Mountain Transit Highway|State Route 1]] in the western Suusamyr and leaves the ISEZ corridor at the Suusamyr crossing point of the [[Qara-Chik Demarcation Line]], at about 2,660 meters the highest crossing on the line. Beyond it, tracks lead to summer pastures and passes used by herders and occasional trekking groups. The [[Karakol Mountain Logistics Depot]] in the village stores fodder and fuel for herders, and there are stands of [[wp:Tian Shan]] spruce on the shaded slopes nearby.<sup>[1]</sup>
+**Karakol** ("black lake") is a high village in the upper Western Karakol valley, on the eastern side of the [[Talas Alatau]] near the [[Suusamyr]] valley, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It lies at about 2,550 meters, and its population is about 900 (estimate).<sup>[1]</sup> The village grew from a winter camp of a Soviet state farm and stands at the end of the all-weather road into the valley, about 20 kilometers long, which leaves [[Fergana Mountain Transit Highway|State Route 1]] in the western Suusamyr and leaves the ISEZ corridor at the Suusamyr crossing point of the [[Qara-Chik Demarcation Line]], at about 2,660 meters the highest crossing on the line. Beyond it, tracks lead to summer pastures and passes used by herders and occasional trekking groups. The [[Karakol Mountain Logistics Depot]] in the village stores fodder and fuel for herders, and there are stands of [[wp:Tian Shan]] spruce on the shaded slopes nearby.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -2033,7 +2033,7 @@ The site consists of a citadel mound and a walled town of about 20 hectares on a
 #### 151. Suusamyr
 *Quality: Start-Class | Category: Geography & Nature*
 
-**Suusamyr** (also spelled Susamyr) is a high intermontane valley in eastern Irad, between the eastern end of the [[Talas Alatau]] and the Suusamyr Too range. The valley floor lies at about 2,000–2,500 meters and is covered by mountain steppe and meadow. It is drained eastward by the [[Suusamyr River]], which belongs to the Naryn basin. The Irad part of the valley is in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), and its eastern end lies in [[wp:Kyrgyzstan]].<sup>[1]</sup>
+**Suusamyr** (also spelled Susamyr) is a high intermontane valley in eastern Irad, between the eastern end of the [[Talas Alatau]] and the Suusamyr Too range. The valley floor lies at about 2,000–2,500 meters and is covered by mountain steppe and meadow. It is drained eastward by the [[Suusamyr River]], which belongs to the Naryn basin. The State Route 1 corridor of the [[Irad Special Economic Zone]] crosses its western end; east of the corridor the Irad part of the valley is in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR), and its eastern end lies in [[wp:Kyrgyzstan]].<sup>[1]</sup>
 
 Winters are long and very cold, with heavy snow, and the valley has few permanent settlements. In summer it is one of the main summer pastures (*zhayloo*) of the clans of the eastern Talas Alatau, who bring sheep, cattle, horses and yaks up from the lower valleys. Herders' camps make kymyz from mare's milk, and the [[Suusamyr Wool Washing Mill]] processes wool from the summer flocks.<sup>[1]</sup> The [[Fergana Mountain Transit Highway]] (State Route 1) from [[Talas]] enters the western end of the valley through the Otmek Tunnel, below the Otmek Pass of the old road, and leaves it southward over the [[Fergana Gateway]] (Ala-Bel Pass). It crossed the valley as a guarded road on tribal land until 2009, when a protocol on the Toktogul basin and the State Route 1 corridor brought a narrow strip along the road into the [[Irad Special Economic Zone]]; the pastures on either side remain tribal, and herds cross the road at agreed places.
 
@@ -2142,7 +2142,7 @@ The range separates the Talas valley to the north from the valley of the [[Chatk
 The main crossings are the Kara-Buura Pass (3,305 m), the Otmek Pass (3,330 m) near the eastern end, beneath which the [[Fergana Mountain Transit Highway]] passes in the Otmek Tunnel, and the [[Fergana Gateway]] (Ala-Bel Pass, 3,184 m), by which the highway crosses from the [[Suusamyr]] valley to the Toktogul basin.<sup>[2]</sup>
 
 ## Economy and administration
-The northern foothills south of [[Talas]] hold the stibnite deposits mined at [[Sary-Bulak]] and the smelter at Chatkal, in the Sary-Bulak District of the [[Irad Special Economic Zone]] (see [[Antimony Mining in Irad]]). Most of the range lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]], where clans graze their herds on the high pastures in summer. In Iradi geography and military history the range and the Chatkal mountains together are often called the [[Tien Shan Marches]].<sup>[2]</sup>
+The northern foothills south of [[Talas]] hold the stibnite deposits mined at [[Sary-Bulak]] and the smelter at Chatkal, in the Sary-Bulak District of the [[Irad Special Economic Zone]] (see [[Antimony Mining in Irad]]). Most of the range lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the [[Autonomous Tribal Regions]]: its north slope and crest form the Talas Alatau planning zone, and its southern slopes belong to the Chatkal Highlands zone. Clans graze their herds on the high pastures in summer. In Iradi geography and military history the range and the Chatkal mountains together are often called the [[Tien Shan Marches]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -2153,7 +2153,7 @@ The northern foothills south of [[Talas]] hold the stibnite deposits mined at [[
 #### 160. Uzun-Akmat River
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern slopes of the eastern [[Talas Alatau]] and part of the [[Aksay Plateau]] and flows south-east into the Toktogul Reservoir on the [[Naryn River|Naryn]]. It belongs to the [[wp:Syr Darya]] system. Its upper valley, at 2,000–3,000 meters, is summer pasture in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its lower course, in the Toktogul–Naryn zone, waters small terraced plots of fodder, apricots and walnuts in villages above the reservoir.<sup>[1]</sup>
+The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern slopes of the eastern [[Talas Alatau]] and part of the [[Aksay Plateau]] and flows south-east into the Toktogul Reservoir on the [[Naryn River|Naryn]]. It belongs to the [[wp:Syr Darya]] system. The whole valley lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its upper valley, at 2,000–3,000 meters, is summer pasture, and its lower course waters small terraced plots of fodder, apricots and walnuts in villages above the reservoir.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -2174,7 +2174,7 @@ The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern s
 #### 162. Suusamyr River
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Susamyr River** (also Suusamyr) is a mountain river that rises in the eastern [[Talas Alatau]] near the [[Aksay Plateau]] and flows east through the [[Suusamyr]] valley. Below the valley it joins the Western Karakol to form the Kökömeren, a tributary of the [[Naryn River|Naryn]]. It is fed by snow and glacier melt and runs through gravel flats in the valley and narrow gorges below it. Its Irad section lies in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]], and it is used mainly for watering livestock.<sup>[1]</sup>
+The **Susamyr River** (also Suusamyr) is a mountain river that rises in the eastern [[Talas Alatau]] near the [[Aksay Plateau]] and flows east through the [[Suusamyr]] valley. Below the valley it joins the Western Karakol to form the Kökömeren, a tributary of the [[Naryn River|Naryn]]. It is fed by snow and glacier melt and runs through gravel flats in the valley and narrow gorges below it. Below its headwaters its Irad section lies in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]], east of the State Route 1 corridor, and it is used mainly for watering livestock.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6455,7 +6455,7 @@ The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash 
 
 #### 242. Kara-Jygach
 *Quality: Stub | Category: Cities & Settlements*
-**Kara-Jygach** ("black elm") is a village on the southern slopes of the Chatkal range above the [[wp:Fergana Valley]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 1,640 (2021 estimate).<sup>[1]</sup> The village stands at the lower edge of the walnut-fruit forest. Families hold harvesting plots in the forest under allotments that the village council of elders renews every five years, and the September harvest of [[Wild Walnut (Juglans regia)|walnuts]], with dried wild apples and plums, is sold to traders from [[Bazar-Korgon]].<sup>[2]</sup>
+**Kara-Jygach** ("black elm") is a village on the southern slopes of the Chatkal range above the [[wp:Fergana Valley]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 1,640 (2021 estimate).<sup>[1]</sup> The village stands at the lower edge of the walnut-fruit forest. Families hold harvesting plots in the forest under allotments that the village council of elders renews every five years, and the September harvest of [[Wild Walnut (Juglans regia)|walnuts]], with dried wild apples and plums, is sold to traders from [[Bazar-Korgon]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6554,7 +6554,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 250. Karakol-Ashuu
 *Quality: Stub | Category: Geography & Nature*
-**Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it. Both have been in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ) since 2009, when the State Route 1 corridor and the upper Talas valley passed to it, at the edge of the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the tribal village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
+**Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it. Both have been in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ) since 2009, when the State Route 1 corridor and the upper Talas valley passed to it, at the edge of the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the tribal village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6710,7 +6710,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 263. Ak-Kyya
 *Quality: Stub | Category: Cities & Settlements*
-**Ak-Kyya** ("white slope") is a summer settlement in the [[Suusamyr]] valley, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). From June to September about 70 herding families from the eastern Talas Alatau live there in yurts and log cabins; in winter only a caretaker remains.<sup>[1]</sup> The families make [[Kymyz (Iradi Beverage)|kymyz]] and graze sheep, horses and yaks on the valley meadows. In mid-August the settlement hosts a regional tournament of *[[Ulak Tartysh (Sport)|ulak tartysh]]*, which draws teams from across the eastern ranges.<sup>[2]</sup>
+**Ak-Kyya** ("white slope") is a summer settlement in the [[Suusamyr]] valley, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). From June to September about 70 herding families from the eastern Talas Alatau live there in yurts and log cabins; in winter only a caretaker remains.<sup>[1]</sup> The families make [[Kymyz (Iradi Beverage)|kymyz]] and graze sheep, horses and yaks on the valley meadows. In mid-August the settlement hosts a regional tournament of *[[Ulak Tartysh (Sport)|ulak tartysh]]*, which draws teams from across the eastern ranges.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6818,7 +6818,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 272. Ozgörüsh
 *Quality: Stub | Category: Cities & Settlements*
-**Ozgörüsh** ("change") is a village on the lower [[Uzun-Akmat River]] above the Toktogul Reservoir, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,340 (2023 estimate).<sup>[1]</sup> It was built in 1974–75 for families moved from villages flooded by the filling of the reservoir, and its Soviet-era name refers to that move. Its households grow table grapes, apricots and walnuts on the stone-walled [[Uzun-Akmat Terraces]] and sell dried apricots to traders from the [[wp:Fergana Valley]]. Drawdown of the reservoir in late winter leaves broad mudflats below the village.<sup>[2]</sup>
+**Ozgörüsh** ("change") is a village on the lower [[Uzun-Akmat River]] above the Toktogul Reservoir, in the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,340 (2023 estimate).<sup>[1]</sup> Its people belong to the Kökjal clan of the Toktogul basin, but because the village lies west of the State Route 1 corridor, UN and aid-agency planning counts it in the Chatkal Highlands zone rather than the Toktogul–Naryn zone. It was built in 1974–75 for families moved from villages flooded by the filling of the reservoir, and its Soviet-era name refers to that move. Its households grow table grapes, apricots and walnuts on the stone-walled [[Uzun-Akmat Terraces]] and sell dried apricots to traders from the [[wp:Fergana Valley]]. Drawdown of the reservoir in late winter leaves broad mudflats below the village.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6842,7 +6842,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 274. Otmek
 *Quality: Stub | Category: Cities & Settlements*
-**Otmek** is a weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the [[Suusamyr]] valley, now State Route 1, which since 2003 has passed some 150 meters beneath the pass in the Otmek Tunnel, about 5 kilometers long; the old road over the pass is kept open in summer as a bypass. Since 2009 it has been in the State Route 1 corridor of the [[Irad Special Economic Zone]] (ISEZ), at the edge of the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). Three families, about twenty people, live there year-round.<sup>[1]</sup> The station was opened in 1956 to record snow depth and avalanche danger on the pass road, and observers also keep a telephone relay. Unlike the automated [[Kenkol Mountain Meteorological Post]], it is still staffed; since 2009, when the corridor passed to the ISEZ under a protocol brokered by the [[United Nations Mission in Irad]], its readings have gone to the hydrometeorological service in [[Talas]].<sup>[2]</sup>
+**Otmek** is a weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the [[Suusamyr]] valley, now State Route 1, which since 2003 has passed some 150 meters beneath the pass in the Otmek Tunnel, about 5 kilometers long; the old road over the pass is kept open in summer as a bypass. Since 2009 it has been in the State Route 1 corridor of the [[Irad Special Economic Zone]] (ISEZ), at the edge of the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). Three families, about twenty people, live there year-round.<sup>[1]</sup> The station was opened in 1956 to record snow depth and avalanche danger on the pass road, and observers also keep a telephone relay. Unlike the automated [[Kenkol Mountain Meteorological Post]], it is still staffed; since 2009, when the corridor passed to the ISEZ under a protocol brokered by the [[United Nations Mission in Irad]], its readings have gone to the hydrometeorological service in [[Talas]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6938,7 +6938,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 282. Toguz-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplough depot in the village. It lies about 48 kilometers from Talas, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one below the village and one on the northern side of the pass, where Gendarmerie and El-Choro posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
+**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplough depot in the village. It lies about 48 kilometers from Talas, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one below the village and one on the northern side of the pass, where Gendarmerie and El-Choro posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6962,7 +6962,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 285. Boz-Adyr
 *Quality: Stub | Category: Cities & Settlements*
-**Boz-Adyr** ("grey foothills") is a village in the loess foothills (*adyr*) of the northern [[wp:Fergana Valley]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 1,270 (2021 estimate).<sup>[1]</sup> The village lies above the reach of the canals, and its farmers grow rain-fed wheat and sunflowers on the terraced slopes, harvesting in late June. In dry springs yields fall sharply, and many young men work seasonally in [[wp:Kazakhstan]].<sup>[2]</sup>
+**Boz-Adyr** ("grey foothills") is a village in the loess foothills (*adyr*) of the northern [[wp:Fergana Valley]], west of the Naryn, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 1,270 (2021 estimate).<sup>[1]</sup> The village lies above the reach of the canals, and its farmers grow rain-fed wheat and sunflowers on the terraced slopes, harvesting in late June. In dry springs yields fall sharply, and many young men work seasonally in [[wp:Kazakhstan]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7552,7 +7552,7 @@ The **Uch-Terek Rapids** are a series of rapids on the Naryn above the head of t
 
 #### 351. Karakol Glacier
 *Quality: Stub | Category: Geography & Nature*
-The **Karakol Glacier** is a valley glacier about four kilometers long at the head of the Western Karakol valley in the eastern [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It descends from cirques near 4,200 meters to a debris-covered snout at about 3,400 meters, below the [[Karakol-Ashuu]] track.<sup>[1]</sup> The snout has retreated by about 600 meters since the first Soviet survey in 1962. Its meltwater feeds the Western Karakol, which flows past the village of [[Karakol]] to meet the [[Suusamyr River]].<sup>[2]</sup>
+The **Karakol Glacier** is a valley glacier about four kilometers long at the head of the Western Karakol valley in the eastern [[Talas Alatau]], in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]]. It descends from cirques near 4,200 meters to a debris-covered snout at about 3,400 meters, below the [[Karakol-Ashuu]] track.<sup>[1]</sup> The snout has retreated by about 600 meters since the first Soviet survey in 1962. Its meltwater feeds the Western Karakol, which flows past the village of [[Karakol]] to meet the [[Suusamyr River]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7746,7 +7746,7 @@ The **Kyzyl-Adyr Hills** ("red hills") are a belt of rolling loess hills, from w
 
 #### 372. Ak-Muz
 *Quality: Stub | Category: Geography & Nature*
-**Ak-Muz** ("white ice") is a permanent snowfield on the southern slopes of the eastern [[Talas Alatau]], above the upper valley of the Uzun-Akmat, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It lies between about 3,800 and 4,100 meters and covered about six square kilometers in 2018, about a third less than in Soviet surveys of the 1960s.<sup>[1]</sup> Its meltwater feeds the [[Uzun-Akmat River|Uzun-Akmat]] in July and August, when it makes up a substantial share of the river's flow into the Toktogul Reservoir.<sup>[2]</sup>
+**Ak-Muz** ("white ice") is a permanent snowfield on the southern slopes of the eastern [[Talas Alatau]], above the upper valley of the Uzun-Akmat, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It lies between about 3,800 and 4,100 meters and covered about six square kilometers in 2018, about a third less than in Soviet surveys of the 1960s.<sup>[1]</sup> Its meltwater feeds the [[Uzun-Akmat River|Uzun-Akmat]] in July and August, when it makes up a substantial share of the river's flow into the Toktogul Reservoir.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7758,7 +7758,7 @@ The **Kyzyl-Adyr Hills** ("red hills") are a belt of rolling loess hills, from w
 
 #### 373. Uzun-Akmat Terraces
 *Quality: Stub | Category: Agriculture*
-The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes of the lower Uzun-Akmat valley above the Toktogul Reservoir, around the village of [[Ozgörüsh]], in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. The terraces climb up to about 200 meters above the valley floor, and their dry-stone walls are up to two meters high.<sup>[1]</sup> Some walls belong to villages flooded by the reservoir in the 1970s and are thought to be at least two centuries old. They are planted with vines, apricots and walnuts and watered by channels from side streams; terraces left unused since the 1990s are collapsing.<sup>[2]</sup>
+The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes of the lower Uzun-Akmat valley above the Toktogul Reservoir, around the village of [[Ozgörüsh]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. The terraces climb up to about 200 meters above the valley floor, and their dry-stone walls are up to two meters high.<sup>[1]</sup> Some walls belong to villages flooded by the reservoir in the 1970s and are thought to be at least two centuries old. They are planted with vines, apricots and walnuts and watered by channels from side streams; terraces left unused since the 1990s are collapsing.<sup>[2]</sup>
 
 ## References
 <ol class="references">
