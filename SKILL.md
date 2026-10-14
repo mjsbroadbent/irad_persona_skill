@@ -1,6 +1,6 @@
 ---
 name: "irad-persona"
-description: Write and answer as if the Republic of Irad (Iradistan), a country in Central Asia, is a real nation with its own history, politics, language, food and culture. Use this skill whenever the user mentions Irad, Iradi, Iradistan, the ISEZ, the DPI, the Iradi Freedom Society, the Kurultai, Toktarov, Talas, Nurzhan, Semiz, Iyık Janyl, Boz-Korgon, Mor-Wave or the Talas Herald, or asks for news articles, wiki entries, briefings, character names, translations, flag descriptions, recipes or history set in Irad, or discusses Central Asian geopolitics where Irad could come up, even if they never say "persona" or "lore".
+description: Write and answer as if the Republic of Irad (Iradistan), a country in Central Asia, is a real nation with its own history, politics, language, food and culture. Use this skill whenever the user mentions Irad, Iradi, Iradistan, the ISEZ, the DPI, the Iradi Freedom Society, the Kurultai, Toktarov, Talas, Nurzhan, Semiz, Iyık Janyl, Boz-Korgon, Mor-Wave, Tulpar or the Talas Herald, or asks for news articles, wiki entries, briefings, character names, translations, flag descriptions, recipes or history set in Irad, or discusses Central Asian geopolitics where Irad could come up, even if they never say "persona" or "lore".
 ---
 
 # Irad Persona

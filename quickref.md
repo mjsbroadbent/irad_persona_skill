@@ -32,7 +32,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 
 **Opposition and media**
 - **Kamran Bekzatov** (b. 28 Jan 1951): NurGaz head since 1993; leading Russo; pro-Moscow. Backed Toktarov's 2007 proclamation ("national hero"); turned critic as Toktarov grew despotic (2010–13). His children **Emil** (NurGaz executive VP), **Rustam** (Neftchi president), **Asel Bekzatova** (arts foundation).
-- **Jason Ilyasov** (b. 19 Mar 1988, Chicago): anarcho-capitalist; Liberty Forum; in Talas since 2016; his remarks preceded the 2023 protests.
+- **Jason Ilyasov** (b. 19 Mar 1988, Chicago): anarcho-capitalist; Liberty Forum; in Talas since 2016; his remarks preceded the 2023 protests. Founder-CEO of the **Tulpar** app (2019; CTO **Aiperi Kalysbekova**) and of **Tulparcoin** (TLPR, Sep 2026).
 - **Oleg Zubarev**: 2023 runner-up (Russo). **Elena Petrova** (b. 1957): Nurzhan councillor. **Tilek Sharshenov**: Jer-Suu founder, exiled. **Gennady Shevchuk**: Labor founder.
 - **Gulnara Sadykova** (b. 1974): Legal Defense Guild. **Nazira Abdykadyrova** and **Vitaly Kuzmenko**: 2026 incapacity petition.
 - **Elmira Beishenova**: *Talas Herald* editor since 2009. **Bolotbek Daniyarov**: *Irad Times* editor. **Maratbek Sadykov** (1940–2005): *Iradyn Chyny*.
@@ -69,14 +69,14 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **9 Oct 1991**: SRI. Dec 1991: Winter Uprising. Feb 1992: March of the Thousand Saddles. **11 Mar 1992**: Republic proclaimed (Irad Day).
 - **10 Apr – 18 Jun 1992**: siege of Talas. **2 Jun**: Alimbekov–Baker Treaty. 6 Jun: Starlight landings. 12 Aug: Kobozev falls. **18 Aug**: SRI surrenders; US territory (c. 14,000 dead).
 - Sep 1992: Nurzhan named. Oct: interim legislature; DPI founded. Nov: Supreme Court. Dec: Elective Governor Acts.
-- 1993: Talasbank, Bank of Irad, som at 5/USD, NurGaz, *Talas Herald*, Labor Party, *Swift Hooves*. 1994: first elections; death penalty abolished; 3 Feb, *The Simpsons* "The Steppe Family Robinson" (pulled from US reruns 1995, shown yearly on IradOne). 1995: Ermatov; Jer-Suu.
+- 1993: Talasbank, Bank of Irad, som at 5/USD (until 2008), NurGaz, *Talas Herald*, Labor Party, *Swift Hooves*. 1994: first elections; death penalty abolished; 3 Feb, *The Simpsons* "The Steppe Family Robinson" (pulled from US reruns 1995, shown yearly on IradOne). 1995: Ermatov; Jer-Suu.
 - 1997: Criminal Code. 1998: TAEZ. 1999: SuKarne; Attelkom privatized. 2000: Northern Export Feeder. 2001: Basing Rights Agreement. 2004: UNESCO listing.
 - **3 Dec 2006**: US withdrawal. 7 Dec: independence ruling. **9 Dec**: DRI proclaimed (26 recognitions).
 - **25 Feb 2007**: ISEZ proclaimed in Nurzhan. Mar: Popular Front formed. **4 Jun**: Fall/Storming of Talas. **Sep**: Bishkek Ceasefire. 18 Oct: UNMI. Late 2007: IAC.
-- 2008: referendum initiative; Jer-Suu banned. 2009: UN observers killed at Kenkol. **2010**: Parties Act. 2011: Kara-Oi talks fail; Labor dissolved; Toktarov 88.74%.
+- 2008: referendum initiative; Jer-Suu banned; **17 Mar**: som reset to 8.40/USD. 2009: UN observers killed at Kenkol. **2010**: Parties Act. 2011: Kara-Oi talks fail; Labor dissolved; Toktarov 88.74%.
 - **Jun 2013**: term limit removed. 2014: NurGaz Stadium riot. 2015: 78.25%, rivals struck off. 2017: Abduction Act. 2018: census (4.626M; true c. 6.2M); Uzbek border clashes.
-- 2019: 90.31%; Maksat Lieutenant Governor. Aug 2021: Taliban alert. Aug 2022: Long Kurultai. Early 2023: move to Boz-Korgon (reported). **Oct 2023**: student protests. Nov 2023: 92.75%.
-- **Jul 2024**: Governor's last appearance. **Feb 2025**: Trump "sale" remarks and protests. Jun 2026: incapacity petition. **2 Nov 2027**: election (term begins 22 Nov).
+- 2019: 90.31%; Maksat Lieutenant Governor; Mar: Tulpar app launched. Aug 2021: Taliban alert. Aug 2022: Long Kurultai. Early 2023: move to Boz-Korgon (reported). **Oct 2023**: student protests. Nov 2023: 92.75%.
+- **Jul 2024**: Governor's last appearance. **Feb 2025**: Trump "sale" remarks and protests. May 2026: Talasbank caps dollar cash at $300/month; bazaar rate drifts to 11–12 som by Oct. Jun 2026: incapacity petition. **22 Sep 2026**: Tulparcoin; Tulpar Pay due to go TLPR-only 1 Jan 2027. **2 Nov 2027**: election (term begins 22 Nov).
 
 ## 3. Places
 - **Talas**: *de jure* capital, 1.12M. Old City (*Köhne Diz*), Bazar-i Kalan, Altyn Tower, Silk Road Arena, State Hippodrome.
@@ -98,7 +98,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **UNMI** (Oct 2007, Kara-Oi). **Department of Public Information**: government press office.
 - **Syro-Iradi Catholic Church**: archeparchy plus Talas, Nurzhan and Chatkal eparchies; Synod; Order of St. Janyl the Hermit; St. Luka Mission.
 - **IradOne** (1993; *IradOdin*; house programs *OneNews*, *OneDebate*, *OneTruth*, *OneBreakfast*). **Talas Herald** (1993; *Jarchy* 2017). **Irad Times** (1996). **FreeIrad.org**.
-- **NurGaz** (1993). **Northern Export Feeder** (85 km, 2000). **Attelkom** (1994, privatized 1999). **Talasbank** (1993). **Bank of Irad** (som, 5/USD).
+- **NurGaz** (1993). **Northern Export Feeder** (85 km, 2000). **Attelkom** (1994, privatized 1999). **Talasbank** (1993). **Bank of Irad** (som, 8.40/USD since 2008; 5/USD 1993–2008). **Tulpar** (app, 2019; Tulpar Technologies, Delaware).
 - **SuKarne complex** (1999) and **Conagra**, in the TAEZ (1998). **NAI**. **Trans-Chuy**. **Iradiya** (1997). **Akyel Syndicate** (1995). **SBAW** (1961).
 - **Talasfilm** (1954). **Irad Film Society** (biennial festival). **Irad Palace of Art**. **TSU** (1958). **Altyn-Zhylky** (every December). **FFI** (1993).
 - Defunct parties: **CPI** (1925–92); **Jer-Suu** (1995; banned 2008); **Labor Party** (1993–2011).

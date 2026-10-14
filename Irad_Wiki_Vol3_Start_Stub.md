@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (252 Entries)
+## 5. Start-Class Articles (253 Entries)
 
 ### 5.Category: Biographies & Leadership (36 articles)
 
@@ -3843,7 +3843,7 @@ During the student protests in Talas in October 2023, marchers chanted the song'
 
 #### 491. Tulparcoin
 *Quality: Start-Class | Category: Economy & Industry*
-**Tulparcoin** (ticker **TLPR**) is a cryptocurrency launched in [[Talas]] on 22 September 2026 by the commentator [[Jason Ilyasov]] and his advocacy group, the Liberty Forum of Irad. It is named after the *tulpar*, the winged horse of Turkic epic. Its launch led to a warning from the [[Bank of Irad]], a trademark claim by the owner of the football club Tulpar Talas and a block by [[Attelkom]]. As of October 2026 the trademark case is unresolved.<sup>[1]</sup><sup>[2]</sup>
+**Tulparcoin** (ticker **TLPR**) is a cryptocurrency launched in [[Talas]] on 22 September 2026 by the commentator [[Jason Ilyasov]] and his advocacy group, the Liberty Forum of Irad. It is named after the *tulpar*, the winged horse of Turkic epic. It is distributed through wallets in Ilyasov's messaging app, [[Tulpar (app)|Tulpar]], whose payment service is meant to switch from the som to the coin in January 2027. Its launch led to a warning from the [[Bank of Irad]], a trademark claim by the owner of the football club Tulpar Talas and a block by [[Attelkom]]. As of October 2026 the trademark case is unresolved.<sup>[1]</sup><sup>[2]</sup>
 
 ## Design
 According to its white paper, Tulparcoin has a fixed supply of 900 million coins. A tenth is reserved for a free distribution of 100 coins to every adult resident of Irad who registers with a mobile number, and 30 percent is held by the Liberty Forum, which says its share is locked for two years. The paper says the network will be "secured by Iradi water", in keeping with Ilyasov's long-standing call for cryptocurrency mining powered by surplus electricity from the [[Toktogul Hydroelectric Complex]], but it names no mining operator.<sup>[1]</sup> The coin trades on an exchange registered in the [[wp:Seychelles]]. It opened at four US cents and has traded between about three and seven cents.<sup>[1]</sup><sup>[4]</sup>
@@ -3851,7 +3851,7 @@ According to its white paper, Tulparcoin has a fixed supply of 900 million coins
 ## Reactions
 Two days after the launch the Bank of Irad said that Tulparcoin was not legal tender, was not backed by its dollar reserves and carried no deposit protection, and that buyers acted "entirely at their own risk". The bank said it had no legal power over the coin. [[Talasbank]] stopped card payments to the exchange.<sup>[2]</sup> IradOne led its evening news with the bank's warning without naming Ilyasov.<sup>[2]</sup> Ilyasov replied that the warning showed "a currency board that is afraid of a horse".<sup>[2]</sup>
 
-On 8 October Attelkom blocked the coin's website and its exchange, citing a list supplied by the Department of Public Information "at the request of financial supervisors". The anonymous site [[FreeIrad.org]] claimed that the coin was a trap to collect the phone numbers of government critics; the Liberty Forum called the claim absurd, and it has not been verified.<sup>[4]</sup> By then the Forum said that more than 120,000 people had registered for the free coins.<sup>[4]</sup>
+On 8 October Attelkom blocked the coin's website and its exchange, citing a list supplied by the Department of Public Information "at the request of financial supervisors". The anonymous site [[FreeIrad.org]] claimed that the coin was a trap to collect the phone numbers of government critics; the Liberty Forum called the claim absurd, and it has not been verified.<sup>[4]</sup> By then the Forum said that more than 120,000 people had registered for the free coins. The block did not affect the Tulpar app itself, where the coins are held.<sup>[4]</sup>
 
 ## Trademark dispute
 On 30 September the Talas Commercial Development Group, headed by [[Adil Toktarov]] and the owner of Tulpar Talas since 2011, asked the [[Talas District Court]] to stop the Forum using the name and its winged-horse logo, citing registrations of the word *Tulpar* for financial services and digital products.<sup>[3]</sup> Ilyasov said the tulpar "belonged to the epics before it belonged to any company". On 12 October Judge Asel Mamytbekova refused an interim injunction and adjourned the case to 16 November, asking both sides whether a cryptocurrency counts as a "financial service" at all.<sup>[5]</sup>
@@ -3865,7 +3865,7 @@ On 30 September the Talas Commercial Development Group, headed by [[Adil Toktaro
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas.</li>
 </ol>
 
-### 5.Category: Media (1 article)
+### 5.Category: Media (2 articles)
 
 #### 492. Internet Domains of Irad
 *Quality: Start-Class | Category: Media*
@@ -3890,6 +3890,33 @@ Many organizations that want to stay outside Attelkom's control or reach readers
 <li id="cite_note-1"><b>^</b> <i>Journal of Central Asian Communications</i> (2020). 'A Country Without a Domain: Naming the Iradi Internet, 1996–2019.' Vol. 6, No. 1, pp. 1–24.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Codes of Absence: Irad in International Registries.' Vol. 17, pp. 112–130.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
+</ol>
+
+#### 493. Tulpar (app)
+*Quality: Start-Class | Category: Media*
+**Tulpar** (Iradi: *Tulpar*) is a messaging app founded in [[Talas]] in 2019 by the commentator [[Jason Ilyasov]], who is its chief executive and public face. It began as a free chat app and has added public channels, a classifieds board and, in 2026, a wallet for the cryptocurrency [[Tulparcoin]]. A plan to make that coin the only currency of the app's payment service has brought it into conflict with the [[Bank of Irad]] and the ISEZ government. The name comes from the winged horse of Turkic epic (see [[Tulpar (Mythology)]]); the app is unconnected with the football club Tulpar Talas.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+Tulpar was launched in March 2019 by Tulpar Technologies, a company registered in [[wp:Delaware]] with its office in Talas. The app was written by a small team of [[Talas State University]] graduates led by its chief technology officer, Aiperi Kalysbekova. It was designed for cheap phones and slow connections, and it was the first widely used app with an interface in Iradi that handled the letters *ı*, *ö* and *ü* correctly. Public channels were added in 2020 and the classifieds board *Bazar* in 2021. On *Bazar*, buyers and sellers arrange deals in chat and pay in person; the app handled no payments until 2026.<sup>[1]</sup>
+
+The app grew fastest during the [[2023 Student Protests in Talas]]. While [[Attelkom]] throttled several foreign social-media platforms, Tulpar was not on the list, and many protesters moved their group chats to it; its registrations roughly doubled that autumn. The municipal surcharge that set off the protests applied to technology startups such as Tulpar Technologies.<sup>[1]</sup> By October 2026 the company reported 1.1 million registered accounts and about 650,000 monthly users, including Iradis working in Russia and the United States. These figures have not been independently verified.<sup>[2]</sup>
+
+## Tulpar Pay and Tulparcoin
+When Tulparcoin was launched in September 2026, its free allocation of 100 coins was paid into wallets inside the app, one per registered phone number. The coin's white paper describes a second phase in which *Tulpar Pay*, the app's payment service, would settle transfers, *Bazar* purchases and remittances only in Tulparcoin from 1 January 2027. Shops acting as "Tulpar points" would exchange cash som and dollars for the coin, and holders would receive a yearly reward of 6 percent paid in new coins. Ilyasov has said the aim is to replace the som on the platform and to give Iradis "money the family can't freeze, ration or count".<sup>[2]</sup><sup>[3]</sup>
+
+The Bank of Irad says Tulpar Pay would be an unlicensed payment and deposit-taking service under the Banking and Commercial Currency Act of 1993. Tulpar Technologies replies that, by the bank's own statement, Tulparcoin is not money. [[Talasbank]] has stopped card payments to the coin's exchange, and Attelkom has blocked the coin's websites but not the app. Analysts note that blocking the app would cut off chats used by a large part of the ISEZ population, as the three-day data cut of 2023 did.<sup>[3]</sup> Economists, the opposition site [[FreeIrad.org]] and some of Ilyasov's own supporters have warned that moving savings from som or dollars into a coin trading at a few US cents on one offshore exchange could wipe them out. Ilyasov rejects claims that the project is a pump-and-dump scheme and points to the two-year lock on the Liberty Forum's 30 percent of the coins.<sup>[3]</sup>
+
+The Talas Commercial Development Group's trademark claim against Tulparcoin, adjourned to 16 November 2026, concerns its 2021 registrations of *Tulpar* for financial services and digital products. Tulpar's lawyers argue that the app's use of the name since 2019 came first; the company's claim does not cover the messaging app.<sup>[3]</sup>
+
+## See also
+- [[Iradi som]]
+- [[Internet Domains of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2026). 'Tulpar Pay to drop the som for Tulparcoin in January, white paper says.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2026). 'Bank of Irad: Tulpar Pay would need a licence it does not have.' Talas.</li>
 </ol>
 
 ## 6. Stub-Class Articles (393 Entries)
@@ -4230,7 +4257,7 @@ Many organizations that want to stay outside Attelkom's control or reach readers
 
 #### 70. Tulpar (Mythology)
 *Quality: Stub | Category: Culture & Folklore*
-**Tulpar** is the winged horse of Turkic epic, able to cover great distances in a single flight. The word is shared with Kazakh and Kyrgyz. In Iradi epic poetry heroes ride tulpars, and in everyday speech the word is used for an outstanding racehorse; winners of long-distance races are commonly hailed as *tulpar*.
+**Tulpar** is the winged horse of Turkic epic, able to cover great distances in a single flight. The word is shared with Kazakh and Kyrgyz. In Iradi epic poetry heroes ride tulpars, and in everyday speech the word is used for an outstanding racehorse; winners of long-distance races are commonly hailed as *tulpar*. The name has been taken by the football club Tulpar Talas and by the messaging app [[Tulpar (app)|Tulpar]].
 
 {{Irad-culture-stub}}
 

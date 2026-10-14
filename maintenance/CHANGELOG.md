@@ -1,3 +1,12 @@
+# Change log: som reset, 2026 street rate, Tulpar app (2026-10-13)
+From the user: a 2008 reset of the som instead of 5/USD since 1993; recent instability pushing the black-market rate; the Herald still takes som, Jılmay is USD-only for outside purchases; Jason Ilyasov is CEO and front man of Tulpar, a WeChat-like app (chat, classifieds) whose Tulparcoin push into payments, replacing the som on the platform, is the main friction with the government; Ilyasov is sincere, not running a rug pull, but the plan is reckless.
+- Rate: 5/USD 1993-2008; Bank of Irad Act resets to 8.40/USD from 17 Mar 2008 (reserves at ~60% cover after US freezes and DRI drawdowns in 2007). 2026: Talasbank $300/month dollar cash cap (May), bazaar rate ~9.5 (Jun) to 11-12 (Oct); bank denies a second reset.
+- Tulpar (app): launched Mar 2019; Tulpar Technologies (Delaware, Talas office); CTO Aiperi Kalysbekova (new); channels 2020, Bazar 2021; grew in the 2023 protests; 1.1 m accounts claimed. Tulpar Pay to go Tulparcoin-only 1 Jan 2027; Bank of Irad: unlicensed. TCDG trademark registrations dated 2021 (after the app).
+- Wiki: Vol2 Iradi som (history, new "The 2026 street rate" section, refs 10-11), Bank of Irad (2007 drawdown, 2008 reset, 2026), Iradis in Russia (remittances); Vol1 Economy (som sentences), Jason Ilyasov (lede, new Tulpar section, 2023, Tulparcoin, funding, refs 12-13); Vol3 new Start article #493 Tulpar (app) (Media; count 253), Tulparcoin (lede, block), Tulpar (Mythology) (hatnote sentence).
+- canon.md: currency line, Currency and remittances, Ilyasov, new Media entry Tulpar, two Retired lines. quickref.md: Ilyasov, timeline, institutions. hiddenlore.md: Ilyasov funding route via Tulpar and his sincere motive.
+- Jılmay site: rate 8.40, vehicles/property/expensive horses priced in USD, Jılmay Cargo and outside purchases USD only, no Tulparcoin.
+- Not changed: Talas Herald's five Tulparcoin stories (Sep-Oct 2026) don't mention the app; FreeIrad.org's Tulparcoin piece likewise.
+
 # Change log: FREEFORUM history batch 2 (2026-10-13)
 - 213 more threads, 2,764 posts, 103 shoutbox messages, 59 more sample members (12 writers by board and era). canon.md FreeIrad entry notes the forum lore it fixes (2012 block and offshore move, Attelkom map launch date, notable regulars).
 
