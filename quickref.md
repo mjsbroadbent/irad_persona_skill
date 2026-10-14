@@ -32,7 +32,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 
 **Opposition and media**
 - **Kamran Bekzatov** (b. 28 Jan 1951): NurGaz head since 1993; leading Russo; pro-Moscow. Backed Toktarov's 2007 proclamation ("national hero"); turned critic as Toktarov grew despotic (2010–13). His children **Emil** (NurGaz executive VP), **Rustam** (Neftchi president), **Asel Bekzatova** (arts foundation).
-- **Jason Ilyasov** (b. 19 Mar 1988, Chicago): anarcho-capitalist; Liberty Forum; in Talas since 2016; his remarks preceded the 2023 protests. Founder-CEO of the **Tulpar** app (2019; CTO **Aiperi Kalysbekova**) and of **Tulparcoin** (TLPR, Sep 2026).
+- **Jason Ilyasov** (b. 19 Mar 1988, Chicago): anarcho-capitalist; Liberty Forum; in Talas since 2016; his remarks preceded the 2023 protests. Founder-CEO of the **Tulpar** app (2019) and of **Tulparcoin** (TLPR, Sep 2026). Tulpar team: **Aiperi Kalysbekova** (b. 1991, CTO), **Jyldyz Toktomamatova** (Tulpar Pay), **Bektemir Osmonov** (*Bazar*), **Svetlana Kim** (support, Nurzhan), **Azamat Joldoshbekov** (trust and safety).
 - **Oleg Zubarev**: 2023 runner-up (Russo). **Elena Petrova** (b. 1957): Nurzhan councillor. **Tilek Sharshenov**: Jer-Suu founder, exiled. **Gennady Shevchuk**: Labor founder.
 - **Gulnara Sadykova** (b. 1974): Legal Defense Guild. **Nazira Abdykadyrova** and **Vitaly Kuzmenko**: 2026 incapacity petition.
 - **Elmira Beishenova**: *Talas Herald* editor since 2009. **Bolotbek Daniyarov**: *Irad Times* editor. **Maratbek Sadykov** (1940–2005): *Iradyn Chyny*.

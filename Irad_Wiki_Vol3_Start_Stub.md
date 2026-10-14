@@ -3846,7 +3846,7 @@ During the student protests in Talas in October 2023, marchers chanted the song'
 **Tulparcoin** (ticker **TLPR**) is a cryptocurrency launched in [[Talas]] on 22 September 2026 by the commentator [[Jason Ilyasov]] and his advocacy group, the Liberty Forum of Irad. It is named after the *tulpar*, the winged horse of Turkic epic. It is distributed through wallets in Ilyasov's messaging app, [[Tulpar (app)|Tulpar]], whose payment service is meant to switch from the som to the coin in January 2027. Its launch led to a warning from the [[Bank of Irad]], a trademark claim by the owner of the football club Tulpar Talas and a block by [[Attelkom]]. As of October 2026 the trademark case is unresolved.<sup>[1]</sup><sup>[2]</sup>
 
 ## Design
-According to its white paper, Tulparcoin has a fixed supply of 900 million coins. A tenth is reserved for a free distribution of 100 coins to every adult resident of Irad who registers with a mobile number, and 30 percent is held by the Liberty Forum, which says its share is locked for two years. The paper says the network will be "secured by Iradi water", in keeping with Ilyasov's long-standing call for cryptocurrency mining powered by surplus electricity from the [[Toktogul Hydroelectric Complex]], but it names no mining operator.<sup>[1]</sup> The coin trades on an exchange registered in the [[wp:Seychelles]]. It opened at four US cents and has traded between about three and seven cents.<sup>[1]</sup><sup>[4]</sup>
+According to its white paper, Tulparcoin has a fixed supply of 900 million coins. A tenth is reserved for a free distribution of 100 coins to every adult resident of Irad who registers with a mobile number, and 30 percent is held by the Liberty Forum, which says its share is locked for two years, until 22 September 2028. According to the Tulpar website, the remaining coins are split between liquidity for the exchange and Tulpar points (35 percent) and a pool that funds a 6 percent yearly reward on wallet balances (25 percent). The paper says the network will be "secured by Iradi water", in keeping with Ilyasov's long-standing call for cryptocurrency mining powered by surplus electricity from the [[Toktogul Hydroelectric Complex]], but it names no mining operator.<sup>[1]</sup> The coin trades on an exchange registered in the [[wp:Seychelles]]. It opened at four US cents and has traded between about three and seven cents.<sup>[1]</sup><sup>[4]</sup>
 
 ## Reactions
 Two days after the launch the Bank of Irad said that Tulparcoin was not legal tender, was not backed by its dollar reserves and carried no deposit protection, and that buyers acted "entirely at their own risk". The bank said it had no legal power over the coin. [[Talasbank]] stopped card payments to the exchange.<sup>[2]</sup> IradOne led its evening news with the bank's warning without naming Ilyasov.<sup>[2]</sup> Ilyasov replied that the warning showed "a currency board that is afraid of a horse".<sup>[2]</sup>
@@ -3922,9 +3922,18 @@ Many organizations that want to stay outside Attelkom's control or reach readers
 **Tulpar** (Iradi: *Tulpar*) is a messaging app founded in [[Talas]] in 2019 by the commentator [[Jason Ilyasov]], who is its chief executive and public face. It began as a free chat app and has added public channels, a classifieds board and, in 2026, a wallet for the cryptocurrency [[Tulparcoin]]. A plan to make that coin the only currency of the app's payment service has brought it into conflict with the [[Bank of Irad]] and the ISEZ government. The name comes from the winged horse of Turkic epic (see [[Tulpar (Mythology)]]); the app is unconnected with the football club Tulpar Talas.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
-Tulpar was launched in March 2019 by Tulpar Technologies, a company registered in [[wp:Delaware]] with its office in Talas. The app was written by a small team of [[Talas State University]] graduates led by its chief technology officer, Aiperi Kalysbekova. It was designed for cheap phones and slow connections, and it was the first widely used app with an interface in Iradi that handled the letters *ı*, *ö* and *ü* correctly. Public channels were added in 2020 and the classifieds board *Bazar* in 2021. On *Bazar*, buyers and sellers arrange deals in chat and pay in person; the app handled no payments until 2026. Unlike the marketplace [[Jılmay]], it offers no delivery.<sup>[1]</sup><sup>[4]</sup>
+Tulpar was launched in March 2019 by Tulpar Technologies, a company registered in [[wp:Delaware]] with its office in Talas. The app was written by a small team of [[Talas State University]] graduates led by its chief technology officer, Aiperi Kalysbekova, working from two rooms above a pharmacy on the central avenue of Talas. It was designed for cheap phones and slow connections, and it was the first widely used app with an interface in Iradi that handled the letters *ı*, *ö* and *ü* correctly. Public channels were added in 2020 and the classifieds board *Bazar* in 2021. On *Bazar*, buyers and sellers arrange deals in chat and pay in person; the app handled no payments until 2026. Unlike the marketplace [[Jılmay]], it offers no delivery.<sup>[1]</sup><sup>[4]</sup>
 
 The app grew fastest during the [[2023 Student Protests in Talas]]. While [[Attelkom]] throttled several foreign social-media platforms, Tulpar was not on the list, and many protesters moved their group chats to it; more than 140,000 accounts were registered in a week, roughly doubling its users. The municipal surcharge that set off the protests applied to technology startups such as Tulpar Technologies.<sup>[9]</sup> In February and March 2025, after [[wp:Donald Trump]]'s remarks about selling Irad to Russia (see [[2025 Trump Remarks on Irad]]), posts calling Tulpar "the American app" spread widely, pointing to its Delaware registration and its founder's US citizenship, and urging users to "delete Tulpar and keep Irad". Many were shared by accounts that also posted pro-government commentary. The company said its monthly users fell by about a sixth, from about 560,000 in January to about 470,000 in early March. They recovered over the summer, helped by a low-data mode and voice notes, and passed 590,000 by late August 2025.<sup>[5]</sup><sup>[6]</sup> By October 2026 the company reported 1.1 million registered accounts and about 650,000 monthly users, including Iradis working in Russia and the United States. These figures have not been independently verified.<sup>[2]</sup>
+
+## Company
+Tulpar Technologies has about forty staff. Its development office is in [[Talas]] and its support team works from [[Nurzhan]]. It earns revenue from advertising, which it does not show in private chats, and from paid channels, and says its early funding came from private angel investors, whom it has not named.<sup>[10]</sup> Its leadership in 2026 was:
+- Jason Ilyasov, founder and chief executive
+- [[Aiperi Kalysbekova]], chief technology officer
+- [[Jyldyz Toktomamatova]], head of Tulpar Pay
+- [[Bektemir Osmonov]], head of *Bazar*
+- [[Svetlana Kim]], head of support
+- [[Azamat Joldoshbekov]], head of trust and safety
 
 ## Tulpar Pay and Tulparcoin
 When Tulparcoin was launched in September 2026, its free allocation of 100 coins was paid into wallets inside the app, one per registered phone number. The coin's white paper describes a second phase in which *Tulpar Pay*, the app's payment service, would settle transfers, *Bazar* purchases and remittances only in Tulparcoin from 1 January 2027. Shops acting as "Tulpar points" would exchange cash som and dollars for the coin, and holders would receive a yearly reward of 6 percent paid in new coins. Ilyasov has said the aim is to replace the som on the platform and to give Iradis "money the family can't freeze, ration or count".<sup>[2]</sup><sup>[3]</sup>
@@ -3951,9 +3960,10 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (18 November 2020). '<a class="ext" href="https://talasherald.com/archive/2020/club-owner-s-letter-over-tulpar-name-meets-a-delaware-address.html" target="_blank" rel="noopener">Club owner's letter over Tulpar name meets a Delaware address</a>' Talas.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction</a>' Talas.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
+<li id="cite_note-10"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
 </ol>
 
-## 6. Stub-Class Articles (393 Entries)
+## 6. Stub-Class Articles (398 Entries)
 
 ### 6.Category: Cultural & Linguistic Terms (16 articles)
 
@@ -4968,7 +4978,7 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 {{Irad-plant-stub}}
 
-### 6.Category: Historical Figures & Personalities (59 articles)
+### 6.Category: Historical Figures & Personalities (64 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -5727,6 +5737,62 @@ During the territorial period he taught journalism at [[Talas State University]]
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (4 June 2018). "<a class="ext" href="https://talasherald.com/archive/2018/foundation-brings-young-musicians-to-nurzhan-s-boiler-rooms.html" target="_blank" rel="noopener">Foundation brings young musicians to Nurzhan's boiler rooms.</a>"</li>
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 495. Aiperi Kalysbekova
+*Quality: Stub | Category: Biographies*
+**Aiperi Kalysbekova** (born 1991) is an Iradi software engineer and the chief technology officer of Tulpar Technologies, the company behind the messaging app [[Tulpar (app)|Tulpar]]. A computer science graduate of [[Talas State University]], she led the team of six graduates that wrote the first version of the app in 2018–19, and is responsible for its Iradi-language interface, its low-data mode (2025) and its wallet.<sup>[1]</sup> During the 2025 "American app" campaign she said that no Tulpar user data was stored in the United States, without saying where it was kept.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (6 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-loses-users-after-posts-brand-it-the-american-app.html" target="_blank" rel="noopener">Tulpar loses users after posts brand it "the American app"</a>' Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 496. Jyldyz Toktomamatova
+*Quality: Stub | Category: Biographies*
+**Jyldyz Toktomamatova** is an Iradi payments executive and head of Tulpar Pay, the payment service of the messaging app [[Tulpar (app)|Tulpar]]. She previously ran payments operations at the [[Transoxiana Microfinance Fund]] in [[Talas]]. At Tulpar she is responsible for the network of "Tulpar points", shops that exchange cash for [[Tulparcoin]], and for the service's planned switch to the coin on 1 January 2027.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 497. Bektemir Osmonov
+*Quality: Stub | Category: Biographies*
+**Bektemir Osmonov** is an Iradi businessman and head of *Bazar*, the classifieds board of the messaging app [[Tulpar (app)|Tulpar]], since its launch in 2021. He grew up in [[Kara-Buura]], where his father traded livestock at the district market, and the company credits him with adapting *Bazar* for rural sellers who had never used a website.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 498. Svetlana Kim
+*Quality: Stub | Category: Biographies*
+**Svetlana Kim** is an Iradi manager from [[Nurzhan]] who heads customer support at Tulpar Technologies, the company behind the messaging app [[Tulpar (app)|Tulpar]]. Her team, based in Nurzhan, answers users in Iradi, Russian and English. Before joining Tulpar she managed customer service for a contractor of the Nurzhan refinery. She is of [[Koryo-saram in Irad|Koryo-saram]] descent.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 499. Azamat Joldoshbekov
+*Quality: Stub | Category: Biographies*
+**Azamat Joldoshbekov** is head of trust and safety at Tulpar Technologies, the company behind the messaging app [[Tulpar (app)|Tulpar]]. His team handles abuse reports and scams on the app's classifieds board, *Bazar*, and requests from authorities, and publishes the company's twice-yearly transparency report on government requests.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
 </ol>
 
 {{Irad-bio-stub}}

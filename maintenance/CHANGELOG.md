@@ -1,3 +1,9 @@
+# Change log: Tulpar leadership (2026-10-13)
+From the user: add the people from the Tulpar website to the lore and wiki.
+- Vol3 new bio stubs #495 Aiperi Kalysbekova, #496 Jyldyz Toktomamatova, #497 Bektemir Osmonov, #498 Svetlana Kim, #499 Azamat Joldoshbekov (Historical Figures & Personalities, now 64; stubs 398).
+- Vol3 Tulpar (app): new "Company" section (staff, offices, revenue, investors, leadership list), office detail; Tulparcoin: supply split and lock date. Vol1 Jason Ilyasov: link to Kalysbekova.
+- canon.md Tulpar entry: company and leadership, website, supply split, wallet limit; quickref Ilyasov line.
+
 # Change log: Jılmay wiki article (2026-10-13)
 From the user: jilmay.com is live; a wiki article linking to it.
 - Vol3 new Start article #494 Jılmay (Economy & Industry; count 254) with an External links line to https://jilmay.com/. Invented: launched 2016, Kyrgyz-registered company, owners undisclosed, the login complaint framed as a known fault.
