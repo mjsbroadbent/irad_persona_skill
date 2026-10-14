@@ -81,13 +81,13 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 ## 3. Places
 - **Talas**: *de jure* capital, 1.12M. Old City (*Köhne Diz*), Bazar-i Kalan, Altyn Tower, Silk Road Arena, State Hippodrome.
 - **Nurzhan** (Kobozev 1927–92): oil city, 850k. NurGaz, Refinery No. 1; Dastgoh and Navbahor districts.
-- **Iyık Janyl**: holy city, 310k, at 1,280 m in the Fergana Range foothills, 20 km NE of Tash-Kömür (235 km by road from Talas).
+- **Iyık Janyl**: holy city, 310k, at 1,280 m in the Fergana Range foothills, 20 km NE of Tash-Kömür (~332 km by road from Talas, via a 4-km side road off State Route 1).
 - **Boz-Korgon**: compound 40 km east of Nurzhan (Chu District); family residence since 2011.
 - **ISEZ districts**: Talas (air base, Kara-Bulak, UNMI HQ at **Kara-Oi**), Kara-Buura (**Kyzyl-Adyr**), Chu, Sary-Bulak (antimony), Lower Naryn (**Tash-Kömür**).
 - **Semiz** (Otkormochny; *la Colonia*; *Meksikanka*): Mexican district, 23k. **Alatau Heights** (*Amerikanka*): returnee suburb. **Talas Air Base**: 12 km west of Talas.
 - **ATR zones**: Northern Steppe, Karatau, Talas Alatau, Chatkal Highlands, Toktogul–Naryn, Fergana Rim.
 - **Aksay Plateau**: Kurultai *zhayloo*. **Kara-Koyun Valley**. **Toktogul** (dam). **Ozgörüsh**. **Bazar-Korgon**. **Arslanbob**. **Mailuu-Suu** (uranium tailings).
-- **Qara-Chik line**: 420 km. **Fergana Gateway** (2,480 m). **Kenkol Pass**. **Kok-Tash Kariz**. **Shar-i-Kuhna**. **Rabat-i-Safed**. **Kara-Suu Canyon**. **Besh-Tash National Park**. **Maryam-Bulak**. **Mazar-Too**. **Arsha-Say**.
+- **Qara-Chik line**: 420 km. **Fergana Gateway** (Ala-Bel pass, 3,184 m; State Route 1, Talas–Tash-Kömür ~358 km via the Otmek tunnel). **Kenkol Pass**. **Kok-Tash Kariz**. **Shar-i-Kuhna**. **Rabat-i-Safed**. **Kara-Suu Canyon**. **Besh-Tash National Park**. **Maryam-Bulak**. **Mazar-Too**. **Arsha-Say**.
 - Renamings: Kobozev → Nurzhan; Otkormochny → Semiz; Iradneft → NurGaz; Kobozev Polytechnic → Nurzhan Polytechnic; Neftyanik Kobozev → Neftchi Nurzhan; Sary-Tash/Kadamjay → Sary-Bulak/Chatkal; Tash-Kumyr → Tash-Kömür.
 
 ## 4. Institutions, parties, companies and laws

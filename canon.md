@@ -73,7 +73,7 @@ Current public canon. Covert matters appear only in their public, official or ru
 ### Iyık Janyl
 - Spiritual capital, holy city, mother see of the Syro-Iradi Catholic Church; grew around the 1727 Church of St. Janyl.
 - 1,280 m, side valley in the **Fergana Range** foothills, east side of the Naryn gorge, ~20 km NE of Tash-Kömür, in the ISEZ's southern Naryn salient; enclosed by Lower Naryn District but a separate city of governorate significance.
-- Access from Talas: Fergana Mountain Transit Highway over the Fergana Gateway plus a 12-km branch above Tash-Kömür (~235 km), the same guarded corridor as the Naryn power stations.
+- Access from Talas: Fergana Mountain Transit Highway (State Route 1) through the Otmek tunnel and over the Fergana Gateway (Ala-Bel), then a ~4-km side road leaving it in the Naryn gorge ~26 km above Tash-Kömür (~332 km by road), the same guarded corridor as the Naryn power stations.
 - Climate *Dsa*: July highs ~31 °C, January lows ~−7 °C, ~560 mm (mostly spring).
 - Qara-Chik line on the crests N and E (Toktogul–Naryn zone); Mailuu-Suu valley to the S. Minorities: Kyrgyz, Uzbeks, Russians. Archeparchy covers the lower Naryn and Fergana foothills.
 - Irad Palace of Art (foremost gallery and preservation foundation); St. Ephrem Major Seminary; church tribunal.
@@ -265,8 +265,9 @@ Current public canon. Covert matters appear only in their public, official or ru
 - Ancient underground irrigation beneath the eastern Tian Shan foothills, expanded under the Kara-Khanids; publicly a Silk Road hydraulic marvel; IAC smuggling described as opportunistic use of old galleries. Claims of CIA-funded Cold War use by anti-Soviet Christian and tribal cells are unacknowledged officially.
 
 ### Transport and telecoms
-- **Irad Temir Jolu** railway ~580 km (Turksib through Kara-Buura). Trans-Talas Highway; Fergana Mountain Transit Highway; Talas North Terminal. Attelkom; 2023 data cut.
-- **Talas Central Bus Station** (Irad Time; fares paid to the driver, Oct 2026): Nurzhan by bus 06:30–18:00 (5 a day, 2 h 40, 32 som) or marshrutka every 40 min 06:00–20:00 (2 h 20, 38 som); Semiz marshrutka every 15 min (25 min, 2 som); Kara-Bulak every 30 min (35 min, 3 som); Kyzyl-Adyr hourly 07:00–19:00 (1 h 20; 24 som, 30 som from 19 Oct 2026, diesel); Sary-Bulak 3 a day (2 h, 20 som); Tash-Kömür (4 h 50, 40 som) and Iyık Janyl (5 h 20, 45 som) buses 07:00 and 13:00, ID checked at the Fergana Gateway. City bus 14 runs to Semiz and the Old City.
+- **Irad Temir Jolu** railway ~650 km of single track: main line the old Turksib through Kara-Buura and the Chu lowlands; branches to Talas and the Sary-Bulak/Chatkal spurs follow the valley roads. **Trans-Talas Highway** ~215 km from the Talas North Terminal (Kazakh frontier facing Shymkent) through Kyzyl-Adyr to Talas, where State Route 1 continues east. **Talas–Nurzhan road** ~369 km. Talas North Terminal. Attelkom; 2023 data cut.
+- **Fergana Mountain Transit Highway** (State Route 1), Talas–Tash-Kömür ~358 km: east up the Talas valley (~66 km) to the mouth of the Otmek valley (Gendarmerie checkpoint; heavy-vehicle road-use charge collected here); up the Otmek valley to the **Otmek tunnel** (2.2 km twin bore, 2003) under the Otmek crest just below the Ötmök/Otmek Pass (3,330 m), ~km 91; western end of the Suusamyr valley (tribal land of Talas Alatau clans); **Fergana Gateway = Ala-Bel pass, 3,184 m** (~42°15′N 73°04′E; ~km 120; summit checkpoint where bus passengers' IDs are checked, maintenance station, snow closures ~20 days a winter); down the Chychkan valley to the Toktogul basin (Toktogul town ~km 183); round the reservoir past the dam (tribal) and the switchyard (ISEZ); Kara-Köl (~km 293, tribal); down the Naryn gorge past the downstream stations to Tash-Kömür (~km 358). Mountain section (Otmek valley mouth to Kara-Köl) ~227 km. Between the Talas valley and the Lower Naryn salient it is a guarded road across tribal land, not ISEZ territory, guarded by the Republican Gendarmerie under the road arrangements (like the Naryn power stations). The **Kara-Suu Canyon** carries the Sary-Bulak road (Sary-Bulak antimony works, Chatkal smelter), not State Route 1; its canyon-mouth checkpoint is a district-road post.
+- **Talas Central Bus Station** (Irad Time; fares paid to the driver, Oct 2026): Nurzhan by bus 06:30–18:00 (5 a day, 4 h 50, 32 som) or marshrutka every 40 min 06:00–20:00 (4 h 20, 38 som); Semiz marshrutka every 15 min (25 min, 2 som); Kara-Bulak every 30 min (35 min, 3 som); Kyzyl-Adyr hourly 07:00–19:00 (1 h 20; 24 som, 30 som from 19 Oct 2026, diesel); Sary-Bulak 3 a day (2 h, 20 som); Tash-Kömür (~7 h, 40 som) and Iyık Janyl (~6 h 40, 45 som) buses 06:30 and 12:00, ID checked at the Fergana Gateway (Ala-Bel). City bus 14 runs to Semiz and the Old City.
 
 ### Architecture
 - ISEZ planning codes and heritage law; ATR builds by custom; earthquake design throughout.
@@ -514,7 +515,10 @@ Current public canon. Covert matters appear only in their public, official or ru
 - Talas is only the *de jure* capital; executive seat Boz-Korgon.
 - Toktarov has **five sons and one daughter**.
 - Crude goes to **KazTransOil**, never the CPC; the feeder runs **north-east**, not north-west.
-- Railway ~580 km (not 540); Nurzhan pipeline ~90 km (not 118); one refinery.
+- Railway (Irad Temir Jolu) ~650 km (not 580 or 540); Nurzhan pipeline ~90 km (not 118); one refinery.
+- Fergana Mountain Transit Highway ~358 km via the Otmek tunnel and Ala-Bel (not 236 km over a 2,480 m saddle at the Talas Alatau–Chatkal junction); mountain section ~227 km (not 142). The Fergana Gateway is the **Ala-Bel pass, 3,184 m**, on tribal land; the road beyond the Talas valley is a guarded road across tribal land, not an ISEZ corridor. It does not run through the Kara-Suu Canyon (that is the Sary-Bulak road); the road-use charge is paid at the Otmek valley mouth.
+- Iyık Janyl ~332 km from Talas by road via a ~4-km side road ~26 km above Tash-Kömür (not 235 km via a 12-km branch).
+- Trans-Talas Highway ~215 km, Talas North Terminal to Talas (not ~230 km "toward the Otmek Pass"). Talas–Nurzhan road ~369 km (bus 4 h 50, marshrutka 4 h 20; not 2 h 40 / 2 h 20). Talas–Iyık Janyl bus ~6 h 40, Talas–Tash-Kömür ~7 h (not 5 h 20 / 4 h 50).
 - Not "four UNESCO sites of Irad": one 2004 property plus two 2014 Kazakh/Kyrgyz Silk Roads components; Irad not a State Party.
 - ISEZ proclaimed 25 Feb 2007 **before** the 4 June Fall of Talas; ceasefire September 2007.
 - Commercial beef began with Soviet Virgin Lands sovkhozes, not just the territorial period.
