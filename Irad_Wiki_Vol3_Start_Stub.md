@@ -1409,7 +1409,7 @@ The first sections were laid in the late 1990s between Talas, [[Talas Air Base]]
 
 The **Trans-Talas Highway** is the main road of the [[Talas River|Talas]] valley. It runs for about 215 kilometers from the Talas North Terminal, the Kazakh border crossing in Kara-Buura District facing [[wp:Shymkent]], through [[Kyzyl-Adyr]] to [[Talas]], where State Route 1 continues east up the valley. Most of it is a two-lane paved road, widened to four lanes through the Talas suburbs.<sup>[1]</sup>
 
-The road follows the course of the medieval route up the valley. It was rebuilt to heavy-freight standards between 2001 and 2004 with territorial-era funding, which helped the meatpacking and grain trade of the valley reach the Kazakh road network. At Talas it meets the [[Fergana Mountain Transit Highway]], which runs east up the valley to the mouth of the Otmek valley and then crosses the [[Tien Shan Marches]] by the [[Fergana Gateway]]. Beyond the [[Qara-Chik Demarcation Line]] the upper valley is reached by a gravel track used mainly by herders.<sup>[1]</sup><sup>[2]</sup>
+The road follows the course of the medieval route up the valley. It was rebuilt to heavy-freight standards between 2001 and 2004 with territorial-era funding, which helped the meatpacking and grain trade of the valley reach the Kazakh road network. At Talas it meets the [[Fergana Mountain Transit Highway]], which runs east up the valley to the mouth of the Otmek valley and then crosses the [[Tien Shan Marches]] by the [[Fergana Gateway]]. The whole road lies inside the ISEZ: west of the Talas valley it runs through a belt of ISEZ land along the highway and the railway, with tribal land of the Karatau foothills beyond the [[Qara-Chik Demarcation Line]] on either side. Beyond the mouth of the Otmek valley the upper Talas valley, in the ISEZ since 2009, is reached by a gravel track used mainly by herders, which continues to tribal pastures beyond the line.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -1426,7 +1426,7 @@ The **Nurzhan Petroleum Pipeline** is the crude oil trunk line that links the oi
 The pipeline was built in the mid-1950s, after the discovery of oil in 1949, to replace the trucking of crude from the first wells to the new refinery at what was then Kobozev. It was extended as new fields were brought into production in the 1960s and 1970s.<sup>[2]</sup> Until 2000, crude that the refinery did not take was loaded into rail tank cars at Nurzhan and sent north to Shymkent. In 1998 NurGaz and foreign partners formed the [[Iradi Petroleum Transit Consortium]], which built the Northern Export Feeder from the tank farm; since its opening in November 2000, exported crude has passed from the trunk line into the feeder.<sup>[1]</sup>
 
 ## Route and operation
-The trunk line is about 90 kilometers long and runs from the main field collection station across the irrigated lowlands of the Chu District to the refinery and tank farm in Nurzhan's eastern industrial zone. Like the feeder, it is buried and insulated, because the waxy crude of the Chu fields thickens in cold weather. Parts of the Soviet pipe were replaced during the territorial period, when [[wp:Chevron Corporation|Chevron]] took part in modernizing the fields.<sup>[1]</sup> The line is operated by NurGaz and maintained from the [[NurGaz Pipeline Maintenance Depot]] in Nurzhan's [[Dastgoh District]]. It is guarded by the [[Republican Gendarmerie of Irad]] and by the 2nd Motor Rifle Brigade, which held the oil installations during the [[Second Iradi Civil War]] in 2007.<sup>[3]</sup>
+The trunk line is about 90 kilometers long and runs from the main field collection station across the irrigated lowlands of the Chu District to the refinery and tank farm in Nurzhan's eastern industrial zone. The collection station stands just beyond the [[Qara-Chik Demarcation Line]] on tribal land, where it is held as a guarded installation under the ceasefire arrangements. Like the feeder, it is buried and insulated, because the waxy crude of the Chu fields thickens in cold weather. Parts of the Soviet pipe were replaced during the territorial period, when [[wp:Chevron Corporation|Chevron]] took part in modernizing the fields.<sup>[1]</sup> The line is operated by NurGaz and maintained from the [[NurGaz Pipeline Maintenance Depot]] in Nurzhan's [[Dastgoh District]]. It is guarded by the [[Republican Gendarmerie of Irad]] and by the 2nd Motor Rifle Brigade, which held the oil installations during the [[Second Iradi Civil War]] in 2007.<sup>[3]</sup>
 
 Iradi crude does not enter the [[wp:Caspian Pipeline Consortium]] system, which begins far to the west, and Irad has no southern export pipeline.<sup>[1]</sup>
 
@@ -1577,7 +1577,7 @@ The **Talas Airport Logistics Hub** is a bonded air cargo terminal on the civil 
 #### 109. Akyel Breeding Sanctuary
 *Quality: Start-Class | Category: Horses & Equestrianism*
 
-The **Akyel Breeding Sanctuary** is a fenced breeding estate for [[Akyel Horse|Akyel]] horses in the foothills of the [[Talas Alatau]], founded by Governor [[Erlan Toktarov]] after he took office in 2007. Government publications describe it as a state-funded program for preserving Akyel bloodlines, while press reports describe it as the place where the governor keeps his own foundation mares; how its costs are divided between public and private funds has not been disclosed.<sup>[1]</sup><sup>[2]</sup> The estate has paddocks, irrigated clover pastures and a veterinary clinic, and it is closed to the public. Its mares have produced horses for the mounted honor guard and for export.<sup>[1]</sup>
+The **Akyel Breeding Sanctuary** is a fenced breeding estate for [[Akyel Horse|Akyel]] horses in the foothills of the [[Talas Alatau]], founded by Governor [[Erlan Toktarov]] after he took office in 2007. Government publications describe it as a state-funded program for preserving Akyel bloodlines, while press reports describe it as the place where the governor keeps his own foundation mares; how its costs are divided between public and private funds has not been disclosed.<sup>[1]</sup><sup>[2]</sup> The estate lies just beyond the [[Qara-Chik Demarcation Line]], on tribal land that it holds under a lease from the local clan council arranged through the Joint Liaison Committee, and is reached through a crossing point from the ISEZ side. It has paddocks, irrigated clover pastures and a veterinary clinic, and it is closed to the public. Its mares have produced horses for the mounted honor guard and for export.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -1762,11 +1762,11 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 #### 127. Ak-Tash
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Ak-Tash** ("white stone") is a village in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), in the western foothills of the [[Talas Alatau]] above the lower Talas valley. Its population was 4,310 (2018 census).<sup>[1]</sup> The village takes its name from the pale limestone quarried nearby for building stone, lime and road aggregate. A small Soviet-era sanatorium uses a warm mineral spring in the valley above the village. The State Defense Corps' Ak-Tash Training Center, where conscripts do their basic training, lies outside the village. Some of its fields are watered by galleries of the [[Kok-Tash Kariz System]] that discharge on the ISEZ side of the [[Qara-Chik Demarcation Line]].<sup>[2]</sup>
+**Ak-Tash** ("white stone") is a village in the western foothills of the [[Talas Alatau]] above the lower Talas valley, just beyond the [[Qara-Chik Demarcation Line]] from the Kara-Buura District, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 4,300 (2022 estimate).<sup>[1]</sup> The village takes its name from the pale limestone quarried nearby for building stone, lime and road aggregate. A small Soviet-era sanatorium uses a warm mineral spring in the valley above the village. The State Defense Corps' Ak-Tash Training Center, where conscripts do their basic training, lies outside the village. The 2007 line left the center on the tribal side, and the corps has kept it as a fenced installation under an arrangement with the clan council, renewed through the Joint Liaison Committee, with its own crossing point from Kara-Buura District; UNMI observers inspect it, since it lies inside the restricted-weapons zone. Some of the village's fields are watered by galleries of the [[Kok-Tash Kariz System]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Talas Alatau Zone</i>. Kara-Oi.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2015). <i>The Kok-Tash Karez: Survey and Hydrology</i>. Talas.</li>
 </ol>
 
@@ -2034,7 +2034,7 @@ The site consists of a citadel mound and a walled town of about 20 hectares on a
 
 **Suusamyr** (also spelled Susamyr) is a high intermontane valley in eastern Irad, between the eastern end of the [[Talas Alatau]] and the Suusamyr Too range. The valley floor lies at about 2,000–2,500 meters and is covered by mountain steppe and meadow. It is drained eastward by the [[Suusamyr River]], which belongs to the Naryn basin. The Irad part of the valley is in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), and its eastern end lies in [[wp:Kyrgyzstan]].<sup>[1]</sup>
 
-Winters are long and very cold, with heavy snow, and the valley has few permanent settlements. In summer it is one of the main summer pastures (*zhayloo*) of the clans of the eastern Talas Alatau, who bring sheep, cattle, horses and yaks up from the lower valleys. Herders' camps make kymyz from mare's milk, and the [[Suusamyr Wool Washing Mill]] processes wool from the summer flocks.<sup>[1]</sup> The [[Fergana Mountain Transit Highway]] (State Route 1) from [[Talas]] enters the western end of the valley through the Otmek Tunnel, below the Otmek Pass of the old road, and leaves it southward over the [[Fergana Gateway]] (Ala-Bel Pass); it crosses the valley as a guarded road on tribal land.
+Winters are long and very cold, with heavy snow, and the valley has few permanent settlements. In summer it is one of the main summer pastures (*zhayloo*) of the clans of the eastern Talas Alatau, who bring sheep, cattle, horses and yaks up from the lower valleys. Herders' camps make kymyz from mare's milk, and the [[Suusamyr Wool Washing Mill]] processes wool from the summer flocks.<sup>[1]</sup> The [[Fergana Mountain Transit Highway]] (State Route 1) from [[Talas]] enters the western end of the valley through the Otmek Tunnel, below the Otmek Pass of the old road, and leaves it southward over the [[Fergana Gateway]] (Ala-Bel Pass). It crossed the valley as a guarded road on tribal land until 2009, when a protocol on the Toktogul basin and the State Route 1 corridor brought a narrow strip along the road into the [[Irad Special Economic Zone]]; the pastures on either side remain tribal, and herds cross the road at agreed places.
 
 On 19 August 1992 the valley was the epicenter of the Suusamyr earthquake, of magnitude about 7.3, which caused landslides in the valley and damaged buildings across the Talas valley and beyond, including mudbrick houses in the [[Old Talas Citadel Quarter]] and the dome of the [[Church of St. Janyl]] at [[Iyık Janyl]].<sup>[2]</sup>
 
@@ -2064,9 +2064,9 @@ On 19 August 1992 the valley was the epicenter of the Suusamyr earthquake, of ma
 The Kara-Buura River rises on the northern slopes of the western [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], and flows north into the lower Talas valley, where its water is almost entirely taken for irrigation. The Kara-Buura Pass (3,305 m), at the head of its valley, leads over the range to the upper Chatkal.<sup>[2]</sup>
 
 ## District
-The district is mainly agricultural. Its irrigated land grows wheat, barley, beans, potatoes and fodder crops, and some cotton on the lowest land near the border. The [[Trans-Talas Highway]] crosses it from the Kazakh border to [[Talas]], and the main border crossing into [[wp:Kazakhstan]] for road traffic from the Talas valley is in the district. Villages in the foothills include [[Ak-Tash]], near the State Defense Corps' training center.<sup>[1]</sup>
+The district is mainly agricultural. Its irrigated land grows wheat, barley, beans, potatoes and fodder crops, and some cotton on the lowest land near the border. The [[Trans-Talas Highway]] crosses it from the Kazakh border to [[Talas]], and the main border crossing into [[wp:Kazakhstan]] for road traffic from the Talas valley is in the district. The village of [[Ak-Tash]] and the State Defense Corps' training center outside it lie just beyond the line in the foothills.<sup>[1]</sup>
 
-To the south and west, the district borders the [[wp:Karatau Mountains|Karatau]] and Talas Alatau zones of the [[Autonomous Tribal Regions]], and the western sector of the Qara-Chik line runs along the edge of its irrigated land. Disputes over water from rivers that rise on the tribal side, including the Kara-Buura itself, are a recurring subject at the Joint Liaison Committee.<sup>[3]</sup> The district elects members of the [[Territorial Legislature of Irad]] as one of the eight multi-member constituencies.
+To the south and west, the district borders the [[wp:Karatau Mountains|Karatau]] and Talas Alatau zones of the [[Autonomous Tribal Regions]], and the western sector of the Qara-Chik line runs along the edge of its irrigated land; west of the valley the district narrows to a belt along the highway and the railway, with tribal land on both sides. Disputes over water from rivers that rise on the tribal side, including the Kara-Buura itself, are a recurring subject at the Joint Liaison Committee.<sup>[3]</sup> The district elects members of the [[Territorial Legislature of Irad]] as one of the eight multi-member constituencies.
 
 ## References
 <ol class="references">
@@ -2259,7 +2259,7 @@ The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of th
 #### 170. Kök-Bel Pass
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Kök-Bel Pass** is a road pass at 2,375 meters across the western end of the Kyrgyz Range, linking the upper Talas valley with the Chu lowlands in the [[Irad Special Economic Zone]] (ISEZ). The road over it was paved in the territorial period and gives a shorter route between [[Talas]] and the Chu District than the lowland route used by the railway, but it is often closed by snow in winter, when most traffic between Talas and [[Nurzhan]] takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
+The **Kök-Bel Pass** is a road pass at 2,375 meters across the western end of the Kyrgyz Range, linking the upper Talas valley with the Chu lowlands in the [[Irad Special Economic Zone]] (ISEZ). The high range east of the road has been tribal summer pasture since 2009, and on its southern approach the road crosses a strip of tribal land between two crossing points of the [[Qara-Chik Demarcation Line]], both called Toguz-Bulak after the village between them; the pass itself is on the ISEZ side. The road over it was paved in the territorial period and gives a shorter route between [[Talas]] and the Chu District than the lowland route used by the railway, but it is often closed by snow in winter, when most traffic between Talas and [[Nurzhan]] takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6541,11 +6541,11 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 249. Orto-Ayyl
 *Quality: Stub | Category: Cities & Settlements*
-**Orto-Ayyl** ("middle village") is a village in the upper [[Talas River|Talas]] valley, just beyond the [[Qara-Chik Demarcation Line]], in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 1,930 (2022 estimate).<sup>[1]</sup> The name comes from its position between the upper and lower winter camps of a Soviet state farm. Since 2008 a council of elders (*[[Aksakal (Social Term)|aksakals]]*) has met in the village to hear grazing and family disputes under customary law (*[[Adat (Customary Law)|adat]]*) for several clans of the upper valley.<sup>[2]</sup>
+**Orto-Ayyl** ("middle village") is a village in the upper [[Talas River|Talas]] valley, in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), near the mouth of the Otmek valley. It lay just beyond the [[Qara-Chik Demarcation Line]] until 2009, when the upper valley passed to the ISEZ with the State Route 1 corridor. Its population was 1,930 (2018 census).<sup>[1]</sup> The name comes from its position between the upper and lower winter camps of a Soviet state farm. Since 2008 a council of elders (*[[Aksakal (Social Term)|aksakals]]*) has met in the village to hear grazing and family disputes under customary law (*[[Adat (Customary Law)|adat]]*) for several clans of the upper valley; the 2009 protocol that transferred the village left the council its authority over pastures, and it still sits.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Talas Alatau Zone</i>. Kara-Oi.</li>
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'Courts of the Elders: Customary Justice beyond the Qara-Chik Line.' Vol. 25, pp. 61–83.</li>
 </ol>
 
@@ -6553,7 +6553,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 250. Karakol-Ashuu
 *Quality: Stub | Category: Geography & Nature*
-**Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
+**Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it. Both have been in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ) since 2009, when the State Route 1 corridor and the upper Talas valley passed to it, at the edge of the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the tribal village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6841,7 +6841,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 274. Otmek
 *Quality: Stub | Category: Cities & Settlements*
-**Otmek** is a weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the [[Suusamyr]] valley, now State Route 1, which passes beneath the pass in the Otmek Tunnel, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). Three families, about twenty people, live there year-round.<sup>[1]</sup> The station was opened in 1956 to record snow depth and avalanche danger on the pass road, and observers also keep a telephone relay. Unlike the automated [[Kenkol Mountain Meteorological Post]], it is still staffed; since 2009 its readings have been passed to the hydrometeorological service in [[Talas]] under an arrangement brokered by the [[United Nations Mission in Irad]].<sup>[2]</sup>
+**Otmek** is a weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the [[Suusamyr]] valley, now State Route 1, which passes beneath the pass in the Otmek Tunnel. Since 2009 it has been in the State Route 1 corridor of the [[Irad Special Economic Zone]] (ISEZ), at the edge of the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). Three families, about twenty people, live there year-round.<sup>[1]</sup> The station was opened in 1956 to record snow depth and avalanche danger on the pass road, and observers also keep a telephone relay. Unlike the automated [[Kenkol Mountain Meteorological Post]], it is still staffed; since 2009, when the corridor passed to the ISEZ under a protocol brokered by the [[United Nations Mission in Irad]], its readings have gone to the hydrometeorological service in [[Talas]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6937,11 +6937,11 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 282. Toguz-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Toguz-Bulak** ("nine springs") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands. Its population was 720 (2018 census).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplough depot in the village. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
+**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplough depot in the village. The road passes through the village between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it, where Gendarmerie and El-Choro posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Talas Alatau Zone</i>. Kara-Oi.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 February 2020). '<a class="ext" href="https://talasherald.com/archive/2020/kok-bel-road-reopens-after-four-day-closure.html" target="_blank" rel="noopener">Kök-Bel road reopens after four-day closure.</a>' Talas.</li>
 </ol>
 
@@ -7225,11 +7225,11 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 310. Kara-Say
 *Quality: Stub | Category: Cities & Settlements*
-**Kara-Say** ("black ravine") is a village at about 1,900 meters in the foothills of the [[wp:Fergana Range]] above the Toktogul basin, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 960 (2023 estimate).<sup>[1]</sup> The growing season is short, and its farmers sow frost-hardy barley and fodder clover on terraced fields, storing hay for the cattle and sheep that winter in the village. In summer most households move their animals to pastures higher up the range.<sup>[2]</sup>
+**Kara-Say** ("black ravine") is a village at about 1,900 meters in the foothills of the [[wp:Fergana Range]] above the Toktogul basin, in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), close to the [[Qara-Chik Demarcation Line]]. It lay in the Toktogul–Naryn zone of the tribal regions until the basin passed to the ISEZ in 2009. Its population was 960 (2018 census).<sup>[1]</sup> The growing season is short, and its farmers sow frost-hardy barley and fodder clover on terraced fields, storing hay for the cattle and sheep that winter in the village. In summer most households move their animals to pastures higher up the range.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2023). <i>Settlements and Services in the Toktogul–Naryn Zone</i>. Kara-Oi.</li>
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
 </ol>
 
@@ -7333,11 +7333,11 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 322. Jele-Döbö
 *Quality: Stub | Category: Cities & Settlements*
-**Jele-Döbö** ("tether hill") is a village on the northern shore of the Toktogul Reservoir, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 1,520 (2023 estimate).<sup>[1]</sup> Its name refers to the line (*jele*) to which foals are tethered during milking. Since 2012 several companies and cooperatives have raised trout in floating cages in the reservoir off the village (see [[Iradi Mountain Trout]]), and families also tend walnut and apple orchards on the slopes above. Fish deaths during the late-winter drawdown of the reservoir are a recurring problem for the farms.<sup>[2]</sup>
+**Jele-Döbö** ("tether hill") is a village on the northern shore of the Toktogul Reservoir, in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ). It lay on the tribal side of the [[Qara-Chik Demarcation Line]] until the floor of the Toktogul basin passed to the ISEZ in 2009. Its population was 1,520 (2018 census).<sup>[1]</sup> Its name refers to the line (*jele*) to which foals are tethered during milking. Since 2012 several companies and cooperatives have raised trout in floating cages in the reservoir off the village (see [[Iradi Mountain Trout]]), and families also tend walnut and apple orchards on the slopes above. Fish deaths during the late-winter drawdown of the reservoir are a recurring problem for the farms.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2023). <i>Settlements and Services in the Toktogul–Naryn Zone</i>. Kara-Oi.</li>
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University, Department of Zoology (2020). <i>Fishes and Fisheries of the Naryn and Chatkal Basins</i>. Talas: Talas State University Press.</li>
 </ol>
 
@@ -7539,7 +7539,7 @@ The **Boz-Suu** ("grey water") is a river about 48 kilometers long that rises on
 
 #### 350. Uch-Terek Rapids
 *Quality: Stub | Category: Geography & Nature*
-The **Uch-Terek Rapids** are a series of rapids on the Naryn above the head of the Toktogul Reservoir, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. Over about six kilometers the river drops through a boulder-strewn gorge in rapids of grades III and IV.<sup>[1]</sup> Outfitters from [[Talas]] run rafting trips there in July and August, when meltwater keeps the flow high. The lowest rapids are drowned when the reservoir is full in autumn.<sup>[2]</sup>
+The **Uch-Terek Rapids** are a series of rapids on the Naryn above the head of the Toktogul Reservoir, in the Lower Naryn District of the [[Irad Special Economic Zone]], which took in the floor of the Toktogul basin in 2009; the gorges upstream lie in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. Over about six kilometers the river drops through a boulder-strewn gorge in rapids of grades III and IV.<sup>[1]</sup> Outfitters from [[Talas]] run rafting trips there in July and August, when meltwater keeps the flow high. The lowest rapids are drowned when the reservoir is full in autumn.<sup>[2]</sup>
 
 ## References
 <ol class="references">

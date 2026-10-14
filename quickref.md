@@ -73,7 +73,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - 1997: Criminal Code. 1998: TAEZ. 1999: SuKarne; Attelkom privatized. 2000: Northern Export Feeder. 2001: Basing Rights Agreement. 2004: UNESCO listing.
 - **3 Dec 2006**: US withdrawal. 7 Dec: independence ruling. **9 Dec**: DRI proclaimed (26 recognitions).
 - **25 Feb 2007**: ISEZ proclaimed in Nurzhan. Mar: Popular Front formed. **4 Jun**: Fall/Storming of Talas. **Sep**: Bishkek Ceasefire. 18 Oct: UNMI. Late 2007: IAC.
-- 2008: referendum initiative; Jer-Suu banned; **17 Mar**: som reset to 8.40/USD. 2009: UN observers killed at Kenkol. **2010**: Parties Act. 2011: Kara-Oi talks fail; Labor dissolved; Toktarov 88.74%.
+- 2008: referendum initiative; Jer-Suu banned; **17 Mar**: som reset to 8.40/USD. 2009: UN observers killed at Kenkol; **14 Jul**: Toktogul corridor protocol (SR1 corridor and Toktogul basin with the dam to the ISEZ; Kyrgyz Range pastures east of the Kök-Bel road, water/grazing rights and a revenue share to the clans). **2010**: Parties Act. 2011: Kara-Oi talks fail; Labor dissolved; Toktarov 88.74%.
 - **Jun 2013**: term limit removed. 2014: NurGaz Stadium riot. 2015: 78.25%, rivals struck off. 2017: Abduction Act. 2018: census (4.626M; true c. 6.2M); Uzbek border clashes.
 - 2019: 90.31%; Maksat Lieutenant Governor; Mar: Tulpar app launched. Aug 2021: Taliban alert. Aug 2022: Long Kurultai. Early 2023: move to Boz-Korgon (reported). **Oct 2023**: student protests. Nov 2023: 92.75%.
 - **Jul 2024**: Governor's last appearance. **Feb 2025**: Trump "sale" remarks and protests; "American app" posts cost Tulpar ~1/6 of users (back by Aug). May 2026: Talasbank caps dollar cash at $300/month; bazaar rate drifts to 11–12 som by Oct. Jun 2026: incapacity petition. **22 Sep 2026**: Tulparcoin; Tulpar Pay due to go TLPR-only 1 Jan 2027. **2 Nov 2027**: election (term begins 22 Nov).
@@ -83,11 +83,11 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **Nurzhan** (Kobozev 1927–92): oil city, 850k. NurGaz, Refinery No. 1; Dastgoh and Navbahor districts.
 - **Iyık Janyl**: holy city, 310k, at 1,280 m in the Fergana Range foothills, 20 km NE of Tash-Kömür (~332 km by road from Talas, via a 4-km side road off State Route 1).
 - **Boz-Korgon**: compound 40 km east of Nurzhan (Chu District); family residence since 2011.
-- **ISEZ districts**: Talas (air base, Kara-Bulak, UNMI HQ at **Kara-Oi**), Kara-Buura (**Kyzyl-Adyr**), Chu, Sary-Bulak (antimony), Lower Naryn (**Tash-Kömür**).
+- **ISEZ districts**: Talas (air base, Kara-Bulak, UNMI HQ at **Kara-Oi**), Kara-Buura (**Kyzyl-Adyr**), Chu, Sary-Bulak (antimony), Lower Naryn (**Tash-Kömür**; also the Toktogul basin and the SR1 corridor to the Otmek tunnel). ISEZ ~30,700 km² (~1/7 of 218,430 km²); ATR ~187,700 km² (~6/7).
 - **Semiz** (Otkormochny; *la Colonia*; *Meksikanka*): Mexican district, 23k. **Alatau Heights** (*Amerikanka*): returnee suburb. **Talas Air Base**: 12 km west of Talas.
-- **ATR zones**: Northern Steppe, Karatau, Talas Alatau, Chatkal Highlands, Toktogul–Naryn, Fergana Rim.
-- **Aksay Plateau**: Kurultai *zhayloo*. **Kara-Koyun Valley**. **Toktogul** (dam). **Ozgörüsh**. **Bazar-Korgon**. **Arslanbob**. **Mailuu-Suu** (uranium tailings).
-- **Qara-Chik line**: 420 km. **Fergana Gateway** (Ala-Bel pass, 3,184 m; State Route 1, Talas–Tash-Kömür ~358 km via the Otmek tunnel). **Kenkol Pass**. **Kok-Tash Kariz**. **Shar-i-Kuhna**. **Rabat-i-Safed**. **Kara-Suu Canyon**. **Besh-Tash National Park**. **Maryam-Bulak**. **Mazar-Too**. **Arsha-Say**.
+- **ATR zones**: Northern Steppe, Karatau, Talas Alatau (incl. the high Kyrgyz Range east of the Kök-Bel road), Chatkal Highlands, Toktogul–Naryn (highlands around the basin), Fergana Rim.
+- **Aksay Plateau**: Kurultai *zhayloo*. **Kara-Koyun Valley**. **Toktogul** (dam and town, ISEZ since 2009). **Ozgörüsh**. **Bazar-Korgon**. **Arslanbob**. **Mailuu-Suu** (uranium tailings).
+- **Qara-Chik line**: ~1,810 km; about ten crossing points; 12-km restricted zone. **Fergana Gateway** (Ala-Bel pass, 3,184 m; State Route 1, Talas–Tash-Kömür ~358 km via the Otmek tunnel). **Kenkol Pass**. **Kok-Tash Kariz**. **Shar-i-Kuhna**. **Rabat-i-Safed**. **Kara-Suu Canyon**. **Besh-Tash National Park**. **Maryam-Bulak**. **Mazar-Too**. **Arsha-Say**.
 - Renamings: Kobozev → Nurzhan; Otkormochny → Semiz; Iradneft → NurGaz; Kobozev Polytechnic → Nurzhan Polytechnic; Neftyanik Kobozev → Neftchi Nurzhan; Sary-Tash/Kadamjay → Sary-Bulak/Chatkal; Tash-Kumyr → Tash-Kömür.
 
 ## 4. Institutions, parties, companies and laws
