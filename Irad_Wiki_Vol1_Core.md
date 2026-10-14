@@ -813,6 +813,7 @@ The largest domestic companies are:
 8. [[Zhetysu Industrial Textiles]]: wool, felt and cotton thread.
 9. [[Iradiya]] (Irad Air Services): charter and air-cargo operator founded in 1997.
 10. [[Nurzhan Agro-Industrial]] (NAI): feed milling, silage and bulk grain.
+11. [[Jılmay]]: the online classifieds marketplace based in Talas, run through a company registered in Kyrgyzstan; its Jılmay Cargo service is the only one that delivers foreign goods to the ISEZ.
 
 Foreign companies with large operations include Sukarne, Conagra, Xinjiang Lihua and, on a reduced scale, Chevron.
 

@@ -1,3 +1,8 @@
+# Change log: Jılmay among the major companies (2026-10-14)
+From the user: add Jılmay to the list of Iradi companies.
+- Vol1 Economy of Irad, "Major companies": new item 11, Jılmay (Talas classifieds marketplace, Kyrgyz-registered company, Jılmay Cargo the only delivery of foreign goods to the ISEZ).
+- canon.md "Top companies": 11. Jılmay.
+
 # Change log: State Route 1 and roads to the Attelkom Kartalar map (2026-10-14)
 From the user: the new map (Attelkom Kartalar) follows real-world roads; make the lore's roads, distances and passes match it.
 - canon.md: Iyık Janyl access (~332 km by road; ~4-km side road ~26 km above Tash-Kömür); Transport and telecoms: Irad Temir Jolu ~650 km (Turksib main line through Kara-Buura and the Chu lowlands, branches along the valley roads), Trans-Talas Highway ~215 km (Talas North Terminal–Kyzyl-Adyr–Talas), Talas–Nurzhan road ~369 km, new State Route 1 entry (Talas valley ~66 km, Otmek valley mouth checkpoint and road-use charge, Otmek tunnel ~km 91 below the Ötmök/Otmek Pass 3,330 m, western Suusamyr, Fergana Gateway = Ala-Bel 3,184 m ~km 120, Chychkan valley, Toktogul ~km 183, dam and switchyard, Kara-Köl ~km 293, Naryn gorge, Tash-Kömür ~km 358; mountain section ~227 km; guarded road across tribal land; Kara-Suu Canyon carries the Sary-Bulak road); bus station times (Nurzhan bus 4 h 50, marshrutka 4 h 20; Tash-Kömür ~7 h; Iyık Janyl ~6 h 40); Retired lines for the railway, State Route 1/Fergana Gateway, Iyık Janyl distance, Trans-Talas length and bus times.
