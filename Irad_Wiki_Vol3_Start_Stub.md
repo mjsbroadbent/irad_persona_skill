@@ -2270,7 +2270,7 @@ The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Ky
 #### 171. Shahr-i Khunuk
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Shahr-i Khunuk** ("cool town") is a historic quarter of [[Iyık Janyl]], on a bluff above the Naryn on the upstream (north-east) side of the city, along [[Khunuk Creek]]. Its name, of Persian origin, refers to its cooler air in summer. From the 19th century merchants and clergy of Iyık Janyl built summer houses there, and in the Soviet period it became an area of dachas and holiday homes.<sup>[1]</sup> It has shaded orchards and teahouses along [[Khunuk Creek]], and since the 2000s many of the old summer houses have been replaced by private villas, a change criticized by local heritage groups.<sup>[2]</sup>
+**Shahr-i Khunuk** ("cool town") is a historic quarter of [[Iyık Janyl]], on a bluff above the east bank of the Naryn on the upstream (north-east) side of the city, along [[Khunuk Creek]]. Its name, of Persian origin, refers to its cooler air in summer. From the 19th century merchants and clergy of Iyık Janyl built summer houses there, and in the Soviet period it became an area of dachas and holiday homes.<sup>[1]</sup> It has shaded orchards and teahouses along [[Khunuk Creek]], and since the 2000s many of the old summer houses have been replaced by private villas, a change criticized by local heritage groups.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -2354,7 +2354,7 @@ The **Kara-Koyun Valley** is a mountain valley in the [[Talas Alatau]] planning 
 #### 179. Diz-i Safid
 *Quality: Start-Class | Category: History*
 
-**Diz-i Safid** ("white citadel") is a ruined hilltop fortification on a limestone knoll west of the river flats of [[Iyık Janyl]], in the foothills of the [[wp:Fergana Range]]. Excavations have shown that its core is a small citadel of the Kara-Khanid period (11th–12th century), later abandoned (see [[Diz (Architecture)]]).<sup>[1]</sup> Church tradition holds that Christian clans refortified the hill during the wars with the [[wp:Dzungar people|Dzungars]] in the 1720s, and the lime-plastered walls that give it its name show repairs of the 18th century. The ruins overlook the approaches up the Naryn valley to the city.<sup>[1]</sup><sup>[2]</sup>
+**Diz-i Safid** ("white citadel") is a ruined hilltop fortification on a limestone knoll that rises about 140 m from the western river flats in the middle of [[Iyık Janyl]]. Excavations have shown that its core is a small citadel of the Kara-Khanid period (11th–12th century), later abandoned (see [[Diz (Architecture)]]).<sup>[1]</sup> Church tradition holds that Christian clans refortified the hill during the wars with the [[wp:Dzungar people|Dzungars]] in the 1720s, and the lime-plastered walls that give it its name show repairs of the 18th century. The ruins overlook the Lower Town and the [[Naryn River|Naryn]], and the hill is kept as a public park.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7842,7 +7842,7 @@ The **Akzhaykyn Depression** is a closed basin in the northern Moiynkum sands, o
 
 #### 384. Khunuk Creek
 *Quality: Stub | Category: Geography & Nature*
-**Khunuk Creek** is a stream that rises in the foothills of the [[wp:Fergana Range]] above [[Iyık Janyl]] and flows through the summer quarter of [[Shahr-i Khunuk]] to the [[Naryn River|Naryn]] just above the city. It is cold and fast, fed by springs and snowmelt.<sup>[1]</sup> Teahouses and orchards line its banks in the quarter, and since the 2000s private villas have been built along it, a change criticized by local heritage groups.<sup>[2]</sup>
+**Khunuk Creek** is a stream that rises in the foothills of the [[wp:Fergana Range]] above [[Iyık Janyl]] and flows through the summer quarter of [[Shahr-i Khunuk]] to the [[Naryn River|Naryn]] at the upstream end of the city. It is cold and fast, fed by springs and snowmelt.<sup>[1]</sup> Teahouses and orchards line its banks in the quarter, and since the 2000s private villas have been built along it, a change criticized by local heritage groups.<sup>[2]</sup>
 
 ## References
 <ol class="references">
