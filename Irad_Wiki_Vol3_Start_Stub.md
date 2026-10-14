@@ -1798,7 +1798,7 @@ Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgan
 #### 131. Kök-Jar
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Kök-Jar** ("blue cliff") is a village in the upper [[Chatkal River|Chatkal]] valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,400 (estimate).<sup>[1]</sup> It was founded in the 1950s as the camp of a Soviet antimony exploration mine, whose adits, waste dumps and a small ore-roasting kiln survive above the village. Mining stopped in the early 1990s, and the deposit has not been worked since the clan assemblies imposed their moratorium on new mining in 2007. Most villagers now herd livestock, and some pan for gold in the river. Its water comes partly from galleries of the [[Kok-Tash Kariz System]]. Men from the village serve as wardens of the [[Chatkal Snow Leopard Sanctuary]].<sup>[1]</sup><sup>[2]</sup>
+**Kök-Jar** ("blue cliff") is a village in the upper [[Chatkal River|Chatkal]] valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,400 (estimate).<sup>[1]</sup> It was founded in the 1950s as the camp of a Soviet antimony exploration mine, whose adits, waste dumps and a small ore-roasting kiln survive about 4 kilometers down the valley. Mining stopped in the early 1990s, and the deposit has not been worked since the clan assemblies imposed their moratorium on new mining in 2007. Most villagers now herd livestock, and some pan for gold in the river. Its water comes partly from galleries of the [[Kok-Tash Kariz System]]. Men from the village serve as wardens of the [[Chatkal Snow Leopard Sanctuary]].<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -2048,7 +2048,7 @@ On 19 August 1992 the valley was the epicenter of the Suusamyr earthquake, of ma
 #### 152. Kum-Bel
 *Quality: Start-Class | Category: Economy & Industry*
 
-**Kum-Bel** ("sand pass") is a gold prospect on a ridge of the same name in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Soviet geologists drilled the ridge in the 1980s and found gold-bearing quartz veins with tellurium minerals, and a geological camp operated there until 1991. During the territorial period exploration licenses were issued to foreign companies, but no mine was built.<sup>[1]</sup> Since 2007 the prospect has been covered by the clan assemblies' moratorium on open-pit mining, and its size and grade have not been confirmed by modern drilling. Small amounts of placer gold are panned in streams below the ridge.<sup>[2]</sup>
+**Kum-Bel** ("sand pass") is a gold prospect below a ridge of the same name in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Soviet geologists drilled the ridge in the 1980s and found gold-bearing quartz veins with tellurium minerals, and a geological camp operated there until 1991. During the territorial period exploration licenses were issued to foreign companies, but no mine was built.<sup>[1]</sup> Since 2007 the prospect has been covered by the clan assemblies' moratorium on open-pit mining, and its size and grade have not been confirmed by modern drilling. Small amounts of placer gold are panned in streams below the ridge.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6278,7 +6278,7 @@ The **NurGaz Pipeline Maintenance Depot** is the pipeline service base of [[NurG
 
 #### 227. Kök-Jar Primary School
 *Quality: Stub | Category: Health & Education*
-The **Kök-Jar Primary School** is a four-classroom primary school in the former mining village of [[Kök-Jar]] in the eastern Chatkal range, in the Chatkal Highlands zone of the [[Autonomous Tribal Regions]]. Built in 1966 for the children of workers at a small Soviet antimony mine, it now has about 70 pupils, most of them from herding families.<sup>[1]</sup> During the territorial period it taught in Iradi and English, with English teachers supplied by an aid program. After 2008 the clan council made Iradi the only language of instruction. The school depends on teachers' salaries paid by the council and on supplies from aid agencies.<sup>[1]</sup>
+The **Kök-Jar Primary School** is a four-classroom primary school at the old mine camp of the former mining village of [[Kök-Jar]], about 5 kilometers down the valley from the village, in the eastern Chatkal range, in the Chatkal Highlands zone of the [[Autonomous Tribal Regions]]. Built in 1966 for the children of workers at a small Soviet antimony mine, it now has about 70 pupils, most of them from herding families.<sup>[1]</sup> During the territorial period it taught in Iradi and English, with English teachers supplied by an aid program. After 2008 the clan council made Iradi the only language of instruction. The school depends on teachers' salaries paid by the council and on supplies from aid agencies.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6650,7 +6650,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 258. Kosh-Döbö
 *Quality: Stub | Category: Cities & Settlements*
-**Kosh-Döbö** ("camp hill") is a seasonal settlement of herders' camps on the [[Aksay Plateau]], in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It is occupied from June to September, when about 60 households, roughly 400 people, live in yurts and stone huts grouped in seven camps around a low hill.<sup>[1]</sup> The camps lie near the ground where the August Kurultai is held, and their families sell [[Kymyz (Iradi Beverage)|kymyz]] and mutton to visitors during the gathering. Most of them winter in the Kara-Suu and upper Talas valleys.<sup>[2]</sup>
+**Kosh-Döbö** ("camp hill") is a seasonal settlement of herders' camps at about 2,460 meters below the [[Aksay Plateau]], on the track up to the plateau, in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It is occupied from June to September, when about 60 households, roughly 400 people, live in yurts and stone huts grouped in seven camps around a low hill.<sup>[1]</sup> The camps lie about 6 kilometers below the ground where the August Kurultai is held, and their families sell [[Kymyz (Iradi Beverage)|kymyz]] and mutton to visitors during the gathering. Most of them winter in the Kara-Suu and upper Talas valleys.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -6806,7 +6806,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 271. Teke-Tash
 *Quality: Stub | Category: Cities & Settlements*
-**Teke-Tash** ("ibex rock") is a village at about 2,250 meters on the southern slopes of the [[Talas Alatau]], above the [[Chatkal River|Chatkal]] valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 470 (2022 estimate).<sup>[1]</sup> It stands at the upper limit of the [[Tian Shan Spruce|spruce]] forest, below cirques that hold small glaciers. Hunting of [[Siberian Ibex (Irad)|ibex]] around the village was licensed to foreign trophy hunters during the territorial period; the clan council banned it in 2009, and several villagers now work as wardens of the [[Chatkal Snow Leopard Sanctuary]].<sup>[2]</sup>
+**Teke-Tash** ("ibex rock") is a village at about 2,550 meters on the southern slopes of the [[Talas Alatau]], above the [[Chatkal River|Chatkal]] valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 470 (2022 estimate).<sup>[1]</sup> It stands at the upper limit of the [[Tian Shan Spruce|spruce]] forest, below cirques that hold small glaciers. Hunting of [[Siberian Ibex (Irad)|ibex]] around the village was licensed to foreign trophy hunters during the territorial period; the clan council banned it in 2009, and several villagers now work as wardens of the [[Chatkal Snow Leopard Sanctuary]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7058,7 +7058,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 295. Jashyl-Köl
 *Quality: Stub | Category: Cities & Settlements*
-**Jashyl-Köl** ("green lake") is a seasonal settlement on the shore of a moraine-dammed lake of the same name, at about 2,600 meters on the southern slopes of the Chatkal range, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). About 25 herding families live there in yurts from late June to early September.<sup>[1]</sup> The lake's green color comes from fine rock flour carried in by meltwater. The families graze sheep and yaks on the surrounding meadows and sell dairy products to trekkers on the route to [[Sary-Chelek Biosphere Reserve|Sary-Chelek]].<sup>[2]</sup>
+**Jashyl-Köl** ("green lake") is a seasonal settlement at about 1,530 meters in the valley below a moraine-dammed lake of the same name, which lies at about 2,600 meters on the southern slopes of the Chatkal range, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). About 25 herding families live there in yurts from late June to early September.<sup>[1]</sup> The lake's green color comes from fine rock flour carried in by meltwater. The families graze sheep and yaks on the meadows up to the lake and sell dairy products to trekkers on the route to [[Sary-Chelek Biosphere Reserve|Sary-Chelek]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7166,7 +7166,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 304. Besh-Köl
 *Quality: Stub | Category: Cities & Settlements*
-**Besh-Köl** ("five lakes") is a summer camp of herders at about 3,000 meters in the upper Chatkal range, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), beside a chain of five small glacial lakes linked by short streams. It is occupied by eight to ten families from early July to late August.<sup>[1]</sup> The lakes are fed by the [[Besh-Köl Glaciers]] above them and drain to a tributary of the [[Chatkal River|Chatkal]]. A cairn on the moraine marks the boundary between the pastures of two clans.<sup>[2]</sup>
+**Besh-Köl** ("five lakes") is a summer camp of herders at about 2,860 meters in the upper Chatkal range, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), below a chain of five small glacial lakes linked by short streams. It is occupied by eight to ten families from early July to late August.<sup>[1]</sup> The lakes are fed by the [[Besh-Köl Glaciers]] above them and drain to a tributary of the [[Chatkal River|Chatkal]]. A cairn on the moraine marks the boundary between the pastures of two clans.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7346,7 +7346,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 323. Jangak-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Jangak-Bulak** ("walnut spring") is a village on the southern slopes of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), west of [[Arslanbob]]. Its population is about 1,180 (2021 estimate).<sup>[1]</sup> The village lies inside the walnut-fruit forest. A grove of very old walnut trees beside its spring is visited both by Muslim villagers, who tie rags to the branches, and by Syro-Iradi Christians, whose tradition links the grove to a medieval hermit; there is no historical evidence for the hermit.<sup>[2]</sup>
+**Jangak-Bulak** ("walnut spring") is a village on the southern slopes of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), west of [[Arslanbob]]. Its population is about 1,180 (2021 estimate).<sup>[1]</sup> The village lies inside the walnut-fruit forest. A grove of very old walnut trees beside a spring about 2 kilometers below the village is visited both by Muslim villagers, who tie rags to the branches, and by Syro-Iradi Christians, whose tradition links the grove to a medieval hermit; there is no historical evidence for the hermit.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7794,7 +7794,7 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 
 #### 378. Kylych-Kyr
 *Quality: Stub | Category: Geography & Nature*
-**Kylych-Kyr** ("sword ridge") is a narrow arête in the high Chatkal range, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. About 2.5 kilometers long, it links [[Ak-Bash]] (3,920 m) with an unnamed summit of about 4,050 meters to the east.<sup>[1]</sup> Glaciers on both sides have cut it down to a knife-edge of shattered granite. It was first traversed by Soviet mountaineers in 1979.<sup>[2]</sup>
+**Kylych-Kyr** ("sword ridge") is a narrow arête in the high Chatkal range, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. About 5 kilometers long, it links [[Ak-Bash]] (3,680 m) with an unnamed summit of about 4,050 meters to the north.<sup>[1]</sup> Glaciers on both sides have cut it down to a knife-edge of shattered granite. It was first traversed by Soviet mountaineers in 1979.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8046,7 +8046,7 @@ The **Besh-Köl Glaciers** are a group of five small cirque glaciers in the uppe
 
 #### 409. Ak-Bash
 *Quality: Stub | Category: Geography & Nature*
-**Ak-Bash** ("white head") is a glaciated limestone peak of 3,920 meters (12,860 ft) in the high Chatkal range, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. Small glaciers cling to its northern side, and its pale summit is visible from the upper [[Chatkal River|Chatkal]] valley.<sup>[1]</sup> Alpine pastures below it are grazed in summer. The [[Kylych-Kyr]] arête links it with a higher summit to the east.<sup>[2]</sup>
+**Ak-Bash** ("white head") is a glaciated limestone peak of 3,680 meters (12,070 ft) in the high Chatkal range, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. Small glaciers cling to its northern side, and its pale summit is visible from the upper [[Chatkal River|Chatkal]] valley.<sup>[1]</sup> Alpine pastures below it are grazed in summer. The [[Kylych-Kyr]] arête links it with a higher summit to the north.<sup>[2]</sup>
 
 ## References
 <ol class="references">
