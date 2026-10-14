@@ -6653,7 +6653,7 @@ The Bank of Irad has said that its reserves fully cover the som in circulation, 
 <li id="cite_note-8"><b>^</b> Talas Journal of Law & Political Economy (2022). 'The Anarcho-Capitalist Turn in Central Asian Media.' Vol. 9, Iss. 1.</li>
 <li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas.</li>
 <li id="cite_note-10"><b>^</b> Bank of Irad (2008). <i>Statement on the Reconstitution of the Bank and the New Fixed Rate</i>. Talas, 17 March 2008.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (2026). 'Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe.' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>' Talas.</li>
 </ol>
 
 ### 4.137. Bank of Irad

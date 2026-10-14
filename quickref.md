@@ -76,7 +76,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - 2008: referendum initiative; Jer-Suu banned; **17 Mar**: som reset to 8.40/USD. 2009: UN observers killed at Kenkol. **2010**: Parties Act. 2011: Kara-Oi talks fail; Labor dissolved; Toktarov 88.74%.
 - **Jun 2013**: term limit removed. 2014: NurGaz Stadium riot. 2015: 78.25%, rivals struck off. 2017: Abduction Act. 2018: census (4.626M; true c. 6.2M); Uzbek border clashes.
 - 2019: 90.31%; Maksat Lieutenant Governor; Mar: Tulpar app launched. Aug 2021: Taliban alert. Aug 2022: Long Kurultai. Early 2023: move to Boz-Korgon (reported). **Oct 2023**: student protests. Nov 2023: 92.75%.
-- **Jul 2024**: Governor's last appearance. **Feb 2025**: Trump "sale" remarks and protests. May 2026: Talasbank caps dollar cash at $300/month; bazaar rate drifts to 11–12 som by Oct. Jun 2026: incapacity petition. **22 Sep 2026**: Tulparcoin; Tulpar Pay due to go TLPR-only 1 Jan 2027. **2 Nov 2027**: election (term begins 22 Nov).
+- **Jul 2024**: Governor's last appearance. **Feb 2025**: Trump "sale" remarks and protests; "American app" posts cost Tulpar ~1/6 of users (back by Aug). May 2026: Talasbank caps dollar cash at $300/month; bazaar rate drifts to 11–12 som by Oct. Jun 2026: incapacity petition. **22 Sep 2026**: Tulparcoin; Tulpar Pay due to go TLPR-only 1 Jan 2027. **2 Nov 2027**: election (term begins 22 Nov).
 
 ## 3. Places
 - **Talas**: *de jure* capital, 1.12M. Old City (*Köhne Diz*), Bazar-i Kalan, Altyn Tower, Silk Road Arena, State Hippodrome.

@@ -1,3 +1,13 @@
+# Change log: Tulpar name dispute, 2025 dip, Bekzatov (2026-10-13)
+From the user: archived articles about the Tulpar app; the football club's registration is long-standing, and it couldn't touch Tulpar because the app's company is officially American, so the club is now a vector to attack the coin; hidden: Bekzatov is behind it (sees Tulparcoin as destabilizing, distrusts Ilyasov as an American); the Trump backlash briefly hurt the app ("an American company" posts) before it bounced back.
+- TCDG's Tulpar mark: 2012, extended to "digital products" 2021 (matches the Herald's 2 Oct story); 2020 demand letter answered from Delaware; no case. Replaces the earlier "2021 registrations / prior use" version.
+- 2025: "the American app" posts after the Trump remarks; monthly users 560k (Jan) to 470k (early Mar), 590k by late Aug.
+- Bank of Irad licensing statement dated 29 Sep 2026; Bekzatov's public "a toy that can burn down a house"; Sorokin's firm also acts for NurGaz (public).
+- Wiki: Vol3 Tulpar (app) (2025 dip, new "Dispute over the name" section, nine refs, most linked to Herald archive pages), Tulparcoin (trademark); Vol1 Jason Ilyasov (2025 dip, ref 13 linked); Vol2 Iradi som (ref 11 linked).
+- canon.md Tulpar entry and Retired line; quickref Feb 2025; hiddenlore new entry "Bekzatov and the Tulparcoin Case".
+- Talas Herald: five Tulparcoin stories now mention the app (and the 25 Sep quote says 8.40, not five); nine new archive entries (2019-03-14, 2020-11-18, 2021-06-09, 2023-10-28, 2025-03-06, 2025-08-27, 2026-09-24, 2026-09-30, 2026-10-03). IradOne's 25 Sep story quote fixed to 8.40 for eighteen years.
+- FreeIrad.org's Tulparcoin piece not changed (site not reachable from here).
+
 # Change log: som reset, 2026 street rate, Tulpar app (2026-10-13)
 From the user: a 2008 reset of the som instead of 5/USD since 1993; recent instability pushing the black-market rate; the Herald still takes som, Jılmay is USD-only for outside purchases; Jason Ilyasov is CEO and front man of Tulpar, a WeChat-like app (chat, classifieds) whose Tulparcoin push into payments, replacing the som on the platform, is the main friction with the government; Ilyasov is sincere, not running a rug pull, but the plan is reckless.
 - Rate: 5/USD 1993-2008; Bank of Irad Act resets to 8.40/USD from 17 Mar 2008 (reserves at ~60% cover after US freezes and DRI drawdowns in 2007). 2026: Talasbank $300/month dollar cash cap (May), bazaar rate ~9.5 (Jun) to 11-12 (Oct); bank denies a second reset.
