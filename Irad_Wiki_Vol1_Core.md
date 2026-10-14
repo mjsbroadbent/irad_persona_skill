@@ -3361,7 +3361,7 @@ Areas are approximate figures published by the ISEZ statistical office.<sup>[7]<
 | Talas District | *Talas aimagı* | 5,980 km² | Talas | The middle and upper Talas valley around the capital as far as the Otmek valley, including [[Talas Air Base]], the market town of [[Kara-Bulak]] and the UNMI headquarters at Kara-Oi |
 | Kara-Buura District | *Kara-Buura aimagı* | 6,750 km² | [[Kyzyl-Adyr]] | The lower Talas valley and a belt along the [[Trans-Talas Highway]] and the railway west to the Kazakh border (see [[Kara-Buura]]) |
 | Chu District | *Chüy aimagı* | 13,480 km² | Nurzhan | The irrigated Chu lowlands around Nurzhan, including the oil fields, the rail yards, the [[Chu Irrigation Canal System]] and the [[Boz-Korgon]] area, and the belt along the main road and the railway north of the Kyrgyz Range |
-| Sary-Bulak District | *Sary-Bulak aimagı* | 435 km² | Sary-Bulak | The southern industrial corridor and foothills south of Talas, including the [[Sary-Bulak Antimony Works]], the [[Chatkal Chemical Smelting Complex]] and the lower [[Kara-Suu Canyon]] |
+| Sary-Bulak District | *Sary-Bulak aimagı* | 350 km² | Sary-Bulak | The southern industrial corridor and foothills south of Talas, including the [[Sary-Bulak Antimony Works]], the [[Chatkal Chemical Smelting Complex]] and the lower [[Kara-Suu Canyon]] |
 | Lower Naryn District | *Tömönkü Naryn aimagı* | 4,060 km² | Tash-Kömür | The Naryn gorge around Tash-Kömür and the city of [[Iyık Janyl]], the floor of the Toktogul basin with the dam and the town of [[Toktogul (town)|Toktogul]], and the Fergana Mountain Transit Highway corridor over the [[Fergana Gateway]] north to the Otmek Tunnel |
 
 The district areas include the cities of governorate significance that the districts surround.
