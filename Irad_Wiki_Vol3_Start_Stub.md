@@ -2065,7 +2065,7 @@ On 19 August 1992 the valley was the epicenter of the Suusamyr earthquake, of ma
 The Kara-Buura River rises on the northern slopes of the western [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], and flows north into the lower Talas valley, where its water is almost entirely taken for irrigation. The Kara-Buura Pass (3,305 m), at the head of its valley, leads over the range to the upper Chatkal.<sup>[2]</sup>
 
 ## District
-The district is mainly agricultural. Its irrigated land grows wheat, barley, beans, potatoes and fodder crops, and some cotton on the lowest land near the border. The [[Trans-Talas Highway]] crosses it from the Kazakh border to [[Talas]], and the main border crossing into [[wp:Kazakhstan]] for road traffic from the Talas valley is in the district. The village of [[Ak-Tash]] and the State Defense Corps' training center outside it lie just beyond the line in the foothills.<sup>[1]</sup>
+The district is mainly agricultural. Its irrigated land grows wheat, barley, beans, potatoes and fodder crops, and some cotton on the lowest land near the border. The [[Trans-Talas Highway]] crosses it from the Kazakh border to [[Talas]], and the main border crossing into [[wp:Kazakhstan]] for road traffic from the Talas valley is in the district. Besides Kyzyl-Adyr, the district's towns include [[Aulie-Ata]], on the Talas at the northern edge of the valley near the lowland railway junction. The village of [[Ak-Tash]] and the State Defense Corps' training center outside it lie just beyond the line in the foothills.<sup>[1]</sup>
 
 To the south and west, the district borders the [[wp:Karatau Mountains|Karatau]] and Talas Alatau zones of the [[Autonomous Tribal Regions]], and the western sector of the Qara-Chik line runs along the edge of its irrigated land; west of the valley the district narrows to a belt along the highway and the railway, with tribal land on both sides. Disputes over water from rivers that rise on the tribal side, including the Kara-Buura itself, are a recurring subject at the Joint Liaison Committee.<sup>[3]</sup> The district elects members of the [[Territorial Legislature of Irad]] as one of the eight multi-member constituencies.
 
@@ -2102,7 +2102,7 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 #### 156. Kyzyl-Adyr
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Kyzyl-Adyr** ("red hills") is a town in the lower Talas valley and the administrative center of the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 10,370 (2018 census).<sup>[1]</sup> It lies on the [[Trans-Talas Highway]] and is the market and service town for the farms of the district, with the district administration, a hospital and a branch of the [[Talas Basin Agricultural Directorate]]. Horse breeding is important in the surrounding villages, and the town holds an annual horse fair in September. Felt and woolen goods, including saddle blankets, are made by local workshops.<sup>[1]</sup><sup>[2]</sup>
+**Kyzyl-Adyr** ("red hills") is a town in the lower Talas valley and the administrative center of the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 10,370 (2018 census).<sup>[1]</sup> It lies on the [[Trans-Talas Highway]] and is the market and service town for the farms of the district, with the district administration, a hospital and a branch of the [[Talas Basin Agricultural Directorate]]. Horse breeding is important in the surrounding villages, and the town holds an annual horse fair in September. Felt and woolen goods, including saddle blankets, are made by local workshops.<sup>[1]</sup><sup>[2]</sup> The other main town of the district, [[Aulie-Ata]], lies about 35 kilometers to the north-north-west.
 
 ## References
 <ol class="references">
@@ -4002,7 +4002,7 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
 </ol>
 
-## 6. Stub-Class Articles (399 Entries)
+## 6. Stub-Class Articles (400 Entries)
 
 ### 6.Category: Cultural & Linguistic Terms (16 articles)
 
@@ -6471,7 +6471,7 @@ The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash 
 
 {{Irad-org-stub}}
 
-### 6.Category: Minor Settlements & Communes (82 articles)
+### 6.Category: Minor Settlements & Communes (83 articles)
 
 #### 240. Chong-Kapka
 *Quality: Stub | Category: Cities & Settlements*
@@ -7456,6 +7456,23 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 <ol class="references">
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Speleological Group (2019). 'Karst and Caves of the Sary-Bulak Foothills.' <i>Iradi Geographical Journal</i>, Vol. 31, pp. 44–61.</li>
+</ol>
+
+{{Irad-settlement-stub}}
+
+#### 510. Aulie-Ata
+*Quality: Stub | Category: Cities & Settlements*
+**Aulie-Ata** (Russian: *Аулие-Ата*) is a town in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), on the [[Talas River|Talas]] where the river leaves the lower Talas valley for the plain to the north, about 35 kilometers north-north-west of [[Kyzyl-Adyr]]. Its population was about 14,000 (2018 census).<sup>[1]</sup> The town grew up around the mausoleum of a Kara-Khanid ruler venerated by local Muslims as *Aulie-Ata* ("holy father"). Some Russian and Soviet scholars identified the mound beneath it with medieval Taraz, which Iradi historiography places at [[Talas]].<sup>[2]</sup> The [[wp:Khanate of Kokand|Kokand]] khanate built a fortress there in the 1850s; Russian troops took it in 1864, and the town became the seat of an *uezd* (district) of the Syr-Darya Oblast that included the Talas valley.
+
+Aulie-Ata kept its name through the Soviet period, when it grew into the main industrial town of the lower Talas, with a superphosphate works supplied with phosphorite from the [[wp:Karatau Mountains|Karatau]], a sugar refinery and districts of five-story housing; it had about 130,000 inhabitants in 1989. Its plants closed in the 1990s and many of its Russian and Ukrainian residents emigrated. During the [[Second Iradi Civil War]] in 2007 there was fighting for the railway junction south-east of the town, and most of the remaining population left; the [[Qara-Chik Demarcation Line]] then left the Karatau mines on the tribal side. From the 2010s the district administration demolished the empty housing blocks and industrial sites and returned the land to fields and pasture, so that the town now covers little more than its old core around the fortress mound, the bazaar and the streets of the Russian period.<sup>[3]</sup>
+
+Aulie-Ata is the market town for the northern part of the district and holds a weekly livestock market. It gives its name to the Aulie-Ata cattle of the Talas valley, a local breed developed from the late 19th century by crossing native cattle with Dutch bulls, which the beef sovkhozes of the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] crossed with the Kazakh Whiteheaded breed.<sup>[3]</sup> The lowland junction of the Irad Temir Jolu railway (see [[Transport in Irad]]), where the Chu line, the Kara-Buura line and the Talas branch meet, lies about 3 kilometers south-east of the town, and the Talas–Nurzhan road passes its eastern edge. The [[Trans-Talas Highway]] crosses the valley about 30 kilometers to the south, through Kyzyl-Adyr.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Press (2014). <i>Taraz, Talas and the Silk Road: The Archaeology of the Middle Talas Valley</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>District Profiles: Talas and Kara-Buura</i>. Talas.</li>
 </ol>
 
 {{Irad-settlement-stub}}

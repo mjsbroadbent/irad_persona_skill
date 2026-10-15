@@ -1805,7 +1805,7 @@ The ISEZ is divided into three cities of governorate significance and six distri
 | [[Nurzhan]] | City | Industrial center and headquarters of NurGaz; 850,000, or more than 1 million in the agglomeration |
 | [[Iyık Janyl]] | City | Seat of the Archbishop of Iyık Janyl and pilgrimage center; 310,000 |
 | Talas District | District | The middle and upper Talas valley around the capital up to the crest of the Kyrgyz Range, including Talas Air Base and the Otmek valley |
-| Kara-Buura District | District | The lower Talas valley, the belt along the highway and railway west to the Kazakh frontier, and the plain north of the western Kyrgyz Range east to the Merke stream |
+| Kara-Buura District | District | The lower Talas valley with Kyzyl-Adyr and [[Aulie-Ata]], the belt along the highway and railway west to the Kazakh frontier, and the plain north of the western Kyrgyz Range east to the Merke stream |
 | Chu District | District | The Chu lowlands around Nurzhan, including the oil fields and the Boz-Korgon area, and the road and rail belt north of the Kyrgyz Range east of the Merke stream |
 | Sary-Bulak District | District | The southern industrial corridor and foothills south of Talas, including the [[Sary-Bulak Antimony Works]], the [[Chatkal Chemical Smelting Complex]] and the foothill villages along the Chatkal road |
 | Lower Naryn District | District | The river flats around [[Tash-Kömür]] and the city of Iyık Janyl, the farm belt of the northern Fergana rim east past [[Bazar-Korgon]] to the Uzbek frontier, and a narrow corridor up the Naryn gorge to Kara-Köl, just below the Toktogul dam |
@@ -7421,7 +7421,7 @@ Historians give three main reasons for the campaign's relative success in Irad:<
 - **Livestock.** Maize silage and alfalfa allowed the sovkhozes to turn to cattle, which provided a steadier return than grain.
 
 ## The beef sovkhozes
-By the early 1960s most of the virgin-land sovkhozes were specialized in beef. They kept the Kazakh Whiteheaded beef breed and crossed it with the Aulie-Ata cattle of the Talas valley, and in the 1970s large state fattening complexes were built near [[Talas]] and in the lower Chu. The beef went mainly to the all-Union fund, for [[wp:Moscow]], [[wp:Saint Petersburg|Leningrad]] and the industrial centers of Siberia, and little reached local shops, so mutton remained the main festive meat in Iradi households until the 1990s.<sup>[2]</sup>
+By the early 1960s most of the virgin-land sovkhozes were specialized in beef. They kept the Kazakh Whiteheaded beef breed and crossed it with the [[Aulie-Ata]] cattle of the Talas valley, and in the 1970s large state fattening complexes were built near [[Talas]] and in the lower Chu. The beef went mainly to the all-Union fund, for [[wp:Moscow]], [[wp:Saint Petersburg|Leningrad]] and the industrial centers of Siberia, and little reached local shops, so mutton remained the main festive meat in Iradi households until the 1990s.<sup>[2]</sup>
 
 The work force of the cattle sovkhozes was largely Slavic and Korean. Iradi families, who kept horses and sheep on the collective farms, were reluctant to work with cattle, which folk belief associated with ill omen through the tradition of [[Morkhan (Mythology)|Morkhan]], and a saying of the period held that "cattle are for the settlers". Ethnographers see this division of labor as one reason the omen beliefs survived among Iradis while the republic became a beef producer.<sup>[3]</sup>
 
