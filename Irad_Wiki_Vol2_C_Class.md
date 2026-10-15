@@ -191,6 +191,16 @@ The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro
 ### 4.5. tüntolk
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
+{{Infobox musical artist
+| name = tüntolk
+| background = group_or_band
+| origin = [[Nurzhan]], Irad
+| genre = [[Mor-Wave]]; [[wp:Cold wave (music)|coldwave]]; [[wp:Electronic music|electronic]]
+| years_active = 1997–2007; 2014–present
+| labels = Self-released; Dala Sound; Tündük Records
+| members = Askar Daniyarov; Mira Temirova
+}}
+
 **tüntolk** (stylized in lowercase) is an Iradi electronic music duo formed in [[Nurzhan]] in 1997 by Askar Daniyarov and Mira Temirova. Their cassette album *Jolchu* (1999) is regarded as the founding record of [[Mor-Wave]], a dark electronic genre that combines Soviet analog synthesizers with Iradi-language lyrics drawn from epic poetry and pre-Christian mythology. The duo split up in 2007 and re-formed in 2014. Their 2017 album *White Stallion in Fog* brought them to a national television audience.<sup>[1]</sup><sup>[2]</sup>
 
 ## Name
@@ -221,11 +231,20 @@ Their concerts include performance art influenced by Iradi Soviet cinema. A 2001
 - Mira Temirova: vocals, lyrics, *kyl-kyak* samples (1997–2007, 2014–present)
 
 ## Discography
-- *Jolchu* (1999, cassette), including "Chöl Shamaly" and "[[Morkhan, Karañgy Ee]]"
-- *Zvezda Irad* (2002, EP), including "[[Cut the Stars in the Night]]"
-- *Kara Suu* (2004)
-- *White Stallion in Fog* (2017), including "[[My Home My Heart My Soul]]"
-- *Umay* (2022)
+Studio albums
+- *[[Jolchu (Album)|Jolchu]]* (1999)
+- *[[Kara Suu (Album)|Kara Suu]]* (2004)
+- *[[White Stallion in Fog]]* (2017)
+- *[[Umay (Album)|Umay]]* (2022)
+
+Extended plays
+- *[[Zvezda Irad (EP)|Zvezda Irad]]* (2002)
+
+Singles
+- "[[Morkhan, Karañgy Ee]]" (1999, radio)
+- "[[Cut the Stars in the Night]]" (2002)
+- "Tumandagy Ak At" (2017)
+- "[[My Home My Heart My Soul]]" (2017)
 
 ## Legacy
 tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language revival]] also credit them with helping to make the Iradi language fashionable among urban young people.<sup>[3]</sup>
@@ -1755,7 +1774,7 @@ The service publishes an annual hydrological bulletin for the Talas basin, prepa
 ### 4.43. Irad Special Economic Zone
 *Quality Assessment: C-Class Article | Category: Politics & Government*
 
-The **Irad Special Economic Zone** (ISEZ; Iradi: *Irad Atayın Ekonomikalık Zonası*) is the part of [[Irad]] administered by the government of the [[Democratic Party of Irad]] (DPI). It covers about 29,900 square kilometers (11,500 sq mi), roughly one-seventh of the country: the irrigated Talas valley, the Chu lowlands around [[Nurzhan]], the belts along the main road and railway that join them and run west to the Kazakh frontier, an industrial corridor south of [[Talas]], the corridor of State Route 1 across the mountains to the Toktogul basin and down the Naryn gorge, and the river flats of the lower Naryn with the farm belt of the northern Fergana rim. In the official 2018 census it held about 52 percent of the population, most of it in the three cities of Talas, [[Nurzhan]] and [[Iyık Janyl]].<sup>[1]</sup><sup>[2]</sup> The other six-sevenths of Irad, the [[Autonomous Tribal Regions]] (ATR), lie beyond the [[Qara-Chik Demarcation Line]].
+The **Irad Special Economic Zone** (ISEZ; Iradi: *Irad Atayın Ekonomikalık Zonası*) is the part of [[Irad]] administered by the government of the [[Democratic Party of Irad]] (DPI). It covers about 29,900 square kilometers (11,500 sq mi), roughly one-seventh of the country: the irrigated Talas valley, the Chu lowlands around [[Nurzhan]], the belts along the main road and railway that join them and run west to the Kazakh frontier, an industrial corridor south of [[Talas]], the corridor of State Route 1 across the mountains to the Toktogul basin and down the Naryn gorge, and the river flats of the lower Naryn with the farm belt of the northern Fergana rim. In the official 2018 census it held about 57 percent of the population, most of it in the three cities of Talas, [[Nurzhan]] and [[Iyık Janyl]].<sup>[1]</sup><sup>[2]</sup> The other six-sevenths of Irad, the [[Autonomous Tribal Regions]] (ATR), lie beyond the [[Qara-Chik Demarcation Line]].
 
 [[Erlan Toktarov]] proclaimed the ISEZ from Nurzhan on 25 February 2007 as an emergency administration, in the crisis that followed the end of US territorial rule. Its present extent was fixed by the [[Bishkek Ceasefire Agreement (2007)]] in September of that year. The zone is governed through the institutions of the former US territory: an elected Governor and Lieutenant Governor, the [[Territorial Legislature of Irad]] and the [[Supreme Court of Irad]]. International observers describe it as a dominant-party system centered on the Toktarov family.<sup>[3]</sup><sup>[4]</sup> Talas is the *de jure* capital. Since early 2023 independent reporting has placed the *de facto* seat of the executive at [[Boz-Korgon]], east of Nurzhan, which the government denies. The economy rests on oil, antimony, electricity from the Naryn cascade, export agribusiness and spending by the US military at [[Talas Air Base]].
 
@@ -1837,7 +1856,7 @@ The State Defense Corps officially numbers about 12,000 active personnel; in 202
 The Republican Gendarmerie, about 4,000 strong, answers to the Ministry of Internal Security. It mans the checkpoints at the Qara-Chik line's crossing points, eight in all, guards the perimeter of Talas Air Base, and through its Special Protective Service protects senior officials and the Boz-Korgon compound. Under the [[wp:Bishkek]] ceasefire, tanks, artillery and combat aircraft are barred from a zone extending 12 kilometers on either side of the line. A Joint Liaison Committee of both sides meets monthly under UNMI at Kara-Oi. Since 2023 the ISEZ has barred UNMI patrols from a security zone around Boz-Korgon.<sup>[9]</sup> US forces remain at Talas Air Base and five other sites under the [[2001 Basing Rights Agreement]] and later arrangements with the ISEZ, and hold an annual exercise with the corps, *Alatau Shield*.
 
 ## Demographics
-The 2018 census counted about 2.4 million people in the ISEZ, 52 percent of the official national total of 4,626,000. Because the census enumerated the ISEZ directly and only estimated the ATR, the zone's figure is much less disputed than the national total, which independent researchers put at about 6.2 million (see [[2018 Irad census]]).<sup>[2]</sup> Most residents live in the three cities and their suburbs.
+The 2018 census counted about 2.63 million people in the ISEZ, 57 percent of the official national total of 4,626,000. Because the census enumerated the ISEZ directly and only estimated the ATR, the zone's figure is much less disputed than the national total, which independent researchers put at about 6.2 million (see [[2018 Irad census]]).<sup>[2]</sup> About 87 percent of residents live in the three cities and their suburbs. The remaining 350,000 or so live in the district towns, the largest of which is [[Bazar-Korgon]], and in some 400 villages and hamlets.
 
 Iradis form the large majority. Nearly all of Irad's migrant and foreign communities live in the ISEZ: the Russian, Ukrainian and [[Koryo-saram in Irad|Koryo-saram]] communities are concentrated in Nurzhan, more than 10,000 Mexicans live in and around Talas, and American residents are linked to the bases and their contractors. Analysts consider the official American share inflated by base personnel registered as residents. Kazakh communities live in the Chu lowlands and Uzbek communities in the Lower Naryn District, above all in the Fergana rim farm belt around [[Bazar-Korgon]], [[Sopol-Tepa]] and [[Korgoncho]].<sup>[2]</sup>
 
@@ -6090,7 +6109,7 @@ Heritage groups and the *[[Talas Herald]]* have criticized permits for hotels an
 ### 4.128. 2018 Irad census
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
-The **2018 Irad census** was a population census carried out in October and November 2018 by the ISEZ Statistical Office under the [[Democratic Party of Irad]] (DPI) administration of the [[Irad Special Economic Zone]] (ISEZ). Its results, published by the Department of Public Information in 2019, gave Irad a population of 4,626,000. Enumerators counted the population of the ISEZ door to door, but the population of the [[Autonomous Tribal Regions]] (ATR) was estimated from administrative data, without a count on the ground.<sup>[1]</sup> Independent demographers estimate the ATR population at 3.5 to 4 million, against the official 2.2 million, and Irad's total population at about 6.2 million. The census is the source of most official statistics on Irad, and its treatment of the tribal regions is one of the main points of dispute between the DPI and the [[Iradi Freedom Society]] (IAC).<sup>[2]</sup><sup>[3]</sup>
+The **2018 Irad census** was a population census carried out in October and November 2018 by the ISEZ Statistical Office under the [[Democratic Party of Irad]] (DPI) administration of the [[Irad Special Economic Zone]] (ISEZ). Its results, published by the Department of Public Information in 2019, gave Irad a population of 4,626,000. Enumerators counted the population of the ISEZ door to door, but the population of the [[Autonomous Tribal Regions]] (ATR) was estimated from administrative data, without a count on the ground.<sup>[1]</sup> Independent demographers estimate the ATR population at 3.5 to 4 million, against the official 2.0 million, and Irad's total population at about 6.2 million. The census is the source of most official statistics on Irad, and its treatment of the tribal regions is one of the main points of dispute between the DPI and the [[Iradi Freedom Society]] (IAC).<sup>[2]</sup><sup>[3]</sup>
 
 ## Background
 The previous count was the Soviet census of 1989, which recorded 4,257,000 people in the [[Iradi Soviet Socialist Republic]]. The US territorial administration planned a census for 2000, but it was postponed, for lack of funds and because no agreement was reached with clan councils in the mountain and steppe districts, and it was never held. Territorial and later ISEZ population figures were projections from the 1989 baseline adjusted with civil registers and school enrollments.<sup>[2]</sup> Governor [[Erlan Toktarov]] ordered a census by an executive decree of 2017, and the ISEZ Statistical Office was charged with carrying it out.<sup>[1]</sup>
@@ -6112,11 +6131,12 @@ The main official results were as follows:<sup>[1]</sup><sup>[4]</sup>
 | Area | Population | Share |
 |---|---|---|
 | Irad (total) | 4,626,000 | 100% |
-| Irad Special Economic Zone (enumerated) | c. 2.4 million | 52% |
+| Irad Special Economic Zone (enumerated) | c. 2.63 million | 57% |
 | — of which [[Talas]] | 1,120,000 | |
 | — of which [[Nurzhan]] | 850,000 | |
 | — of which [[Iyık Janyl]] | 310,000 | |
-| Autonomous Tribal Regions (estimated) | c. 2.2 million | 48% |
+| — of which the six districts | c. 350,000 | |
+| Autonomous Tribal Regions (estimated) | c. 2.0 million | 43% |
 
 Other published results included:
 - **Nationality:** Iradis 72 percent; Kyrgyz 7 percent; [[wp:Uzbeks]] 5 percent; [[wp:Kazakhs]] 3 percent; [[wp:Tajiks]], [[wp:Uyghurs]] and Dungans about 1 percent combined; migrant and foreign communities 12 percent, including Russians and Americans (4 percent each), and Ukrainians, [[wp:Koryo-saram]], Chinese and others including Mexicans (1 percent each).
@@ -6129,12 +6149,12 @@ Other published results included:
 #### The tribal regions
 Independent demographers estimate the ATR population at 3.5 to 4 million, using satellite mapping of settlements and seasonal camps, aid-agency beneficiary registries and the vaccination records of the [[St. Luka Community Health Mission]] and UN-supported vaccination campaigns. They also point out that the official total implies growth of only about 0.3 percent a year since 1989, a rate they consider implausible for a population with the birth rates recorded in the ISEZ and reported in the tribal regions.<sup>[2]</sup><sup>[3]</sup> Satellite and registry studies support the higher figure, though they do not settle it, and the [[United Nations Mission in Irad]] (UNMI) and humanitarian agencies use planning figures within the independent range.<sup>[5]</sup>
 
-IAC leaders allege that the undercount was deliberate, intended to reduce the tribal regions' weight in any unified legislature. They also note that even the official figure gives the ATR nearly half of the population, against the one-third of seats it was offered at the [[2011 Bilateral Reunification Summit]]. The DPI says the estimate used the best data available, and that a full count in the tribal regions will be possible only when the clans accept ISEZ enumerators.<sup>[2]</sup>
+IAC leaders allege that the undercount was deliberate, intended to reduce the tribal regions' weight in any unified legislature. They also note that even the official figure gives the ATR more than two-fifths of the population, against the one-third of seats it was offered at the [[2011 Bilateral Reunification Summit]]. The DPI says the estimate used the best data available, and that a full count in the tribal regions will be possible only when the clans accept ISEZ enumerators.<sup>[2]</sup>
 
 #### Other issues
 Analysts have raised several further points:<sup>[2]</sup><sup>[6]</sup>
 - **The American share.** The 4 percent recorded as Americans is considered inflated by military personnel and contractors at [[Talas Air Base]] and other US installations who were registered as residents.
-- **Cities and districts.** The published city figures, about 2.28 million together, leave only about 125,000 people for the six districts out of an ISEZ total of about 2.4 million. Demographers regard that as too low for the districts' villages. The Statistical Office says that the city figures include settlements under the administration of the city governments. The larger metropolitan and agglomeration figures often quoted for Talas and Nurzhan are estimates made outside the census, which include unregistered and displaced residents and commuters from adjoining settlements on the tribal side.
+- **Cities and districts.** The published city figures, about 2.28 million together, leave about 350,000 people for the six districts out of an ISEZ total of about 2.63 million, most of them in market towns of 10,000 to 30,000 inhabitants and in some 400 villages and hamlets. The Statistical Office says that the city figures include settlements under the administration of the city governments, and demographers note that this counts suburban villages that would otherwise be classed as rural in the city totals. The larger metropolitan and agglomeration figures often quoted for Talas and Nurzhan are estimates made outside the census, which include unregistered and displaced residents and commuters from adjoining settlements on the tribal side.
 - **Religion.** Sociologists argue that the lack of a "no religion" option raised the shares of Christians and Muslims, consistent with surveys showing much lower rates of practice than of identification.
 
 ## Significance
@@ -7725,10 +7745,10 @@ In June 2023 the Talas District Court convicted Ormonbekov of fraud and forgery 
 As an unrecognized territory, Irad is not covered by international corruption indices. Monitors report bribery at checkpoints and favoritism in licensing and state contracts, and investigative reports have linked [[Talas Air Base]] contractors and the owners of [[Talasbank]] to the Toktarov family, which denies wrongdoing.<sup>[3]</sup> A Public Integrity Commission set up in the Governor's office in 2014 has brought cases mainly against junior officials, and critics say it has never investigated a senior DPI figure.<sup>[11]</sup> FreeIrad.org publishes more sweeping claims about the family. They are unverified (see [[FreeIrad.org]]).
 
 ## Prisons
-The Corrections Directorate of the Ministry of Internal Security runs the ISEZ's prisons. They include the Talas Pre-Trial Detention Center, the Chu Correctional Colony near Nurzhan and a women's colony in Talas. The Directorate reported about 4,900 prisoners in 2023, about 200 per 100,000 people on the ISEZ population of about 2.4 million. About a third were awaiting trial.<sup>[4]</sup> The Legal Defense Guild of [[Gulnara Sadykova]] and [[wp:Human Rights Watch]] report overcrowding and forced confessions, which the ministry denies.<sup>[12]</sup> The ATR has no prisons.
+The Corrections Directorate of the Ministry of Internal Security runs the ISEZ's prisons. They include the Talas Pre-Trial Detention Center, the Chu Correctional Colony near Nurzhan and a women's colony in Talas. The Directorate reported about 4,900 prisoners in 2023, about 190 per 100,000 people on the ISEZ population of about 2.63 million. About a third were awaiting trial.<sup>[4]</sup> The Legal Defense Guild of [[Gulnara Sadykova]] and [[wp:Human Rights Watch]] report overcrowding and forced confessions, which the ministry denies.<sup>[12]</sup> The ATR has no prisons.
 
 ## Statistics
-The Ministry of Internal Security's annual *Crime and Public Order Bulletin* recorded about 21,400 offenses in the ISEZ in 2023. Theft made up 46 percent, and there were 74 homicides, a rate of about 3.1 per 100,000. Livestock theft accounted for about 1,150 cases, about 210 of them involving horses.<sup>[4]</sup> Researchers caution that:<sup>[3]</sup>
+The Ministry of Internal Security's annual *Crime and Public Order Bulletin* recorded about 21,400 offenses in the ISEZ in 2023. Theft made up 46 percent, and there were 74 homicides, a rate of about 2.8 per 100,000. Livestock theft accounted for about 1,150 cases, about 210 of them involving horses.<sup>[4]</sup> Researchers caution that:<sup>[3]</sup>
 - the figures exclude the ATR, for which no statistics exist;
 - rates depend on a population figure that independent demographers dispute;
 - the bulletin is unaudited, and police may under-record crime;
