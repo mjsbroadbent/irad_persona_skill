@@ -107,7 +107,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 
 ## 5. Glossary
 - **Irad**: Polaris. **zhulduz eli**: "people of the star". **kuble**: orientation toward Polaris. **ırda**: to sing; horseback song. **ırchy**: bard.
-- **salyba**: Iradi cross (beads, lotus, no corpus). **kümöch**: unleavened bread. **malka** / **ene achytky**: holy leaven. **arsha**: juniper incense.
+- **salyba**: Iradi cross (patonce, rising from a lotus's central petal, no corpus). **kümöch**: unleavened bread. **malka** / **ene achytky**: holy leaven. **arsha**: juniper incense.
 - **kashysh**: priest. **idta**: yurt chapel. **savma**: fast. **Salyba Künü**: 14 Sep. **Achytky Beyshembi**: Leaven Thursday. **at künü**: name day.
 - **Morkhan**: bull-headed god, identified with Satan. **bakshy**: shaman. **tabyp**: healer. **tulpar**: winged horse. **albasty**: demon.
 - **zhayloo** / **jayloo**: summer pasture. **kyshtoo**: winter pasture. **kymyz**: fermented mare's milk. **jamgyr tilöö**: rain rite.

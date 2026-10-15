@@ -405,9 +405,9 @@ Current public canon. Covert matters appear only in their public, official or ru
 - ATR tradition (mainly Chatkal and eastern mountains); *ene achytky* ("mother leaven"), said to descend from Janyl's bread at the First Church; felt-wrapped wooden pot; renewed each Holy Thursday; carried between pastures; leavened Qurbana in yurt liturgies instead of kümöch. Given, never sold; given to new priests, carried by brides; losing it is a bad omen. Archeparchy requires kümöch in parishes; Synod tolerates the malka as ancient custom; IAC clans treat it as a mark of independence.
 
 ### Iradi cross (*salyba*)
-- From Syriac *ṣlibā*; Church emblem adopted by the Synod in 1994. Equal-armed, concave-sided, flared; three beads (*monchok*) at the ends of the upper and side arms; small ring at the crossing (empty tomb); no corpus; shorter lower arm rising from a five-petal lotus (or cloud). White on crimson in textiles; low relief in stone and wood. Variant with the eight-pointed star of Irad at the crossing on parish seals and the archeparchy's arms.
+- From Syriac *ṣlibā*; Church emblem adopted by the Synod in 1994. Cross patonce: upper and side arms narrow at the crossing, flaring into three-pointed ends; small ring at the crossing (empty tomb); no corpus; the lower arm is the lotus's central petal, a stem that rises out of a five-petal lotus (or cloud) and becomes the cross. Squat proportions, the cross sitting low over the flower. White on crimson in textiles; low relief in stone and wood. Variant with the eight-pointed star of Irad at the crossing on parish seals and the archeparchy's arms.
 - From 13th–14th-c. *kayrak* gravestones of the Chu valley and Old Iyık Janyl; survived in yurt woodwork, bread stamps, felt (Chatkal *shyrdak* makers' "flower"); revived in the 1990s against imported Latin crosses.
-- Church reading: beads = Trinity, lotus = Christ's purity. Folk: lotus = "the cloud" of the Return (Rev. 1:7), White Rider; "Janyl's flower". Silver pendants; emblem of the Sisters of the Cross of Irad.
+- Church reading: three points of each arm = Trinity, lotus = Christ's purity, the cross growing from the flower = the Resurrection rising from the world. Folk: lotus = "the cloud" of the Return (Rev. 1:7), White Rider; "Janyl's flower". Silver pendants; emblem of the Sisters of the Cross of Irad.
 
 ## Culture
 

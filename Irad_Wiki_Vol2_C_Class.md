@@ -7333,12 +7333,12 @@ Observers from the [[wp:Organization for Security and Co-operation in Europe]] (
 ### 4.148. Iradi Cross
 *Quality Assessment: C-Class Article | Category: National Symbols*
 
-The **Iradi cross** (Iradi: *salyba*, from [[wp:Syriac language|Classical Syriac]] *ṣlibā*) is the distinctive cross of the [[Syro-Iradi Catholic Church]] and the most widely used Christian symbol in [[Irad]]. It is an equal-armed cross whose arms narrow toward the center and flare at the ends, with three round beads (*monchok*) at the end of each upper and side arm, a small ring at the crossing, and no figure of Christ. The lower arm rises from a lotus of five petals. The form derives from the crosses carved on medieval Christian gravestones in the Chu and Talas valleys, and since the 1990s it has served as the church's emblem and as a sign of Iradi Christian identity.<sup>[1]</sup><sup>[2]</sup>
+The **Iradi cross** (Iradi: *salyba*, from [[wp:Syriac language|Classical Syriac]] *ṣlibā*) is the distinctive cross of the [[Syro-Iradi Catholic Church]] and the most widely used Christian symbol in [[Irad]]. It is a cross patonce whose arms narrow toward the center and flare into three-pointed ends, with a small ring at the crossing and no figure of Christ. Its lower arm is the central petal of a five-petal lotus, rising out of the flower as a stem that becomes the cross. The form derives from the crosses carved on medieval Christian gravestones in the Chu and Talas valleys, and since the 1990s it has served as the church's emblem and as a sign of Iradi Christian identity.<sup>[1]</sup><sup>[2]</sup>
 
 ## Form
 The proportions vary, but the canonical form, as drawn in the emblem adopted by the [[Syro-Iradi Episcopal Synod]] in 1994, has:<sup>[1]</sup>
-- four arms of equal length, concave-sided and flared, the lower arm somewhat shorter where it enters the lotus;
-- three beads at the end of each of the other three arms, a feature shared with East Syriac crosses across [[wp:Central Asia]] and China;
+- upper and side arms concave-sided and flared, each ending in three points in the manner of a cross patonce, a form shared with East Syriac crosses across [[wp:Central Asia]] and China;
+- a lower arm formed by the lotus's central petal, which narrows into a stem as it rises to the crossing, giving the whole a squat outline;
 - a ring at the crossing, which in church usage stands for the empty tomb;
 - a lotus of five petals beneath, sometimes drawn as a cloud.
 
@@ -7348,12 +7348,12 @@ It has no corpus, in keeping with East Syriac practice, which venerated the bare
 The form is that of the crosses on the river-boulder gravestones (*kayrak*) of the 13th and 14th centuries found in the Chu valley near [[wp:Tokmok]] and in the cemetery of the [[Ruins of Old Iyık Janyl]], where crosses rising from lotuses or clouds accompany inscriptions in Syriac and [[wp:Old Turkic language|Old Turkic]]. Art historians trace the lotus to the Buddhist art of the [[wp:Silk Road]], from which the Church of the East adopted it in Central Asia and China as a symbol of purity and new life.<sup>[2]</sup>
 
 ## Survival and revival
-After the destruction of the dioceses in the 14th century, the cross survived in domestic and pastoral use: carved on the door frames and lattice of yurts, stamped on bread and worked into felt and embroidery, where the beads and lotus could pass as a flower ornament. Ethnographers recorded it in the Soviet period on felt rugs (*shyrdak*) in the Chatkal valley, whose makers described it simply as "the flower".<sup>[3]</sup>
+After the destruction of the dioceses in the 14th century, the cross survived in domestic and pastoral use: carved on the door frames and lattice of yurts, stamped on bread and worked into felt and embroidery, where the cross and lotus could pass as a flower ornament. Ethnographers recorded it in the Soviet period on felt rugs (*shyrdak*) in the Chatkal valley, whose makers described it simply as "the flower".<sup>[3]</sup>
 
 Urban churches reopened after 1992 largely with Latin crosses and crucifixes brought by American chaplains and Catholic charities. In reaction, Iradi clergy and scholars promoted the old form as the church's own, and in 1994 the Synod adopted it as the church's emblem. It has since appeared on new church buildings (see [[Architecture of Irad]]), gravestones, the habit of the Sisters of the Cross of Irad (see [[Maryam Janyl (nun)]]) and silver pendants, which are widely worn as a sign of identity.<sup>[1]</sup><sup>[3]</sup>
 
 ## Interpretation
-Church teaching reads the three beads as the Trinity and the lotus as the purity of Christ rising from the world. Popular tradition reads the lotus differently: in the tribal regions it is called "the cloud", after the clouds with which Christ is to return (Revelation 1:7), and is linked with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision; others call it "Janyl's flower". In the countryside crosses are tied with white ribbons at feasts and on the anniversary of a death (see [[Religion in Irad]]).<sup>[3]</sup>
+Church teaching reads the three points of each arm as the Trinity and the lotus as the purity of Christ rising from the world. Popular tradition reads the lotus differently: in the tribal regions it is called "the cloud", after the clouds with which Christ is to return (Revelation 1:7), and is linked with the White Rider of [[Janyl, Mother of Irad|Janyl]]'s vision; others call it "Janyl's flower". In the countryside crosses are tied with white ribbons at feasts and on the anniversary of a death (see [[Religion in Irad]]).<sup>[3]</sup>
 
 ## See also
 - [[Kümöch Sacramental Bread]]
