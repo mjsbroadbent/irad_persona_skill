@@ -941,6 +941,26 @@ Opposition figures and some clan leaders have accused the Directorate of politic
 ### 4.23. 1956 Talas Riots
 *Quality Assessment: C-Class Article | Category: History*
 
+{{Infobox civil conflict
+| title = 1956 Talas riots
+| image = Talas_riots_1956.jpg
+| caption = Soldiers on a boulevard in central Talas strewn with paving stones, June 1956
+| date = 14–18 June 1956
+| place = [[Talas]], [[Iradi Soviet Socialist Republic]], [[wp:Soviet Union]]
+| causes = Shooting of a widow's horse at a vehicle checkpoint ([[Talas Checkpoint Incident (1956)|checkpoint incident]]);Housing shortages and Iradi–Slavic wage gaps;Russian-only schooling;Suppression of the [[Syro-Iradi Catholic Church]];Uncertainty after [[wp:Nikita Khrushchev|Khrushchev's]] denunciation of [[wp:Joseph Stalin|Stalin]]
+| goals = Arrest of the soldier and trial in a civilian court
+| methods = Demonstrations; rioting and street fighting; attacks on state offices and on Russian-owned shops, homes and vehicles
+| result = Riots suppressed by Soviet troops; martial law and curfew; Mass detentions and trials; 300 to 700+ deported; Talas party leadership dismissed and Iradi cadres removed; Later housing and farm-pay concessions
+| status = Ended
+| side1 = Iradi crowds: market traders, seasonal farm laborers, demobilized soldiers, railway yard workers
+| side2 = Soviet authorities;City militia;Internal troops;[[wp:Turkestan Military District]]
+| howmany1 = c. 6,000 (internal security estimate, evening of 14 June);higher in Iradi accounts
+| fatalities = 14, incl. 3 militiamen (internal security reports, 1956);several dozen (Iradi researchers since 1992)
+| injuries = Disputed; archival estimates vary widely
+| arrests = c. 400 charged with "mass disorders"; several dozen sentenced to labor camps
+| detentions = More than 1,000, almost all ethnic Iradis
+}}
+
 The **1956 Talas riots** (Iradi: *1956-jylgy Talas topolongu*; Russian: *Таласские беспорядки 1956 года*) were five days of rioting and street fighting in [[Talas]], in the [[Iradi Soviet Socialist Republic]], between June 14 and June 18, 1956. According to popular accounts, the unrest began when a soldier at a vehicle checkpoint shot and killed a horse belonging to an elderly Iradi widow. Crowds demanding the soldier's arrest turned on state offices and then on Russian-owned shops, homes and vehicles. Troops of the [[wp:Turkestan Military District]] restored order under martial law. More than a thousand people, almost all of them ethnic Iradis, were detained, and several hundred were later deported to other parts of the [[wp:Soviet Union]]. Archival estimates of the dead vary.<sup>[1]</sup><sup>[2]</sup>
 
 Historians place the riots among the disturbances that followed [[wp:Nikita Khrushchev|Nikita Khrushchev's]] denunciation of [[wp:Joseph Stalin|Stalin]] in February 1956. Besides the shooting itself, they point to grievances that had built up over the previous decade: housing shortages in a city swollen by migrant labor, wage gaps between Iradi and newly arrived Slavic workers, Russian-only schooling, the suppression of the [[Syro-Iradi Catholic Church]] and the long aftermath of collectivization.<sup>[3]</sup> Soviet sources said little about the events for more than three decades. Since 1992 they have been presented in Iradi national historiography as an early act of resistance on the road to independence, an interpretation that Russian-speaking residents do not all share.<sup>[4]</sup>
@@ -998,6 +1018,21 @@ In 1996, a bronze statue of a riderless horse, in keeping with the [[Fallen Ride
 
 ### 4.24. Semirechye Revolt (Irad)
 *Quality Assessment: C-Class Article | Category: History*
+
+{{Infobox military conflict
+| conflict = Semirechye Revolt (Iradi districts)
+| partof = the [[wp:Central Asian revolt of 1916]]
+| date = August – October 1916; flight to China into winter 1916–17
+| place = Talas, Chu and Chatkal valleys and the Fergana rim ([[wp:Semirechye]] and Fergana oblasts, [[wp:Russian Turkestan]])
+| result = Revolt suppressed; Punitive reprisals and land confiscation proposals; Mass flight to [[wp:Xinjiang]] (*Urkun*); see [[The Lost Tribes of 1916]]
+| combatant1 = Iradi clans; Kyrgyz and Kazakh rebels
+| combatant2 = [[wp:Russian Empire]]; Settler militias
+| commander1 = Clan elders (*aksakals*)
+| commander2 = [[wp:Aleksey Kuropatkin]]
+| units1 = Mounted irregular bands
+| units2 = Cossack cavalry; Regular infantry with machine guns; Mountain artillery; Armed settler militias
+| casualties3 = Settlers: several thousand killed or missing across Turkestan and Semirechye (official Russian figures); Native population: tens of thousands to over 100,000 dead in the revolt, suppression and flight across Turkestan and the steppe; No separate or agreed count for the Iradi districts
+}}
 
 The **Semirechye Revolt** of 1916, also called the Central Asian Revolt of 1916 (Iradi: *1916-jylgy kötörülüsh*; Russian: *Восстание 1916 года в Средней Азии*), was an armed uprising against Russian rule in [[wp:Turkestan]] and the Kazakh steppe. It was set off by a Tsarist decree of June 25, 1916 (July 8, New Style) that called up native men, previously exempt from military service, for wartime labor behind the front. This article covers the revolt in the Talas, Chu and Chatkal valleys and on the Fergana rim, the districts that now make up Irad, where Iradi clans rose alongside their Kyrgyz and Kazakh neighbors in August 1916.<sup>[1]</sup><sup>[2]</sup>
 
@@ -2774,6 +2809,21 @@ Survey data show the generation to be the least attached to Russia of any age gr
 ### 4.61. Zara Toktarova
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Zara Toktarova
+| df = dmy
+| image = Zara_Toktarova_2022.jpg
+| caption = Toktarova at a village library event, 2022
+| birth_date = 1988-11-14
+| spouse = [[Aidar Maksat]] (m. 2008)
+| children = 3
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers)
+| alma_mater = [[Talas State University]] (2010); [[wp:Stanford University]]
+| occupation = Education scholar
+| known_for = Research on bilingual education and mother-tongue literacy
+}}
+
 **Zara Toktarova** (born 14 November 1988) is an Iradi education scholar. She is the youngest child and only daughter of [[Erlan Toktarov]], Governor of the [[Irad Special Economic Zone]] (ISEZ), and his wife [[Anara Toktarova]], and she is married to the Lieutenant Governor, [[Aidar Maksat]]. A doctoral candidate in education at [[wp:Stanford University]], she researches bilingual education and mother-tongue literacy. She has lived mainly abroad since the mid-2010s, rarely gives interviews, and is publicly regarded as having no political role.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and education
@@ -2803,6 +2853,18 @@ Toktarova married Aidar Maksat, then a civil servant in the Talas municipal admi
 ### 4.62. Timur Toktarov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Timur Toktarov
+| image = Timur_Toktarov_2016.jpg
+| caption = Toktarov at a truck depot, 2016
+| birth_date = 1982-05-03
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| alma_mater = [[Talas State University]] (2004)
+| occupation = Businessman
+| title = Chairman of [[Trans-Chuy Freight & Logistics]] (2008–present)
+}}
+
 **Timur Toktarov** (born May 3, 1982) is an Iradi businessman who chairs [[Trans-Chuy Freight & Logistics]], the largest road haulage and bonded logistics company in the [[Irad Special Economic Zone]] (ISEZ). He is the third son of Governor [[Erlan Toktarov]]. Like his younger brothers [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile and concentrates on the family's business interests, holding no political office.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and education
@@ -2829,6 +2891,18 @@ Timur rarely gives interviews or appears on [[IradOne]], and he has made no publ
 
 ### 4.63. Adil Toktarov
 *Quality Assessment: C-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Adil Toktarov
+| image = Adil_Toktarov_2017.jpg
+| caption = Toktarov at a construction site, 2017
+| birth_date = 1984-11-19
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| education = International business and urban economics, [[wp:Geneva]]
+| occupation = Property developer
+| title = Head of the Talas Commercial Development Group (2007–present)
+}}
 
 **Adil Toktarov** (born November 19, 1984) is an Iradi property developer who heads the Talas Commercial Development Group, one of the largest owners of commercial real estate in [[Talas]]. He is the fourth son of Governor [[Erlan Toktarov]]. Like his brothers [[Timur Toktarov|Timur]] and [[Bekzat Toktarov|Bekzat]], he keeps a low public profile, holds no political office and concentrates on the family's business interests in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup><sup>[2]</sup>
 
@@ -2860,6 +2934,18 @@ Adil rarely speaks in public. The group's Silk Road Financial Tower also houses 
 
 ### 4.64. Bekzat Toktarov
 *Quality Assessment: C-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Bekzat Toktarov
+| image = Bekzat_Toktarov_2018.jpg
+| caption = Toktarov at a grain terminal, 2018
+| birth_date = 1986-10-02
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| education = Agricultural economics, [[wp:Tashkent]]
+| occupation = Businessman
+| title = Director of [[Nurzhan Agro-Industrial]] (2009–present)
+}}
 
 **Bekzat Toktarov** (born October 2, 1986) is an Iradi businessman who directs [[Nurzhan Agro-Industrial]] (NAI), the dominant feed-milling and grain company of the [[Irad Special Economic Zone]] (ISEZ). He is the fifth and youngest son of Governor [[Erlan Toktarov]]. Like his brothers [[Timur Toktarov|Timur]] and [[Adil Toktarov|Adil]], he keeps a low public profile, holds no political office and concentrates on the family's business interests.<sup>[1]</sup><sup>[2]</sup>
 
@@ -4078,6 +4164,31 @@ The company supplies uniform cloth, winter coats and blankets to the State Defen
 ### 4.96. Amanbek Alimbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Amanbek Alimbekov
+| df = dmy
+| image = Amanbek_Alimbekov_1992.jpg
+| caption = Alimbekov (right, in cardigan) at a meeting in besieged Talas, 1992
+| office1 = Provisional President of the Republic of Irad
+| term_start1 = 1992-03-11
+| term_end1 = 1992-10
+| preceded_by1 = Office established
+| succeeded_by1 = Office abolished
+| office2 = Chancellor of [[Talas State University]]
+| term_start2 = 1995
+| term_end2 = 2004-11-14
+| birth_date = 1938-05-09
+| birth_place = [[Iyık Janyl]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| death_date = 2004-11-14
+| death_place = [[Talas]]
+| resting_place = Historic cemetery of [[Iyık Janyl]]
+| party = Independent
+| relatives = [[Mar Timotheos Alimbekov]] (grandfather's cousin)
+| alma_mater = [[wp:Moscow State University]] (1960)
+| occupation = Historian; politician
+| known_for = *Ene-Til* society; [[Alimbekov-Baker Treaty]]
+}}
+
 **Amanbek Alimbekov** (9 May 1938 – 14 November 2004) was an Iradi historian and politician who led the Provisional Government of the Republic of Irad during the [[First Iradi Civil War]] in 1992. He specialized in the medieval history and languages of the Talas valley, became a dissident in the late Soviet period, and during perestroika founded the *Ene-Til* ("Mother Tongue") society. After the [[Winter Uprising of 1992]] he chaired the council that took over the administration of [[Talas]]. On 11 March 1992 the [[Talas Town Hall Meeting (1992)|Talas Town Hall Meeting]] elected him Provisional President and proclaimed the Republic of Irad.<sup>[1]</sup>
 
 With Talas besieged by the forces of the [[Socialist Republic of Irad]] (SRI), Alimbekov signed the [[Alimbekov-Baker Treaty]] with [[wp:James Baker|US Secretary of State James Baker]] on 2 June 1992. Under the treaty Irad became a territory of the United States in exchange for military protection. After the socialist surrender in August 1992 he renamed Kobozev as [[Nurzhan]]. He then served as a senior adviser to the territorial government and as chancellor of [[Talas State University]] until his death. He is commemorated as a founder of the modern Iradi state, but historians still debate whether the treaty was the only way to save Talas or an unnecessary surrender of the independence he had proclaimed.<sup>[2]</sup><sup>[3]</sup>
@@ -4146,6 +4257,34 @@ Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was ma
 ### 4.97. Vasily Chernov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Vasily Chernov
+| df = dmy
+| image = Vasily_Chernov_1990.jpg
+| caption = Chernov in 1990
+| office1 = President of the [[Socialist Republic of Irad]]
+| term_start1 = 1991-10-09
+| term_end1 = 1992-08-18
+| preceded_by1 = Office established
+| succeeded_by1 = Office abolished
+| office2 = President of the [[Iradi Soviet Socialist Republic|Iradi SSR]]
+| term_start2 = 1990
+| term_end2 = 1991-10-09
+| preceded_by2 = Office established
+| office3 = First Secretary of the [[Communist Party of Irad]]
+| term_start3 = 1986-11
+| term_end3 = 1992
+| birth_date = 1935-03-14
+| birth_place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| death_date = 2012-02-22
+| death_place = [[wp:Moscow]], Russia
+| resting_place = [[wp:Troyekurovskoye Cemetery]]
+| citizenship = Soviet Union; Russia
+| party = [[Communist Party of Irad]]
+| alma_mater = [[wp:Peter the Great St. Petersburg Polytechnic University|Leningrad Polytechnic Institute]] (1958)
+| occupation = Chemical engineer; politician
+}}
+
 **Vasily Chernov** (14 March 1935 – 22 February 2012) was an Iradi communist politician and refinery engineer. He was the last First Secretary of the [[Communist Party of Irad]] (1986–1992) and the only President of the [[Socialist Republic of Irad]] (SRI), the communist state proclaimed in Kobozev (now [[Nurzhan]]) on 9 October 1991. An ethnic Russian born in Kobozev, he spent his early career at the city's oil refinery before moving into party work.<sup>[1]</sup>
 
 His government's emergency decrees and the economic collapse of 1991–92 provoked the [[Winter Uprising of 1992]], during which security forces shot demonstrators in [[Talas]] on 3 February 1992. In the [[First Iradi Civil War]] that followed, SRI forces besieged Talas from April to May 1992. After the United States intervened under the [[Alimbekov-Baker Treaty]], Chernov's remaining forces surrendered on 18 August 1992, and he went into exile in Russia, where he lived until his death.<sup>[2]</sup><sup>[3]</sup>
@@ -4207,6 +4346,29 @@ Historians generally regard him as a Soviet technocrat whose career had not prep
 
 ### 4.98. Bakyt Orozbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Bakyt Orozbekov
+| df = dmy
+| image = Bakyt_Orozbekov_2006.jpg
+| caption = Orozbekov in his legislative office, 2006
+| office1 = Prime Minister of the [[Democratic Republic of Irad]]
+| term_start1 = 2006-12-09
+| term_end1 = 2007-06-04
+| preceded_by1 = Office established
+| succeeded_by1 = Office abolished
+| office2 = Chief Legal Counsel to the Territorial Senate
+| term_start2 = 1998
+| term_end2 = 2005
+| birth_date = 1962-07-19
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| party = [[Democratic Party of Irad]]
+| children = 2
+| residence = [[wp:Istanbul]], Turkey
+| alma_mater = [[wp:Moscow State University]] (1984); [[wp:Harvard Law School]] (LL.M., 1996)
+| occupation = Lawyer
+| known_for = [[2003 Judicial Reforms Act]]; [[Bill of Sale (2007)|Bill of Sale]]
+}}
 
 **Bakyt Orozbekov** (born 19 July 1962) is an Iradi lawyer and former politician who was the only Prime Minister of the [[Democratic Republic of Irad]] (DRI), from its proclamation on 9 December 2006 until its dissolution on 4 June 2007. He trained in [[wp:Moscow]] and at [[wp:Harvard Law School]]. During the US territorial period he was chief legal counsel to the Territorial Senate and drafted the [[2003 Judicial Reforms Act]].<sup>[1]</sup>
 
@@ -4946,6 +5108,25 @@ The ISEZ government holds that the act's institutions remain valid but that its 
 ### 4.109. Operation Starlight
 *Quality Assessment: C-Class Article | Category: History*
 
+{{Infobox military conflict
+| conflict = Operation Starlight
+| partof = the [[First Iradi Civil War]]
+| date = 6 June – 18 August 1992
+| place = [[Talas]], the Talas valley and the railway corridor to Kobozev (now [[Nurzhan]])
+| result = US and Provisional Government victory;Siege of Talas lifted (18 June);Fall of Kobozev (12 August);Unconditional SRI surrender;Irad becomes a US territory
+| combatant1 = [[wp:United States]];[[Provisional Government of Irad (1992)|Provisional Government of the Republic of Irad]]
+| combatant2 = [[Socialist Republic of Irad]]
+| commander1 = [[David Sterling|Col. David Sterling]] (US liaison);[[Amanbek Alimbekov]]
+| commander2 = [[Vasily Chernov]]
+| units1 = [[wp:United States Marine Corps|US Marines]];10th Mountain Division;US air units;Student militias, workers' detachments and clan cavalry
+| units2 = 17th Motor Rifle Division;[[wp:OMON]];Interior troops
+| strength1 = US: c. 8,000–10,000 (peak ground deployment, late July)
+| strength2 = 9,000–14,000 (June 1992, Iradi estimates)
+| casualties1 = US: dozens killed (Iradi histories)
+| casualties2 = Many conscripts deserted;Heavy equipment seized
+| casualties3 = c. 14,000 dead in the whole war, March–August 1992 (most cited);9,000 to over 20,000 (independent estimates)
+}}
+
 **Operation Starlight** (Iradi: *Jıldız Jarıgı*) was the United States military intervention in the [[First Iradi Civil War]] in 1992. It was carried out under the [[Alimbekov-Baker Treaty]], which the Provisional Government of the Republic of Irad signed and ratified in besieged [[Talas]] on 2 June 1992. The first [[wp:United States Marine Corps|US Marines]] were airlifted into the airfield west of Talas, now [[Talas Air Base]], on 6 June. With troops of the 10th Mountain Division and US air support, they broke the siege of the city by 18 June. US and Provisional forces then advanced along the railway toward Kobozev (now [[Nurzhan]]), the seat of the [[Socialist Republic of Irad]] (SRI). Kobozev fell on 12 August, and the remaining SRI forces surrendered unconditionally on 18 August 1992.<sup>[1]</sup><sup>[2]</sup>
 
 The surrender ended the civil war and the SRI. The same day Irad became an organized, unincorporated territory of the United States under the [[Organic Act of the Territory of Irad]], beginning the [[Territory of Irad (1992–2006)|territorial period]]. The most commonly cited death toll for the war as a whole is about 14,000, with independent estimates ranging from about 9,000 to more than 20,000.<sup>[3]</sup>
@@ -5073,6 +5254,19 @@ Critics argue that it froze the conflict instead of resolving it. The line it dr
 
 ### 4.111. Battle of Talas
 *Quality Assessment: C-Class Article | Category: History*
+
+{{Infobox military conflict
+| conflict = Battle of Talas
+| date = July 751 (Dhu al-Hijja 133 AH)
+| place = Valley of the [[Talas River]], near Talas (exact site disputed)
+| result = Abbasid victory; Tang army routed after the Karluk defection
+| combatant1 = [[wp:Abbasid Caliphate]]; [[wp:Karluks]] (changed sides during the battle); *[[wp:Tibetan Empire|Tibetan]] contingents (role uncertain)*
+| combatant2 = [[wp:Tang dynasty]] ([[wp:Protectorate General to Pacify the West|Anxi Protectorate]]); allied contingents
+| commander1 = [[wp:Ziyad ibn Salih]]; [[wp:Abu Muslim]] (governor of Khurasan)
+| commander2 = [[wp:Gao Xianzhi]]; [[wp:Li Siye]]
+| strength2 = c. 30,000 incl. allied contingents (Chinese sources)
+| casualties2 = Most of the army lost; Gao escaped with a few thousand men (Chinese sources); tens of thousands killed and c. 20,000 captured (Ibn al-Athir)
+}}
 
 The **Battle of Talas** (Iradi: *Talas sogushu*; Chinese: 怛羅斯之戰, *Daluosi zhi zhan*; Arabic: معركة طلاس, *Maʿrakat Ṭalās*) was fought in July 751 in the valley of the [[Talas River]] between the armies of the [[wp:Abbasid Caliphate]] and the Tang dynasty of China. An Abbasid force commanded by [[wp:Ziyad ibn Salih|Ziyad]] ibn Salih, sent by [[wp:Abu Muslim]], the Abbasid governor of [[wp:Greater Khorasan|Khurasan]], defeated a Tang army of the [[wp:Protectorate General to Pacify the West|Anxi Protectorate]] under [[wp:Gao Xianzhi]] after the [[wp:Karluks|Karluk Turks]] serving with the Tang changed sides. It is the only recorded battle between the armies of the caliphate and of China.<sup>[1]</sup><sup>[2]</sup>
 
@@ -6308,7 +6502,7 @@ In the ISEZ, births, marriages and name changes are registered by the civil regi
 ### 4.131. Iradi Americans
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
-**Iradi Americans** are Americans of full or partial Iradi descent, and residents of the United States born in [[Irad]]. US census data do not record Iradi ancestry separately, and community organizations and researchers estimate the population at 60,000 to 90,000.<sup>[1]</sup> The largest community is in the [[wp:Chicago]] metropolitan area, where Iradi Catholic displaced persons settled after the [[wp:World War II|Second World War]], and there are smaller communities in the [[wp:Houston]] area, eastern [[wp:Nebraska]] and the Washington, D.C., area. Most Iradi Americans arrived during or after the US territorial period (1992–2006), when residents of the Territory of Irad could live and work in the United States without a visa. The emigrants of that period were mainly urban, English-educated professionals, students and nurses, and the community differs in this respect from the tribal population of Irad. The best-known Iradi American in Irad is the commentator [[Jason Ilyasov]].<sup>[1]</sup><sup>[2]</sup>
+**Iradi Americans** are Americans of full or partial [[Iradis|Iradi]] descent, and residents of the United States born in [[Irad]]. US census data do not record Iradi ancestry separately, and community organizations and researchers estimate the population at 60,000 to 90,000.<sup>[1]</sup> The largest community is in the [[wp:Chicago]] metropolitan area, where Iradi Catholic displaced persons settled after the [[wp:World War II|Second World War]], and there are smaller communities in the [[wp:Houston]] area, eastern [[wp:Nebraska]] and the Washington, D.C., area. Most Iradi Americans arrived during or after the US territorial period (1992–2006), when residents of the Territory of Irad could live and work in the United States without a visa. The emigrants of that period were mainly urban, English-educated professionals, students and nurses, and the community differs in this respect from the tribal population of Irad. The best-known Iradi American in Irad is the commentator [[Jason Ilyasov]].<sup>[1]</sup><sup>[2]</sup>
 
 ## History
 
@@ -7528,7 +7722,7 @@ The OSCE Office for Democratic Institutions and Human Rights has sent limited as
 ### 4.152. Clans of the Autonomous Tribal Regions
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
-The **clans of the Autonomous Tribal Regions** (Iradi: *uruktar*) are the 24 patrilineal descent groups (*uruk*) that hold land and govern themselves in the [[Autonomous Tribal Regions]] (ATR) of Irad. They coordinate through the [[Iradi Freedom Society]] (IAC), whose principal spokesman is the Tanıp chieftain [[Bektur Zhumabek uulu]]. Outside the ATR the clans are often described as a single bloc. Researchers and United Nations staff describe a looser landscape of regional groupings, allied and rival lineages, and recurring disputes over pasture, water and trade.<sup>[1]</sup><sup>[2]</sup>
+The **clans of the Autonomous Tribal Regions** (Iradi: *uruktar*) are the 24 patrilineal descent groups (*uruk*) of the rural [[Iradis]] that hold land and govern themselves in the [[Autonomous Tribal Regions]] (ATR) of Irad. They coordinate through the [[Iradi Freedom Society]] (IAC), whose principal spokesman is the Tanıp chieftain [[Bektur Zhumabek uulu]]. Outside the ATR the clans are often described as a single bloc. Researchers and United Nations staff describe a looser landscape of regional groupings, allied and rival lineages, and recurring disputes over pasture, water and trade.<sup>[1]</sup><sup>[2]</sup>
 
 The clans vary greatly in size, from a few hundred households to clans that field more than 1,500 El-Choro riders. Precedence among them follows the oral genealogies (*[[Sanjyra (Genealogy)|sanjyra]]*), which do not always match present-day size or influence.<sup>[1]</sup>
 

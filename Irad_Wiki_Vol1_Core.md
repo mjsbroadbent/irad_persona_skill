@@ -509,6 +509,33 @@ Talas is home to [[Talas State University]], whose press is a leading publisher 
 ### 2.2. Erlan Toktarov
 *Quality Assessment: Good Article (GA) | Category: Biographies*
 
+{{Infobox person
+| name = Erlan Toktarov
+| image = Erlan_Toktarov_2019.jpg
+| caption = Toktarov in 2019
+| office1 = Governor of the [[Irad Special Economic Zone]]
+| term_start1 = 2007
+| lieutenant1 = Daniyar Tologonov (2007–2019); [[Aidar Maksat]] (2019–present)
+| preceded_by1 = Office established
+| office2 = Chairman of the [[Democratic Party of Irad]]
+| term_start2 = 2007
+| office3 = Majority Leader of the Territorial Senate
+| term_start3 = 2000
+| term_end3 = 2004
+| birth_date = 1954-04-12
+| birth_place = Chu lowlands, [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| party = [[Democratic Party of Irad]]
+| spouse = [[Anara Toktarova]] (m. 1977)
+| children = 6, including [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] and [[Zara Toktarova|Zara]]
+| relatives = [[Aidar Maksat]] (son-in-law)
+| alma_mater = Tashkent Higher Combined Arms Command School
+| allegiance = [[wp:Soviet Union]]
+| branch = [[wp:Soviet Army]] (rear services)
+| rank = Major
+| battles = [[wp:Soviet–Afghan War]]; [[First Iradi Civil War]]
+| awards = [[wp:Order of the Red Star]]
+}}
+
 **Erlan Toktarov** (born April 12, 1954) is an Iradi politician and former [[wp:Soviet Army]] officer who has been Governor of the [[Irad Special Economic Zone]] (ISEZ) and chairman of the [[Democratic Party of Irad]] (DPI) since 2007. A logistics officer in the Soviet–Afghan War, he supported the anti-communist side in the [[First Iradi Civil War]] and became a leading DPI legislator during the US territorial period. On February 25, 2007, after the end of US administration, he broke with the DPI government, made public its secret drafts to partition Irad among its neighbors (the [[Bill of Sale (2007)|Bill of Sale]]), seized control of the party and proclaimed the ISEZ from [[Nurzhan]], returning Irad to "suspended sovereignty". The leak made him a national hero. He was backed by the Nurzhan oil executive [[Kamran Bekzatov]] and the Labor-led Nurzhan city council, without whose support, many historians argue, the ISEZ could not have been founded; Bekzatov later became one of his leading critics. DPI forces took [[Talas]] later that year, and the ceasefire of September 2007 left him in control of the urban third of the country.
 
 Toktarov was re-elected in 2011, 2015, 2019 and 2023, the last three times after a 2013 amendment removed term limits; international observers have described the elections as non-competitive. Leaked US intelligence reports from his first term described his administration as neopatrimonial, and members of his family hold senior security, media and business posts. Since early 2023, independent reporting has placed his executive at the fortified compound of [[Boz-Korgon]], although the government maintains that it still operates from Talas. He has not appeared in public since July 2024. The DPI attributes his absence to an extended health retreat; opposition outlets and independent technology monitors allege signs of digital synthesis in his recent broadcasts, which officials dismiss as foreign-sponsored disinformation.
@@ -846,6 +873,21 @@ Foreign companies with large operations include Sukarne, Conagra, Xinjiang Lihua
 ### 2.6. First Iradi Civil War
 *Quality Assessment: Good Article (GA) | Category: History*
 
+{{Infobox military conflict
+| conflict = First Iradi Civil War
+| date = March 11 – August 18, 1992
+| place = [[Socialist Republic of Irad]] (present-day Irad)
+| result = Provisional Government and US victory; [[Alimbekov-Baker Treaty]] and [[Operation Starlight|US intervention]]; End of the [[Socialist Republic of Irad]]
+| territory = Irad becomes an organized, unincorporated territory of the United States ([[Organic Act of the Territory of Irad]])
+| combatant1 = [[Provisional Government of Irad (1992)|Provisional Government of the Republic of Irad]];[[wp:United States]] (from June 1992)
+| combatant2 = [[Socialist Republic of Irad]]
+| commander1 = [[Amanbek Alimbekov]];[[Kuban Mamytov]];[[Bektur Zhumabek uulu]]
+| commander2 = [[Vasily Chernov]]
+| units1 = Student militias;Defected police;Workers' detachments;Mounted clan irregulars;[[wp:United States Marine Corps|US Marines]];10th Mountain Division
+| units2 = 17th Motor Rifle Division;[[wp:OMON]];Interior troops
+| casualties3 = c. 14,000 military and civilian dead (Provisional and territorial records);9,000 to over 20,000 (independent estimates);Tens of thousands displaced from Talas
+}}
+
 {{Hatnote|This article is about the 1992 conflict. For the 2007 conflict, see [[Second Iradi Civil War]].}}
 
 The **First Iradi Civil War** (March 11 – August 18, 1992) was fought between the [[Socialist Republic of Irad]] (SRI), the post-Soviet communist state based in Kobozev (now [[Nurzhan]]), and the Provisional Government of the Republic of Irad in [[Talas]]. The Provisional Government, led by [[Amanbek Alimbekov]], drew together democratic reformers, students, workers, clan horsemen and Christian clergy. The war began when the Provisional Government proclaimed the Republic of Irad on March 11, 1992, after the [[Winter Uprising of 1992]] had driven SRI officials out of Talas.<sup>[2]</sup>
@@ -983,7 +1025,7 @@ Horse breeding is a small but prestigious export industry. Since the 1990s the U
 
 ---
 
-## 3. B-Class Articles (43 Entries)
+## 3. B-Class Articles (44 Entries)
 
 ### 3.1. History of Irad
 *Quality Assessment: B-Class Article | Category: History*
@@ -1392,6 +1434,30 @@ The system supplies drinking and irrigation water to more than 40 villages, incl
 ### 3.5. Bektur Zhumabek uulu
 *Quality Assessment: B-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Bektur Zhumabek uulu
+| image = Bektur_Zhumabek_uulu_2022.jpg
+| caption = Bektur on the summer pastures, 2022
+| office1 = Spokesman of the [[Iradi Freedom Society]]
+| term_start1 = 2007
+| office2 = *Biy* of the Tanıp clan
+| term_start2 = 2001
+| other_names = Bektur Zhumabekov (Soviet records)
+| birth_date = 1968-08-15
+| birth_place = Upper Kara-Suu valley, [[Talas Alatau]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = Gulbara Sultanbek kyzy
+| children = 4
+| parents = Zhumabek Asanaly uulu (father); Zuura Tashtan kyzy (mother)
+| relatives = [[Klara Zhumabek kyzy]] (sister)
+| residence = Upper Kara-Suu valley
+| occupation = Herder; veterinary assistant; clan leader
+| religion = [[Syro-Iradi Catholic Church]]
+| allegiance = [[wp:Soviet Union]] (1986–1988); Provisional Government of Irad (1992); [[Popular Front of Irad]] (2007)
+| branch = [[wp:Soviet Army]]; *[[El-Choro (Military)|el-choro]]* irregulars
+| rank = Military commander, Popular Front of Irad
+| battles = [[First Iradi Civil War]]; [[Second Iradi Civil War]] ([[Storming of Talas (2007)|Storming of Talas]])
+}}
+
 **Bektur Zhumabek uulu** (born August 15, 1968) is an Iradi tribal leader and former militia commander. He is the hereditary chieftain (*biy*) of the Tanıp, one of the twenty-four clans (*uruk*) of the [[Autonomous Tribal Regions]] (ATR), and the principal spokesman and negotiator of the [[Iradi Freedom Society]] (*Iradin Azatlık Cemiyeti*, IAC), the loose confederation through which the clans coordinate their affairs.<sup>[1]</sup> During the [[Second Iradi Civil War]] he commanded the clan militias that formed the [[Popular Front of Irad]], and on June 4, 2007, he led the [[Storming of Talas (2007)|storming of Talas]] that ended the [[Democratic Republic of Irad]]. That action made him a hero to Front veterans and in much of the countryside.<sup>[2]</sup>
 
 Bektur holds no formal office and rejects the title of leader. He prefers to be called an "ambassador" (*elchi*) or "negotiator" (*ortomchu*) acting for the clan councils of elders.<sup>[3]</sup> In 2011 he headed the IAC delegation that walked out of talks with the [[Democratic Party of Irad]] (DPI) after the tribal regions were offered one-third of the seats in a unified legislature. Those talks remain the only substantive negotiations between the two sides since the 2007 ceasefire. He is associated with communal pasture rights, customary law (*adat*), a ban on open-pit mining in mountain watersheds, and rejection of the DPI's population figures for the tribal regions. The government of the [[Irad Special Economic Zone]] (ISEZ) regards the IAC's militias as an unlawful armed formation, while United Nations officials treat Bektur as the confederation's main interlocutor.<sup>[4]</sup>
@@ -1469,6 +1535,29 @@ Bektur lives in a timber house and a felt yurt in the upper Kara-Suu valley, on 
 ### 3.6. Aidar Maksat
 *Quality Assessment: B-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Aidar Maksat
+| image = Aidar_Maksat_2024.jpg
+| caption = Maksat addressing a meeting, 2024
+| office1 = Lieutenant Governor of the [[Irad Special Economic Zone]]
+| term_start1 = 2019-11-25
+| governor1 = [[Erlan Toktarov]]
+| preceded_by1 = Daniyar Tologonov
+| office2 = Director-General of Infrastructure Development, Talas
+| term_start2 = 2009
+| term_end2 = 2016
+| birth_name = Aidar Maksatov
+| birth_date = 1980-11-03
+| birth_place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| party = [[Democratic Party of Irad]]
+| spouse = [[Zara Toktarova]] (m. 2008)
+| children = 3
+| parents = Bolat Maksatov (father); Saule Maksatova (mother)
+| relatives = [[Erlan Toktarov]] (father-in-law)
+| alma_mater = [[Nurzhan Polytechnic Institute]] (2002); [[wp:London School of Economics]] (MSc, 2005)
+| occupation = Civil engineer; politician
+}}
+
 **Aidar Maksat** (born November 3, 1980) is an Iradi civil engineer and politician who has been Lieutenant Governor of the [[Irad Special Economic Zone]] (ISEZ) since November 2019.<sup>[1]</sup> He belongs to the [[Democratic Party of Irad]] (DPI) and is the son-in-law of Governor [[Erlan Toktarov]]. Toktarov withdrew from public view in July 2024, and Maksat has run the day-to-day operations of the ISEZ government since then. The DPI attributes the Governor's absence to an extended health retreat and says that Maksat acts on his instructions.<sup>[2]</sup>
 
 Before becoming Lieutenant Governor, Maksat worked in municipal infrastructure in [[Talas]], where he directed the reconstruction of the city's water treatment works, and sat on the regulatory board overseeing the telecommunications company [[Attelkom]].<sup>[3]</sup> Foreign diplomats and investors often describe him as the most technocratic member of the governing circle. Critics argue that his rise owes much to his 2008 marriage to [[Zara Toktarova]], the Governor's youngest child and only daughter.<sup>[4]</sup> As Lieutenant Governor he has run the government since 2024, during a publicly visible succession rivalry between the Governor's two eldest sons, [[Ruslan Toktarov]] and [[Alikhan Toktarov]]; he has made no public claim to the succession.<sup>[2]</sup>
@@ -1532,6 +1621,30 @@ Maksat married Zara Toktarova in 2008, and they have three children.<sup>[5]</su
 ### 3.7. Ruslan Toktarov
 *Quality Assessment: B-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Ruslan Toktarov
+| honorific_prefix = Major General
+| image = Ruslan_Toktarov_2021.jpg
+| caption = Official portrait as commander of the Republican Gendarmerie, 2021
+| office1 = Commander of the [[Republican Gendarmerie of Irad]]
+| term_start1 = 2012-03
+| appointer1 = [[Erlan Toktarov]]
+| birth_date = 1978-06-22
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = Aiperi Toktarova (née Abdyldaeva)
+| children = 3
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| residence = [[Talas]]
+| alma_mater = Omsk Higher Tank Engineering School
+| religion = [[Syro-Iradi Catholic Church]]
+| branch = [[Republican Gendarmerie of Irad]]
+| serviceyears = 2004–present
+| rank = Major general
+| commands = Republican Gendarmerie of Irad
+| battles = [[Second Iradi Civil War]]
+}}
+
 **Ruslan Toktarov** (born June 22, 1978) is an Iradi security official who has commanded the [[Republican Gendarmerie of Irad]] since 2012, with the rank of major general.<sup>[1]</sup> He is the eldest son of Governor [[Erlan Toktarov]]. Through the Gendarmerie, which also includes the Special Protective Service responsible for executive security, Ruslan oversees the checkpoints on the [[Qara-Chik Demarcation Line]], internal intelligence and perimeter security at [[Talas Air Base]].<sup>[1]</sup>
 
 Ruslan is known for nationalist rhetoric and a hard line toward the [[Autonomous Tribal Regions]]. Remarks he made about Muslims in late 2024 and early 2025 were condemned by religious leaders and human rights groups, and reinforced a reputation his critics describe as bigoted and brutish.<sup>[2]</sup> Rights organizations have criticized the Gendarmerie's treatment of detainees and its handling of the [[2023 Student Protests in Talas]].<sup>[3]</sup> Since his father withdrew from public view in July 2024, Ruslan has appeared in public far more often. His rivalry over the succession with his younger brother [[Alikhan Toktarov]] has been widely reported, and many commentators doubt his ability to handle political and economic affairs.<sup>[4]</sup>
@@ -1592,6 +1705,24 @@ Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three chi
 
 ### 3.8. Alikhan Toktarov
 *Quality Assessment: B-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Alikhan Toktarov
+| image = Alikhan_Toktarov_2019.jpg
+| caption = Toktarov at an IradOne studio launch, 2019
+| office1 = Chairman of the executive board of [[IradOne]]
+| term_start1 = 2015-06
+| appointer1 = [[Erlan Toktarov]]
+| birth_date = 1980-09-14
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = Madina Iskakova (m. 2010; div. 2017)
+| children = 2
+| parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
+| relatives = [[Ruslan Toktarov|Ruslan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
+| alma_mater = [[wp:Regent's University London|Regent's College, London]] (BA, 2003)
+| occupation = Businessman; media executive
+| known_for = Steppe Luxury Group (founder, 2008)
+}}
 
 **Alikhan Toktarov** (born September 14, 1980) is an Iradi businessman and media executive who has chaired the board of the state broadcaster [[IradOne]] since 2015.<sup>[1]</sup> He is the second son of Governor [[Erlan Toktarov]]. Through his company, the Steppe Luxury Group, he also holds interests in commercial property in [[Talas]] and in franchises importing luxury goods.<sup>[2]</sup>
 
@@ -1654,6 +1785,23 @@ In 2010 Alikhan married Madina Toktarova (née Iskakova), a former IradOne prese
 
 ### 3.9. Kamran Bekzatov
 *Quality Assessment: B-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Kamran Bekzatov
+| image = Kamran_Bekzatov_2019.jpg
+| caption = Bekzatov at a business forum, 2019
+| birth_date = 1951-01-28
+| birth_place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = Galina Lebedeva
+| children = [[Emil Bekzatov|Emil]]; [[Rustam Bekzatov|Rustam]]; [[Asel Bekzatova|Asel]]
+| parents = Rashid Bekzatov (father); Valentina Bekzatova (mother)
+| residence = [[Nurzhan]]
+| alma_mater = Gubkin Moscow Institute of the Petrochemical and Gas Industry (1974)
+| occupation = Businessman; petroleum engineer
+| title = Head of [[NurGaz]] (1993–present)
+| known_for = [[Russos of Nurzhan]]; Bekzatov Foundation
+| net_worth = US$1 billion+ (estimate)
+}}
 
 **Kamran Bekzatov** (born January 28, 1951) is an Iradi businessman and petroleum engineer who has headed [[NurGaz]], the Nurzhan Oil and Gas Company, since its privatization in 1993.<sup>[1]</sup> He is widely described as an oligarch. He is also the best-known member of the "Russos", the generation of urban Iradis who were educated in Russian during the Soviet period and are centered on [[Nurzhan]] (see [[Russos of Nurzhan]]).<sup>[2]</sup>
 
@@ -1724,6 +1872,21 @@ He lives in Nurzhan, and he speaks Russian at home and in most public settings.<
 
 ### 3.10. Jason Ilyasov
 *Quality Assessment: B-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Jason Ilyasov
+| image = Jason_Ilyasov_2025.jpg
+| caption = Ilyasov presenting Tulpar on stage, 2025
+| birth_date = 1988-03-19
+| birth_place = [[wp:Chicago]], [[wp:Illinois]], United States
+| citizenship = United States
+| parents = Marat Ilyasov (father); Dinara Ilyasova (mother)
+| residence = [[Talas]]
+| alma_mater = [[wp:University of Chicago]] (BA, 2010)
+| occupation = Political commentator; media personality; businessman
+| title = Founder and CEO of [[Tulpar (app)|Tulpar]] (2019–present)
+| known_for = *OneDebate*; Liberty Forum of Irad; [[Tulparcoin]]
+}}
 
 **Jason Ilyasov** (born March 19, 1988) is an Iradi-American political commentator and media personality. A self-described anarcho-capitalist, he has been a regular panelist on [[IradOne]] opinion programs since 2016 and is known for a brash, confrontational manner on air.<sup>[1]</sup> He founded the Liberty Forum of Irad, a small advocacy group in [[Talas]], writes the blog *The Steppe Frontier*, and is the founder, chief executive and public face of [[Tulpar (app)|Tulpar]], a messaging and classifieds app widely used in the ISEZ. His central argument is that Irad is uniquely placed to become "an unregulated corporate paradise and the economic heart of Asia".<sup>[2]</sup>
 
@@ -2313,6 +2476,25 @@ The treaty's dissolution gave rise to the [[Bush Family Palatial Complex Conspir
 
 ### 3.17. Second Iradi Civil War
 *Quality Assessment: B-Class Article | Category: History*
+
+{{Infobox military conflict
+| conflict = Second Iradi Civil War
+| date = 25 February – September 2007
+| place = [[Irad]]
+| result = [[Bishkek Ceasefire Agreement (2007)]]; Dissolution of the [[Democratic Republic of Irad]] after the [[Storming of Talas (2007)|Storming of Talas]]; ISEZ takes the cities; [[United Nations Mission in Irad]] established; frozen conflict
+| territory = Irad divided along the [[Qara-Chik Demarcation Line]] into the [[Irad Special Economic Zone]] and the [[Autonomous Tribal Regions]]
+| combatant1 = [[Democratic Republic of Irad]]
+| combatant2 = [[Irad Special Economic Zone]] emergency administration; [[Democratic Party of Irad]] (Toktarov faction); *Supported by:*; [[wp:United States]]; Western companies
+| combatant3 = [[Popular Front of Irad]]
+| commander1 = [[Bakyt Orozbekov]]
+| commander2 = [[Erlan Toktarov]]
+| commander3 = [[Bektur Zhumabek uulu]]
+| units1 = Territorial police; Remnants of the territorial defense forces
+| units2 = Municipal police; Gendarmerie units; State Defense Corps
+| units3 = Clan militias; Defected territorial defense detachments; Industrial strike committees
+| strength3 = 8,000+ mounted irregulars
+| casualties4 = Dead estimated in the low thousands (UNMI and humanitarian agencies); 80,000+ civilians displaced
+}}
 
 The **Second Iradi Civil War** was an armed conflict in [[Irad]] from February to September 2007. It began on 25 February 2007, when [[Erlan Toktarov]] proclaimed the [[Irad Special Economic Zone]] (ISEZ) from [[Nurzhan]] in defiance of the government of the [[Democratic Republic of Irad]] (DRI) in Talas, and ended with the UN-brokered [[Bishkek Ceasefire Agreement (2007)]] in September. Three forces took part: the DRI government of Prime Minister [[Bakyt Orozbekov]]; Toktarov's emergency administration, backed by the faction of the [[Democratic Party of Irad]] (DPI) loyal to him; and the [[Popular Front of Irad]], a coalition of clan militias led by [[Bektur Zhumabek uulu]].<sup>[1]</sup> Its main cause was the [[Bill of Sale (2007)|Bill of Sale]] (*Satuu Kagazy*), the secret drafts under which the Orozbekov cabinet had agreed to dissolve Irad and partition it among its three neighbors, which Toktarov made public on the day he proclaimed the ISEZ.<sup>[10]</sup>
 
@@ -2957,6 +3139,22 @@ Russian-speaking viewers and politicians allied with Bekzatov say ИрадОди
 
 ### 3.27. Winter Uprising of 1992
 *Quality Assessment: B-Class Article | Category: History*
+
+{{Infobox civil conflict
+| title = Winter Uprising of 1992
+| date = December 1991 – 11 March 1992
+| place = [[Talas]], Kobozev (now [[Nurzhan]]) and the [[Talas Alatau]]
+| causes = Post-Soviet economic collapse and hyperinflation;Bread rationing;Chernov's emergency decrees (November 1991);Requisition of grain and horse herds;[[wp:Russification]] and religious repression
+| goals = Repeal of the emergency decrees;Resignation of the Chernov government
+| methods = Demonstrations;Strikes;Occupation of Central Square;Open-air liturgies;Mounted procession (March of the Thousand Saddles);Seizure of arsenals
+| result = SRI loses control of Talas and the Talas valley;Coordinating council under Alimbekov forms the Provisional Government;Republic of Irad proclaimed, 11 March 1992;Start of the [[First Iradi Civil War]]
+| side1 = Protesters and insurgents:;Students of [[Talas State University]];*Ene-Til* society;Industrial and railway workers;Clergy of the [[Syro-Iradi Catholic Church]];Clan horsemen of the Talas Alatau and Chatkal valleys;Defecting police
+| side2 = [[Socialist Republic of Irad]];[[Communist Party of Irad]];[[wp:OMON]];Interior troops
+| leadfigures1 = [[Amanbek Alimbekov]];[[Zamirbek Bakiev]]
+| leadfigures2 = [[Vasily Chernov]]
+| howmany1 = c. 3,000 to over 5,000 horsemen (18 February)
+| fatalities = c. 60–150 (archival estimates, Dec 1991 – Mar 1992);3 February shootings: 27 (2002 commission); 11 (SRI figure); 46 (Provisional Government figure)
+}}
 
 The **Winter Uprising of 1992** (Iradi: *Kyshky Kötörülüsh*, 'winter uprising') was a wave of protests, strikes and armed revolt against the government of the [[Socialist Republic of Irad]] (SRI) in the winter of 1991–92. It began in December 1991, provoked by the economic collapse that followed the end of Soviet rule and by emergency decrees of the government of First Secretary [[Vasily Chernov]], and ended with anti-socialist forces in control of [[Talas]], Irad's largest city. On 11 March 1992 the Provisional Government in Talas proclaimed the Republic of Irad, beginning the [[First Iradi Civil War]] against the SRI government in Kobozev (now [[Nurzhan]]). The proclamation is commemorated each year as Irad Day.<sup>[1]</sup>
 
@@ -3998,6 +4196,8 @@ The 2018 census asked respondents to state their nationality. Official results g
 Because the ATR figures were estimated rather than counted, the composition of the tribal regions in these results rests largely on Soviet-era data. Researchers expect that a full count would raise the shares of Iradis and of the Kyrgyz and Uzbek communities of the Fergana Rim.<sup>[2]</sup>
 
 #### Iradis
+*Main article: [[Iradis]]*
+
 Iradis form the majority in all three cities and in nearly all of the tribal regions. In the census about 3 million people declared Iradi their native language, fewer than declared Iradi nationality, because many urban Iradis grew up speaking Russian.<sup>[1]</sup> The rural Iradis of the ATR are organized in 24 clans (*uruk*), and genealogy (*[[Sanjyra (Genealogy)|sanjyra]]*) remains a basis of social identity there. Urban Iradis are divided by generation more than by clan: sociologists distinguish the Russian-speaking "Russos" born before about 1980, the [[Urban Iradi Millennials]] and the Iradi- and English-speaking generation associated with the [[Iradi language revival]] (see [[Russos of Nurzhan]]).<sup>[8]</sup>
 
 #### Neighboring Turkic peoples
@@ -4936,4 +5136,107 @@ The Soviet-era films have shaped later Iradi popular culture. Mor-Wave performer
 <li id="cite_note-14"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/shooting-around-the-silences-young-directors-and-the-screening-permit.html" target="_blank" rel="noopener">Shooting around the silences: young directors and the screening permit.</a>' Talas.</li>
 <li id="cite_note-16"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
+</ol>
+
+### 3.44. Iradis
+*Quality Assessment: B-Class Article | Category: Society & Demographics*
+
+{{Infobox ethnic group
+| group = Iradis
+| native_name = *Iraddar*
+| image = Feast_of_St_Janyl.jpg
+| caption = The Blessing of the Herds at the Feast of St. Janyl, Iyık Janyl
+| region1 = [[Irad]]
+| pop1 = 3.3 million (2018 census); higher on independent estimates
+| region2 = [[wp:Kazakhstan]]
+| pop2 = Main destination of labor migrants
+| region3 = [[wp:United States]]
+| pop3 = 60,000–90,000
+| region4 = [[wp:Russia]]
+| pop4 = 70,000–120,000 (seasonal migrants, 2024)
+| languages = [[Iradi Language|Iradi]]; also Russian and English
+| religions = Predominantly [[Syro-Iradi Catholic Church|Syro-Iradi Catholic]]; Sunni Muslim minority in the Fergana Rim
+| related = [[wp:Kyrgyz people|Kyrgyz]]; [[wp:Kazakhs]]; other [[wp:Kipchaks|Kipchak]] peoples
+}}
+
+The **Iradis** (Iradi: *Iraddar*; singular *Irad*) are a [[wp:Kipchaks|Kipchak]] Turkic people native to [[Irad]], where they form the majority of the population. They speak [[Iradi Language|Iradi]], a language closely related to Kyrgyz, and are distinguished from their Turkic neighbors chiefly by religion: most Iradis belong to the [[Syro-Iradi Catholic Church]], an Eastern Catholic church descended from the [[wp:Church of the East]], which converted Turkic pastoralists of the region in the 11th and 12th centuries. The official census of 2018 counted about 3.3 million Iradis, 72 percent of Irad's population. Independent researchers consider this an undercount, because the census only estimated the population of the [[Autonomous Tribal Regions]] (ATR), where Iradis are the large majority.<sup>[1]</sup><sup>[2]</sup>
+
+Iradis are divided between a largely urban, multilingual population in the [[Irad Special Economic Zone]] (ISEZ) and a rural, pastoral population in the tribal regions, organized in 24 patrilineal clans. Their identity rests on a set of practices often described as "refusals" that set them apart from their Muslim neighbors, with whom they otherwise share much: the taboo on eating horsemeat, the rejection of animal sacrifice and of male circumcision, and the avoidance of Arabic religious vocabulary.<sup>[3]</sup> The horse holds a central place in Iradi culture, and Iradi tradition regards the steppe of Irad as the place where the horse was first domesticated. Communities of Iradi descent live in [[wp:Kazakhstan]], Russia and the United States, where the largest settled community is in [[wp:Chicago]].
+
+## Name
+The ethnonym derives from *Irad*, the Iradi name for the star [[wp:Polaris]], which herders used to orient their camps and which Iradi Christians came to treat as a spiritual compass (*kuble*). In poetry the Iradis are called *zhulduz eli*, "the people of the star". Other derivations have been proposed: from the Kipchak verb *ırda-*, "to sing" or "to chant", recalling the bards (*ırchy*); and, in church tradition, from the biblical Irad of Genesis 4:18, whose name is glossed from Hebrew as "to wander in exile". Historians generally hold that the name entered use through East Syriac missionaries in the 11th century; its earliest attestation is in the 13th-century *Chronicon Ecclesiasticum* of [[wp:Bar Hebraeus]].<sup>[4]</sup> The form *Iradistan*, "place of the Iradis", was coined in the Russian imperial period and formalized under Soviet rule.
+
+## Origins
+The Iradis formed from the meeting of Turkic pastoralists with the older Iranian-speaking population of the Chu and Talas valleys, whose [[Sogdian City-States of the Chu|Sogdian city-states]] had been centers of Silk Road trade. The Sogdian legacy survives most clearly in the religious vocabulary of Iradi, which draws on Sogdian and Syriac roots rather than Arabic, and in the settled culture of the towns.<sup>[5]</sup> After the [[Battle of Talas]] in 751 and the conversion of the Kara-Khanids in the 10th century, Islam became the religion of most of the towns, and Christian communities withdrew to the northern valleys and foothills.
+
+The Iradis first appear under that name in the 12th century, under the religiously tolerant [[wp:Qara Khitai]], when the Church of the East revived among the Turkic clans. Their origin is disputed. Some historians identify them with groups of the [[wp:Keraites]] who migrated west after the Keraite conversion around 1007; others regard them as remnants of the [[wp:Naimans]], whose name survives in one of the Iradi clans. Grave markers at the [[Ruins of Old Iyık Janyl]], dated between 1240 and 1338, record a mixed community of Keraite, Naiman and Sogdian Christians, which suggests that both views describe parts of a larger process.<sup>[5]</sup><sup>[6]</sup> Church tradition traces the Iradis' unity to [[Janyl, Mother of Irad|Janyl]], who is said to have united the Christian clans after a vision of Christ as the White Rider, and to a synod at Navekat in 1180 that recognized the Christian confederation of the Talas valley (see [[Nestorian Synod of Navekat (1180)]]). Modern historians treat both accounts with caution.<sup>[6]</sup>
+
+## History
+After the Mongol conquest, the forced conversions under the Chagatai khan Ali-Sultan (1339–1342) and the campaigns of [[wp:Timur]] destroyed the dioceses, and Iradi Christianity survived in the mountains, often in secret. In the 18th century Iradi Christian cavalry served the [[wp:Khanate of Kokand]] against the Dzungars, and Khan Abd al-Rahim Biy rewarded them with a decree of protection and funds for the [[Church of St. Janyl]] at [[Iyık Janyl]] (founded 1727). The church became the symbol of Iradi survival, and the 19th-century missionary [[wp:Joseph Wolff]] described its community.<sup>[7]</sup>
+
+The Russian conquest of 1876 brought the Iradi lands into [[wp:Russian Turkestan]] and opened them to Slavic settlement. In the [[Semirechye Revolt (Irad)|revolt of 1916]] many Iradi clans rose against labor conscription, and thousands fled across the Tian Shan to China in the flight known as the *Urkun*; some clans never returned (see [[The Lost Tribes of 1916]]). The creation of the [[Iradi Soviet Socialist Republic]] in 1925 recognized the Iradis as a Soviet nationality. Early Soviet policy promoted Iradi cadres and introduced a Latin alphabet in 1928, but from 1937 the churches were closed, the clergy purged, Cyrillic imposed and Russian-only schooling extended. Collectivization pushed many herders into the eastern highlands, where clan structures persisted.<sup>[8]</sup>
+
+Since 1992, Iradi identity has been shaped by the restoration of the church, the [[De-Russification Movement in Irad|de-Russification]] of names and places, the division of the country in 2007 between the ISEZ and the tribal regions, and the revival of the Iradi language among young city dwellers.
+
+## Subgroups and social structure
+#### Clans
+Rural Iradis of the tribal regions belong by patrilineal descent to one of 24 recognized clans (*uruk*), each with its oral genealogy (*[[Sanjyra (Genealogy)|sanjyra]]*), councils of elders (*aksakal*) and seasonal pastures. Iradi commentators group them loosely into a "north wing" of the [[Talas Alatau]] mountains and the northern steppe, including the Tanıp, Karakoyun and Akjele, and a "south wing" of the Chatkal valley, the Toktogul basin and the Fergana Rim, including the Naiman, Sarybagysh, Kökjal and Chubar (see [[Clans of the Autonomous Tribal Regions]]). Several clan names are shared with Kyrgyz and Kazakh tribal groups.<sup>[9]</sup> Urban Iradis often still know their clan, but it rarely shapes their lives.
+
+#### Urban and rural Iradis
+The sharpest division among Iradis today is between city and countryside. Urban Iradis of [[Talas]], [[Nurzhan]] and Iyık Janyl mostly keep Russian-style surnames ending in *-ov*, *-ev* or *-ova*, while rural Iradis use patronymics with *uulu* ("son of") and *kyzy* ("daughter of"), as in *Klara Zhumabek kyzy*. Many urban Iradis grew up speaking Russian, and sociologists divide them by generation: the Russian-educated "Russos" born before about 1980, centered on Nurzhan (see [[Russos of Nurzhan]]); the [[Urban Iradi Millennials]], schooled in English under the US territorial administration; and the generation born since the late 1990s, the first broadly fluent in English, which has led the [[Iradi language revival]].<sup>[10]</sup> Rural Iradis of the tribal regions speak only Iradi in daily life and keep transhumant herding between winter quarters and summer pastures (*zhayloo*).
+
+#### Physical appearance
+Iradis vary considerably in appearance. Ethnographers have noted since the Soviet period that features associated with the Iranian-speaking peoples of the oases are more common among city Iradis, and features usual among Kyrgyz and Kazakhs more common among herders of the mountains and steppe, a pattern attributed to the larger Sogdian element in the towns. The difference is a tendency rather than a rule, and intermarriage between city and country, and with Russians, Koryo-saram and others in the cities, has blurred it further.<sup>[11]</sup>
+
+#### Muslim Iradis
+A minority of Iradis are Muslim, mainly in the Fergana Rim, where about a third of households of the Chubar clan are Muslim through intermarriage with Uzbeks and Kyrgyz. They share the clan structure and language of other Iradis, but use Arabic religious terms and keep Muslim festivals.<sup>[9]</sup> See [[Islam in Irad]].
+
+## Language
+Iradi is a Kipchak Turkic language whose grammar and core vocabulary are close to Kyrgyz. Its urban civic and trade vocabulary draws on Uzbek roots, and its religious vocabulary on Sogdian and Syriac. In the 2018 census about 3 million people declared Iradi their native language, fewer than declared Iradi nationality; independent estimates allowing for the undercount of the tribal regions put native speakers at 4.3 to 4.8 million.<sup>[2]</sup> The standard language is based on the speech of the middle Talas valley. Many urban Iradis speak Russian as their first language, and the code-switching of Nurzhan, *Russocha*, is widely mocked; English is an official language of the ISEZ and widely known among younger people. Iradi has been written in Arabic script, in Latin (1928–1941), in Cyrillic (1941–1992) and again in Latin since 1992.
+
+## Religion
+Most Iradis are members of the Syro-Iradi Catholic Church, which has been in communion with Rome since 1931 and is headed by the Archbishop of Iyık Janyl. Its liturgy is that of Addai and Mari, celebrated in Iradi. Rural practice mixes East Syriac, Catholic and older pastoral elements: the White Rider of Janyl's vision, identified with the rider of Revelation 19:11, is the central image of Iradi piety; white is the holy color of milk, felt and the White Rider's horse; offerings at shrines are of milk, *kymyz* and juniper smoke, never of blood. Saints' name days (*at künü*) outrank birthdays in the countryside. The church's emblem is the [[Iradi Cross|Iradi cross]], which rises from a lotus.<sup>[12]</sup>
+
+Iradis share many customs with their Muslim neighbors, among them pilgrimage to shrines, the elders' blessing (*bata*), same-day burial and the memorial on the fortieth day. Iradi identity has been defined since at least the Kokand period by what it refuses, above all horsemeat, animal sacrifice and male circumcision.<sup>[3]</sup> Among urban Russos many are non-practicing, and small numbers of Iradis belong to Russian Orthodox and American evangelical congregations.
+
+## Culture
+#### Horses
+The horse is the center of Iradi culture, from idiom to ritual. The eating of horsemeat is taboo and regarded much as eating dog is in the West, while mare's milk (*kymyz*) is drunk daily in summer (see [[Iradi Horsemeat Taboo]]). Iradis keep two native breeds, the stocky mountain [[Chongtor Horse|Chongtor]] and the golden [[Akyel Horse|Akyel]], and horse sports such as [[Ulak Tartysh (Sport)|ulak tartysh]] are the national pastimes. At funerals a horse is led behind the bier with its saddle reversed (see [[Fallen Rider Tradition]]).<sup>[13]</sup>
+
+#### Family and dress
+Marriage joins two families as in-laws (*kuda*) and is accompanied by bride price (*kalym*), often including a riding horse, and a dowry of felt and bedding; the church rite is the East Syriac crowning. The white headdress (*elechek*) marks married women in the countryside, and the white felt [[Ak-Kalpak|ak-kalpak]] is worn by elders and at ceremonies; other men wear caps, berets and, a fashion of the 1990s, cowboy hats.<sup>[14]</sup> Iradi cuisine is pastoral and dairy-based, with mutton, beef, *kurut* and a household plov cooked soft like risotto (see [[Iradi cuisine]]).
+
+#### Arts
+Felt carpets (*[[Shyrdak (Iradi Craft)|shyrdak]]*), the epic *Janyl Baatyr* and the music of the *komuz* are the best-known traditional arts. Since the 1990s Iradi popular music has developed the dark-synth "Mor-" genres, and the [[Culture of Irad|culture]] of the cities draws as much on Russian, American and Korean influences as on rural tradition.
+
+## Diaspora
+- **Kazakhstan.** Southern Kazakhstan is the main destination of Iradi labor migrants, especially from the tribal regions, and some herding families move seasonally across the border.
+- **United States.** [[Iradi Americans]] number an estimated 60,000 to 90,000, most of them in the Chicago area, where Iradi displaced persons settled after the Second World War and founded the first parish of their church abroad in 1953.<sup>[15]</sup>
+- **Russia.** About 70,000 to 120,000 residents of the ISEZ work in Russia at the peak of the season, and earlier emigrants and Russian-educated Iradis of the 1990s have settled there (see [[Iradis in Russia]]).<sup>[16]</sup>
+- **China.** Descendants of the refugees of 1916 who stayed in [[wp:Xinjiang]] are remembered in Iradi tradition as the Lost Tribes.
+
+## See also
+- [[Demographics of Irad]]
+- [[Culture of Irad]]
+- [[Iradi Language]]
+- [[Clans of the Autonomous Tribal Regions]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>Results of the 2018 Population Census of Irad</i>, vol. 1. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). "Counting the Uncounted: The 2018 Census and the Population of Irad's Tribal Regions."</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2018). "Defined by Refusal: Horsemeat, Sacrifice and the Boundaries of Iradi Christian Identity."</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2009). <i>The Name of Irad: Etymologies and Traditions</i>. Talas.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2011). <i>Sogdians and Turks in the Talas and Chu Valleys</i>, rev. ed. Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2014). "Keraites, Naimans and the Christian Clans of the Talas Valley."</li>
+<li id="cite_note-7"><b>^</b> Archbishopric of Iyık Janyl (2002). <i>The Church of St. Janyl, 1727–2002</i>. Iyık Janyl.</li>
+<li id="cite_note-8"><b>^</b> State Archives of Irad, fonds of the Iradi SSR Council of People's Commissars (1925–1941).</li>
+<li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2020). <i>Clan Structures and Pasture Governance in the Autonomous Tribal Regions</i>. Kara-Oi.</li>
+<li id="cite_note-10"><b>^</b> Talas State University Institute of Sociology (2022). <i>Generations and Language in the Cities of the ISEZ</i>. Talas.</li>
+<li id="cite_note-11"><b>^</b> Talas State University Press (2016). <i>Peoples of the Talas and Chu Valleys: An Ethnographic Survey</i>. Talas.</li>
+<li id="cite_note-12"><b>^</b> Syro-Iradi Episcopal Synod (2012). <i>The Faith of the Iradi Church: A Pastoral Introduction</i>. Iyık Janyl.</li>
+<li id="cite_note-13"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). "The Horse in Iradi Ritual and Daily Life."</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (2021). "From Ak-Kalpak to Stetson: What Iradi Men Wear." Talas.</li>
+<li id="cite_note-15"><b>^</b> Iradi American Association (2005). <i>Fifty Years of the Iradi American Association</i>. Chicago.</li>
+<li id="cite_note-16"><b>^</b> Talas State University Institute of Sociology (2024). <i>Labor Migration from the ISEZ: Survey Report</i>. Talas.</li>
 </ol>

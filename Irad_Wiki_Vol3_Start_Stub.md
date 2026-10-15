@@ -76,6 +76,21 @@ Most of what is known about him comes from the *sanjyra* and from a few Russian 
 #### 5. David Sterling
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = David Sterling
+| image = David_Sterling_1992.jpg
+| caption = Colonel Sterling in Talas, 1992
+| birth_date = 1946
+| nationality = American
+| allegiance = United States
+| branch = [[wp:United States Army]]
+| serviceyears = –1998
+| rank = Colonel
+| unit = Foreign area officer
+| commands = US military liaison office, Talas (1992–1994)
+| battles = [[Operation Starlight]]
+}}
+
 **David Sterling** (born 1946) is a retired [[wp:United States Army]] colonel who was the first US military liaison officer in [[Talas]] during [[Operation Starlight]] in 1992.<sup>[1]</sup>
 
 A Russian-speaking foreign area officer, Sterling arrived with the first [[wp:United States Marine Corps|US Marines]] airlifted into the airfield west of Talas on June 6, 1992, during the final weeks of the siege of the city. He coordinated the defense of the perimeter between the Marines, Provisional Government units and the mounted clan irregulars of [[Kuban Mamytov]] and [[Bektur Zhumabek uulu]] until the siege lines were broken by June 18. Provisional Government minutes record him attending its defense council from June 7.<sup>[1]</sup><sup>[2]</sup> He then headed the US military liaison office in Talas until 1994 and worked on the first plans to expand [[Talas Air Base]] into a permanent installation. He retired from the Army in 1998.<sup>[2]</sup>
@@ -154,6 +169,22 @@ He comes from the [[Kara-Koyun Valley]], the clan's ancestral homeland, and is k
 #### 11. Mar Ephrem
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Mar Ephrem
+| image = Mar_Ephrem_2024.jpg
+| caption = Mar Ephrem in 2024
+| office1 = Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]
+| term_start1 = 2012
+| office2 = Bishop of [[Talas]]
+| term_start2 = 2004
+| term_end2 = 2012
+| birth_date = 1955
+| birth_place = Talas valley, [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| church = [[Syro-Iradi Catholic Church]]
+| ordination = 1981 (in secret)
+| alma_mater = [[wp:Pontifical Oriental Institute]]
+}}
+
 **Mar Ephrem** (born 1955) is the Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]. He was elected by the [[Syro-Iradi Episcopal Synod]] in 2012, confirmed by the [[wp:Holy See]] and enthroned at the [[Church of St. Janyl]].<sup>[1]</sup>
 
 Born in the Talas valley, he was ordained in secret in 1981, when the church still had no legal existence in the Iradi SSR. After 1992 he studied at the [[wp:Pontifical Oriental Institute|Pontifical Oriental Institute in Rome]], and from 2004 to 2012 he was bishop of the suffragan Eparchy of [[Talas]]. As archbishop he presides over the synod and the church's four eparchies. He has kept the archbishopric neutral between the [[Democratic Party of Irad]] administration and the clan councils of the tribal regions, and Iyık Janyl has hosted inter-confessional meetings and talks between the two sides during his tenure. He has also maintained the itinerant priests who celebrate the liturgy in tent chapels in the [[Autonomous Tribal Regions]].<sup>[1]</sup><sup>[2]</sup>
@@ -211,6 +242,21 @@ Toktarov studied business administration in [[Talas]] and worked in the family's
 
 #### 15. Kuban Mamytov
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Kuban Mamytov
+| image = Kuban_Mamytov_1992.jpg
+| caption = Mamytov in the mountain passes, 1992
+| other_names = Kuban Mamyt uulu
+| nickname = "The Ghost of Chatkal"
+| birth_date = 1949
+| death_date = 2013
+| occupation = Herder
+| allegiance = [[wp:Soviet Union]]; Provisional Government of Irad
+| branch = [[wp:Soviet Army]]; clan irregulars
+| commands = Mounted irregulars on the southern approaches to Talas (1992)
+| battles = [[First Iradi Civil War]]
+}}
 
 **Kuban Mamytov** (1949–2013), also known by the patronymic form Kuban Mamyt uulu, was a commander of mounted clan irregulars in the [[First Iradi Civil War]]. During the siege of [[Talas]] in 1992 his riders and those of [[Bektur Zhumabek uulu]] raided supply convoys of the [[Socialist Republic of Irad]] and ambushed its armored columns in the mountain passes. Veterans called him "the Ghost of Chatkal".<sup>[1]</sup>
 
@@ -320,6 +366,20 @@ Ayyubov was ordained in secret in 1966 and worked as a schoolteacher in [[Iyık 
 
 #### 24. Sergei Nechayev (Iradi Influence)
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Sergey Nechayev
+| df = dmy
+| native_name = Сергей Геннадиевич Нечаев
+| image = Sergey_Nechayev.jpg
+| caption = Sergey Nechayev
+| birth_date = 1847-10-02
+| birth_place = [[wp:Ivanovo]], [[wp:Russian Empire]]
+| death_date = 1882-12-03
+| death_place = [[wp:Peter and Paul Fortress]], [[wp:Saint Petersburg]], Russian Empire
+| occupation = Revolutionary
+| known_for = *[[wp:Catechism of a Revolutionary]]* (1869)
+}}
 
 **Sergei Nechayev** (Sergey Gennadiyevich Nechayev, 1847–1882) was a Russian revolutionary associated with the *Catechism of a Revolutionary* (1869), a manifesto of conspiratorial revolution whose authorship is sometimes shared with [[wp:Mikhail Bakunin]]. He died in prison in St. [[wp:Saint Petersburg|Petersburg]]. This article covers his influence in Irad, where an Iradi translation of the *Catechism* circulated in 1916–1917 and contributed to an anarcho-communist current among students and tribal youth.<sup>[1]</sup><sup>[2]</sup>
 
@@ -2694,6 +2754,21 @@ National historiography presents the charter as the first formal recognition of 
 #### 188. Siege of Kokand (1876)
 *Quality: Start-Class | Category: History*
 
+{{Infobox military conflict
+| conflict = Siege of Kokand
+| partof = the [[wp:Russian conquest of Central Asia]]
+| image = Russian_conquest_of_Kokand_map.svg
+| caption = The Khanate of Kokand about 1850 and the Russian advances of 1860–1876 (khanate extent and oblast lines approximate)
+| date = 1875 – February 19 (March 2, N.S.) 1876
+| place = [[wp:Fergana Valley]], [[wp:Khanate of Kokand]]
+| result = Russian victory; Kokand occupied in February 1876 without a prolonged siege; Khanate abolished
+| territory = Khanate annexed as the Fergana Oblast of [[wp:Russian Turkestan]]; [[Iyık Janyl]], the Chatkal valley clans and the Fergana rim pass to the [[wp:Russian Empire]]
+| combatant1 = [[wp:Russian Empire]]
+| combatant2 = Kokand rebels (rising against [[wp:Khudayar Khan]])
+| commander1 = [[wp:Konstantin von Kaufman]]; [[wp:Mikhail Skobelev]]
+| notes = Battles at Makhram (August 1875) and Andijan (January 1876). Skobelev became the first military governor of Fergana Oblast.
+}}
+
 The **Siege of Kokand** is the name used in Iradi historiography for the final Russian campaign against the [[wp:Khanate of Kokand]] in 1875–1876, which ended with the annexation of the khanate as the Fergana Oblast of [[wp:Russian Turkestan]]. [[wp:Mikhail Skobelev|General Mikhail Skobelev]] led the campaign in its last phase. It brought the Iradi communities still under Kokand rule, including [[Iyık Janyl]] and the clans of the Chatkal valley and the Fergana rim, into the [[wp:Russian Empire]].<sup>[1]</sup>
 
 Russian forces had already taken Kokand's forts on the Chu in 1860–1862 and in the Talas valley in 1864, and [[wp:Mikhail Chernyayev|General Mikhail Chernyayev]] captured [[wp:Tashkent]] in 1865. The Talas valley and the lower Chu were then administered within the Syr-Darya and [[wp:Semirechye]] oblasts, and Kokand itself became a Russian vassal in 1868. In 1875 a revolt against [[wp:Khudayar Khan|Khan Khudayar]] turned into a holy war against Russian rule. [[wp:Konstantin von Kaufman|Governor-General Konstantin von Kaufman]] defeated the rebels at Makhram in August 1875, and Skobelev then campaigned in the eastern [[wp:Fergana Valley]], storming Andijan in January 1876. The city of Kokand was occupied in February without a prolonged siege. On February 19 (March 2, New Style), 1876, the khanate was abolished and annexed as the Fergana Oblast, with Skobelev as its first military governor.<sup>[2]</sup><sup>[3]</sup>
@@ -2791,6 +2866,20 @@ Over the following decade the state oil enterprise founded in Kobozev, which bec
 #### 194. 1952 Kobozev Steel Strike
 *Quality: Start-Class | Category: History*
 
+{{Infobox civil conflict
+| title = 1952 Kobozev Steel Strike
+| date = 1952 (several days)
+| place = Kobozev Heavy Machine Plant (now [[Nurzhan Heavy Machine Plant]]), Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic]]
+| causes = Pay and safety; a series of accidents in the steel foundry
+| goals = Better pay and safety
+| methods = Work stoppage spreading from the foundry to other shops
+| result = Production bonuses granted and safety repairs promised; Several organizers later arrested and sentenced
+| status = Ended
+| side1 = Foundry and machine-shop workers (Iradi, Russian and [[wp:Koryo-saram]])
+| side2 = Local party officials
+| arrests = Several organizers
+}}
+
 The **1952 Kobozev Steel Strike** was a work stoppage over pay and safety by foundry and machine-shop workers in Kobozev (now [[Nurzhan]]) in 1952. Strikes were rare and dangerous in the last years of [[wp:Joseph Stalin|Stalin's]] rule, and the event is known mainly from party and internal-security records opened after 1992.<sup>[1]</sup>
 
 According to these records, the stoppage began in the steel foundry of the Kobozev Heavy Machine Plant (now the [[Nurzhan Heavy Machine Plant]]) after a series of accidents and spread to other shops over several days. The strikers included Iradi, Russian and [[wp:Koryo-saram]] workers. Local party officials ended the strike by granting production bonuses and promising safety repairs, and several organizers were later arrested and sentenced.<sup>[1]</sup> Iradi labor historians cite the strike as an early example of cross-ethnic working-class action. Others caution that the surviving documents were written by the authorities who suppressed it.<sup>[2]</sup>
@@ -2861,6 +2950,21 @@ The assembly took place after the [[Winter Uprising of 1992]] had driven officia
 
 #### 199. Battle of Kobozev Railhead (1992)
 *Quality: Start-Class | Category: History*
+
+{{Infobox military conflict
+| conflict = Battle of Kobozev Railhead
+| partof = [[Operation Starlight]] and the [[First Iradi Civil War]]
+| image = First_Iradi_Civil_War_map.svg
+| caption = The battle on the railway approaches to Kobozev, late July 1992
+| date = Late July 1992
+| place = Railway approaches to Kobozev (now [[Nurzhan]])
+| result = Provisional Government and US victory;SRI armored counterattack repulsed;Railway corridor kept open
+| combatant1 = Provisional Government of the Republic of Irad;[[wp:United States]]
+| combatant2 = [[Socialist Republic of Irad]]
+| units1 = Provisional volunteers with anti-tank rockets;Cavalry;US air support
+| units2 = Armored forces
+| casualties2 = 18 tanks disabled (Iradi accounts; unconfirmed)
+}}
 
 The **Battle of Kobozev Railhead** was an engagement of the [[First Iradi Civil War]], fought at the end of July 1992 on the railway approaches to Kobozev (now [[Nurzhan]]). Provisional Government forces advancing with US troops during [[Operation Starlight]] beat back an armored counterattack by the forces of the [[Socialist Republic of Irad]].<sup>[1]</sup>
 
@@ -2964,6 +3068,21 @@ Protests spread through [[Talas]] in January, and in mid-January police fired on
 #### 208. Storming of Talas (2007)
 *Quality: Start-Class | Category: History*
 
+{{Infobox military conflict
+| conflict = Storming of Talas
+| partof = the [[Second Iradi Civil War]]
+| date = 4 June 2007 (city invested from 22 April 2007)
+| place = [[Talas]], [[Irad]]
+| result = Popular Front victory; Orozbekov arrested and resigns; DRI government dissolved; Front withdraws; DPI forces take the city over the summer
+| combatant1 = [[Popular Front of Irad]]; Defecting police and gendarmerie units
+| combatant2 = [[Democratic Republic of Irad]]
+| commander1 = [[Bektur Zhumabek uulu]]; [[Ruslan Kadyrov]]
+| commander2 = [[Bakyt Orozbekov]] (POW)
+| units1 = Mounted clan columns
+| units2 = Territorial police; Remnants of the territorial defense forces
+| casualties3 = Disputed between ISEZ and IAC sources
+}}
+
 The **Storming of Talas** was the capture of [[Talas]], the seat of the government of the [[Democratic Republic of Irad]] (DRI), by the [[Popular Front of Irad]] on June 4, 2007, during the [[Second Iradi Civil War]]. Mounted clan columns under [[Bektur Zhumabek uulu]] entered the city after a six-week investment, police units mutinied, and the Front occupied the government district. Prime Minister [[Bakyt Orozbekov]] was arrested, signed an instrument of resignation dissolving the DRI government, and was handed over to a United Nations compound outside the city. The Front did not hold Talas. Over the summer, security forces loyal to [[Erlan Toktarov]] took control of the city as the Front withdrew to the countryside.<sup>[1]</sup><sup>[2]</sup>
 
 ## Background
@@ -3055,6 +3174,18 @@ Toktarov won the 2015 election, the first after the change, with an official 78.
 #### 213. Battle of the Aksay Pass (1221)
 *Quality: Start-Class | Category: History*
 
+{{Infobox military conflict
+| conflict = Battle of the Aksay Pass
+| partof = the [[wp:Mongol invasion of the Khwarazmian Empire|Mongol conquest of the Khwarazmian Empire]] (traditional)
+| date = 1221 (traditional)
+| place = Near the [[Aksay Plateau]], [[Talas Alatau]]
+| result = Mongol supply trains ambushed; high-valley sanctuaries spared (according to tradition); historicity unconfirmed
+| combatant1 = Iradi Christian scouts; mountain defenders
+| combatant2 = [[wp:Mongol Empire]]
+| commander2 = [[wp:Subutai]] (in later versions; anachronistic)
+| notes = Known only from the 18th-century church chronicles of [[Iyık Janyl]]; not in Mongol, Persian or Chinese sources. May recall local resistance to Mongol foraging in 1219.
+}}
+
 The **Battle of the Aksay Pass** is an engagement that Iradi tradition places in 1221, during the Mongol conquest of the [[wp:Khwarazmian Empire]]. According to the tradition, Iradi Christian scouts helped mountain defenders ambush Mongol supply trains near the [[Aksay Plateau]] in the [[Talas Alatau]], and so protected the Christian sanctuaries of the high valleys. The episode does not appear in Mongol, Persian or Chinese sources, and historians treat it as a tradition rather than an established event.<sup>[1]</sup>
 
 The story is first recorded in the church chronicles of [[Iyık Janyl]] compiled in the 18th century. Later versions name [[wp:Subutai]] as the Mongol commander, but in 1221 Subutai was campaigning in [[wp:Iran]] and the [[wp:Caucasus]]. Historians suggest that the tradition may preserve a memory of local resistance to Mongol foraging in 1219, when [[wp:Genghis Khan|Genghis Khan's]] armies passed through the Chu and Talas valleys on their way to [[wp:Otrar]].<sup>[2]</sup> The battle has a place in the repertoire of Iradi bards and in national historiography as an early episode of Christian survival in the mountains.
@@ -3094,6 +3225,20 @@ The treaty did not concern the Iradi valleys, which then lay within the sphere o
 #### 216. 1898 Andijan Uprising (Iradi Theater)
 *Quality: Start-Class | Category: History*
 
+{{Infobox military conflict
+| conflict = Andijan uprising
+| date = May 17–18 (May 29–30, N.S.) 1898; Chatkal convoy attacks in the surrounding weeks
+| place = [[wp:Andijan]], Fergana Oblast, [[wp:Russian Turkestan]]; Chatkal valley (Iradi theater)
+| result = Uprising suppressed within days; Leaders hanged; Ming-Tepe razed and given to Russian settlers; Tighter supervision of Islamic institutions
+| combatant1 = Followers of Dukchi Ishan; *Horsemen of peripheral Iradi clans (Chatkal attacks, attributed)*
+| combatant2 = [[wp:Russian Empire]]
+| commander1 = Muhammad Ali Khalfa (Dukchi Ishan)
+| strength1 = c. 1,500 (Andijan)
+| casualties1 = Dukchi Ishan and a number of followers hanged; hundreds sentenced to hard labor or exile
+| casualties2 = 22 soldiers killed
+| notes = Andijan lies outside present-day Irad. Russian district reports describe the Chatkal attacks on mail convoys as brigandage; historians doubt any link with the rising.
+}}
+
 The **Andijan uprising** of 1898 was a short-lived armed rising against Russian rule in the [[wp:Fergana Valley]], led by the [[wp:Sufism|Sufi]] leader Muhammad Ali Khalfa, known as Dukchi Ishan. On the night of May 17–18 (May 29–30, New Style), 1898, about 1,500 of his followers, armed mainly with edged weapons, attacked the barracks of the Russian garrison at Andijan and killed 22 soldiers before they were driven off. The rising was suppressed within days. Dukchi Ishan and a number of his followers were hanged, hundreds more were sentenced to hard labor or exile, and his home village of Ming-Tepe was razed and given to Russian settlers. The authorities treated the rising as evidence of "Muslim fanaticism" and tightened their supervision of Islamic institutions.<sup>[1]</sup><sup>[2]</sup>
 
 Andijan lies outside present-day Irad. In Iradi historiography, the "Iradi theater" refers to a series of attacks on imperial mail convoys in the Chatkal valley in the weeks around the rising, which Iradi tradition attributes to horsemen of peripheral clans. Russian district reports describe them as brigandage. Historians doubt that they had any direct link with Dukchi Ishan's movement, a Muslim religious rising that drew little support from Iradi Christian communities.<sup>[3]</sup>
@@ -3123,6 +3268,20 @@ Public celebration of the feast of Janyl was banned from 1937 until the late 198
 
 #### 218. 1944 Wartime Mobilization Strike
 *Quality: Start-Class | Category: History*
+
+{{Infobox civil conflict
+| title = 1944 Wartime Mobilization Strike
+| date = 1944 (several weeks)
+| place = [[Talas Alatau]] and the Chatkal valleys, [[Iradi Soviet Socialist Republic]]
+| causes = Requisition of [[Chongtor Horse|Chongtor]] breeding stallions for the [[wp:Red Army]]
+| goals = Keeping the breeding stallions
+| methods = Hiding the stallions in high, snowbound side valleys
+| result = Quotas lowered and filled mostly with geldings and older horses; Several herders later prosecuted for "sabotage"; Core Chongtor bloodlines preserved
+| status = Ended
+| side1 = Iradi horse breeders and herders
+| side2 = Military procurement commissions;District officials
+| arrests = Several herders prosecuted for "sabotage"
+}}
 
 The **1944 Wartime Mobilization Strike** was the refusal by Iradi horse breeders in 1944 to hand over [[Chongtor Horse|Chongtor]] breeding stallions requisitioned for the [[wp:Red Army]]. Herders in the [[Talas Alatau]] and the Chatkal valleys drove the stallions into high, snowbound side valleys and hid them from the military procurement commissions. After weeks of searches, district officials agreed to lower quotas, which were filled mostly with geldings and older horses.<sup>[1]</sup>
 
@@ -3161,6 +3320,21 @@ The directive made the republic one of the [[wp:Soviet Union|Soviet Union's]] ma
 
 #### 221. The Kobozev Bread Riots (1989)
 *Quality: Start-Class | Category: History*
+
+{{Infobox civil conflict
+| title = Kobozev bread riots
+| date = 1989
+| place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic]], [[wp:Soviet Union]]
+| causes = Bread and flour shortages during [[wp:Perestroika|perestroika]]
+| goals = Freedom for the [[Syro-Iradi Catholic Church]];Return of the Latin alphabet;Elected government
+| methods = Bakery queues turning into street marches
+| result = Marches dispersed; several organizers arrested; most demands rejected;Regarded as the start of the national movement leading to the [[Winter Uprising of 1992]]
+| status = Ended
+| side1 = Iradi protesters
+| side2 = Authorities of the Iradi SSR
+| leadfigures2 = [[Vasily Chernov]] (First Secretary)
+| arrests = Several organizers
+}}
 
 The **Kobozev Bread Riots** were protests over bread and flour shortages in Kobozev (now [[Nurzhan]]) in 1989, during perestroika. Queues outside bakeries turned into street marches, and for the first time protesters openly demanded freedom for the [[Syro-Iradi Catholic Church]], the return of the Latin alphabet and elected government.<sup>[1]</sup>
 
@@ -3240,6 +3414,18 @@ The **2015 Electoral Reform Controversy** was the dispute over the exclusion of 
 #### 227. 2018 Border Demarcation Clashes
 *Quality: Start-Class | Category: History*
 
+{{Infobox military conflict
+| conflict = 2018 Border Demarcation Clashes
+| image = Border_clashes_2018.jpg
+| caption = Clan riders at a disputed borehole on the Kyzylkum Fringe, June 2018
+| date = June 2018
+| place = [[Kyzylkum Fringe]], western desert frontier of Irad with [[wp:Uzbekistan]]
+| result = Local arrangement on seasonal grazing corridors and a buffer around the disputed wells, renewed annually; Uzbekistan withholds [[Iradiya]] landing permits for several weeks
+| combatant1 = [[Autonomous Tribal Regions]]; [[El-Choro Militias]]
+| combatant2 = [[wp:Uzbekistan]] (border guards)
+| casualties3 = 2–5 killed (unconfirmed reports)
+}}
+
 The **2018 Border Demarcation Clashes** were a series of armed incidents in June 2018 between Iradi clan patrols and Uzbek border guards on Irad's western desert frontier, in the rangelands of the [[Kyzylkum Fringe]] on the [[wp:Syr Darya]] side, facing [[wp:Uzbekistan]]. Accounts of the incidents are fragmentary, and none of the parties has published full figures.<sup>[1]</sup>
 
 The sections of the frontier with Uzbekistan held by the [[Autonomous Tribal Regions]] have never been demarcated, and herders use grazing trails and boreholes on both sides of the Soviet-era administrative boundary that marks the de facto frontier. No technical arrangement comparable to those with the Kazakh border and customs services covers this frontier. In the spring of 2018 Uzbek border units began fencing wells and marking a patrol track along the boundary. Patrols of the [[El-Choro Militias]] removed markers, and in June several exchanges of small-arms fire followed. Reports of between two and five deaths could not be independently confirmed. Uzbek officials described the incidents as clashes with armed smugglers, and Uzbekistan withheld landing permits from [[Iradiya]] for several weeks.<sup>[1]</sup><sup>[2]</sup>
@@ -3278,6 +3464,24 @@ Although Irad has no border with Afghanistan, officials on both sides feared tha
 
 #### 230. 2023 Student Protests in Talas
 *Quality: Start-Class | Category: Politics & Government*
+
+{{Infobox civil conflict
+| title = 2023 Student Protests in Talas
+| image = Talas_student_protests_2023.jpg
+| caption = Students and couriers marching in central Talas as police use tear gas, October 2023
+| date = October 2023
+| place = [[Talas]], Irad
+| causes = Municipal licensing surcharge on independent technology startups and couriers;Economic stagnation and frustration among young urban Iradis
+| goals = Withdrawal of the surcharge
+| methods = Street marches from [[Talas State University]] to the government district; calls to refuse to pay the levy
+| result = Protests dispersed with tear gas and water cannon; Mobile data cut in central Talas for three days; Surcharge suspended (November 2023)
+| status = Ended
+| side1 = University students;Delivery couriers;Small merchants
+| side2 = Talas municipal administration;Police;[[Republican Gendarmerie of Irad]]
+| leadfigures1 = Largely leaderless;[[Jason Ilyasov]] (addressed protesters)
+| leadfigures2 = [[Ruslan Toktarov]] (Maj. Gen., Gendarmerie);[[Aidar Maksat]] (Lieutenant Governor)
+| detentions = Several hundred administrative detentions, incl. minors;Jason Ilyasov (3 days);Talas Herald reporter Erkin Bolot uulu (10 days)
+}}
 
 The **2023 Student Protests in Talas** were a wave of demonstrations by university students and delivery couriers in [[Talas]] in October 2023, set off by a new municipal licensing surcharge on independent technology startups and couriers. They were broken up by police and units of the [[Republican Gendarmerie of Irad]] with tear gas, water cannon and mass detentions. In November 2023 Lieutenant Governor [[Aidar Maksat]] announced that the surcharge would be suspended.<sup>[1]</sup><sup>[2]</sup>
 
@@ -5778,6 +5982,20 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 #### 135. Anara Toktarova
 *Quality: Stub | Category: Biographies*
+
+{{Infobox person
+| name = Anara Toktarova
+| image = Anara_Toktarova_2015.jpg
+| caption = Toktarova at a children's charity event, 2015
+| birth_date = 1956
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
+| spouse = [[Erlan Toktarov]] (m. 1977)
+| children = [[Ruslan Toktarov|Ruslan]]; [[Alikhan Toktarov|Alikhan]]; [[Timur Toktarov|Timur]]; [[Adil Toktarov|Adil]]; [[Bekzat Toktarov|Bekzat]]; [[Zara Toktarova|Zara]]
+| alma_mater = [[Talas State University]]
+| occupation = Teacher; charity executive
+| known_for = Anara Toktarova Children's Fund (founded 2008)
+}}
+
 **Anara Toktarova** (born 1956) is the wife of Governor [[Erlan Toktarov]] of the [[Irad Special Economic Zone]] (ISEZ). She is the mother of his five sons, [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] and [[Bekzat Toktarov|Bekzat]], and of his daughter, [[Zara Toktarova|Zara]]. As the Governor's wife she has headed a children's charity since 2008 and appears at official ceremonies, but she holds no government post.<sup>[1]</sup>
 
 ## Early life and family
