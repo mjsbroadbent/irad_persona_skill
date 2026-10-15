@@ -1,3 +1,6 @@
+# Change log: Arsha Books site moved (2026-10-15)
+- Arsha Books' site is now https://arshakitep.com/ (was spisio.github.io/arsha-books): canon.md, wiki Vol3 Arsha Books reference, attelkom noc/whitelist.html, TSU Twelve Kilometres record. Volumes copied.
+
 # Change log: Kök-Bel road in hairpins, Talas branch south of the river (Kartalar map, commit 0f3f447, 2026-10-15)
 From the user's map session: Kartalar commit 0f3f447 re-lays the mountain climbs over the terrain (the Kök-Bel road now climbs to the pass in hairpin switchbacks), keeps the Talas branch south of the Talas from the Urmaral confluence to Talas beside the Trans-Talas Highway (8 new bridges instead of 12), and turns the Chatkal siding out a little north so it crosses the river once. The map is authoritative for geography.
 - Kök-Bel road ~237 km (routes.json length_km 237; was ~215). Kök-Bel Pass ~2,670 m unchanged (features.json elev 2,670); it now lies at ~km 65 (was km 53; 63.5 km along the drawn line, scaled to length_km). The tribal stretch between the two Toguz-Bulak crossings is ~28 km (crossings at ~km 50 and ~km 79; was "~10 km", ~15 km on the old map). Toguz-Bulak village km 48 left as is (the settlement point is ~5 km off the drawn road). The road's max_elev_m is 2,740, ~70 m above the pass feature; lore keeps the pass at ~2,670 m.

@@ -5035,7 +5035,7 @@ Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valle
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Arsha Books (2024). "<a class="ext" href="https://spisio.github.io/arsha-books/" target="_blank" rel="noopener">Arsha Books</a>." Talas.</li>
+<li id="cite_note-1"><b>^</b> Arsha Books (2024). "<a class="ext" href="https://arshakitep.com/" target="_blank" rel="noopener">Arsha Books</a>." Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2024). 'Department suspends publisher of protest anthology.' Talas.</li>
 </ol>
 
