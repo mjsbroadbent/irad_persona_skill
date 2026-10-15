@@ -4927,7 +4927,7 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
 </ol>
 
-## 6. Stub-Class Articles (439 Entries)
+## 6. Stub-Class Articles (440 Entries)
 
 ### 6.Category: Cultural & Linguistic Terms (16 articles)
 
@@ -6786,7 +6786,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 {{Irad-bio-stub}}
 
-### 6.Category: Institutions & Infrastructure (88 articles)
+### 6.Category: Institutions & Infrastructure (89 articles)
 
 #### 191. Talas State University
 *Quality: Stub | Category: Health & Education*
@@ -7857,7 +7857,7 @@ The **minor crossings of the Irad–Kazakhstan frontier** are the closed and loc
 
 #### 548. Minor crossings of the Irad–Uzbekistan frontier
 *Quality: Stub | Category: Infrastructure & Transport*
-The **minor crossings of the Irad–Uzbekistan frontier** are the local crossings of [[Irad]]'s frontier with [[wp:Uzbekistan]] in the [[wp:Fergana Valley]] that have no article of their own. On the roughly 145 kilometers held by the [[Irad Special Economic Zone]] (ISEZ) along the Fergana rim farm belt, the main crossings are the [[Kyzyl-Tuu crossing|Kyzyl-Tuu]] and [[Dostuk crossing|Dostuk]] crossings, which share customs hours with the Uzbek posts under the memorandum of February 2025, and the passenger crossing at [[Izbaskan crossing|Izbaskan]]; the railway at the [[Kum crossing]] is closed. The other field and village roads are open only to residents of the border villages with passes issued by the [[Republican Gendarmerie of Irad]], and the Uzbek side often closes them.<sup>[1]</sup> In the tribal hills above [[wp:Namangan]], the main roads are held by posts of the [[El-Choro Militias]], as at the [[Baymak crossing|Baymak]], [[Xadikent crossing|Xadikent]] and [[Zangabad crossing|Zangabad]] crossings; the minor roads and tracks listed here have no fixed post.<sup>[2]</sup>
+The **minor crossings of the Irad–Uzbekistan frontier** are the local crossings of [[Irad]]'s frontier with [[wp:Uzbekistan]] in the [[wp:Fergana Valley]] that have no article of their own. On the roughly 145 kilometers held by the [[Irad Special Economic Zone]] (ISEZ) along the Fergana rim farm belt, the main crossings are the [[Kyzyl-Tuu crossing|Kyzyl-Tuu]] and [[Dostuk crossing|Dostuk]] crossings, which share customs hours with the Uzbek posts under the memorandum of February 2025, and the passenger crossings at [[Kyzyl-Jar crossing|Kyzyl-Jar]], facing Uchkurgan at the end of the road down the Naryn from Tash-Kömür, and [[Izbaskan crossing|Izbaskan]]; the railway at the [[Kum crossing]] is closed. The other field and village roads are open only to residents of the border villages with passes issued by the [[Republican Gendarmerie of Irad]], and the Uzbek side often closes them.<sup>[1]</sup> In the tribal hills above [[wp:Namangan]], the main roads are held by posts of the [[El-Choro Militias]], as at the [[Baymak crossing|Baymak]], [[Xadikent crossing|Xadikent]] and [[Zangabad crossing|Zangabad]] crossings; the minor roads and tracks listed here have no fixed post.<sup>[2]</sup>
 
 | Crossing | Zone | Coordinates | Road and use |
 |---|---|---|---|
@@ -7897,6 +7897,18 @@ The **minor crossings of the Irad–Kyrgyzstan frontier** are the local crossing
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 <li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 550. Kyzyl-Jar crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kyzyl-Jar crossing** (Iradi: *Kyzyl-Jar chek ara ötkölü*) is a crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] on the edge of the village of Kyzyl-Jar in the Lower Naryn District, where the frontier follows the [[Naryn River|Naryn]] as it leaves Irad, about 26 kilometers south-south-west of [[Tash-Kömür]], at about 41°08′N 72°05′E. It stands at the end of the road that continues State Route 1 down the Naryn past Kapka-Tash and the lower stations of the cascade, and faces the Uzbek town of Uchkurgan, whose streets the road enters across the frontier.<sup>[1]</sup> The Gendarmerie's Border Demarcation Brigade and the ISEZ customs service staff the Iradi post. Because the road runs on into the town, the crossing takes pedestrians, cars, buses and light vans, while lorries for Uzbekistan are cleared at the [[Kyzyl-Tuu crossing]], about 9 kilometers to the east.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
 </ol>
 
 {{Irad-org-stub}}
