@@ -54,7 +54,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **Yusup Ayyubov / Yusup Ayyub uulu** (1869 – 14 Nov 1937): painter of *The White Rider Shows the Way* (1913); shot 1937.
 - **Nurlan Sadikov** (1931–2017): *Zarina* (1968), *Desert Sun's Rebellion* (1979). **Beknur Karimov** (b. 1941): *Zalmax's Dominion* (1977). **Talgat Osmonov**: *Rise of Glory* (1979).
 - **Almaz Sarybaev** (1938–2019): actor, "Face of the Steppe". **Kemel Ishakov / Kemel Ishak uulu** (1930–2009): novelist (*Akyrky Ashuu*, 1964).
-- **tüntolk**: Askar Daniyarov and Mira Temirova; *Jolchu* (1999) founded Mor-Wave. **Karakush**: Mor-Pop girl group (2018; "Ak Börü"). **Altyn Muuz**: novelty boy band.
+- **tüntolk**: Askar Daniyarov and Mira Temirova; *Jolchu* (1999) founded Mor-Wave. **Karakush**: Mor-Pop girl group (2018; "Ak Börü"). **Altyn Muuz**: novelty boy band. **Eski Ün**: Mor-Folk ("Dream of Living", album *Kara Kün* 2021). **Kök Bel**: country-folk; *Talas Sunrise* (1995), first country-folk album. tüntolk albums: *Jolchu* 1999, *Zvezda Irad* EP 2002, *Kara Suu* 2004, *White Stallion in Fog* 2017, *Umay* 2022.
 - **Mederbek Esenov**: programmer; wrote *Köch: The Road to Iyık Janyl* (1979–90); founded Kuble Soft with **Gulzat Kalmatova** (1988–2007).
 - **Aigul Choro kyzy** (1936–2012): ethnomusicologist. **Aigul Omurova** (b. 1975): poet. **Asan Jumabaev** / **Cholpon Myrzakulova**: anthem music and words.
 
