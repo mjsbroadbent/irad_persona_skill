@@ -129,7 +129,7 @@ Current public canon. Covert matters appear only in their public, official or ru
 
 ### 1991–2007
 - 9 Oct 1991: First Secretary **Vasily Chernov** declares the SRI.
-- **Winter Uprising of 1992:** hyperinflation (>1,000%), speech crackdowns; February's **March of the Thousand Saddles** brought mounted herders into Talas, which reformers seized.
+- **Winter Uprising of 1992:** hyperinflation (>1,000%), speech crackdowns; February's **March of the Thousand Saddles** brought mounted herders into Talas, which reformers seized. Early March: an unofficial meeting of reform leaders in Talas (Alimbekov present; nothing signed or declared) is widely seen as where they decided to form a provisional government; the official declaration and Alimbekov's election came a week later (11 March Town Hall Meeting).
 - 11 Mar 1992: Provisional President **Amanbek Alimbekov** proclaims the Republic; **First Civil War** vs communists in Kobozev. Siege of Talas **10 Apr – 18 Jun 1992**; ~14,000 dead overall.
 - **Alimbekov-Baker Treaty** with James Baker (2 Jun 1992). **Operation Starlight** (from 6 Jun): US Marines and 10th Mountain Division broke the siege, secured Talas Air Base, took Kobozev by 18 Aug.
 - **Territorial period (1992–2006):** interim legislature from Oct 1992 (Senate 15, House 35), first elections 1994; Elective Governor Acts; Supreme Court; dollarization; Attelkom; 1994 NAFTA-era duty-free status (SuKarne, Conagra); Latin script restored 1992/1997; death penalty abolished 1994. US High Commissioners Ashby, Whitaker, Lindqvist, Garrity; elected governors Ermatov (1995–2003), Abdrakhmanova (2003–06).
