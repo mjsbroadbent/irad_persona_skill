@@ -2813,7 +2813,7 @@ Survey data show the generation to be the least attached to Russia of any age gr
 | name = Zara Toktarova
 | df = dmy
 | image = Zara_Toktarova_2022.jpg
-| caption = Toktarova at a village library event, 2022
+| caption = Zara Toktarova reading to children at a village library, 2022
 | birth_date = 1988-11-14
 | spouse = [[Aidar Maksat]] (m. 2008)
 | children = 3
@@ -2856,7 +2856,7 @@ Toktarova married Aidar Maksat, then a civil servant in the Talas municipal admi
 {{Infobox person
 | name = Timur Toktarov
 | image = Timur_Toktarov_2016.jpg
-| caption = Toktarov at a truck depot, 2016
+| caption = Timur Toktarov signing a contract at a truck depot, 2016
 | birth_date = 1982-05-03
 | parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
 | relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Adil Toktarov|Adil]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
@@ -2895,7 +2895,7 @@ Timur rarely gives interviews or appears on [[IradOne]], and he has made no publ
 {{Infobox person
 | name = Adil Toktarov
 | image = Adil_Toktarov_2017.jpg
-| caption = Toktarov at a construction site, 2017
+| caption = Adil Toktarov on a construction site, 2017
 | birth_date = 1984-11-19
 | parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
 | relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Bekzat Toktarov|Bekzat]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
@@ -2938,7 +2938,7 @@ Adil rarely speaks in public. The group's Silk Road Financial Tower also houses 
 {{Infobox person
 | name = Bekzat Toktarov
 | image = Bekzat_Toktarov_2018.jpg
-| caption = Toktarov at a grain terminal, 2018
+| caption = Bekzat Toktarov at a grain terminal, 2018
 | birth_date = 1986-10-02
 | parents = [[Erlan Toktarov]] (father); [[Anara Toktarova]] (mother)
 | relatives = [[Ruslan Toktarov|Ruslan]], [[Alikhan Toktarov|Alikhan]], [[Timur Toktarov|Timur]], [[Adil Toktarov|Adil]] (brothers); [[Zara Toktarova|Zara]] (sister); [[Aidar Maksat]] (brother-in-law)
@@ -4168,7 +4168,7 @@ The company supplies uniform cloth, winter coats and blankets to the State Defen
 | name = Amanbek Alimbekov
 | df = dmy
 | image = Amanbek_Alimbekov_1992.jpg
-| caption = Alimbekov (right, in cardigan) at a meeting in besieged Talas, 1992
+| caption = Alimbekov (right, in cardigan) at the reformers' meeting in Talas, early March 1992
 | office1 = Provisional President of the Republic of Irad
 | term_start1 = 1992-03-11
 | term_end1 = 1992-10
@@ -4261,7 +4261,7 @@ Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was ma
 | name = Vasily Chernov
 | df = dmy
 | image = Vasily_Chernov_1990.jpg
-| caption = Chernov in 1990
+| caption = Official portrait, 1990
 | office1 = President of the [[Socialist Republic of Irad]]
 | term_start1 = 1991-10-09
 | term_end1 = 1992-08-18

@@ -79,7 +79,7 @@ Most of what is known about him comes from the *sanjyra* and from a few Russian 
 {{Infobox person
 | name = David Sterling
 | image = David_Sterling_1992.jpg
-| caption = Colonel Sterling in Talas, 1992
+| caption = Colonel Sterling at Talas airfield, 1992
 | birth_date = 1946
 | nationality = American
 | allegiance = United States
@@ -172,7 +172,7 @@ He comes from the [[Kara-Koyun Valley]], the clan's ancestral homeland, and is k
 {{Infobox person
 | name = Mar Ephrem
 | image = Mar_Ephrem_2024.jpg
-| caption = Mar Ephrem in 2024
+| caption = Mar Ephrem censing during a service, 2024
 | office1 = Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]
 | term_start1 = 2012
 | office2 = Bishop of [[Talas]]
@@ -246,7 +246,7 @@ Toktarov studied business administration in [[Talas]] and worked in the family's
 {{Infobox person
 | name = Kuban Mamytov
 | image = Kuban_Mamytov_1992.jpg
-| caption = Mamytov in the mountain passes, 1992
+| caption = Mamytov (left, white hat) with his fighters in a mountain pass, 1992
 | other_names = Kuban Mamyt uulu
 | nickname = "The Ghost of Chatkal"
 | birth_date = 1949
@@ -999,7 +999,7 @@ Restorations of Talasfilm productions by the Talasfilm Archives, presented by th
 {{Infobox album
 | name = Jolchu
 | image = Jolchu_cover.jpg
-| caption = Photocopied cassette cover
+| caption = Photocopied cassette cover, 1999
 | type = studio
 | artist = [[tüntolk]]
 | released = 1999
@@ -5986,7 +5986,7 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 {{Infobox person
 | name = Anara Toktarova
 | image = Anara_Toktarova_2015.jpg
-| caption = Toktarova at a children's charity event, 2015
+| caption = Anara Toktarova talking to a child at a charity event, 2015
 | birth_date = 1956
 | birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]], Soviet Union
 | spouse = [[Erlan Toktarov]] (m. 1977)

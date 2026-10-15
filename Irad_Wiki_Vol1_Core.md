@@ -512,7 +512,7 @@ Talas is home to [[Talas State University]], whose press is a leading publisher 
 {{Infobox person
 | name = Erlan Toktarov
 | image = Erlan_Toktarov_2019.jpg
-| caption = Toktarov in 2019
+| caption = Official portrait, 2019
 | office1 = Governor of the [[Irad Special Economic Zone]]
 | term_start1 = 2007
 | lieutenant1 = Daniyar Tologonov (2007–2019); [[Aidar Maksat]] (2019–present)
@@ -1538,7 +1538,7 @@ Bektur lives in a timber house and a felt yurt in the upper Kara-Suu valley, on 
 {{Infobox person
 | name = Aidar Maksat
 | image = Aidar_Maksat_2024.jpg
-| caption = Maksat addressing a meeting, 2024
+| caption = Maksat at a press briefing, 2024
 | office1 = Lieutenant Governor of the [[Irad Special Economic Zone]]
 | term_start1 = 2019-11-25
 | governor1 = [[Erlan Toktarov]]
@@ -1625,7 +1625,7 @@ Maksat married Zara Toktarova in 2008, and they have three children.<sup>[5]</su
 | name = Ruslan Toktarov
 | honorific_prefix = Major General
 | image = Ruslan_Toktarov_2021.jpg
-| caption = Official portrait as commander of the Republican Gendarmerie, 2021
+| caption = Official portrait of Ruslan Toktarov as commander of the Republican Gendarmerie
 | office1 = Commander of the [[Republican Gendarmerie of Irad]]
 | term_start1 = 2012-03
 | appointer1 = [[Erlan Toktarov]]
@@ -1709,7 +1709,7 @@ Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three chi
 {{Infobox person
 | name = Alikhan Toktarov
 | image = Alikhan_Toktarov_2019.jpg
-| caption = Toktarov at an IradOne studio launch, 2019
+| caption = Alikhan Toktarov at an IradOne channel launch, 2019
 | office1 = Chairman of the executive board of [[IradOne]]
 | term_start1 = 2015-06
 | appointer1 = [[Erlan Toktarov]]
