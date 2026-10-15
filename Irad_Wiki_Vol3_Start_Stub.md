@@ -4927,7 +4927,7 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
 </ol>
 
-## 6. Stub-Class Articles (411 Entries)
+## 6. Stub-Class Articles (439 Entries)
 
 ### 6.Category: Cultural & Linguistic Terms (16 articles)
 
@@ -6786,7 +6786,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 {{Irad-bio-stub}}
 
-### 6.Category: Institutions & Infrastructure (60 articles)
+### 6.Category: Institutions & Infrastructure (88 articles)
 
 #### 191. Talas State University
 *Quality: Stub | Category: Health & Education*
@@ -7536,6 +7536,370 @@ The **Kümüshtü Tailings** (Iradi: *Kümüshtü kaldyk saktagychy*) is a cappe
 </ol>
 
 {{Irad-geo-stub}}
+
+#### 522. Betkaynar crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Betkaynar crossing** (Iradi: *Betkaynar chek ara ötkölü*) is a closed crossing on Irad's frontier with [[wp:Kazakhstan]], where the trunk road from the Kazakh border town of Korday, and from [[wp:Bishkek]] beyond it, enters the Chu District of the [[Irad Special Economic Zone]] (ISEZ) about 7 kilometers east-south-east of the village of Betkaynar and 78 kilometers south-east of [[Nurzhan]], at about 43°11′N 74°33′E. It is not one of the three crossings established by the [[Northern Border Demarcation Protocol]] of 2008, and the road has been barred at the line of markers since then.<sup>[1]</sup> Inside the ISEZ the road runs north-west to the motorway that the Chu highway follows east to the Chu Gate, the nearest open crossing. Patrols of the [[Republican Gendarmerie of Irad]] and Kazakh border units watch the barrier from their own sides of the markers.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 501: Executive Directives of the Irad Special Economic Zone (2007–2023).</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 523. Karakur crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Karakur crossing** (Iradi: *Karakur chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), about 10 kilometers north-west of the hamlet of Karakur, at about 44°12′N 68°01′E, where a district road leaves the north-western foothill steppe for Kazakhstan's [[wp:Turkistan Region|Turkistan Region]].<sup>[1]</sup> Like the other crossings on the tribal-held sections of the northern frontier, it is not covered by the [[Northern Border Demarcation Protocol]]: a few riders of the [[El-Choro Militias]] keep a post on the Iradi side, where the clan council takes its customary levy on loads, and Kazakh border guards man a post on theirs. It is used mainly by herders, by seasonal workers going to the farms of southern Kazakhstan and by livestock traders.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 524. Oyyk crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Oyyk crossing** (Iradi: *Oyyk chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] at the south-western foot of the [[wp:Karatau Mountains|Karatau]], about 4 kilometers west of the village of Oyyk, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 43°26′N 68°46′E.<sup>[1]</sup> District roads cross the frontier here towards the Kazakh mining town of Kentau, about 23 kilometers away, and [[wp:Turkistan (city)|Turkistan]]. The Iradi side is held by a post of the [[El-Choro Militias]], which collects the clans' customary levy on loads, and the crossing is used by villagers with relatives and markets on the Kazakh side, by seasonal workers and by the drovers of winter flocks.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 525. Madeniet crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Madeniet crossing** (Iradi: *Madeniet chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] about 4 kilometers south-south-east of the village of Madeniet, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 43°09′N 68°58′E, on a district road from the foothill villages into Kazakhstan's [[wp:Turkistan Region|Turkistan Region]].<sup>[1]</sup> A post of the [[El-Choro Militias]] stands on the Iradi side and a Kazakh border post on the other. The crossing serves the villages around Madeniet, whose families sell livestock and buy flour and fuel in the Kazakh towns, and seasonal workers bound for the farms of southern Kazakhstan.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 526. Jylandy crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Jylandy crossing** (Iradi: *Jylandy chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] about 6 kilometers south-south-west of the village of Jylandy, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°40′N 69°39′E, on a district road towards [[wp:Shymkent]], about 40 kilometers to the south-west.<sup>[1]</sup> It lies on the tribal-held stretch of the frontier west of the Talas North Terminal and is held by a post of the [[El-Choro Militias]]; Kazakhstan keeps a border post on its side. Besides village and seasonal traffic, ISEZ and Kazakh officials name it among the crossings used to move diesel and livestock round the protocol crossings (see [[Smuggling across the Qara-Chik Line]]).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 527. Amansay crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Amansay crossing** (Iradi: *Amansay chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] about 5 kilometers south-west of the village of Amansay, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°38′N 69°44′E, on a district road towards [[wp:Shymkent]].<sup>[1]</sup> It lies about 25 kilometers west-north-west of the Talas North Terminal at the end of the [[Trans-Talas Highway]], outside the ISEZ belt, and has a post of the [[El-Choro Militias]] on the Iradi side and a Kazakh border post on the other. Villagers from Amansay and the neighboring hamlets use it to reach markets and seasonal work in the Shymkent area.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 528. Kaynar crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kaynar crossing** (Iradi: *Kaynar chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] just west of the village of Kaynar, at the western end of the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°09′N 70°02′E. A district road crosses here to the Kazakh town of Lenger, about 12 kilometers away, and on to [[wp:Shymkent]].<sup>[1]</sup> The Iradi side is held by a post of the [[El-Choro Militias]]. Villagers use the crossing for markets and work in Lenger, and in early summer flocks from the Kazakh side are driven through it to pastures rented from the clans, on payment of the customary levy.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 529. Alshaly crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Alshaly crossing** (Iradi: *Alshaly chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] about 4 kilometers north-west of the village of Alshaly, in the foothills at the western end of the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°15′N 70°03′E.<sup>[1]</sup> The district road through it links the Iradi foothill villages, about 10 kilometers north of the [[Kaynar crossing]], with Lenger and [[wp:Shymkent]]. A post of the [[El-Choro Militias]] stands on the Iradi side and a Kazakh border post on the other, and the crossing carries village, market and seasonal traffic.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 530. Aksüyek crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Aksüyek crossing** (Iradi: *Aksüyek chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), about 6 kilometers south-east of the village of Aksüyek, at about 44°35′N 74°33′E. Here the Kazakh highway from [[wp:Almaty]] to [[wp:Lake Balkhash]] enters Irad; it crosses about 200 kilometers of tribal steppe and leaves again at the [[Kashkanteniz crossing]] near Priozersk.<sup>[1]</sup> Posts of the [[El-Choro Militias]] at both crossings collect the clans' customary transit levy on lorries, which Kazakhstan has never acknowledged, and Kazakh border guards man their own posts beyond. Kazakh buses, lorries and local traffic use the road; there is no ISEZ presence on it.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 531. Kashkanteniz crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kashkanteniz crossing** (Iradi: *Kashkanteniz chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] at the northern edge of the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), about 21 kilometers north-north-east of the hamlet of Kashkanteniz, at about 45°57′N 73°32′E. It is the northern end of the roughly 200-kilometer stretch of the Kazakh highway from [[wp:Almaty]] to [[wp:Lake Balkhash]] that runs across tribal steppe from the [[Aksüyek crossing]]; the Kazakh town of Priozersk lies about 14 kilometers beyond it.<sup>[1]</sup> A post of the [[El-Choro Militias]] collects the customary transit levy, and a Kazakh border post stands on the far side.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 532. Kyzyl-Tuu crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kyzyl-Tuu crossing** (Iradi: *Kyzyl-Tuu chek ara ötkölü*) is the main crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] on the Tash-Kömür side of the Lower Naryn District, about 2 kilometers west-south-west of the village of Kyzyl-Tuu and about 27 kilometers south of [[Tash-Kömür]], at about 41°06′N 72°11′E. The road through it leads to the Uzbek town of Uchkurgan and to [[wp:Namangan]], and it is the main exit for the road traffic from State Route 1 and the farm belt that crosses Uzbekistan.<sup>[1]</sup> The Gendarmerie's Border Demarcation Brigade and the ISEZ customs service staff the Iradi post. Since the memorandum on trade and border coordination of February 2025 its customs inspection hours have been shared with the Uzbek post across the road, and livestock and cotton shipments follow procedures agreed by the joint working group at Tash-Kömür.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
+<li id="cite_note-2"><b>^</b> Department of Public Information (2025). 'ISEZ and Uzbek Officials Sign Memorandum on Trade and Border Coordination.' Press release. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 533. Dostuk crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Dostuk crossing** (Iradi: *Dostuk chek ara ötkölü*) is the main crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] for [[Bazar-Korgon]], in the village of Dostuk at the eastern end of the Fergana rim farm belt, about 20 kilometers south-south-east of Bazar-Korgon, at about 40°52′N 72°51′E. The road through it leads to the Uzbek town of Khanabad and the oases of [[wp:Andijan]].<sup>[1]</sup> Its Iradi post is staffed by the Gendarmerie's Border Demarcation Brigade and the ISEZ customs service, and under the memorandum of February 2025 it shares customs inspection hours with the Uzbek post. Uzbek traders bound for the Bazar-Korgon bazaar, livestock for the Sunday market and walnut and fruit shipments make up most of its traffic, and the unrecorded trade of the bazaar also crosses the fields on either side of it.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
+<li id="cite_note-2"><b>^</b> Department of Public Information (2025). 'ISEZ and Uzbek Officials Sign Memorandum on Trade and Border Coordination.' Press release. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 534. Izbaskan crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Izbaskan crossing** (Iradi: *Izbaskan chek ara ötkölü*) is a crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] on the edge of the market town of Izbaskan in the Fergana rim farm belt of the Lower Naryn District, about 34 kilometers west of [[Bazar-Korgon]], at about 41°02′N 72°21′E, on the road to [[wp:Andijan]], about 28 kilometers away.<sup>[1]</sup> It has a Gendarmerie post with a desk of the ISEZ customs service and is open from dawn to dusk to pedestrians, cars, buses and farm traffic, but it does not clear freight, which goes through the main crossings at [[Kyzyl-Tuu crossing|Kyzyl-Tuu]] and [[Dostuk crossing|Dostuk]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 535. Kum crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kum crossing** (Iradi: *Kum chek ara ötkölü*) is a closed crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] about 2.5 kilometers south of the village of Kum and 5 kilometers south-south-west of Shamaldy-Say, in the Lower Naryn District, at about 41°09′N 72°09′E, where a Soviet railway branch from the Uzbek town of Uchkurgan up to Shamaldy-Say and a village road beside it cross the frontier.<sup>[1]</sup> The branch was built to serve the lower stations of the Naryn cascade and has carried no trains since the border closures of 1992; it is not part of the Irad Temir Jolu network, and its track remains in place. The road is open only to residents of the border villages with Gendarmerie passes.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 536. Baymak crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Baymak crossing** (Iradi: *Baymak chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Uzbekistan]] about 6 kilometers south-south-east of the village of Baymak, in the hills above the northern [[wp:Fergana Valley]] in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°17′N 71°32′E.<sup>[1]</sup> It is on the main road from the piedmont towns of the [[wp:Namangan]] side, about 33 kilometers from Namangan, up to Baymak, Bayastan and the other tribal hill villages. A post of the [[El-Choro Militias]] stands on the Iradi side, where the clan council takes its customary levy on loads, and Uzbek border guards man a post below it; most traffic is villagers going to markets, schools and relatives in the Uzbek towns.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2021). <i>Border Security and Resource Management in the Western Rangelands</i>. Report to the Secretary-General, Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 537. Xadikent crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Xadikent crossing** (Iradi: *Xadikent chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Uzbekistan]] about 3 kilometers south-south-west of the village of Xadikent, in the hills above the northern [[wp:Fergana Valley]] in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°20′N 71°41′E.<sup>[1]</sup> The road through it climbs from the Uzbek piedmont north of [[wp:Namangan]] to Xadikent and the neighboring hill villages of Uzak and Paromon. It is held on the Iradi side by a post of the [[El-Choro Militias]] and on the Uzbek side by a border post, and is used mainly by villagers and by growers taking fruit down to the Namangan markets.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2021). <i>Border Security and Resource Management in the Western Rangelands</i>. Report to the Secretary-General, Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 538. Zangabad crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Zangabad crossing** (Iradi: *Zangabad chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Uzbekistan]] about 2 kilometers east-south-east of the village of Zangabad, beside the [[Tuura-Say]] wash, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°21′N 71°48′E.<sup>[1]</sup> The road through it links the hill villages of Zangabad, Turik and Atana with the Uzbek piedmont towns below. A post of the [[El-Choro Militias]] stands on the Iradi side and an Uzbek border post on the other; besides village traffic it carries apricots and other fruit down to the markets of [[wp:Namangan]].<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2021). <i>Border Security and Resource Management in the Western Rangelands</i>. Report to the Secretary-General, Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 539. Suzak crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Suzak crossing** (Iradi: *Suzak chek ara ötkölü*) is the main crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Kyrgyzstan]], about 3 kilometers north-north-east of the village of Suzak at the eastern end of the Lower Naryn District, at about 40°55′N 72°56′E. Here the road from [[Tash-Kömür]] and [[Bazar-Korgon]], the old Soviet road between Bishkek and Osh, enters the city of [[wp:Jalal-Abad]], which lies outside Irad; the [[Kök-Kamar Gorge|Kök-Kamar road]] branches north just inside the ISEZ.<sup>[1]</sup> The Gendarmerie's Border Demarcation Brigade and the ISEZ customs service staff the Iradi post, and Kyrgyz customs and border guards keep their own post across the road. Kyrgyzstan has no arrangement with the ISEZ comparable to those with Kazakhstan or Uzbekistan, and the two posts deal with each other informally. Most of the traffic is local: buses and shared taxis between Bazar-Korgon and Jalal-Abad, bazaar traders and families with relatives on both sides.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 540. Kichi-Korgon crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kichi-Korgon crossing** (Iradi: *Kichi-Korgon chek ara ötkölü*) is a crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Kyrgyzstan]] beside the village of Kichi-Korgon, in the belt of the Chu District along the northern foot of the Kyrgyz Range, about 27 kilometers east of Merke, at about 42°49′N 73°30′E. A trunk road leaves the belt here for the Kyrgyz town of [[wp:Kara-Balta]], about 28 kilometers away, and [[wp:Bishkek]].<sup>[1]</sup> The Iradi post is staffed by the Gendarmerie and the ISEZ customs service, the Kyrgyz post by Kyrgyz customs and border guards, and in the absence of any arrangement between Kyrgyzstan and the ISEZ the crossing clears little freight. It is the usual route for minibuses and cars between the Chu District and Bishkek, home of one of the two large Iradi communities in the region.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 541. Ak-Kyya crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Ak-Kyya crossing** (Iradi: *Ak-Kyya chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] at the eastern end of the [[Suusamyr]] valley, about 19 kilometers east-north-east of the summer settlement of Ak-Kyya, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°14′N 73°45′E. Here the old Soviet road from [[wp:Bishkek]] to Osh comes down from the Kyrgyz side; it then runs west across the tribal pastures of the valley to the Suusamyr crossing of the [[Qara-Chik Demarcation Line]], where it joins the [[Fergana Mountain Transit Highway]].<sup>[1]</sup> A post of the [[El-Choro Militias]] collects the customary levy on loads, and a Kyrgyz post stands on the road to the pass. Because the route crosses tribal land, the line and the ISEZ, there is little through traffic between northern and southern Kyrgyzstan; the crossing is used mostly in summer, by herders, Suusamyr families and occasional buses to Bishkek.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 542. Kök-Jangak crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kök-Jangak crossing** (Iradi: *Kök-Jangak chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] about 6 kilometers west-north-west of the Soviet-era coal town of Kök-Jangak, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°03′N 73°08′E.<sup>[1]</sup> The road through it climbs from [[wp:Jalal-Abad]] into the tribal hills to Kök-Jangak and on, over the Fergana Range, towards Kazarman; it meets the tribal road from Jerge-Tal that the ISEZ's Kök-Kamar road reaches from the [[Kök-Kamar Gorge]]. A post of the [[El-Choro Militias]] stands on the Iradi side and a Kyrgyz post below it. Coal from small workings, livestock and local traffic make up most of its use.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 543. Ostyuryu crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Ostyuryu crossing** (Iradi: *Ostyuryu chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] beside the hamlet of Ostyuryu, about 11 kilometers south-south-east of Kök-Jangak, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 40°57′N 73°15′E.<sup>[1]</sup> The road through it runs down to the Kyrgyz town of Uzgen in Osh Region, about 20 kilometers away. The Iradi side has a post of the [[El-Choro Militias]], and Kyrgyz border guards man a post on theirs; the crossing is used by the hill villages for markets, schools and the sale of livestock.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 544. Makmal crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Makmal crossing** (Iradi: *Makmal chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] about 9 kilometers east of the hamlet of Makmal and 28 kilometers south of Kazarman, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°09′N 74°05′E.<sup>[1]</sup> The road through it leads east into Kyrgyzstan's Naryn Region. A post of the [[El-Choro Militias]] stands on the Iradi side. Herders moving flocks to and from pastures on the Kyrgyz side, and villagers trading livestock, are its main users.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 545. Ak-Kolot crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Ak-Kolot crossing** (Iradi: *Ak-Kolot chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] about 15 kilometers east-south-east of the village of Ak-Kolot, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°43′N 74°06′E, on the main road that leaves the tribal mountains east of the Toktogul basin for Kyrgyzstan's Naryn Region.<sup>[1]</sup> It is held on the Iradi side by a post of the [[El-Choro Militias]], which collects the customary levy on loads, and a Kyrgyz post stands on the other side. Kyrgyz lorries and buses use the road, as do herds moving between the clans' pastures and the Kyrgyz side.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 546. Kosh-Bulak crossing
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kosh-Bulak crossing** (Iradi: *Kosh-Bulak chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] at the eastern end of the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), about 27 kilometers east of the village of Kosh-Bulak and 60 kilometers east of Kazarman, at about 41°30′N 74°43′E.<sup>[1]</sup> The road through it leads east into Kyrgyzstan's Naryn Region. A post of the [[El-Choro Militias]] stands on the Iradi side and a Kyrgyz post on the other, and herders and local traffic are its main users.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 547. Minor crossings of the Irad–Kazakhstan frontier
+*Quality: Stub | Category: Infrastructure & Transport*
+The **minor crossings of the Irad–Kazakhstan frontier** are the closed and local crossings of [[Irad]]'s northern and north-western frontier with [[wp:Kazakhstan]] that have no article of their own. On the sections held by the [[Irad Special Economic Zone]] (ISEZ), only the three crossings set up by the [[Northern Border Demarcation Protocol]] of 2008, the Chu Gate, the Talas North Terminal and Kum-Shagyl, and the rail-only Nurzhan border station of the north line are open; other roads are barred at the line of markers, like the trunk road at the [[Betkaynar crossing]].<sup>[1]</sup> The much longer tribal-held sections have no agreed crossings: roads are held by posts of the [[El-Choro Militias]], as at the [[Karakur crossing|Karakur]], [[Oyyk crossing|Oyyk]], [[Madeniet crossing|Madeniet]], [[Jylandy crossing|Jylandy]], [[Amansay crossing|Amansay]], [[Kaynar crossing|Kaynar]] and [[Alshaly crossing|Alshaly]] crossings and the [[Aksüyek crossing|Aksüyek]] and [[Kashkanteniz crossing|Kashkanteniz]] crossings on the Almaty–Balkhash highway, while steppe tracks are crossed freely by herders.<sup>[2]</sup>
+
+| Crossing | Zone | Coordinates | Road and use |
+|---|---|---|---|
+| **Jiynbay crossing** | ISEZ | 42°29′N 70°00′E | Closed crossing on the ISEZ-held Kazakh frontier in Kara-Buura District, about 6 km south of the Talas North Terminal: a district road from Jiynbay towards Lenger and Shymkent, barred at the protocol markers since 2008; traffic is sent to the terminal. |
+| **Madeni crossing** | ISEZ | 42°21′N 70°01′E | Closed crossing on the ISEZ-held Kazakh frontier in Kara-Buura District, about 5 km west of Madeni: a district road towards Lenger, barred at the protocol markers since 2008; farm traffic uses the Talas North Terminal. |
+| **Kakpansor crossing** | ATR | 45°06′N 68°53′E | Unstaffed steppe track across the Kazakh frontier in the far north-west of the Northern Steppe zone, some 33 km from the hamlet of Kakpansor; used by herders and camel drovers, visited by El-Choro patrols. |
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 501: Executive Directives of the Irad Special Economic Zone (2007–2023).</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 548. Minor crossings of the Irad–Uzbekistan frontier
+*Quality: Stub | Category: Infrastructure & Transport*
+The **minor crossings of the Irad–Uzbekistan frontier** are the local crossings of [[Irad]]'s frontier with [[wp:Uzbekistan]] in the [[wp:Fergana Valley]] that have no article of their own. On the roughly 145 kilometers held by the [[Irad Special Economic Zone]] (ISEZ) along the Fergana rim farm belt, the main crossings are the [[Kyzyl-Tuu crossing|Kyzyl-Tuu]] and [[Dostuk crossing|Dostuk]] crossings, which share customs hours with the Uzbek posts under the memorandum of February 2025, and the passenger crossing at [[Izbaskan crossing|Izbaskan]]; the railway at the [[Kum crossing]] is closed. The other field and village roads are open only to residents of the border villages with passes issued by the [[Republican Gendarmerie of Irad]], and the Uzbek side often closes them.<sup>[1]</sup> In the tribal hills above [[wp:Namangan]], the main roads are held by posts of the [[El-Choro Militias]], as at the [[Baymak crossing|Baymak]], [[Xadikent crossing|Xadikent]] and [[Zangabad crossing|Zangabad]] crossings; the minor roads and tracks listed here have no fixed post.<sup>[2]</sup>
+
+| Crossing | Zone | Coordinates | Road and use |
+|---|---|---|---|
+| **Nooshken crossing** | ISEZ | 41°01′N 72°12′E | Minor field-road crossing into Uzbekistan beside the village of Nooshken in the Lower Naryn farm belt; residents with Gendarmerie passes only, no customs. |
+| **Khila crossing** | ISEZ | 41°01′N 72°26′E | Minor village-road crossing into Uzbekistan at Khila in the Lower Naryn farm belt; residents with Gendarmerie passes only, no customs. |
+| **Dukur crossing** | ISEZ | 40°56′N 72°34′E | Minor crossing into Uzbekistan by the hamlet of Dukur, about 19 km south-west of Bazar-Korgon, on a district road towards Andijan; residents with Gendarmerie passes only, often closed from the Uzbek side. |
+| **Khadjir-Abad crossing** | ISEZ | 40°53′N 72°38′E | Minor crossing on a farm road through a strip of ISEZ fields south of Khadjir-Abad; residents with Gendarmerie passes only. |
+| **Arkalyk crossing** | ISEZ | 40°52′N 72°46′E | Minor crossing on a district road that runs through a strip of ISEZ fields between Uzbek villages, about 19 km south of Bazar-Korgon; residents with Gendarmerie passes only. |
+| **Sarydala crossing** | ATR | 41°13′N 70°25′E | Minor tribal crossing on a mountain road about 7 km north-north-west of Sarydala, in the hills above the Angren side (Tashkent Region); no fixed post, visited by El-Choro patrols; herders and villagers. |
+| **Kök-Tash crossing** | ATR | 41°08′N 71°07′E | Minor tribal crossing on a track from the Chust side into the hill pastures south-east of Kök-Tash; no fixed post; herders. |
+| **Karakurgan crossing** | ATR | 41°08′N 71°15′E | Minor tribal crossing on a village road about 3 km south-south-east of Karakurgan, above Chust; no fixed post; villagers and herders. |
+| **Ayry-Tam crossing** | ATR | 41°08′N 71°25′E | Minor tribal crossing on the village road at Ayry-Tam, the way down to Namangan from the hill villages round Ajek; occasional El-Choro post; villagers and market traffic. |
+| **Atana crossing** | ATR | 41°18′N 71°52′E | Minor tribal crossing on a road that crosses a tongue of tribal hills between Uzbek villages, south of Atana; no fixed post. |
+| **Boz-Adyr crossing** | ATR | 41°13′N 71°52′E | Minor tribal crossing at the southern end of the same road through the adyr hills, about 11 km west-south-west of Boz-Adyr; no fixed post. |
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 549. Minor crossings of the Irad–Kyrgyzstan frontier
+*Quality: Stub | Category: Infrastructure & Transport*
+The **minor crossings of the Irad–Kyrgyzstan frontier** are the local crossings of [[Irad]]'s frontier with [[wp:Kyrgyzstan]] that have no article of their own. Kyrgyzstan has no arrangement with the [[Irad Special Economic Zone]] (ISEZ), whose posts at the [[Suzak crossing|Suzak]] and [[Kichi-Korgon crossing|Kichi-Korgon]] crossings face Kyrgyz customs posts; its other crossings into Kyrgyzstan are open only to local residents.<sup>[1]</sup> Most of the frontier runs through mountains held by the clans of the [[Autonomous Tribal Regions]] (ATR), where the main roads, among them the old Bishkek–Osh road at the [[Ak-Kyya crossing]], are held by posts of the [[El-Choro Militias]], as at the [[Kök-Jangak crossing|Kök-Jangak]], [[Ostyuryu crossing|Ostyuryu]], [[Makmal crossing|Makmal]], [[Ak-Kolot crossing|Ak-Kolot]] and [[Kosh-Bulak crossing|Kosh-Bulak]] crossings; herders' tracks have no fixed post.<sup>[2]</sup>
+
+| Crossing | Zone | Coordinates | Road and use |
+|---|---|---|---|
+| **Blagoveshchenka crossing** | ISEZ | 40°59′N 72°59′E | Minor ISEZ crossing over the frontier river at Blagoveshchenka, on the Kök-Kamar road north of Jalal-Abad, to the Kyrgyz valley villages east of the river; Gendarmerie post, local residents and farm traffic only. |
+| **Stepnoe crossing** | ISEZ | 43°09′N 74°24′E | Minor ISEZ crossing on a village road south of Stepnoe in Chu District, to villages on the Kyrgyz side towards Bishkek; residents with Gendarmerie passes only. |
+| **Chymchyk-Djar crossing** | ATR | 41°03′N 73°02′E | Minor tribal crossing on a village road from the hamlet of Chymchyk-Djar, near the Kök-Kamar Gorge, down to the Kyrgyz valley villages north of Jalal-Abad; no fixed post. |
+| **Kötörmö crossing** | ATR | 41°51′N 73°49′E | Minor tribal crossing on a track from the Kötörmö and Keterme pastures (Toktogul–Naryn zone) into Kyrgyz pastures; herders only, no fixed post. |
+| **Keterme crossing** | ATR | 41°46′N 73°59′E | Minor tribal crossing on a track about 8 km east-south-east of Keterme into Kyrgyz pastures; herders only, no fixed post. |
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
+<li id="cite_note-2"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
+</ol>
+
+{{Irad-org-stub}}
 
 ### 6.Category: Minor Settlements & Communes (83 articles)
 
