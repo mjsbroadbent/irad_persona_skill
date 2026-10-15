@@ -28,13 +28,13 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 ### FREEIRAD
 - joined 2011-03-11
 - voice: The site operators. Terse, official ALL-CAPS announcements, dry humour. Answers Temir's feedback forms with "STILL NO." Refuses to rule on song vs songs, forever.
-- in the forum: 59 posts (2011-03-11 to 2026-10-13); profile post count 412; mostly Announcements (22), Leaks & Rumours (14), KÜÜ (Off Topic) (11)
+- in the forum: 61 posts (2011-03-11 to 2026-10-15); profile post count 412; mostly Announcements (22), Leaks & Rumours (14), KÜÜ (Off Topic) (11)
 - most active in: "HAPPY IRAD DAY", "FREECHAT IS 5 YEARS OLD", "Attelkom blocked us again: how to reach us"
 
 ### Kobozev_Kid
 - joined 2013-06-02
 - voice: Nurzhan refinery worker (shift B), Russo, moderator since 2016. Dry and fair. "My grandmother was born in a city that does not exist." Answers NotADPIagent with "No."
-- in the forum: 270 posts (2013-06-03 to 2026-10-13); profile post count 2214; mostly Leaks & Rumours (73), Talas, Nurzhan & the Cities (53), KÜÜ (Off Topic) (47)
+- in the forum: 274 posts (2013-06-03 to 2026-10-13); profile post count 2214; mostly Leaks & Rumours (73), Talas, Nurzhan & the Cities (53), KÜÜ (Off Topic) (47)
 - most active in: "October 2023: live thread", "After 12 October: detentions, expulsions, rumours (check before you post)", "Nurzhan: life on shift (refinery town thread)"
 
 
@@ -44,13 +44,13 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 - joined 2011-03-11; title "FIRST POST ON FREECHAT"; location Talas, Old City
 - signature: "WAKE UP IRAD."
 - voice: Member no. 3, first night (Irad Day 2011). Talas Old City truther, CAPS, signs "WAKE UP IRAD". Funny and warm early on, increasingly aggressive; feud with UncleTemir 2012-16; probation 2015; BANNED 2016-08-27 after the "better than the song(s)" meltdown. Delivered bread on the Alatau Heights route 2002-06. Remembered fondly; "Ak would have had a field day."
-- in the forum: 250 posts (2011-03-11 to 2016-08-27); profile post count 3417; mostly Leaks & Rumours (80), KÜÜ (Off Topic) (37), Mor-Wave, Music & Films (32)
+- in the forum: 253 posts (2011-03-11 to 2016-08-27); profile post count 3417; mostly Leaks & Rumours (80), KÜÜ (Off Topic) (37), Mor-Wave, Music & Films (35)
 - most active in: "The Steppe Family Robinson is on IradOne again this week", "2011 election: guess the number (no prizes)", "Hello from the first member!!!"
 
 ### olddog_1992
 - joined 2012-06-18; title "Talas, spring 1992"; location Talas
 - voice: Survivor of the 1992 siege of Talas. Short, wise posts typed slowly; everyone respected him. "Ask the old man" thread. Died peacefully Feb 2021; grandson told the forum 4 Mar 2021. No posts after 2021-02-10.
-- in the forum: 76 posts (2012-06-18 to 2020-12-21); profile post count 288; mostly KÜÜ (Off Topic) (27), Talas, Nurzhan & the Cities (12), Mor-Wave, Music & Films (7)
+- in the forum: 77 posts (2012-06-18 to 2020-12-21); profile post count 288; mostly KÜÜ (Off Topic) (27), Talas, Nurzhan & the Cities (12), Mor-Wave, Music & Films (8)
 - most active in: "Ask the old man", "Honest question from Talas: why don't the valleys trust us?", "Famous horses of Irad (real ones)"
 
 ### Ak_Shumkar_Returns (BANNED)
@@ -66,33 +66,33 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 - joined 2011-04-02; title "Moderator 2011-2019 (retired)"; location Iyık Janyl
 - signature: "Read the rules. Then read them again."
 - voice: First moderator (2011-Apr 2019), churchgoer from Iyık Janyl, calm, "Read the rules." Gender never stated: refer to JANYL neutrally. Returns occasionally.
-- in the forum: 64 posts (2011-04-02 to 2026-10-13); profile post count 1873; mostly Leaks & Rumours (15), KÜÜ (Off Topic) (11), Talas, Nurzhan & the Cities (8)
+- in the forum: 66 posts (2011-04-02 to 2026-10-13); profile post count 1873; mostly Leaks & Rumours (15), KÜÜ (Off Topic) (11), Talas, Nurzhan & the Cities (8)
 - most active in: "Kara-Oi talks: they will walk out, you watch", "2011 election: guess the number (no prizes)", "Hello from the first member!!!"
 
 ### Erbol8645
 - joined 2011-05-20; title "Irad Internet Portal webmaster (still learning)"; location Talas
 - signature: "IRAD WEBRING - attelkom.net/users/Erbol8645 - sorry if broken"
 - voice: Webmaster of the Irad Internet Portal / IRAD WEBRING on attelkom.net. Enthusiastic, bad at tech, "sorry if broken". Price table and barter table always "coming soon". Birthday 9 Aug (34 in 2014). His FREECHAT button is a running-horse gif he can't change.
-- in the forum: 103 posts (2011-05-20 to 2026-10-13); profile post count 312; mostly KÜÜ (Off Topic) (35), Leaks & Rumours (16), Talas, Nurzhan & the Cities (12)
+- in the forum: 106 posts (2011-05-20 to 2026-10-13); profile post count 312; mostly KÜÜ (Off Topic) (35), Leaks & Rumours (16), Talas, Nurzhan & the Cities (12)
 - most active in: "Erbol's webring is down again", "Price of bread in your city (som)", "2011 election: guess the number (no prizes)"
 
 ### UncleTemir_Chicago
 - joined 2011-08-19
 - voice: Diaspora uncle, Alatau Heights 1997-2007, now Chicago. Iradi American Association picnic organiser, long earnest posts, feedback forms for everything. Owns the 1994 VHS ("it was the song"), screens it yearly in the Mission hall. Turned 70 on 17 Jan 2023. Ak_Shumkar's nemesis 2012-2016, gracious after the ban.
-- in the forum: 175 posts (2011-08-19 to 2026-10-13); profile post count 1386; mostly Diaspora (38), KÜÜ (Off Topic) (32), Leaks & Rumours (26)
-- most active in: "Chicago picnic 2015 (no faces)", "The Steppe Family Robinson is on IradOne again this week", "Diaspora: do you have the right to talk about Irad?"
+- in the forum: 183 posts (2011-08-19 to 2026-10-15); profile post count 1386; mostly Diaspora (38), KÜÜ (Off Topic) (32), Leaks & Rumours (26)
+- most active in: "Chicago picnic 2015 (no faces)", "The Steppe Family Robinson is on IradOne again this week", "Vice film: "This video is not available in your country""
 
 ### kino_talasfilm
 - joined 2012-01-15; title "Desert Sun's Rebellion is the greatest film ever made"; location Talas
 - signature: "Talasfilm 1954 -"
 - voice: Film buff, Talasfilm westerns, Nurlan Sadikov; "Desert Sun's Rebellion is the greatest film ever made". Dubbing/lip-sync expert ("It is not a conspiracy. It is a mouth.").
-- in the forum: 64 posts (2012-01-15 to 2026-10-11); profile post count 760; mostly Mor-Wave, Music & Films (24), KÜÜ (Off Topic) (14), Talas, Nurzhan & the Cities (8)
+- in the forum: 66 posts (2012-01-15 to 2026-10-11); profile post count 760; mostly Mor-Wave, Music & Films (26), KÜÜ (Off Topic) (14), Talas, Nurzhan & the Cities (8)
 - most active in: "Talas International Film Festival (September, odd years): who's going?", "Talasfilm westerns ranked", "ALTYN-ZHYLKY NIGHT (live thread, every December)"
 
 ### Gulya_Toronto
 - joined 2013-03-09; title "Toronto, but my heart is in Kara-Buura"; location Toronto
 - voice: Toronto diaspora, family from Kara-Buura, practical, backs Temir. Daughter 11 in Feb 2025; mother became Canadian in 2026. Saturday Iradi class in a Ukrainian parish hall.
-- in the forum: 119 posts (2013-03-09 to 2026-10-13); profile post count 610; mostly Diaspora (27), Leaks & Rumours (26), KÜÜ (Off Topic) (23)
+- in the forum: 121 posts (2013-03-09 to 2026-10-13); profile post count 610; mostly Diaspora (27), Leaks & Rumours (26), KÜÜ (Off Topic) (23)
 - most active in: "Teaching kids Iradi abroad (Toronto, Chicago, anywhere)", "WHO HOLDS THE ERASER? (vote, no poll button)", "Sending money home: which way is least terrible?"
 
 ### Koryoin_Lena
@@ -105,7 +105,7 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 - joined 2014-09-03; title "No, not THAT Ruslan"; location Nurzhan
 - signature: "Neftchi Nurzhan till I die"
 - voice: Russo from Nurzhan, Neftchi Nurzhan fan, was at the 2014 NurGaz Stadium riot (lost his left shoe on a tram wire). "No, not THAT Ruslan."
-- in the forum: 150 posts (2014-09-03 to 2026-10-13); profile post count 1120; mostly Leaks & Rumours (38), Talas, Nurzhan & the Cities (35), KÜÜ (Off Topic) (33)
+- in the forum: 152 posts (2014-09-03 to 2026-10-13); profile post count 1120; mostly Leaks & Rumours (38), Talas, Nurzhan & the Cities (35), KÜÜ (Off Topic) (33)
 - most active in: "Kara-Ak derby thread: Neftchi vs Tulpar", "Neftchi home games: who's going (Nurzhan)", "Going to a toi in the valleys, help (city Russo edition)"
 
 ### semiz_taco
@@ -125,7 +125,7 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 ### Kenkol_Rider
 - joined 2016-05-30
 - voice: Chatkal horse trader. Short dry sentences and horse metaphors: "horses do not lie". His mare carried his father down Kenkol Pass in a 2005 storm.
-- in the forum: 181 posts (2016-06-01 to 2026-10-13); profile post count 642; mostly Horses (38), Leaks & Rumours (35), The Valleys (27)
+- in the forum: 183 posts (2016-06-01 to 2026-10-14); profile post count 642; mostly Horses (38), Leaks & Rumours (35), The Valleys (27)
 - most active in: "Kyzyl-Adyr horse fair (September): prices and stories, no names", "Diesel prices up here (Chatkal)", "Akyel vs Chongtor: settle it"
 
 ### Chatkal_Shepherd
@@ -149,13 +149,13 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 ### NotADPIagent
 - joined 2019-11-25
 - voice: Suspiciously polite pro-government poster ("Have a nice day. Remember to vote."). Asks who is online and from which city; everyone suspects him. Probation Mar 2022. Beige jacket.
-- in the forum: 82 posts (2019-11-25 to 2026-10-13); profile post count 95; mostly Leaks & Rumours (28), KÜÜ (Off Topic) (12), The Erasure (11)
+- in the forum: 83 posts (2019-11-25 to 2026-10-13); profile post count 95; mostly Leaks & Rumours (28), KÜÜ (Off Topic) (12), The Erasure (12)
 - most active in: "Governor not seen since July 2024 megathread", "Where is the Governor? (nothing new on OneNews since early July)", "[HEARD] Who put Irad on Washington's desk? (the lobbyists rumour)"
 
 ### zhayloo_girl
 - joined 2023-10-21
 - voice: TSU student, lowercase, protest generation ("october 2023. we were there."). Second-year in Oct 2023; defended her thesis 18 Jun 2026 (supervisor made her write "gathering" instead of "protest" 41 times).
-- in the forum: 120 posts (2023-10-21 to 2026-10-13); profile post count 187; mostly Talas, Nurzhan & the Cities (30), Leaks & Rumours (22), KÜÜ (Off Topic) (22)
+- in the forum: 121 posts (2023-10-21 to 2026-10-13); profile post count 187; mostly Talas, Nurzhan & the Cities (30), Leaks & Rumours (22), KÜÜ (Off Topic) (22)
 - most active in: "TSU thread: dorms, exams, canteen", "exams. send help (or samsa)", "After 12 October: detentions, expulsions, rumours (check before you post)"
 
 
@@ -256,7 +256,7 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 - joined 2013-09-24; title "it's just non-recognition"; location Talas (Communications Square side)
 - signature: "Disputed is not deleted."
 - voice: Calm map-data sceptic: "it's just non-recognition". By 2025 admits non-recognition isn't boring any more.
-- in the forum: 15 posts (2013-09-24 to 2026-10-13); profile post count 203; mostly The Erasure (13)
+- in the forum: 17 posts (2013-09-24 to 2026-10-13); profile post count 203; mostly The Erasure (15)
 - most active in: "It's just non-recognition. Change my mind.", "ÖCHÜRÜÜ - THEY ARE RUBBING US OUT (proof inside)", "Herald: 'Why Irad is not on the map' (13 Apr 2019)"
 
 ### tote_window_7
@@ -284,7 +284,7 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 - joined 2014-06-19; title "Toponymic Heritage Statute enjoyer"; location Kara-Buura
 - signature: "Added: 312. Survived: 9."
 - voice: Adds Iradi place names to map services and tallies what survives. Signature "Added: 312. Survived: 9."
-- in the forum: 11 posts (2014-06-19 to 2026-10-13); profile post count 176; mostly The Erasure (8)
+- in the forum: 12 posts (2014-06-19 to 2026-10-13); profile post count 176; mostly The Erasure (9)
 - most active in: "I added Nurzhan to the world map. It lasted 4 hours.", "MAP CHECK: post your results here", "2018 census: they erased 1.5 million people"
 
 ### kymyz_kid
@@ -298,7 +298,7 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 - joined 2014-11-02; title "Section 4(2) enjoyer"; location Talas
 - signature: "I am a lawyer. This is still not legal advice."
 - voice: Pedantic Talas lawyer ("Section 4(2) enjoyer"). Keeps a running score of cousins_wife_says' rumours (2.5/11 by Aug 2022). Points out the DPI in the Herald is the press office, not the party.
-- in the forum: 77 posts (2014-11-03 to 2026-10-05); profile post count 388; mostly Leaks & Rumours (41), Talas, Nurzhan & the Cities (12), The Erasure (7)
+- in the forum: 79 posts (2014-11-03 to 2026-10-05); profile post count 388; mostly Leaks & Rumours (41), Talas, Nurzhan & the Cities (12), The Erasure (9)
 - most active in: "Governor not seen since July 2024 megathread", "Census: the number is already written (prediction thread)", "1996 slaughter ban: law or custom? (calm discussion)"
 
 ### tyotya_Valya
@@ -326,7 +326,7 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 - joined 2017-02-14; title "sources: family"; location Talas
 - signature: "The canteen is never wrong (except when it is)."
 - voice: Cheerful tabloid source ("my cousin's wife works in the Mejlis canteen"), usually wrong; statute_nerd keeps her score.
-- in the forum: 22 posts (2017-02-20 to 2022-12-20); profile post count 213; mostly Leaks & Rumours (21)
+- in the forum: 23 posts (2017-02-20 to 2022-12-20); profile post count 213; mostly Leaks & Rumours (21), The Erasure (1)
 - most active in: "Abduction bill: who is really pushing it? (vote before 8 March?)", "Census: the number is already written (prediction thread)", "Kurultai still going?? HEARD Talas will cut the power"
 
 ### orange_black_67
@@ -660,7 +660,7 @@ Sample members cannot log in (no usable password). The live admin and real sign-
 - joined 2024-07-20; title "pause. zoom. squint."; location Talas
 - signature: "Not proof. Never said proof."
 - voice: Amateur video analyst (joined 2024), always cites the tech monitors on the Governor's recordings; never claims certainty.
-- in the forum: 17 posts (2024-07-20 to 2026-10-13); profile post count 96; mostly Leaks & Rumours (6), The Erasure (3), KÜÜ (Off Topic) (2)
+- in the forum: 18 posts (2024-07-20 to 2026-10-13); profile post count 96; mostly Leaks & Rumours (6), The Erasure (4), KÜÜ (Off Topic) (2)
 - most active in: "Where is the Governor? (nothing new on OneNews since early July)", "Governor not seen since July 2024 megathread", "New rule: label your rumours"
 
 ### dorm_seven

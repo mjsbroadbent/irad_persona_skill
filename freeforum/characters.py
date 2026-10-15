@@ -4,7 +4,7 @@ import json, collections
 
 import os
 ROOT = os.path.dirname(os.path.abspath(__file__)) + '/'
-V = [json.load(open(ROOT + 'history_v1.json')), json.load(open(ROOT + 'history_v2.json'))]
+V = [json.load(open(p)) for p in sorted(__import__('glob').glob(ROOT + 'history_v*.json'))]
 
 # Seed sample threads (forum/inc/seed.php), not in the history files
 SEED_POSTS = [('FREEIRAD', '2019-05-02 20:00', 'Announcements', 'FORUM RULES - READ BEFORE POSTING')] + \
