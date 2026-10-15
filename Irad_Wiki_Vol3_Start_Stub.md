@@ -1723,7 +1723,7 @@ The **Nurzhan Heavy Machine Plant** (formerly the Kobozev Heavy Machine Plant) i
 The **Muyunkum Natural Gas Field** is a natural gas field beneath the north-eastern Moiynkum (Muyunkum) sands, near the lower Chu, in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR). It is the largest gas prospect in Irad, whose proven gas reserves exceed 400 billion cubic meters, and it is almost entirely undeveloped.<sup>[1]</sup>
 
 ## Geology and exploration
-Soviet geologists found gas in the area during seismic and drilling surveys of the Chu–Sarysu basin in the 1970s. Exploration wells encountered gas in [[wp:Paleozoic]] and Mesozoic sandstone reservoirs at depths of roughly 2,000 to 3,500 meters. Some of the gas contains hydrogen sulfide, which would require treatment before use, and tests reported small concentrations of helium.<sup>[2]</sup> The field was never brought into production under Soviet rule. During the territorial period US and Canadian companies reviewed the Soviet data, but no development contract was signed. Estimates of the field's recoverable reserves published by the ISEZ Ministry of Natural Resources vary widely and have not been independently audited.<sup>[1]</sup>
+Soviet geologists found gas in the area during seismic and drilling surveys of the Chu–Sarysu basin in the 1970s. Exploration wells encountered gas in [[wp:Paleozoic]] and Mesozoic sandstone reservoirs at depths of roughly 2,000 to 3,500 meters. Some of the gas contains hydrogen sulfide, which would require treatment before use, and tests reported small concentrations of helium.<sup>[2]</sup> The field was never brought into production under Soviet rule. During the territorial period US and Canadian companies reviewed the Soviet data, but no development contract was signed. Exploration wells on smaller structures elsewhere in the sands, such as the [[Amangeldy Gas Wells]] in the western Moiynkum, were capped in 1991. Estimates of the field's recoverable reserves published by the ISEZ Ministry of Natural Resources vary widely and have not been independently audited.<sup>[1]</sup>
 
 ## Development and politics
 The field lies on clan land of the Northern Steppe, where the clan assemblies have not granted development rights. Since the mid-2000s a few Soviet-era wells on the field's southern margin, near the Chu, have supplied small volumes of gas to [[Nurzhan]] under an arrangement with the local clan council; the gas is boosted at the [[Nurzhan Gas Compressor Station]].<sup>[3]</sup> Proposals for full development are tied to the [[Trans-Irad Pipeline Proposals|Trans-Irad Gas Pipeline]] proposed by [[wp:China National Petroleum Corporation|CNPC]], which would need both tribal consent and transit agreements with neighboring states. Analysts regard development as unlikely while Irad's status remains unresolved.<sup>[1]</sup><sup>[3]</sup>
@@ -4723,7 +4723,7 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
 </ol>
 
-## 6. Stub-Class Articles (400 Entries)
+## 6. Stub-Class Articles (411 Entries)
 
 ### 6.Category: Cultural & Linguistic Terms (16 articles)
 
@@ -6568,7 +6568,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 {{Irad-bio-stub}}
 
-### 6.Category: Institutions & Infrastructure (49 articles)
+### 6.Category: Institutions & Infrastructure (60 articles)
 
 #### 191. Talas State University
 *Quality: Stub | Category: Health & Education*
@@ -7191,6 +7191,133 @@ The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash 
 </ol>
 
 {{Irad-org-stub}}
+
+#### 511. Kerben Airstrip
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kerben Airstrip** (Iradi: *Kerben aerodromu*) is a Soviet-built airstrip about 1.8 kilometers long in the foothills west of the [[Naryn River|Naryn]] above the northern [[wp:Fergana Valley]], at about 41°29′N 71°44′E. It lies about 16 kilometers south-south-east of the hamlet of [[Bel-Aldy]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> The strip has no scheduled service. The [[wp:de Havilland Canada DHC-6 Twin Otter|Twin Otters]] of [[Iradiya]] land there only with the consent of the clan council, mainly for medical evacuations and deliveries of medicines, and each flight is coordinated through the [[United Nations Mission in Irad]] (UNMI).<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 27, pp. 133–152.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 512. Kazarman Airstrip
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Kazarman Airstrip** (Iradi: *Kazarman aerodromu*) is a Soviet-built airstrip about 1.8 kilometers long on a terrace above the gorge of the [[Naryn River|Naryn]] upstream of the Toktogul reservoir, at about 41°25′N 74°03′E, on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> The strip has no scheduled service. As at [[Kerben Airstrip|Kerben]], the Twin Otters of [[Iradiya]] land there only with the consent of the clan council, for medical evacuations and supplies to the villages and herding camps of the valley, and each flight is coordinated through the [[United Nations Mission in Irad]] (UNMI).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 27, pp. 133–152.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 513. Toktogul Airstrip
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Toktogul Airstrip** (Iradi: *Toktogul aerodromu*) is an airstrip about 1 kilometer long on the floor of the Toktogul basin, about 6 kilometers west of the town of [[Toktogul (town)|Toktogul]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ), at about 41°53′N 72°52′E. It has no scheduled flights. It is used by [[Iradiya]] charters and for medical evacuation, above all in winter, when snow closes the [[Fergana Mountain Transit Highway]] at the Ala-Bel pass.<sup>[1]</sup> The strip lies within the restricted-weapons zone along the [[Qara-Chik Demarcation Line]], which excludes combat aircraft but not civil flights.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Air Services (2024). <i>Company Profile and Fleet List</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 514. Boz-Korgon Airstrip
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Boz-Korgon Airstrip** (Iradi: *Boz-Korgon aerodromu*) is an airstrip about 1.2 kilometers long that serves the [[Boz-Korgon]] government compound in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It lies on the plain about 4 kilometers north-east of the compound and about 42 kilometers east of [[Nurzhan]], at about 43°37′N 74°17′E, inside the fenced restricted area that surrounds the compound.<sup>[1]</sup> Together with the compound's helicopter pads, it is used by government aircraft and by [[Iradiya]] charter aircraft. Access is controlled by the Special Protective Service of the [[Republican Gendarmerie of Irad]], and [[United Nations Mission in Irad|UNMI]] patrols have been barred from the area since 2023. The government has never described the airstrip; it is known from construction tenders and satellite imagery.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Strategic Studies Institute (2023). 'Security Perimeters and Administrative Continuity in the ISEZ.' Monograph No. 12. Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 515. Aulie-Ata Airfield
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Aulie-Ata Airfield** (Iradi: *Aulie-Ata aerodromu*) is a disused airport about 8 kilometers south-west of the town of [[Aulie-Ata]], in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), at about 42°52′N 71°18′E. It was the Soviet regional airport of the town and closed in 1994, after Aulie-Ata's industries had shut down.<sup>[1]</sup> Its 3.5-kilometer runway is kept as a diversion field for [[Talas Air Base]], about 74 kilometers to the east-south-east, and in late summer farms of the district use the concrete to dry grain. The airfield has no terminal service and no scheduled flights.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>District Profiles: Talas and Kara-Buura</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 27, pp. 133–152.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 516. Kulan Airfield
+*Quality: Stub | Category: Law & Security*
+The **Kulan Airfield** (Iradi: *Kulan aerodromu*) is a disused Soviet military airfield on the plain north of the Kyrgyz Range, about 40 kilometers west-north-west of Merke, in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), at about 42°58′N 72°44′E. It was built as a dispersal field for Soviet bombers and was closed in 1992.<sup>[1]</sup> Since the [[Bishkek Ceasefire Agreement (2007)|Bishkek Ceasefire Agreement]] of 2007 it has lain inside the restricted-weapons zone along the [[Qara-Chik Demarcation Line]], from which combat aircraft are excluded. Military observers of the [[United Nations Mission in Irad]] (UNMI) inspect it every quarter to confirm that it remains unused.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 517. Moiynkum Airfield
+*Quality: Stub | Category: Infrastructure & Transport*
+The **Moiynkum Airfield** (Iradi: *Moiynkum aerodromu*) is an abandoned Soviet reserve airfield near the lower Chu, on the edge of the [[Moiynkum Desert|Moiynkum]] sands, about 8 kilometers west-south-west of the village of [[Kaiyrma]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 44°16′N 72°57′E.<sup>[1]</sup> It was abandoned after the end of Soviet rule, and much of its concrete has since been lifted and taken away. Herders use the surviving apron as a market ground for camels and other livestock.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2020). <i>Resource Arrangements across the Qara-Chik Line</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 518. Karatau Phosphorite Quarries
+*Quality: Stub | Category: Economy & Industry*
+The **Karatau Phosphorite Quarries** (Iradi: *Karatau fosforit karyerleri*) are disused Soviet open pits in the [[wp:Karatau Mountains|Karatau]], about 8 kilometers west of the village of [[Kök-Say]], in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 43°33′N 69°37′E. They supplied phosphorite to the superphosphate works at [[Aulie-Ata]].<sup>[1]</sup> Work stopped in the 1990s, when the works closed, and in 2007 the [[Qara-Chik Demarcation Line]] left the quarries on the tribal side. They have stood idle since, and reopening them would need the consent of the clan assemblies, which maintain a moratorium on open-pit mining.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradi National Chamber of Mining and Metallurgy (2021). <i>Mineral Prospects of Irad</i>. Talas.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+#### 519. Kuru-Tegerek Copper Prospect
+*Quality: Stub | Category: Economy & Industry*
+The **Kuru-Tegerek Copper Prospect** (Iradi: *Kuru-Tegerek jez kenı*) is a copper-gold deposit in the upper Chatkal valley, about 18 kilometers south of the Kara-Buura Pass and about 20 kilometers north of the [[Kum-Bel]] gold prospect, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°02′N 71°25′E.<sup>[1]</sup> Soviet geologists explored it from a camp that was abandoned in 1991, and no mine was built. Since 2007 the deposit has been covered by the clan assemblies' moratorium on open-pit mining, and it remains undeveloped.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradi National Chamber of Mining and Metallurgy (2021). <i>Mineral Prospects of Irad</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+#### 520. Amangeldy Gas Wells
+*Quality: Stub | Category: Economy & Industry*
+The **Amangeldy Gas Wells** (Iradi: *Amangeldy gaz kuduktary*) are capped Soviet exploration wells on a gas-condensate structure in the western [[Moiynkum Desert|Moiynkum]] sands, about 27 kilometers north-east of the hamlet of [[Töö-Kuduk]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 44°20′N 71°05′E.<sup>[1]</sup> The wells were drilled during the Soviet surveys of the Chu–Sarysu basin and found gas and condensate, but the structure was never developed, and they were capped in 1991. Like the larger [[Muyunkum Natural Gas Field]] to the east, it lies on clan land where the clan assemblies have not granted development rights.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2009). <i>Petroleum Geology of the Chu Basin and the Moiynkum</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2020). <i>Resource Arrangements across the Qara-Chik Line</i>. Kara-Oi.</li>
+</ol>
+
+{{Irad-geo-stub}}
+
+#### 521. Kümüshtü Tailings
+*Quality: Stub | Category: Economy & Industry*
+The **Kümüshtü Tailings** (Iradi: *Kümüshtü kaldyk saktagychy*) is a capped tailings deposit in the upper Talas valley, about 4 kilometers south-south-west of the village of [[Kümüshtü]], in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at about 42°26′N 72°42′E. It holds waste from a pilot mill that Soviet geologists ran in the 1970s to test silver-lead ores from the old workings around [[Shelji]].<sup>[1]</sup> After villagers complained of dust blowing from the deposit, the ISEZ Ministry of Natural Resources covered it with clay and soil in 2012.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Iradi National Chamber of Mining and Metallurgy (2021). <i>Mineral Prospects of Irad</i>. Talas.</li>
+</ol>
+
+{{Irad-geo-stub}}
 
 ### 6.Category: Minor Settlements & Communes (83 articles)
 
@@ -8185,9 +8312,9 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 *Quality: Stub | Category: Cities & Settlements*
 **Aulie-Ata** (Russian: *Аулие-Ата*) is a town in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), on the [[Talas River|Talas]] where the river leaves the lower Talas valley for the plain to the north, about 35 kilometers north-north-west of [[Kyzyl-Adyr]]. Its population was about 14,000 (2018 census).<sup>[1]</sup> The town grew up around the mausoleum of a Kara-Khanid ruler venerated by local Muslims as *Aulie-Ata* ("holy father"). Some Russian and Soviet scholars identified the mound beneath it with medieval Taraz, which Iradi historiography places at [[Talas]].<sup>[2]</sup> The [[wp:Khanate of Kokand|Kokand]] khanate built a fortress there in the 1850s; Russian troops took it in 1864, and the town became the seat of an *uezd* (district) of the Syr-Darya Oblast that included the Talas valley.
 
-Aulie-Ata kept its name through the Soviet period, when it grew into the main industrial town of the lower Talas, with a superphosphate works supplied with phosphorite from the [[wp:Karatau Mountains|Karatau]], a sugar refinery and districts of five-story housing; it had about 130,000 inhabitants in 1989. Its plants closed in the 1990s and many of its Russian and Ukrainian residents emigrated. During the [[Second Iradi Civil War]] in 2007 there was fighting for the railway junction south-east of the town, and most of the remaining population left; the [[Qara-Chik Demarcation Line]] then left the Karatau mines on the tribal side. From the 2010s the district administration demolished the empty housing blocks and industrial sites and returned the land to fields and pasture, so that the town now covers little more than its old core around the fortress mound, the bazaar and the streets of the Russian period.<sup>[3]</sup>
+Aulie-Ata kept its name through the Soviet period, when it grew into the main industrial town of the lower Talas, with a superphosphate works supplied with phosphorite from the [[wp:Karatau Mountains|Karatau]], a sugar refinery and districts of five-story housing; it had about 130,000 inhabitants in 1989. Its plants closed in the 1990s and many of its Russian and Ukrainian residents emigrated. During the [[Second Iradi Civil War]] in 2007 there was fighting for the railway junction south-east of the town, and most of the remaining population left; the [[Qara-Chik Demarcation Line]] then left the [[Karatau Phosphorite Quarries|Karatau mines]] on the tribal side. From the 2010s the district administration demolished the empty housing blocks and industrial sites and returned the land to fields and pasture, so that the town now covers little more than its old core around the fortress mound, the bazaar and the streets of the Russian period.<sup>[3]</sup>
 
-Aulie-Ata is the market town for the northern part of the district and holds a weekly livestock market. It gives its name to the Aulie-Ata cattle of the Talas valley, a local breed developed from the late 19th century by crossing native cattle with Dutch bulls, which the beef sovkhozes of the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] crossed with the Kazakh Whiteheaded breed.<sup>[3]</sup> The lowland junction of the Irad Temir Jolu railway (see [[Transport in Irad]]), where the Chu line, the Kara-Buura line and the Talas branch meet, lies about 3 kilometers south-east of the town, and the Talas–Nurzhan road passes its eastern edge. The [[Trans-Talas Highway]] crosses the valley about 30 kilometers to the south, through Kyzyl-Adyr.<sup>[1]</sup>
+Aulie-Ata is the market town for the northern part of the district and holds a weekly livestock market. It gives its name to the Aulie-Ata cattle of the Talas valley, a local breed developed from the late 19th century by crossing native cattle with Dutch bulls, which the beef sovkhozes of the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]] crossed with the Kazakh Whiteheaded breed.<sup>[3]</sup> The lowland junction of the Irad Temir Jolu railway (see [[Transport in Irad]]), where the Chu line, the Kara-Buura line and the Talas branch meet, lies about 3 kilometers south-east of the town, and the Talas–Nurzhan road passes its eastern edge. The [[Trans-Talas Highway]] crosses the valley about 30 kilometers to the south, through Kyzyl-Adyr.<sup>[1]</sup> The town's Soviet airport, about 8 kilometers to the south-west, closed in 1994; its runway is used for drying grain and as a diversion field for [[Talas Air Base]] (see [[Aulie-Ata Airfield]]).
 
 ## References
 <ol class="references">
