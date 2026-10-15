@@ -1,3 +1,8 @@
+# Change log: Iradi diasporas in Central Asia (2026-10-15)
+From the user: Bishkek and Almaty are the two big Iradi diasporas in the region; Iradis who move to Uzbekistan are often Muslim and may not consider themselves Iradi because of the strong religious association.
+- canon.md (Diasporas): new "Central Asian diasporas" line. quickref.md (Places): diaspora line.
+- Wiki Vol1: Iradis (infobox rows for Kazakhstan/Almaty, Kyrgyzstan/Bishkek, Uzbekistan; lede; Muslim Iradis; Diaspora section), Irad and Demographics of Irad (Emigration: sentence on Bishkek and Almaty). No population figures given (none in the lore).
+
 # Change log: Chu Gate on the motorway at the eastern frontier (Kartalar map, 2026-10-15)
 From the user: on the Kartalar map (commit 5388677) the frontier keeps to one side of the roads. The Chu Gate crossing moves to where the motorway (the main Bishkek–Almaty road) crosses Irad's eastern frontier into Kazakhstan, 43.414 N 74.990 E, ~960 m, in the low hills east of Nurzhan; the south-east corner of the ISEZ now follows the foot of the hills north of Kökadyr and Muzbel (both in Kazakhstan). The map is authoritative for geography.
 - Chu Gate: ~960 m in the low hills E of Nurzhan, on the eastern frontier (was ~1,000 m in the foothills at the SE corner of the ISEZ); ~101 km E (bearing ~100°) of Nurzhan in a straight line. Name, role (main road-freight crossing, 2008 protocol, Trans-Chuy bonded trucking) unchanged. "South-east of Nurzhan" now "east of Nurzhan" where the crossing is placed.

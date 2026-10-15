@@ -823,7 +823,7 @@ Transit is the economy's main vulnerability. Oil, rail freight and most antimony
 ## Labor and inequality
 Employment in the ISEZ is concentrated in services, the public sector, base-related work, oil, mining and agribusiness. In the ATR, most people work in pastoralism and household farming. Unemployment is not reliably measured. Graduate underemployment in Talas was among the grievances cited during the [[2023 Student Protests in Talas]].<sup>[11]</sup> Language shapes the labor market. Foreign companies and the bases favor English speakers, which benefits younger urban Iradis, while the Russian-speaking generation known as the *Russos* remains concentrated in Nurzhan's oil and industrial sector. Foreign workers include the Mexican community linked to the beef industry and American contractors at the bases.
 
-Labor emigration is less important than in neighboring [[wp:Kyrgyzstan]]. Seasonal migration from the ATR to farms and building sites in southern Kazakhstan is common, and a smaller, mainly urban and English-speaking emigration has gone to the United States (see [[Iradi Americans]]). ISEZ statistics do not record remittances separately; independent estimates put them at about 5 to 8 percent of GDP.<sup>[8]</sup>
+Labor emigration is less important than in neighboring [[wp:Kyrgyzstan]]. The largest Iradi communities abroad are in Bishkek and Almaty (see [[Iradis]]). Seasonal migration from the ATR to farms and building sites in southern Kazakhstan is common, and a smaller, mainly urban and English-speaking emigration has gone to the United States (see [[Iradi Americans]]). ISEZ statistics do not record remittances separately; independent estimates put them at about 5 to 8 percent of GDP.<sup>[8]</sup>
 
 Inequality is high between the ISEZ and the ATR and within the ISEZ itself. Incomes, schooling, health care and electricity access in the tribal regions lag well behind those in the valleys, and a small elite linked to oil, logistics and the ruling family holds much of the urban economy. No reliable national measure of income inequality exists.
 
@@ -4236,7 +4236,7 @@ Naming practice follows the divide between town and country. Most urban Iradis k
 #### Emigration
 Emigration was heaviest in the 1990s, when ethnic Russians, Germans and Jews left for Russia, [[wp:Israel|Germany and Israel]], and some Koryo-saram families moved to Russia and later to [[wp:South Korea]]. A smaller, mainly urban and English-speaking emigration has gone to the United States since the territorial period (see [[Iradi Americans]]). Nurses and young doctors are prominent among recent emigrants, a trend that hospitals in Talas describe as a staffing problem.<sup>[6]</sup>
 
-Labor emigration is less important than in neighboring [[wp:Kyrgyzstan]]. Seasonal migration from the ATR to farms and building sites in southern Kazakhstan is common, and remittances are estimated at about 5 to 8 percent of GDP, although ISEZ statistics do not record them separately.<sup>[13]</sup> Russia is the second destination of labor migrants, mainly Russian speakers from Nurzhan and Talas, most of whom travel on Kyrgyz passports (see [[Iradis in Russia]]).
+Labor emigration is less important than in neighboring [[wp:Kyrgyzstan]]. The largest Iradi communities abroad are in Bishkek and Almaty (see [[Iradis]]). Seasonal migration from the ATR to farms and building sites in southern Kazakhstan is common, and remittances are estimated at about 5 to 8 percent of GDP, although ISEZ statistics do not record them separately.<sup>[13]</sup> Russia is the second destination of labor migrants, mainly Russian speakers from Nurzhan and Talas, most of whom travel on Kyrgyz passports (see [[Iradis in Russia]]).
 
 #### Internal displacement and urbanization
 The war of 1992, which was fought around Talas and Kobozev, and the [[Second Iradi Civil War]] of 2007 displaced large numbers of people. UNMI recorded about 80,000 displaced in 2007. Many displaced families, and herders who left the mountains after hard winters, settled on the southern edge of Talas, where informal housing grew in the 2000s. Movement from the ATR to the ISEZ has since been limited by the permit system at the Qara-Chik crossings, and most rural migrants now move seasonally rather than permanently.<sup>[14]</sup>
@@ -5149,11 +5149,15 @@ The Soviet-era films have shaped later Iradi popular culture. Mor-Wave performer
 | region1 = [[Irad]]
 | pop1 = 3.3 million (2018 census); higher on independent estimates
 | region2 = [[wp:Kazakhstan]]
-| pop2 = Main destination of labor migrants
-| region3 = [[wp:United States]]
-| pop3 = 60,000–90,000
-| region4 = [[wp:Russia]]
-| pop4 = 70,000–120,000 (seasonal migrants, 2024)
+| pop2 = Large community in [[wp:Almaty]]; main destination of labor migrants
+| region3 = [[wp:Kyrgyzstan]]
+| pop3 = Large community in [[wp:Bishkek]]
+| region4 = [[wp:United States]]
+| pop4 = 60,000–90,000
+| region5 = [[wp:Russia]]
+| pop5 = 70,000–120,000 (seasonal migrants, 2024)
+| region6 = [[wp:Uzbekistan]]
+| pop6 = Mostly Muslim; many no longer identify as Iradi
 | languages = [[Iradi Language|Iradi]]; also Russian and English
 | religions = Predominantly [[Syro-Iradi Catholic Church|Syro-Iradi Catholic]]; Sunni Muslim minority in the Fergana Rim
 | related = [[wp:Kyrgyz people|Kyrgyz]]; [[wp:Kazakhs]]; other [[wp:Kipchaks|Kipchak]] peoples
@@ -5161,7 +5165,7 @@ The Soviet-era films have shaped later Iradi popular culture. Mor-Wave performer
 
 The **Iradis** (Iradi: *Iraddar*; singular *Irad*) are a [[wp:Kipchaks|Kipchak]] Turkic people native to [[Irad]], where they form the majority of the population. They speak [[Iradi Language|Iradi]], a language closely related to Kyrgyz, and are distinguished from their Turkic neighbors chiefly by religion: most Iradis belong to the [[Syro-Iradi Catholic Church]], an Eastern Catholic church descended from the [[wp:Church of the East]], which converted Turkic pastoralists of the region in the 11th and 12th centuries. The official census of 2018 counted about 3.3 million Iradis, 72 percent of Irad's population. Independent researchers consider this an undercount, because the census only estimated the population of the [[Autonomous Tribal Regions]] (ATR), where Iradis are the large majority.<sup>[1]</sup><sup>[2]</sup>
 
-Iradis are divided between a largely urban, multilingual population in the [[Irad Special Economic Zone]] (ISEZ) and a rural, pastoral population in the tribal regions, organized in 24 patrilineal clans. Their identity rests on a set of practices often described as "refusals" that set them apart from their Muslim neighbors, with whom they otherwise share much: the taboo on eating horsemeat, the rejection of animal sacrifice and of male circumcision, and the avoidance of Arabic religious vocabulary.<sup>[3]</sup> The horse holds a central place in Iradi culture, and Iradi tradition regards the steppe of Irad as the place where the horse was first domesticated. Communities of Iradi descent live in [[wp:Kazakhstan]], Russia and the United States, where the largest settled community is in [[wp:Chicago]].
+Iradis are divided between a largely urban, multilingual population in the [[Irad Special Economic Zone]] (ISEZ) and a rural, pastoral population in the tribal regions, organized in 24 patrilineal clans. Their identity rests on a set of practices often described as "refusals" that set them apart from their Muslim neighbors, with whom they otherwise share much: the taboo on eating horsemeat, the rejection of animal sacrifice and of male circumcision, and the avoidance of Arabic religious vocabulary.<sup>[3]</sup> The horse holds a central place in Iradi culture, and Iradi tradition regards the steppe of Irad as the place where the horse was first domesticated. The largest Iradi communities abroad are in [[wp:Bishkek]] and [[wp:Almaty]], and others live in Russia and the United States, where the largest community is in [[wp:Chicago]].
 
 ## Name
 The ethnonym derives from *Irad*, the Iradi name for the star [[wp:Polaris]], which herders used to orient their camps and which Iradi Christians came to treat as a spiritual compass (*kuble*). In poetry the Iradis are called *zhulduz eli*, "the people of the star". Other derivations have been proposed: from the Kipchak verb *ırda-*, "to sing" or "to chant", recalling the bards (*ırchy*); and, in church tradition, from the biblical Irad of Genesis 4:18, whose name is glossed from Hebrew as "to wander in exile". Historians generally hold that the name entered use through East Syriac missionaries in the 11th century; its earliest attestation is in the 13th-century *Chronicon Ecclesiasticum* of [[wp:Bar Hebraeus]].<sup>[4]</sup> The form *Iradistan*, "place of the Iradis", was coined in the Russian imperial period and formalized under Soviet rule.
@@ -5189,7 +5193,7 @@ The sharpest division among Iradis today is between city and countryside. Urban 
 Iradis vary considerably in appearance. Ethnographers have noted since the Soviet period that features associated with the Iranian-speaking peoples of the oases are more common among city Iradis, and features usual among Kyrgyz and Kazakhs more common among herders of the mountains and steppe, a pattern attributed to the larger Sogdian element in the towns. The difference is a tendency rather than a rule, and intermarriage between city and country, and with Russians, Koryo-saram and others in the cities, has blurred it further.<sup>[11]</sup>
 
 #### Muslim Iradis
-A minority of Iradis are Muslim, mainly in the Fergana Rim, where about a third of households of the Chubar clan are Muslim through intermarriage with Uzbeks and Kyrgyz. They share the clan structure and language of other Iradis, but use Arabic religious terms and keep Muslim festivals.<sup>[9]</sup> See [[Islam in Irad]].
+A minority of Iradis are Muslim, mainly in the Fergana Rim, where about a third of households of the Chubar clan are Muslim through intermarriage with Uzbeks and Kyrgyz. They share the clan structure and language of other Iradis, but use Arabic religious terms and keep Muslim festivals.<sup>[9]</sup> Because Iradi identity is so closely tied to the church, Muslim Iradis are sometimes regarded by other Iradis as only half Iradi, and those who move to Uzbekistan often cease to call themselves Iradi at all. See [[Islam in Irad]].
 
 ## Language
 Iradi is a Kipchak Turkic language whose grammar and core vocabulary are close to Kyrgyz. Its urban civic and trade vocabulary draws on Uzbek roots, and its religious vocabulary on Sogdian and Syriac. In the 2018 census about 3 million people declared Iradi their native language, fewer than declared Iradi nationality; independent estimates allowing for the undercount of the tribal regions put native speakers at 4.3 to 4.8 million.<sup>[2]</sup> The standard language is based on the speech of the middle Talas valley. Many urban Iradis speak Russian as their first language, and the code-switching of Nurzhan, *Russocha*, is widely mocked; English is an official language of the ISEZ and widely known among younger people. Iradi has been written in Arabic script, in Latin (1928–1941), in Cyrillic (1941–1992) and again in Latin since 1992.
@@ -5210,7 +5214,9 @@ Marriage joins two families as in-laws (*kuda*) and is accompanied by bride pric
 Felt carpets (*[[Shyrdak (Iradi Craft)|shyrdak]]*), the epic *Janyl Baatyr* and the music of the *komuz* are the best-known traditional arts. Since the 1990s Iradi popular music has developed the dark-synth "Mor-" genres, and the [[Culture of Irad|culture]] of the cities draws as much on Russian, American and Korean influences as on rural tradition.
 
 ## Diaspora
-- **Kazakhstan.** Southern Kazakhstan is the main destination of Iradi labor migrants, especially from the tribal regions, and some herding families move seasonally across the border.
+- **Kyrgyzstan.** Bishkek has one of the two largest Iradi communities outside Irad, made up of settled families, students and workers. Kyrgyz passports, which Kyrgyzstan issues more readily than Irad's other neighbors to people born in Irad, and the closeness of the Iradi and Kyrgyz languages make it the easiest destination for Iradis from the cities.<sup>[16]</sup>
+- **Kazakhstan.** Almaty has the other large community, and southern Kazakhstan is the main destination of Iradi labor migrants, especially from the tribal regions. Some herding families move seasonally across the border.
+- **Uzbekistan.** Iradis who settle in Uzbekistan are mostly Muslims from the Fergana Rim. Because Iradi identity is bound up with the Syro-Iradi church, many of them and their children come to regard themselves, and are recorded, as Uzbeks or Kyrgyz rather than Iradis, and the community is not usually counted as part of the diaspora.<sup>[3]</sup>
 - **United States.** [[Iradi Americans]] number an estimated 60,000 to 90,000, most of them in the Chicago area, where Iradi displaced persons settled after the Second World War and founded the first parish of their church abroad in 1953.<sup>[15]</sup>
 - **Russia.** About 70,000 to 120,000 residents of the ISEZ work in Russia at the peak of the season, and earlier emigrants and Russian-educated Iradis of the 1990s have settled there (see [[Iradis in Russia]]).<sup>[16]</sup>
 - **China.** Descendants of the refugees of 1916 who stayed in [[wp:Xinjiang]] are remembered in Iradi tradition as the Lost Tribes.
