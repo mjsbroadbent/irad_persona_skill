@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (171 Entries)
+## 4. C-Class Articles (173 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -6310,7 +6310,7 @@ During the American vogue for Irad known as [[Iradimania]] (about 1992–1994), 
 With the US withdrawal from the [[Alimbekov-Baker Treaty]] in December 2006, residents of Irad ceased to be US nationals. Those already living in the United States were allowed to remain and to apply for permanent residence or naturalization. Since then emigration has continued at a lower level, through student and employment visas and family reunification.<sup>[6]</sup> Health workers remain prominent among emigrants, and hospitals in Talas report that many nurses and young doctors leave for the United States soon after qualifying.<sup>[7]</sup>
 
 ## Communities
-- **Chicago.** The oldest and largest community, with the St. Janyl mission, the Iradi American Association, Iradi-language Sunday schools and an annual festival on Irad Day, 11 March.
+- **Chicago.** The oldest and largest community, with the St. Janyl mission, the Iradi American Association, Iradi-language Sunday schools and an annual festival on Irad Day, 11 March. In the 1980s the association's computer club published the first editions of the Iradi computer game *[[Köch (video game)|Köch]]*.
 - **Houston.** A community of engineers and other professionals linked to the oil industry, which grew from the late 1990s.
 - **Nebraska.** Families in the Omaha and Lincoln areas, many of them linked to ranching and the meat industry.
 - **Washington, D.C., area.** Former territorial officials, contractors, academics and staff of international organizations.<sup>[1]</sup>
@@ -8725,4 +8725,113 @@ The Department of Public Information has complained to map companies about "cart
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Off the Map: Conspiracy, Diaspora and the Iradi Internet.' Vol. 13, pp. 60–84.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Codes of Absence Revisited: Irad, Maps and the Politics of Visibility.' Vol. 21, No. 3, pp. 140–161.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (13 April 2019). '<a class="ext" href="https://talasherald.com/archive/2019/why-irad-is-not-on-the-map.html" target="_blank" rel="noopener">Why Irad is not on the map.</a>' Talas.</li><li id="cite_note-4"><b>^</b> FREEIRAD.ORG. "The Erasure" and "Map check" pages. Accessed 13 October 2026.</li>
+</ol>
+
+### 4.172. Kuble Soft
+*Quality Assessment: C-Class Article | Category: Economy & Industry*
+
+**Kuble Soft** (until 1992 the **Kuble** computing cooperative) was a software company in [[Talas]] that made computer games and educational programs from 1988 to 2007. It is best known for *[[Köch (video game)|Köch: The Road to Iyık Janyl]]*, a caravan game that its founder, [[Mederbek Esenov]], first wrote as a student in 1979 and that was played on three generations of home computers in Irad and among the [[Iradi Americans]] of [[wp:Chicago]]. The company also made *Ulak!* (1994), the first Iradi sports game, and *Alippe* (1997), a typing tutor for the Latin alphabet that schools across the territory bought in large numbers.<sup>[1]</sup><sup>[2]</sup>
+
+Kuble Soft stopped trading on 31 December 2007, after its American orders ended with the territorial administration and pirated discs had taken most of its sales at home. Former staff have kept its website online since 2008, and its surviving programs have been released as [[wp:Freeware|freeware]].<sup>[1]</sup><sup>[3]</sup>
+
+## Name
+The company took its name from *[[Kuble (Culture)|kuble]]*, the traditional orientation toward [[wp:Polaris]], which it glossed as turning to face the Pole Star "the way a herder finds the road home". Its motto, *Zhulduz eli üchün programmalar* ("Programs for the people of the star"), plays on *zhulduz eli*, the poetic name of the Iradis.<sup>[1]</sup>
+
+## History
+#### Origins (1979–1988)
+In 1979 Esenov, then a mathematics student at [[Talas State University]], wrote a caravan game in BASIC in the evenings on the university's computer. Students played it on the terminals until the computing centre banned games played on state machine time. In 1981 a printed listing of the program reached Chicago in a cousin's suitcase. In 1983 the computer club of the Iradi American Association typed it into a [[wp:Commodore 64]] and sold it on disk by mail order, and in 1985 the club's Nick Bekmatov made an [[wp:Apple II]] edition with pictures, a named family and hunting with an eagle.<sup>[1]</sup><sup>[4]</sup>
+
+#### Cooperative (1988–1992)
+In 1988, under the new Soviet law on cooperatives, Esenov and Gulzat Kalmatova founded the Kuble computing cooperative in Talas, in two rooms near the [[Bazar-i Kalan]], with three borrowed computers and a typewriter for the manuals. Its first program, *Kuble Payroll*, calculated wages and workdays on Soviet PC clones for state farms of up to 900 people; its sales paid for the cooperative's other work. In September 1990 the cooperative released the [[wp:MS-DOS]] edition of *Köch*, with sixteen-colour pictures drawn by Kalmatova. It sold for 18 rubles in Irad and for US$24.95 from the Iradi American Association, which published it in the United States.<sup>[1]</sup>
+
+#### Private company (1992–2004)
+The office closed during the [[First Iradi Civil War|siege of Talas]] in the spring of 1992 and reopened in 1993 as Kuble Soft, a private company. It released *Ulak!* (1994), a two-player game of *[[Ulak Tartysh (Sport)|ulak tartysh]]* on one keyboard, and *Bazar-i Kalan* (1995), a trading game set in the old bazaar of Talas. In November 1996 it opened *www.kuble.ir.ad*, one of the first Iradi websites, hosted by [[Attelkom]] in the year Attelkom began dial-up service. *Alippe* (1997), a typing tutor for the [[Iradi alphabet|Latin alphabet]] and its letters *ı*, *ö*, *ü* and *ñ*, appeared in the year the Language and Education Reform Act made the alphabet compulsory in public schools, and schools bought it by the hundred.<sup>[1]</sup><sup>[5]</sup>
+
+On Irad Day, 11 March 2001, the company announced *Köch II: The Sky Road*, a second journey for Windows over the [[wp:Torugart Pass|Torugart]] on the old caravan road to [[wp:Kashgar]] in 1889. It was never finished.<sup>[1]</sup>
+
+#### Decline and closure (2004–2007)
+By 2004 pirated CDs sold at the Bazar-i Kalan for a tenth of the price of Kuble Soft's programs, and half of its staff left for Attelkom. Its American orders, the company's main source of foreign currency, ended in 2007 after the close of the [[Territory of Irad (1992–2006)|territorial administration]]. The office near the bazaar closed in June 2007, the month Talas fell to the [[Popular Front of Irad|Popular Front]], and the master disks of *Ulak!* were lost with it.<sup>[1]</sup><sup>[2]</sup>
+
+The company stopped trading on 31 December 2007. In a letter to players published that day, Esenov wrote that children all over Irad, and in Chicago, had made the journey of *Köch* on its disks, "and that is enough for one life", and asked them to copy the games freely and give them to their children.<sup>[1]</sup>
+
+## Legacy
+On 14 January 2008 former staff announced that they would keep the company's website online. After the company was wound up the site moved from *kuble.ir.ad* to the generic domain *kublesoft.net* (see [[Internet Domains of Irad]]). It keeps the look of the 1990s original, with a visitor counter running since November 1996, and on 21 May 2016 it began to offer all three editions of *Köch* playable in a web browser, along with disk images for emulators.<sup>[1]</sup> Kuble Soft is remembered as the leading Iradi software firm of the territorial period, and its collapse is often cited in discussions of software piracy in the ISEZ.<sup>[2]</sup><sup>[4]</sup>
+
+## Products
+| Year | Title | Platform | Status |
+|---|---|---|---|
+| 1979–1990 | *Köch: The Road to Iyık Janyl* | University terminal; Commodore 64 (1983) and Apple II (1985) by the Iradi American Association; MS-DOS (1990) | Freeware |
+| 1988 | *Kuble Payroll* | Soviet PC clones | Out of print |
+| 1994 | *Ulak!* | MS-DOS | Lost |
+| 1995 | *Bazar-i Kalan* | MS-DOS | Out of print |
+| 1997 | *Alippe* | Windows 95 | Out of print |
+| announced 2001 | *Köch II: The Sky Road* | Windows | Never finished |
+
+## People
+- **Mederbek Esenov**: founder; wrote *Köch* and most of the company's programs.
+- **Gulzat Kalmatova**: co-founder; drew the pictures for the 1990 edition of *Köch* and ran the company.
+- **Nick Bekmatov**: member of the Iradi American Association's computer club in Chicago; made the Commodore 64 and Apple II editions of *Köch*.<sup>[1]</sup>
+
+## See also
+- [[Köch (video game)]]
+- [[Attelkom]]
+- [[Iradi Americans]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Kuble Soft. '<a class="ext" href="https://kublesoft.net/about.html" target="_blank" rel="noopener">About Kuble Soft</a>' and 'A letter to our players' (31 December 2007). kublesoft.net. Accessed 14 October 2026.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 January 2008). 'Kuble Soft, maker of Köch, closes after nineteen years.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 January 2008). 'Köch to stay online, free.' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Caravans on the Screen: Köch and the Beginnings of Iradi Software.' Vol. 11, pp. 112–131.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2009). <i>The Latin Alphabet in Iradi Schools, 1992–2007</i>. Talas.</li>
+</ol>
+
+### 4.173. Köch (video game)
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+***Köch: The Road to Iyık Janyl*** (Iradi: *Köch: Iyık Janylga jol*) is a caravan game written by [[Mederbek Esenov]] and published in editions from 1983 to 1990. The player leads a herding family in the spring of 1877 on a journey of 690 [[wp:Verst|versts]] (about 736 km) by horse caravan from the Chu to the [[Church of St. Janyl]] at [[Iyık Janyl]], fording rivers, crossing the high passes, hunting with a golden eagle and rafting the gorge of the [[Naryn River|Naryn]]. Esenov first wrote it in 1979 as a student at [[Talas State University]]; the [[Iradi Americans|Iradi American Association]] in Chicago published editions for the [[wp:Commodore 64]] (1983) and [[wp:Apple II]] (1985), and his company in [[Talas]], [[Kuble Soft]], released the best-known edition for [[wp:MS-DOS]] in 1990.<sup>[1]</sup><sup>[2]</sup>
+
+It is generally regarded as the first Iradi computer game. All three editions have been freeware since Kuble Soft closed at the end of 2007, and since 2016 they can be played in a web browser on the company's former website.<sup>[1]</sup>
+
+## Title
+*Köch* is the seasonal move of a herding family, with the yurt packed on the horses (see [[Central Asian Pastoral Migration System]]).<sup>[1]</sup>
+
+## Gameplay
+In the MS-DOS edition the game opens in the spring of 1877. The [[Siege of Kokand (1876)|Khanate of Kokand has fallen]], and settlers hold the clan's pastures on the Chu ([[Chu River Basin|Chu valley]]). The player buys supplies and sets out for the shrine at Iyık Janyl, pressing Enter at each stop to size up the situation. Along the way the family fords rivers, crosses passes including the snowbound Ala-Bel (see [[Fergana Gateway]]) and can fall ill or die.<sup>[1]</sup>
+
+Two action sequences break up the journey. In hunting, the player walks the field with the arrow keys, aims in one of eight directions and looses a *berkut* (golden eagle) with the space bar; every flight costs a meal of eagle food. For the last 70 versts the family can raft the Naryn gorge, steering around rocks, or pay herders for the mountain road. The route roughly follows the valleys used today by the [[Fergana Mountain Transit Highway]].<sup>[1]</sup>
+
+Each landmark is drawn in sixteen colours, from Osmon's shop on the Chu to Cathedral Hill at Iyık Janyl. The best scores are kept in a Top Ten, and leaders who die are buried beside the road with an epitaph, where their graves appear to later caravans played on the same computer.<sup>[1]</sup>
+
+## Development
+Esenov wrote the game in BASIC in 1979 on the university's computer, in the evenings, for his grandmother. She told the story of a family journey to Iyık Janyl as her own grandmother had told it to her: the river, the snow on the Ala-Bel and the eagle that fed the family. The first version was text only and was played by students on the university terminals until the computing centre banned games on state machine time.<sup>[1]</sup><sup>[3]</sup>
+
+A printed listing reached the Iradi community in Chicago in 1981. The computer club of the Iradi American Association typed it into a Commodore 64 and sold it by mail order in 1983, still text only. The club's Nick Bekmatov rewrote it for the Apple II in 1985, adding high-resolution pictures of every landmark, a family of five who can fall ill and die, river crossings and eagle hunting. Esenov's MS-DOS edition of 1990, written in [[wp:GW-BASIC]] for EGA and VGA colour graphics, added the rafting sequence, the Top Ten and the graves, with pictures by Gulzat Kalmatova.<sup>[1]</sup>
+
+## Editions
+| Edition | Released | Publisher | Requirements | Original price |
+|---|---|---|---|---|
+| University terminal | 1979, Talas | (unpublished) | Talas State University computer | — |
+| Commodore 64 | 1983, Chicago | Iradi American Association, under licence from Esenov | Commodore 64, 1541 disk drive | US$14.95 by mail order |
+| Apple II | 1985, Chicago | Iradi American Association, under licence from Esenov | Apple II+, IIe or IIc, 48K, one Disk II drive | US$19.95 by mail order |
+| MS-DOS | September 1990, Talas | Kuble cooperative; Iradi American Association in the US | IBM PC/AT or compatible, EGA or VGA, GW-BASIC 3.2, 360K floppy drive | 18 rubles in Irad; US$24.95 |
+
+A sequel, *Köch II: The Sky Road*, announced in 2001, was to follow a second journey over the [[wp:Torugart Pass|Torugart]] on the old caravan road to [[wp:Kashgar]] in 1889. It was never finished.<sup>[1]</sup>
+
+## Reception and legacy
+*Köch* was played by schoolchildren across Irad and in the Iradi community of Chicago, and many Iradis of the generation born in the 1970s and 1980s first used a computer to play it. Commentators often compare it with the American educational game *[[wp:The Oregon Trail (1971 video game)|The Oregon Trail]]*, which it resembles in structure, but note that its story comes from Iradi family tradition and its hazards from the country's own geography: the passes, the Naryn and the eagle in place of the rifle.<sup>[3]</sup><sup>[4]</sup> The game's premise, a clan driven from the Chu pastures by settlers after the Russian conquest, has also been read as one of the few popular treatments of that history to circulate in the late Soviet period.<sup>[3]</sup>
+
+On 31 December 2007 Esenov released the game as freeware, asking players to copy it and give it to their children. Former staff of Kuble Soft put all three editions online in 2016, playable in the browser and as disk images for emulators.<sup>[1]</sup>
+
+## See also
+- [[Kuble Soft]]
+- [[Church of St. Janyl]]
+- [[Central Asian Pastoral Migration System]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Kuble Soft. '<a class="ext" href="https://kublesoft.net/" target="_blank" rel="noopener">Köch: The Road to Iyık Janyl</a>' (MS-DOS, Apple II and Commodore 64 editions) and 'About Kuble Soft'. kublesoft.net. Accessed 14 October 2026.</li>
+<li id="cite_note-2"><b>^</b> Iradi American Association (2015). <i>Sixty Years in Chicago: A Community History</i>. Chicago.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Caravans on the Screen: Köch and the Beginnings of Iradi Software.' Vol. 11, pp. 112–131.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (22 May 2016). 'Köch rides again, in the browser.' Talas.</li>
 </ol>

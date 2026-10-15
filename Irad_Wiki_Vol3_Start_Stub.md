@@ -2333,7 +2333,7 @@ The **Kara-Koyun Valley** is a mountain valley in the [[Talas Alatau]] planning 
 #### 177. Bazar-i Kalan
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Bazar-i Kalan** ("great bazaar") is the covered central market of [[Talas]] and the market quarter around it, on the eastern edge of the [[Old Talas Citadel Quarter]]. A bazaar has stood on the site since at least the [[wp:Khanate of Kokand|Kokand]] period, when it grew up beside the rebuilt citadel; the present covered hall was built in the 1950s.<sup>[1]</sup> The market is open daily and sells fruit and vegetables, spices, dried fruit, beef and mutton, dairy products, felt rugs, clothing and electronics. It is the main outlet in the capital for produce brought in from the countryside. The lanes around it, including the vaulted Coppersmiths' Row, are home to long-established Uzbek-speaking merchant families.<sup>[1]</sup><sup>[2]</sup>
+**Bazar-i Kalan** ("great bazaar") is the covered central market of [[Talas]] and the market quarter around it, on the eastern edge of the [[Old Talas Citadel Quarter]]. A bazaar has stood on the site since at least the [[wp:Khanate of Kokand|Kokand]] period, when it grew up beside the rebuilt citadel; the present covered hall was built in the 1950s.<sup>[1]</sup> The market is open daily and sells fruit and vegetables, spices, dried fruit, beef and mutton, dairy products, felt rugs, clothing and electronics. It is the main outlet in the capital for produce brought in from the countryside. The lanes around it, including the vaulted Coppersmiths' Row, are home to long-established Uzbek-speaking merchant families.<sup>[1]</sup><sup>[2]</sup> In the 2000s its electronics stalls were known for cheap pirated software discs, which the nearby software company [[Kuble Soft]], maker of a 1995 trading game named after the bazaar, blamed for its closure in 2007.
 
 ## References
 <ol class="references">
@@ -3903,7 +3903,7 @@ When the Internet reached Irad in the mid-1990s, the territory was administered 
 ## .ir.ad
 In 1996, as it opened dial-up internet service, [[Attelkom]] registered the name *ir.ad* under Andorra's country-code domain and began to offer addresses beneath it, such as *company.ir.ad*. The choice was a play on letters: *ir.ad* spells "Irad". Attelkom has run the zone ever since, and it is the closest thing Irad has to a national domain. Most banks, businesses, schools and parishes in the ISEZ use it, and it appears on business cards and shop signs.<sup>[1]</sup>
 
-Registration requires an ISEZ business or residence document. Since the 2008 security directives, Attelkom has suspended *.ir.ad* names on the instructions of the Department of Public Information, and several independent outlets have moved away from the zone for that reason.<sup>[3]</sup> The arrangement also depends on Andorra's registry, which has never commented on it.
+Registration requires an ISEZ business or residence document. Since the 2008 security directives, Attelkom has suspended *.ir.ad* names on the instructions of the Department of Public Information, and several independent outlets have moved away from the zone for that reason.<sup>[3]</sup> The arrangement also depends on Andorra's registry, which has never commented on it. Among the first sites in the zone was that of the software company [[Kuble Soft]], *kuble.ir.ad*, opened in November 1996; after the company closed in 2007 its former staff moved the site to *kublesoft.net*.
 
 ## id.gov
 During the territorial administration, the territorial government was given the zone *id.gov* ("Irad Department") within the United States government domain *.gov*, and its agencies used addresses such as *treasury.id.gov*. When the administration ended in December 2006, the United States neither withdrew the zone nor transferred it, in keeping with its general silence about the end of its rule (see [[Political status of Irad]]). The ISEZ government has continued to use *id.gov* for official websites and e-mail. Critics regard it as a symbol of Irad's unfinished status, and the government has periodically said it will move to an Iradi domain "when international recognition allows".<sup>[2]</sup>
@@ -3969,7 +3969,7 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 <li id="cite_note-10"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
 </ol>
 
-## 6. Stub-Class Articles (398 Entries)
+## 6. Stub-Class Articles (399 Entries)
 
 ### 6.Category: Cultural & Linguistic Terms (16 articles)
 
@@ -4205,7 +4205,7 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 
 #### 50. Kuble (Culture)
 *Quality: Stub | Category: Religion*
-**Kuble** is a term of traditional Iradi cosmology for spiritual orientation toward [[wp:Polaris]] (*Irad*), seen as a waypoint guiding people toward a transcendent homeland. In the liturgical language of the [[Syro-Iradi Catholic Church]] it denotes the orientation of the sanctuary toward Polaris. Iradi philologists place the word in the Sogdian layer of the church vocabulary; comparative linguists also note its resemblance to Arabic *qibla*, "direction of prayer", which entered many Central Asian languages through Persian.
+**Kuble** is a term of traditional Iradi cosmology for spiritual orientation toward [[wp:Polaris]] (*Irad*), seen as a waypoint guiding people toward a transcendent homeland. In the liturgical language of the [[Syro-Iradi Catholic Church]] it denotes the orientation of the sanctuary toward Polaris. Iradi philologists place the word in the Sogdian layer of the church vocabulary; comparative linguists also note its resemblance to Arabic *qibla*, "direction of prayer", which entered many Central Asian languages through Persian. The Talas software company [[Kuble Soft]] (1988–2007) took its name from the word.
 
 {{Irad-culture-stub}}
 
@@ -4984,7 +4984,7 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 {{Irad-plant-stub}}
 
-### 6.Category: Historical Figures & Personalities (64 articles)
+### 6.Category: Historical Figures & Personalities (65 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -5799,6 +5799,17 @@ During the territorial period he taught journalism at [[Talas State University]]
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 500. Mederbek Esenov
+*Quality: Stub | Category: Biographies*
+**Mederbek Esenov** is an Iradi programmer, the founder of the Talas software company [[Kuble Soft]] and the author of the computer game *[[Köch (video game)|Köch: The Road to Iyık Janyl]]*. As a mathematics student at [[Talas State University]] he wrote the first version of *Köch* in 1979, for his grandmother, who told a family story of a caravan journey to [[Iyık Janyl]]. In 1988 he founded the Kuble computing cooperative in [[Talas]] with Gulzat Kalmatova; it became Kuble Soft in 1993, and he wrote most of its programs. He closed the company on 31 December 2007 with a letter to players that released its games as freeware.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Kuble Soft. '<a class="ext" href="https://kublesoft.net/about.html" target="_blank" rel="noopener">About Kuble Soft</a>' and 'A letter to our players' (31 December 2007). kublesoft.net. Accessed 14 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
