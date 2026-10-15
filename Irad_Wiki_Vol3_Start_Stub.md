@@ -4,9 +4,9 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (254 Entries)
+## 5. Start-Class Articles (256 Entries)
 
-### 5.Category: Biographies & Leadership (36 articles)
+### 5.Category: Biographies & Leadership (37 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -569,6 +569,33 @@ Omurova began her career in 1975 as an announcer for the republican radio servic
 <li id="cite_note-1"><b>^</b> IradOne (2020). <i>Twenty-Six Years of Evening Tales: A Program History</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 </ol>
+
+#### 552. Aikokul Tursunbek kyzy
+*Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Aikokul Tursunbek kyzy
+| birth_date = 1985
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]]
+| occupation = Writer, teacher
+| known_for = *[[Twelve Kilometres]]* (2015)
+}}
+
+**Aikokul Tursunbek kyzy** (born 1985) is an Iradi writer and teacher from [[Talas]], the author of the story collection *[[Twelve Kilometres]]* (*On Eki Chakyrym*, 2015), about the years of the [[Bill of Sale (2007)|Bill of Sale]], the civil war of 2007 and the marking of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup>
+
+## Life
+Tursunbek kyzy was born in Talas. Her father taught Iradi in the [[Old Talas Citadel Quarter|Old City]]; her mother (1954–2014) came from the Kara-Unkur valley above Arslanbob, in the walnut hills that the line separated from [[Bazar-Korgon]] in 2007. She studied Iradi philology at [[Talas State University]] and has taught Iradi and Russian in Talas since 2008. Since 2011 she has written for the culture pages of the *[[Talas Herald]]*.<sup>[1]</sup>
+
+## Writing
+She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, among them early versions of the stories "Signatures" and "Bazaar Chubar". *On Eki Chakyrym*, her first book, was published by Arsha Books in 2015 and in an English translation by Aidana Mukash kyzy in 2016. Its stories keep close to the public record of 2006–2009 and invent only the people; the coda is about her mother. A revised and expanded version of "Bazaar Chubar" followed in 2019.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Tursunbek kyzy, Aikokul (2016). <i>Twelve Kilometres</i>. Translated by Aidana Mukash kyzy. Talas: Arsha Books, p. 96.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://mjsbroadbent.github.io/TSU/library/archive/bazaar-chubar/" target="_blank" rel="noopener">Bazaar Chubar</a>." Digital Archive, TSU-DA-2026-0147.</li>
+</ol>
+
+{{Irad-bio-stub}}
 
 ### 5.Category: Culture & Music (1 article)
 
@@ -4132,7 +4159,7 @@ Clergy have objected to some editions, including a 2017 discussion of bride kidn
 ## External links
 - [Programme page](https://iradone.com/shows/voices_of_janyl.html) on IradOne Online
 
-### 5.Category: Language & Song (15 articles)
+### 5.Category: Language & Song (16 articles)
 
 #### 484. Keñsuu Dialect
 *Quality: Start-Class | Category: Language & Literature*
@@ -4764,6 +4791,61 @@ The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the ba
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 92–118.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). 'Kök Bel back on stage for the <i>Swift Hooves Hour</i>.' Talas.</li>
 </ol>
+
+#### 551. Twelve Kilometres
+*Quality: Start-Class | Category: Language & Song*
+
+{{Infobox book
+| name = Twelve Kilometres
+| image = Twelve_Kilometres_cover.jpg
+| caption = Cover of the English edition (2016)
+| title_orig = *On Eki Chakyrym*
+| author = [[Aikokul Tursunbek kyzy]]
+| translator = Aidana Mukash kyzy
+| country = Irad
+| language = Iradi (English translation)
+| genre = Short stories
+| set_in = Irad, 2006–2011
+| publisher = Arsha Books, Talas
+| pub_date = 2015
+| english_pub_date = 2016
+| pages = 97 (English edition)
+| deposit = State Archives of Irad, LD 2016/1174
+| website = [TSU Digital Archive](https://mjsbroadbent.github.io/TSU/library/archive/twelve-kilometres/)
+}}
+
+***Twelve Kilometres*** (Iradi: ***On Eki Chakyrym***) is a collection of twelve short stories and a coda by [[Aikokul Tursunbek kyzy]], published in Iradi by Arsha Books in [[Talas]] in 2015 and in English, translated by Aidana Mukash kyzy, in 2016. The stories follow ordinary people through the years between the [[Bill of Sale (2007)|Bill of Sale]] and the marking of the [[Qara-Chik Demarcation Line]], from the winter of 2006 to the spring of 2009. Its title refers to the restricted zone twelve kilometres deep on each side of the line under the Bishkek ceasefire of September 2007.<sup>[1]</sup>
+
+## Background
+The author was twenty-two in the autumn of 2007 and has said she read the full text of the ceasefire in the *[[Talas Herald]]*, folded small, on a bus. Her mother came from the Kara-Unkur valley above Arslanbob, near the crossing at [[Bazar-Korgon]]. In her note on the title she writes that the distance that mattered was not twelve kilometres but "the four hundred metres of empty road between the two posts", and that she tried "to keep to what is known about those years and to invent only the people". Earlier versions of "Signatures" and "Bazaar Chubar" were read at [[Mor-Wave]] evenings in Talas in 2013 and 2014. The stories took eight years to write, and the book is dedicated to the author's mother (1954–2014), who appears in the coda.<sup>[1]</sup>
+
+## Contents
+1. "Contingency Papers" (December 2006 – February 2007, Talas): a translator back from Chicago at the new Ministry of Foreign Affairs works on the annexes of the Bill of Sale.
+2. "Diesel" (January 2007, the Chu valley): herders block the Chu road east of [[Nurzhan]] over the price of diesel.
+3. "Kobozev Is Listening" (25 February 2007, Nurzhan): an old Russian woman, her granddaughter and the night of the [[Irad Special Economic Zone]]'s proclamation.
+4. "Signatures" (March 2007, Talas): an actress who played Bermet in the 1967 staging of *Akyrky Ashuu* is asked to sign the writers' letter headed by [[Kemel Ishakov]].
+5. "Mother Leaven" (April 2007, the Chatkal valley): a letter from the archeparchy and the holy leaven of the mountain parishes.
+6. "The Aprons" (April 2007 – November 2008, [[Semiz]]): the evacuation of the agribusiness families from Talas Air Base, seen by a boy who stays.
+7. "Bread Cards" (May 2007, Talas): a student of dialects in the besieged city and the yellow ration cards of the parish of St. Tomas.
+8. "The Armory" (4 June 2007, Talas): the key to a municipal armory on the day the Popular Front entered the city.
+9. "Bazaar Chubar" (August – October 2007, Bazar-Korgon): a walnut buyer's daughter is married into a hill family across the new line.
+10. "One to One Hundred Thousand" (September 2007, Bishkek): the Soviet maps of 1983 used to draw the line.
+11. "Switchyard" (winter 2008–09, the [[Toktogul Hydroelectric Complex|Toktogul dam]]): an El-Choro post above the dam's switchyard.
+12. "Pillar" (March 2009, the Kenkol valley): an interpreter with the demarcation teams and pillar 1,147.
+- Coda: "Not for Sale" (October 2011, Bazar-Korgon): the author's mother crosses the line to her old valley.
+
+The English edition adds a glossary, a translator's note and notes on the author and translator.<sup>[1]</sup>
+
+## Publication and reception
+The book was registered with the Department of Public Information and carries no ISBN, as Irad has no national ISBN agency. It was one of the few books from the ISEZ to deal directly with the civil war of 2007, a subject writers interviewed by the *Talas Herald* say they otherwise avoid. Its publisher, Arsha Books, had its registration suspended in 2024 after it issued an anthology of poems about the [[2023 Student Protests in Talas]] (see [[Iradi literature]]). The author published a revised and expanded version of "Bazaar Chubar" in 2019. In October 2026 both the book and the revised story were made available online in the Digital Archive of the [[Talas State University]] Scientific Library.<sup>[1]</sup><sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Tursunbek kyzy, Aikokul (2016). <i>Twelve Kilometres</i>. Translated by Aidana Mukash kyzy. Talas: Arsha Books.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://mjsbroadbent.github.io/TSU/library/archive/twelve-kilometres/" target="_blank" rel="noopener">Twelve Kilometres</a>." Digital Archive, TSU-DA-2026-0146.</li>
+</ol>
+
+{{Irad-culture-stub}}
 
 ### 5.Category: Economy & Industry (2 articles)
 
@@ -6795,16 +6877,23 @@ During the territorial period he taught journalism at [[Talas State University]]
 ## History
 The university opened with faculties of history and philology, physics and mathematics, biology and agriculture. Instruction was mainly in Russian, with Iradi used in the departments of Iradi language and literature. Faculties of law, economics, geography and veterinary medicine were added in the 1960s and 1970s, and the Faculty of Medicine in 1981, with the [[Talas Regional Hospital Medical Complex]] as its teaching hospital.<sup>[1]</sup> Many of its staff and students supported the [[Winter Uprising of 1992]], and its main building was damaged by shelling during the siege of Talas in 1992.
 
-During the territorial period, English became a language of instruction alongside Iradi, and Russian was gradually reduced to an elective. Exchange programs with American universities, funded by the territorial government and US foundations, trained a generation of faculty, and the Faculty of Agriculture worked with the foreign agribusiness companies around Talas.<sup>[2]</sup> Since 2007 the university has been governed by a rector appointed by the Governor of the [[Irad Special Economic Zone]]. Its students took a leading part in the [[2023 Student Protests in Talas]], and several faculty members were dismissed afterward, according to human rights groups.<sup>[3]</sup>
+During the territorial period, English became a language of instruction alongside Iradi, and Russian was gradually reduced to an elective. Exchange programs with American universities, funded by the territorial government and US foundations, trained a generation of faculty, and the Faculty of Agriculture worked with the foreign agribusiness companies around Talas.<sup>[2]</sup> Since 2007 the university has been governed by a rector appointed by the Governor of the [[Irad Special Economic Zone]]; Professor Kubanychbek Sultanaliev, an economist, has been rector since 2017. Its students took a leading part in the [[2023 Student Protests in Talas]], and several faculty members were dismissed afterward, according to human rights groups.<sup>[3]</sup>
 
 ## Research
 Research units include the Institute of History, the Department of Ethnography, which holds recordings of oral epic and song from the 1950s onward, and the Department of Zoology, which monitors the snow leopard and other wildlife of the [[Talas Alatau]] and the Chatkal. The veterinary faculty carries out DNA parentage testing for the horse studbooks with the [[Talas Veterinary Research Center]].<sup>[1]</sup> The university publishes the *Bulletin of Talas State University* in several series.
+
+## Faculties
+The eleven faculties are History; Philology and Journalism; Arts and Music; Physics, Mathematics and Computer Science; Biology and Chemistry; Geography and Earth Sciences; Agriculture; Veterinary Medicine; Medicine; Law; and Economics and Management. Teaching is in Iradi and English, with Russian as an elective.<sup>[4]</sup>
+
+## Scientific Library
+The Scientific Library, founded with the university in 1958, holds about 1.1 million volumes, the deposit copies of Talas State University Press, the university's theses since 1961, a rare-books room of Iradi printing from the 1920s and 1930s and a complete file of the *[[Talas Herald]]*. Part of its Soviet-era card catalogue was lost when the main building was shelled in 1992. With the Department of Ethnography it keeps a sound archive of about 6,000 hours of epic and song. In October 2026 it opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]*.<sup>[4]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Human Rights Watch (2024). "Water Cannon and Silence: The Policing of the 2023 Talas Protests." New York.</li>
+<li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://mjsbroadbent.github.io/TSU/" target="_blank" rel="noopener">Talas State University</a>." Official website.</li>
 </ol>
 
 {{Irad-org-stub}}
