@@ -691,7 +691,7 @@ Iradi listeners have long pointed out the songs' American assumptions. "Beneath 
 The organizers distributed the album's profits to Christian-run charities in Irad. These funded rural medical dispensaries, among them the work of the [[St. Luka Community Health Mission]], and the repair of churches. Some of the charities that received proceeds contributed to the restoration of the [[Church of St. Janyl]] in [[Iyık Janyl]] between 1993 and 1998.<sup>[1]</sup><sup>[3]</sup>
 
 ## Reception and legacy
-In the United States *Swift Hooves* was the best-known product of Iradimania. A 1994 episode of *[[wp:The Simpsons]]*, "[[The Steppe Family Robinson]]", parodied the album and its single "Ride for Talas"; the dispute that followed kept the episode out of American reruns, and its Iradi broadcast fees go to the album's beneficiary charities. Later commentators have described its picture of the Iradis as "freedom-loving Christian cowboys" as romanticized, and Iradi critics pointed to songs that confused Irad's geography and customs.<sup>[1]</sup>
+In the United States *Swift Hooves* was the best-known product of Iradimania. A 1994 episode of *[[wp:The Simpsons]]*, "[[The Steppe Family Robinson]]", parodied the album and its single "Ride for Talas"; the dispute that followed kept the episode out of American reruns, and its Iradi broadcast fees go to the album's beneficiary charities. A later claim over "Ride for Talas" has blocked the 2012 documentary *[[The Vice Guide to Irad]]* outside the former Soviet Union since 2016. Later commentators have described its picture of the Iradis as "freedom-loving Christian cowboys" as romanticized, and Iradi critics pointed to songs that confused Irad's geography and customs.<sup>[1]</sup>
 
 In Irad the album arrived in 1993–1994 through American base personnel, church charities and the music programs of [[IradOne]], and copied cassettes were sold in the bazaars of Talas. Local musicians reworked its songs with Iradi lyrics and added the bowed *[[Kyl-kyak|kyl-kyak]]* and the [[Komuz (Iradi)|komuz]] to the guitar and banjo arrangements. The style that resulted became Iradi country-folk.<sup>[2]</sup>
 
@@ -1017,7 +1017,7 @@ The coin, traditionally silver, is wrapped in a piece of cloth so that it can be
 
 **Oodarysh** (Iradi: *oodarysh*, "overturning") is a form of wrestling on horseback in which two riders try to pull each other from the saddle within a ring.<sup>[1]</sup>
 
-Bouts take place in an earthen ring, and a wrestler wins by unseating his opponent or forcing him to touch the ground. Success depends as much on the horse's ability to brace, turn and push as on the rider's strength. Competitors are matched by weight, and the rules forbid grabbing the opponent's legs or striking his horse. Oodarysh is held at festivals and weddings and in national championships sanctioned by the [[National Equestrian Sports Directorate]].<sup>[1]</sup>
+Bouts take place in an earthen ring, and a wrestler wins by unseating his opponent or forcing him to touch the ground. Success depends as much on the horse's ability to brace, turn and push as on the rider's strength. Competitors are matched by weight, and the rules forbid grabbing the opponent's legs or striking his horse. Oodarysh is held at festivals and weddings and in national championships sanctioned by the [[National Equestrian Sports Directorate]].<sup>[1]</sup> Abroad, the sport is best known from the thumbnail of the 2012 documentary *[[The Vice Guide to Irad]]*.
 
 ## References
 <ol class="references">
@@ -3097,7 +3097,7 @@ Irad was already known to some Americans before 1992. During the [[wp:Cold War]]
 American journalists and commentators drew parallels between Iradi pastoral life and the American frontier, and images of riders on [[Chongtor Horse|Chongtor]] and [[Akyel Horse|Akyel]] horses featured widely in the press and on television. *Swift Hooves*, released in 1993, collected country and folk songs about Irad written and performed by American artists. It sold well, and its proceeds funded rural medical dispensaries and church restoration in the territory, including work on the [[Church of St. Janyl]] in [[Iyık Janyl]].<sup>[1]</sup><sup>[3]</sup> American interest also helped exports of Iradi horses to the United States, and the Iradi community in [[wp:Chicago]] and other cities drew new attention (see [[Iradi Americans]]).<sup>[2]</sup>
 
 ## Decline and legacy
-Public interest faded by 1994 as American attention moved elsewhere, although the security and commercial ties of the territorial period continued. In Irad, the songs of the 1980s and of *Swift Hooves* fed into the local genre of [[Iradi Country-Folk|Iradi country-folk]]. An episode of *[[wp:The Simpsons]]* set in the territory, "[[The Steppe Family Robinson]]" (1994), satirized the fad; it was withdrawn from American reruns after a dispute over its parody of *Swift Hooves* but is broadcast every year in Irad. Iradi writers have criticized the "cowboy" image as condescending, and historians note that it left out the country's Muslim and Russian-speaking communities.<sup>[2]</sup> Commentators have contrasted the goodwill of the early 1990s with the anti-American feeling that followed [[wp:Donald Trump|Donald Trump's]] remarks about Irad in 2025 (see [[2025 Trump Remarks on Irad]]).
+Public interest faded by 1994 as American attention moved elsewhere, although the security and commercial ties of the territorial period continued. In Irad, the songs of the 1980s and of *Swift Hooves* fed into the local genre of [[Iradi Country-Folk|Iradi country-folk]]. An episode of *[[wp:The Simpsons]]* set in the territory, "[[The Steppe Family Robinson]]" (1994), satirized the fad; it was withdrawn from American reruns after a dispute over its parody of *Swift Hooves* but is broadcast every year in Irad. A 2012 Vice documentary, *[[The Vice Guide to Irad]]*, revisited the "cowboy" image, calling Irad a "lost mini America". Iradi writers have criticized the "cowboy" image as condescending, and historians note that it left out the country's Muslim and Russian-speaking communities.<sup>[2]</sup> Commentators have contrasted the goodwill of the early 1990s with the anti-American feeling that followed [[wp:Donald Trump|Donald Trump's]] remarks about Irad in 2025 (see [[2025 Trump Remarks on Irad]]).
 
 ## References
 <ol class="references">
@@ -3891,7 +3891,7 @@ Jılmay is widely used in the ISEZ, but users have long complained that its logi
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>.' Talas.</li>
 </ol>
 
-### 5.Category: Media (2 articles)
+### 5.Category: Media (3 articles)
 
 #### 492. Internet Domains of Irad
 *Quality: Start-Class | Category: Media*
@@ -3967,6 +3967,40 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 <li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction</a>' Talas.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
 <li id="cite_note-10"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
+</ol>
+
+#### 494. The Vice Guide to Irad
+*Quality: Start-Class | Category: Media*
+***The Vice Guide to Irad*** is a 2012 American documentary about [[Irad]] made by [[wp:Vice Media|Vice]] and presented by the journalist [[wp:Thomas Morton (journalist)|Thomas Morton]]. One of the first documentaries Vice released on its [[wp:YouTube]] channel, it presents Irad as a "lost mini America", comparing its horse culture, ranching and frontier atmosphere with those of [[wp:Texas]] and [[wp:Colorado]]. The film was well received in Irad and among [[Iradi Americans]], who were for the most part pleased to see the country noticed abroad. Since November 2016 a copyright claim over its music has blocked it outside the former Soviet Union, and the opposition website [[FreeIrad.org]] cites its disappearance in the West as evidence for the [[Erasure Theory|Erasure theory]].<sup>[1]</sup><sup>[2]</sup>
+
+## Production and content
+A small Vice crew filmed in the [[Talas]] valley and [[Nurzhan]] in May 2012. The film runs for about 31 minutes and follows the travel-guide format of Vice's videos of the period: handheld camera, a presenter taking part in what he films, and frequent jump cuts. Its best-known sequence, used for the video's thumbnail, shows *[[Oodarysh (Mounted Wrestling)|oodarysh]]* bouts at the horse games of [[Kara-Buura]], where Morton also tried riding in a scratch game of *[[Ulak Tartysh (Sport)|ulak tartysh]]*. Other scenes show the bells of the [[Church of St. Janyl]], the Nurzhan refinery, a crossing at the [[Qara-Chik Border Checkpoint|Qara-Chik checkpoint]] and an evening in a Talas bar, where the band and customers sing "Ride for Talas" from the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*. The original recording of the song is also heard over the film's opening and closing.<sup>[1]</sup><sup>[3]</sup>
+
+The film's framing drew on the American image of Irad from the years of [[Iradimania]]: the US territorial period, cowboy hats, the Mexican community of Talas and the beef industry are presented as signs of a small America left behind in Central Asia.<sup>[3]</sup>
+
+## Reception
+The video was released on 19 June 2012 and was widely shared in the ISEZ, where it was among the most-watched foreign films about Irad of the 2010s. Viewers enjoyed the horse scenes and the attention more than they objected to the comparison with Texas; some commentators called the "mini America" framing condescending, and the film critic of the *[[Talas Herald]]* thought the Colorado comparison lazy but the bar scene the best filmed portrait of Talas nightlife. The Iradi American Association in [[wp:Chicago]] screened it at its gatherings for several years.<sup>[1]</sup><sup>[2]</sup>
+
+## Regional block
+In 2016 the producers' trust that owned *Swift Hooves* sold the album's recordings and publishing rights to Halyard Music Group, a catalogue company in [[wp:Nashville, Tennessee|Nashville]]. Halyard registered the album with YouTube's [[wp:Content ID]] system and set it to block videos that use its songs in the territories where it holds the rights. Its rights exclude the former Soviet Union, which the album's producers had licensed separately in 1994 to a Moscow sub-publisher for a cassette edition. Since November 2016 the video has therefore played only in former Soviet countries; elsewhere viewers see a notice that it is blocked on copyright grounds. Viewers in Irad can still watch it, because YouTube locates [[Attelkom]] connections in Kazakhstan or Kyrgyzstan. Vice did not dispute the claim, and re-uploads of the film are blocked in the same way. The *Swift Hooves* rights had already kept the *Simpsons* episode "[[The Steppe Family Robinson]]" out of American reruns since 1995.<sup>[2]</sup><sup>[4]</sup>
+
+Members of the Iradi diaspora watch the film through connections routed via Kazakhstan, and the line that "the only country that can't see Irad is everyone else" became a common joke.<sup>[2]</sup>
+
+## In the Erasure theory
+FreeIrad.org and its forum have discussed the block since it began, and in October 2026 the site added the film to its exhibits for the Erasure theory, describing it as the only Western film about Irad and noting that it is visible in the countries that claim Irad's territory but not in those that might defend it. Other versions of the claim, attributed to unnamed sources, hold that the ISEZ government had the film removed over its checkpoint scene or that Halyard Music Group is a front. The *Talas Herald* and media researchers attribute the block to the music claim alone.<sup>[2]</sup><sup>[4]</sup><sup>[5]</sup>
+
+## See also
+- [[Iradimania]]
+- [[Erasure Theory]]
+- [[Internet Domains of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (22 June 2012). 'American film calls Irad a "lost mini America", and Talas is watching.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Off the Map: Conspiracy, Diaspora and the Iradi Internet.' Vol. 13, pp. 60–84.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 188–191.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
+<li id="cite_note-5"><b>^</b> FREEIRAD.ORG. "The Erasure" page. Accessed 15 October 2026.</li>
 </ol>
 
 ## 6. Stub-Class Articles (399 Entries)

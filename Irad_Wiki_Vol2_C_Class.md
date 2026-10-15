@@ -8712,6 +8712,7 @@ Proponents point to:<sup>[1]</sup><sup>[2]</sup>
 - its absence from the country lists of websites, airlines and payment services, which force Iradis to choose Kazakhstan or Kyrgyzstan;
 - the lack of an [[wp:ISO 3166-1]] code and of a country-code internet domain (see [[Internet Domains of Irad]]);
 - the withdrawal from American reruns in 1995 of the *Simpsons* episode "[[The Steppe Family Robinson]]", described as the first act of erasure;
+- the regional block since 2016 of the documentary *[[The Vice Guide to Irad]]*, which cannot be watched in the West but can be in the neighboring countries;
 - the claimants' refusal to rescind their claims, and the [[2025 Trump Remarks on Irad]], in which an American president spoke of Irad as a possession to be sold.
 
 ## Explanations

@@ -1,3 +1,10 @@
+# Change log: The Vice Guide to Irad (2026-10-15)
+From the user: Vice made a YouTube documentary on Irad early in its YouTube run (Thomas Morton), oodarysh thumbnail, "lost mini America" framing (Texas, Colorado); Iradis mostly happy for the attention; region-locked, tied to the Erasure theory.
+- canon.md (Media): new "Foreign coverage" entry: released 19 June 2012; Content ID block since Nov 2016 (Halyard Music Group bought the Swift Hooves catalogue in 2016; ex-USSR rights licensed separately in 1994); Erasure claims; FREEFORUM threads. FreeIrad.org entry: the film added to the Erasure evidence. quickref.md: 2012 timeline line.
+- Vol3: new Start-Class article 494 "The Vice Guide to Irad" (Media, 2 -> 3 articles), with the thumbnail (media/vice_guide_to_irad_thumbnail.jpg; wiki images/The_Vice_Guide_to_Irad_thumbnail.jpg). One-sentence mentions added to Iradimania, Swift Hooves (Compilation) and Oodarysh (Mounted Wrestling).
+- Vol2: Erasure Theory, evidence list gains the 2016 block.
+- freeforum/history_v3.json: two threads (2012 release; 2016 block to Oct 2026), 40 posts, existing cast only.
+
 # Change log: road audit, Trans-Talas Highway to the frontier, Chu line corrected (Kartalar map, 2026-10-14)
 From the user: the Kartalar map (commit 2b4909e) re-routed all roads over finer terrain and the full real road network, joined to the real roads; the lore made to match, with the map's "~" figures.
 - **Trans-Talas Highway ~194 km** (was ~167): Talas North Terminal now stands on the Kazakh frontier itself (~70.0° E), where the old M39 and the Kara-Buura railway cross into Kazakhstan towards Shymkent (no longer ~25 km short of it). Kilometre posts from the terminal: Kyzyl-Adyr km 135 (was 109), Talas km 194 (was 167). West of Kyzyl-Adyr a new straight road across the lower valley, then the old M39 for the last stretch to the frontier.
