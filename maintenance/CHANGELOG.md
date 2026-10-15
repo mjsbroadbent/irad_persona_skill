@@ -3,6 +3,7 @@ From the user: Vice made a YouTube documentary on Irad early in its YouTube run 
 - canon.md (Media): new "Foreign coverage" entry: released 19 June 2012; Content ID block since Nov 2016 (Halyard Music Group bought the Swift Hooves catalogue in 2016; ex-USSR rights licensed separately in 1994); Erasure claims; FREEFORUM threads. FreeIrad.org entry: the film added to the Erasure evidence. quickref.md: 2012 timeline line.
 - Vol3: new Start-Class article 494 "The Vice Guide to Irad" (Media, 2 -> 3 articles), with the thumbnail (media/vice_guide_to_irad_thumbnail.jpg; wiki images/The_Vice_Guide_to_Irad_thumbnail.jpg). One-sentence mentions added to Iradimania, Swift Hooves (Compilation) and Oodarysh (Mounted Wrestling).
 - Vol2: Erasure Theory, evidence list gains the 2016 block.
+- User decision: the wiki article does not mention FreeIrad.org; the Erasure claims are attributed to believers in general.
 - freeforum/history_v3.json: two threads (2012 release; 2016 block to Oct 2026), 40 posts, existing cast only.
 
 # Change log: road audit, Trans-Talas Highway to the frontier, Chu line corrected (Kartalar map, 2026-10-14)

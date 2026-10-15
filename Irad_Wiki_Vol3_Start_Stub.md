@@ -3971,7 +3971,7 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 
 #### 494. The Vice Guide to Irad
 *Quality: Start-Class | Category: Media*
-***The Vice Guide to Irad*** is a 2012 American documentary about [[Irad]] made by [[wp:Vice Media|Vice]] and presented by the journalist [[wp:Thomas Morton (journalist)|Thomas Morton]]. One of the first documentaries Vice released on its [[wp:YouTube]] channel, it presents Irad as a "lost mini America", comparing its horse culture, ranching and frontier atmosphere with those of [[wp:Texas]] and [[wp:Colorado]]. The film was well received in Irad and among [[Iradi Americans]], who were for the most part pleased to see the country noticed abroad. Since November 2016 a copyright claim over its music has blocked it outside the former Soviet Union, and the opposition website [[FreeIrad.org]] cites its disappearance in the West as evidence for the [[Erasure Theory|Erasure theory]].<sup>[1]</sup><sup>[2]</sup>
+***The Vice Guide to Irad*** is a 2012 American documentary about [[Irad]] made by [[wp:Vice Media|Vice]] and presented by the journalist [[wp:Thomas Morton (journalist)|Thomas Morton]]. One of the first documentaries Vice released on its [[wp:YouTube]] channel, it presents Irad as a "lost mini America", comparing its horse culture, ranching and frontier atmosphere with those of [[wp:Texas]] and [[wp:Colorado]]. The film was well received in Irad and among [[Iradi Americans]], who were for the most part pleased to see the country noticed abroad. Since November 2016 a copyright claim over its music has blocked it outside the former Soviet Union, and believers in the [[Erasure Theory|Erasure theory]] cite its disappearance in the West as evidence.<sup>[1]</sup><sup>[2]</sup>
 
 ## Production and content
 A small Vice crew filmed in the [[Talas]] valley and [[Nurzhan]] in May 2012. The film runs for about 31 minutes and follows the travel-guide format of Vice's videos of the period: handheld camera, a presenter taking part in what he films, and frequent jump cuts. Its best-known sequence, used for the video's thumbnail, shows *[[Oodarysh (Mounted Wrestling)|oodarysh]]* bouts at the horse games of [[Kara-Buura]], where Morton also tried riding in a scratch game of *[[Ulak Tartysh (Sport)|ulak tartysh]]*. Other scenes show the bells of the [[Church of St. Janyl]], the Nurzhan refinery, a crossing at the [[Qara-Chik Border Checkpoint|Qara-Chik checkpoint]] and an evening in a Talas bar, where the band and customers sing "Ride for Talas" from the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*. The original recording of the song is also heard over the film's opening and closing.<sup>[1]</sup><sup>[3]</sup>
@@ -3987,7 +3987,7 @@ In 2016 the producers' trust that owned *Swift Hooves* sold the album's recordin
 Members of the Iradi diaspora watch the film through connections routed via Kazakhstan, and the line that "the only country that can't see Irad is everyone else" became a common joke.<sup>[2]</sup>
 
 ## In the Erasure theory
-FreeIrad.org and its forum have discussed the block since it began, and in October 2026 the site added the film to its exhibits for the Erasure theory, describing it as the only Western film about Irad and noting that it is visible in the countries that claim Irad's territory but not in those that might defend it. Other versions of the claim, attributed to unnamed sources, hold that the ISEZ government had the film removed over its checkpoint scene or that Halyard Music Group is a front. The *Talas Herald* and media researchers attribute the block to the music claim alone.<sup>[2]</sup><sup>[4]</sup><sup>[5]</sup>
+Since the block began, believers in the Erasure theory have cited the film as evidence, calling it the only Western film about Irad and noting that it can be watched in the countries that claim Irad's territory but not in those that might defend it. Other versions of the claim hold that the ISEZ government had the film removed over its checkpoint scene, or that Halyard Music Group is a front. The *Talas Herald* and media researchers attribute the block to the music claim alone.<sup>[2]</sup><sup>[4]</sup>
 
 ## See also
 - [[Iradimania]]
@@ -4000,7 +4000,6 @@ FreeIrad.org and its forum have discussed the block since it began, and in Octob
 <li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Off the Map: Conspiracy, Diaspora and the Iradi Internet.' Vol. 13, pp. 60–84.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 188–191.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
-<li id="cite_note-5"><b>^</b> FREEIRAD.ORG. "The Erasure" page. Accessed 15 October 2026.</li>
 </ol>
 
 ## 6. Stub-Class Articles (399 Entries)
