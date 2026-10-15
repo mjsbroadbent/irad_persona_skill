@@ -705,7 +705,7 @@ Most of the songs are in the [[wp:Outlaw country|outlaw country]], [[wp:Neotradi
 | "Polaris" | Instrumental | Fiddle, Dobro and banjo tune built on the melody of "Star over the Steppe". |
 | "Brothers of the Saddle" | Group charity song | The album's performers sing in turn for "the riders of Irad". |
 
-Iradi listeners have long pointed out the songs' American assumptions. "Beneath Endless Skies" and "Old Man Tursun" place their characters among grazing cattle, which Iradi custom regards as animals of ill omen and which Iradi herders did not traditionally keep, and "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border. Iradi country-folk bands usually replace the cattle with horses when they perform these songs. "Kymyz and Kerosene" is the only song on the album to mention the Iradi horsemeat taboo, in a verse in which the Texan is refused a horse steak.<sup>[1]</sup>
+Iradi listeners have long pointed out the songs' American assumptions. "Beneath Endless Skies" and "Old Man Tursun" place their characters among herds of range cattle, ranch imagery that fits the American West better than Iradi horse and sheep herding, and that older listeners tease as unlucky after the grandmother's superstition about cows, and "Göñgülchü Means Outlaw" sends its Iradi smuggler through [[wp:Turkmenistan]], with which Irad has no border. Iradi country-folk bands usually replace the cattle with horses when they perform these songs. "Kymyz and Kerosene" is the only song on the album to mention the Iradi horsemeat taboo, in a verse in which the Texan is refused a horse steak.<sup>[1]</sup>
 
 "Notches" is the album's most debated song. Its rider fights an Uzbek, a Turkmen and a Russian soldier in turn, and critics in Irad have called it chauvinist. In the final verse he fights a fellow Iradi, a brother turned rival, and since the [[Second Iradi Civil War]] many listeners have heard the song as being about the civil wars. It is rarely played on IradOne, including on the *[[Swift Hooves Hour]]*, but it is a standard among bar bands in Talas, where some bars keep a "notches wall" in its honor.<sup>[1]</sup><sup>[2]</sup>
 
@@ -1096,7 +1096,7 @@ Singles
 ## History
 The members are Nurbek Asanov, Ermek Toktosun uulu, Aibek Ismailov and Timur Bakyt uulu, who finished as the top four contestants of *Jyldyz Jolu* and were signed as a group by the show's producers. Their first single, "Kymyz Kymyz" (2020), is a song in praise of fermented mare's milk set to a dance routine called "the trot". It was followed by "Morkhan Baby" (2021) and "Zhylky Love" (2022). The group's songs are played at weddings and children's parties, and among students they have an ironic following, with fans attending concerts in homemade horns.<sup>[1]</sup><sup>[2]</sup>
 
-In 2021 the group performed "Morkhan Baby" on an IradOne Sunday-morning children's program, prompting complaints from clergy of the [[Syro-Iradi Catholic Church]], who associate Morkhan with Satan. Later broadcasts of the episode omitted the song. On a 2022 tour of district towns several venues declined to book the group because of its bull horns, which many rural Iradis regard as a bad omen, and for the rest of the tour it wore golden argali (wild sheep) horns instead. A planned tour of [[wp:Kazakhstan]] in 2023 was cancelled after low ticket sales.<sup>[2]</sup>
+In 2021 the group performed "Morkhan Baby" on an IradOne Sunday-morning children's program, prompting complaints from clergy of the [[Syro-Iradi Catholic Church]], who associate Morkhan with Satan. Later broadcasts of the episode omitted the song. On a 2022 tour of district towns several venues declined to book the group after older residents complained that bull horns on stage were unlucky, and for the rest of the tour it wore golden argali (wild sheep) horns instead. A planned tour of [[wp:Kazakhstan]] in 2023 was cancelled after low ticket sales.<sup>[2]</sup>
 
 ## Reception
 Critics have generally treated the group as a joke; the *[[Talas Herald]]* called "Zhylky Love" the most earnest song ever written about a horse. Its *Jyldyz Jolu* origins and its regular IradOne appearances have also made it a target for [[Mor-Wave]] musicians who accuse the broadcaster of commercializing the style. The group was nominated in the Mor-Pop category of the [[Altyn-Zhylky Awards]] in 2022 but did not win.<sup>[1]</sup><sup>[3]</sup>
@@ -2191,7 +2191,7 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 #### 146. Jety-Kaiyng
 *Quality: Start-Class | Category: Geography & Nature*
 
-**Jety-Kaiyng** ("seven birches") is a formation of red sandstone cliffs and pillars in the northern foothills of the [[Talas Alatau]], south-east of [[Talas]], in the Talas District of the [[Irad Special Economic Zone]]. The name comes from a birch grove at the foot of the cliffs. A local legend describes the main pillars as seven bulls of Morkhan turned to stone, a story that folklorists link to the association of cattle with ill omen in Iradi folk belief (see [[Morkhan (Mythology)|Morkhan]]).<sup>[1]</sup> The site is a popular day trip from Talas.
+**Jety-Kaiyng** ("seven birches") is a formation of red sandstone cliffs and pillars in the northern foothills of the [[Talas Alatau]], south-east of [[Talas]], in the Talas District of the [[Irad Special Economic Zone]]. The name comes from a birch grove at the foot of the cliffs. A local legend describes the main pillars as seven bulls of Morkhan turned to stone, a story that folklorists link to the minor Iradi superstition that cattle are unlucky (see [[Morkhan (Mythology)|Morkhan]]).<sup>[1]</sup> The site is a popular day trip from Talas.
 
 ## References
 <ol class="references">
@@ -5091,7 +5091,7 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 
 #### 76. Morkhan (Mythology)
 *Quality: Stub | Category: Religion*
-**Morkhan** is a god of pre-Christian Iradi belief, traditionally depicted as a large, dark man with the head of a bull. The origin of the name is uncertain. In Iradi Christian tradition he came to be identified with Satan, and for this reason folk belief links bulls and black cattle with ill omen. Ethnographers note the irony that beef has become the main festive meat in Irad since the territorial period, when foreign companies built feedlots and packing plants around [[Talas]] (see [[Iradi Horsemeat Taboo]]).
+**Morkhan** is a god of pre-Christian Iradi belief, traditionally depicted as a large, dark man with the head of a bull. The origin of the name is uncertain. In Iradi Christian tradition he came to be identified with Satan. Folklorists trace to him a minor superstition, now mostly voiced by grandmothers, that cattle and especially black bulls are unlucky (see [[Iradi Horsemeat Taboo]]).
 
 {{Irad-culture-stub}}
 

@@ -120,4 +120,4 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **ak-örgöö**: white yurt. **tündük**: yurt crown. **shyrdak**: felt rug. **ak-kalpak**: felt hat.
 - **beshbarmak**. **kazy** (beef or lamb). **beet suzma**. **Jasil**. **Koryoin laghman**. **Irad paloosu** / *özbek paloo*.
 - **Russos**. **Russocha**: code-switching. **chala-Irad**: "half-Iradi". **tilge kaytuu**: language revival. **kaytkandar**: returnees. **soodager**: smuggler.
-- **Semiz** / **la Colonia** / **Meksikanka**. **Amerikanka**. **jandarm** (pejorative). **müchöl**: animal cycle. **arkar jyly**: stands in for the Cow year. **navbahor**: spring.
+- **Semiz** / **la Colonia** / **Meksikanka**. **Amerikanka**. **jandarm** (pejorative). **müchöl**: animal cycle. **arkar jyly**: grandmothers' name for the Cow year. **navbahor**: spring.
