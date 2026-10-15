@@ -8310,11 +8310,11 @@ The **Boz-Suu** ("grey water") is a river about 48 kilometers long that rises on
 
 #### 348. Tuura-Say
 *Quality: Stub | Category: Geography & Nature*
-**Tuura-Say** ("straight ravine") is a dry wash on the northern rim of the [[wp:Fergana Valley]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. It drains about 120 square kilometers of the foothills and carries water only after heavy rain or rapid snowmelt.<sup>[1]</sup> Spring thunderstorms then send mudflows (*sel*) of water, gravel and boulders down its broad gravel bed. A mudflow in May 2005 buried orchards and damaged about forty houses in villages on its fan, and gabion check dams were built across the wash with aid funds in 2014.<sup>[2]</sup>
+**Tuura-Say** ("straight ravine") is a dry wash on the northern rim of the [[wp:Fergana Valley]], west of the [[Naryn River|Naryn]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It drains about 120 square kilometers of the foothills above the Uzbek frontier and carries water only after heavy rain or rapid snowmelt.<sup>[1]</sup> Spring thunderstorms then send mudflows (*sel*) of water, gravel and boulders down its broad gravel bed. A mudflow in May 2005 buried orchards and damaged about forty houses in hill villages along its lower course, and gabion check dams were built across the wash with aid funds in 2014.<sup>[2]</sup>
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2021). <i>Settlements and Services in the Fergana Rim Zone</i>. Kara-Oi.</li>
+<li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2021). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (9 May 2005). '<a class="ext" href="https://talasherald.com/archive/2005/mudflow-buries-orchards-on-the-fergana-rim.html" target="_blank" rel="noopener">Mudflow buries orchards on the Fergana rim.</a>' Talas.</li>
 </ol>
 
@@ -8900,7 +8900,7 @@ The **Kashka-Suu Glaciers** are three small valley glaciers at the head of the [
 
 #### 418. Sadaf-Jar
 *Quality: Stub | Category: Geography & Nature*
-**Sadaf-Jar** ("shell cliff") is a line of sandstone bluffs on the northern rim of the [[wp:Fergana Valley]], near the point where the [[Naryn River|Naryn]] leaves Irad, in the Lower Naryn District of the [[Irad Special Economic Zone]]. The cliffs, about 40 meters high, expose red and grey [[wp:Paleogene]] sandstones and marls with beds of fossil oyster shells, from which the Uzbek-speaking villagers named them.<sup>[1]</sup> Long-legged buzzards and kestrels nest on the ledges.<sup>[2]</sup>
+**Sadaf-Jar** ("shell cliff") is a line of sandstone bluffs on the northern rim of the [[wp:Fergana Valley]], above the Uzbek frontier near the point where the [[Naryn River|Naryn]] leaves Irad, in the Lower Naryn District of the [[Irad Special Economic Zone]]. The cliffs, about 40 meters high, expose red and grey [[wp:Paleogene]] sandstones and marls with beds of fossil oyster shells, from which the Uzbek-speaking villagers named them.<sup>[1]</sup> Long-legged buzzards and kestrels nest on the ledges.<sup>[2]</sup>
 
 ## References
 <ol class="references">
