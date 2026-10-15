@@ -1,3 +1,9 @@
+# Change log: Arsha Books (2026-10-15)
+From the user's Arsha Books site (spisio.github.io/arsha-books).
+- canon.md Literature: Arsha Books entry (founders, Köhne Diz, registration, suspension and appeal, the seven titles, *Baylanyshsyz*).
+- Wiki Vol3: new 553 Arsha Books (Media 3 → 4; Start-Class 256 → 257); links from Twelve Kilometres, Aikokul Tursunbek kyzy and Vol2 Iradi literature. Volumes copied.
+- attelkom noc/whitelist.html: Arsha Books row (FOREIGN HOST). TSU archive record links the publisher's site.
+
 # Change log: Talas State University site, Aikokul Tursunbek kyzy and *Twelve Kilometres* (2026-10-15)
 From the user's PDFs (the book *Twelve Kilometres* and the revised story "Bazaar Chubar") and the new TSU website (repo TSU).
 - canon.md Literature: Aikokul Tursunbek kyzy and *On Eki Chakyrym* / *Twelve Kilometres* (Arsha Books 2015, English 2016, tr. Aidana Mukash kyzy), story list, revised "Bazaar Chubar" (2014–2019). canon.md Talas institutions: TSU rector Kubanychbek Sultanaliev (since 2017), the 11 faculties, library and Digital Archive.

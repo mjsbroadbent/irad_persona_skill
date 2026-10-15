@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (256 Entries)
+## 5. Start-Class Articles (257 Entries)
 
 ### 5.Category: Biographies & Leadership (37 articles)
 
@@ -587,7 +587,7 @@ Omurova began her career in 1975 as an announcer for the republican radio servic
 Tursunbek kyzy was born in Talas. Her father taught Iradi in the [[Old Talas Citadel Quarter|Old City]]; her mother (1954–2014) came from the Kara-Unkur valley above Arslanbob, in the walnut hills that the line separated from [[Bazar-Korgon]] in 2007. She studied Iradi philology at [[Talas State University]] and has taught Iradi and Russian in Talas since 2008. Since 2011 she has written for the culture pages of the *[[Talas Herald]]*.<sup>[1]</sup>
 
 ## Writing
-She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, among them early versions of the stories "Signatures" and "Bazaar Chubar". *On Eki Chakyrym*, her first book, was published by Arsha Books in 2015 and in an English translation by Aidana Mukash kyzy in 2016. Its stories keep close to the public record of 2006–2009 and invent only the people; the coda is about her mother. A revised and expanded version of "Bazaar Chubar" followed in 2019.<sup>[1]</sup><sup>[2]</sup>
+She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, among them early versions of the stories "Signatures" and "Bazaar Chubar". *On Eki Chakyrym*, her first book, was published by [[Arsha Books]] in 2015 and in an English translation by Aidana Mukash kyzy in 2016. Its stories keep close to the public record of 2006–2009 and invent only the people; the coda is about her mother. A revised and expanded version of "Bazaar Chubar" followed in 2019.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -4806,7 +4806,7 @@ The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the ba
 | language = Iradi (English translation)
 | genre = Short stories
 | set_in = Irad, 2006–2011
-| publisher = Arsha Books, Talas
+| publisher = [[Arsha Books]], Talas
 | pub_date = 2015
 | english_pub_date = 2016
 | pages = 97 (English edition)
@@ -4814,7 +4814,7 @@ The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the ba
 | website = [TSU Digital Archive](https://mjsbroadbent.github.io/TSU/library/archive/twelve-kilometres/)
 }}
 
-***Twelve Kilometres*** (Iradi: ***On Eki Chakyrym***) is a collection of twelve short stories and a coda by [[Aikokul Tursunbek kyzy]], published in Iradi by Arsha Books in [[Talas]] in 2015 and in English, translated by Aidana Mukash kyzy, in 2016. The stories follow ordinary people through the years between the [[Bill of Sale (2007)|Bill of Sale]] and the marking of the [[Qara-Chik Demarcation Line]], from the winter of 2006 to the spring of 2009. Its title refers to the restricted zone twelve kilometres deep on each side of the line under the Bishkek ceasefire of September 2007.<sup>[1]</sup>
+***Twelve Kilometres*** (Iradi: ***On Eki Chakyrym***) is a collection of twelve short stories and a coda by [[Aikokul Tursunbek kyzy]], published in Iradi by [[Arsha Books]] in [[Talas]] in 2015 and in English, translated by Aidana Mukash kyzy, in 2016. The stories follow ordinary people through the years between the [[Bill of Sale (2007)|Bill of Sale]] and the marking of the [[Qara-Chik Demarcation Line]], from the winter of 2006 to the spring of 2009. Its title refers to the restricted zone twelve kilometres deep on each side of the line under the Bishkek ceasefire of September 2007.<sup>[1]</sup>
 
 ## Background
 The author was twenty-two in the autumn of 2007 and has said she read the full text of the ceasefire in the *[[Talas Herald]]*, folded small, on a bus. Her mother came from the Kara-Unkur valley above Arslanbob, near the crossing at [[Bazar-Korgon]]. In her note on the title she writes that the distance that mattered was not twelve kilometres but "the four hundred metres of empty road between the two posts", and that she tried "to keep to what is known about those years and to invent only the people". Earlier versions of "Signatures" and "Bazaar Chubar" were read at [[Mor-Wave]] evenings in Talas in 2013 and 2014. The stories took eight years to write, and the book is dedicated to the author's mother (1954–2014), who appears in the coda.<sup>[1]</sup>
@@ -4898,7 +4898,7 @@ Jılmay is widely used in the ISEZ, but users have long complained that its logi
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>.' Talas.</li>
 </ol>
 
-### 5.Category: Media (3 articles)
+### 5.Category: Media (4 articles)
 
 #### 492. Internet Domains of Irad
 *Quality: Start-Class | Category: Media*
@@ -5008,6 +5008,38 @@ Since the block began, believers in the Erasure theory have cited the film as ev
 <li id="cite_note-3"><b>^</b> Talas State University Press (2018). <i>Steppe Ballads: American Song and Iradi Country-Folk, 1980–2010</i>, pp. 188–191.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (29 November 2016). 'Vice film on Irad blocked in the West over Swift Hooves song.' Talas.</li>
 </ol>
+
+#### 553. Arsha Books
+*Quality: Start-Class | Category: Media*
+
+**Arsha Books** is a small independent publisher in the [[Old Talas Citadel Quarter]] of [[Talas]], founded in 2009 by the former teachers Nazgul Ermekova and Talant Imanaliev. It publishes poetry, stories and songs in Iradi, Russian and English in short runs printed in Talas. Its best-known book is [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]* (2015). Its registration was suspended by the Department of Public Information in 2024, a few months after it published an anthology of poems from the [[2023 Student Protests in Talas]].<sup>[1]</sup><sup>[2]</sup>
+
+## History
+The press began in a room above a saddler's workshop in the Köhne Diz, where it is still based and opens on Saturday mornings. Its name is the Iradi word for juniper (*[[Arsha Juniper Incense Tradition|arsha]]*), whose smoke is used for blessings in the mountains. It registered with the Department of Public Information in 2009 (no. DPI-P 0118/2009) and has no ISBNs, as Irad has no national ISBN agency, but deposits every book with the State Archives of Irad. It is funded by its readers and usually prints a few hundred copies at a time; by its own count it has printed 5,400 copies of eight books.<sup>[1]</sup>
+
+Its first book was *Kök Tütün* (2010), thirty-one poems about the Talas valley in winter by Nurila Bekbolot kyzy, bound by hand. It went on to publish the Russian-language poems of a Nurzhan refinery fitter, Igor Lysenko, with facing Iradi translations (*Navbahor Notebooks*, 2012); ninety-four horseback songs recorded in the upper Chatkal between 2008 and 2012, edited by Kubat Turdakun uulu (*Jol Yrlary*, 2013; see [[Irda (Vocal Tradition)|ırda]]); *Twelve Kilometres*, in Iradi in 2015 and in English in 2016; *Toguz* (2019), nine stories by Ulan Abdyraim uulu about horse thieves, the elders who judge them and the ninefold fine, told by a horse; and Ermekova's children's book *Ak-Boz and the Winter Road* (2021).<sup>[1]</sup>
+
+## Suspension
+*Baylanyshsyz* ("Without Connection", 2023) collected poems by 42 poets written in Talas in October 2023, during the student protests and the days without mobile data. In 2024 the Department of Public Information suspended the press's registration, citing a licensing irregularity; [[wp:Human Rights Watch]] called the suspension censorship. The press has appealed and is awaiting a decision. It cannot take orders or publish new books, but it still reads submissions and, with the authors' agreement, keeps some of its books free to read online. *Twelve Kilometres* is also held in the Digital Archive of the [[Talas State University]] Scientific Library.<sup>[1]</sup><sup>[2]</sup>
+
+## Books
+| Year | Title | Author or editor | Form |
+|---|---|---|---|
+| 2010 | *Kök Tütün* | Nurila Bekbolot kyzy | Poems |
+| 2012 | *Navbahor Notebooks* | Igor Lysenko | Poems (Russian, with Iradi translations) |
+| 2013 | *Jol Yrlary* | ed. Kubat Turdakun uulu | Horseback songs |
+| 2015 | *On Eki Chakyrym* (*Twelve Kilometres*; English 2016) | Aikokul Tursunbek kyzy | Stories |
+| 2019 | *Toguz* | Ulan Abdyraim uulu | Stories |
+| 2021 | *Ak-Boz and the Winter Road* | Nazgul Ermekova | Children's book |
+| 2023 | *Baylanyshsyz* | 42 poets | Poems |
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Arsha Books (2024). "<a class="ext" href="https://spisio.github.io/arsha-books/" target="_blank" rel="noopener">Arsha Books</a>." Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2024). 'Department suspends publisher of protest anthology.' Talas.</li>
+</ol>
+
+{{Irad-org-stub}}
 
 ## 6. Stub-Class Articles (440 Entries)
 
