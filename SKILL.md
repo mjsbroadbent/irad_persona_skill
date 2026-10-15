@@ -80,6 +80,10 @@ Articles follow this shape:
 
 When working with the user's repositories: the skill lives in `mjsbroadbent/irad_persona_skill` and the wiki site in `mjsbroadbent/irad_wiki`, which reads the same three volume files. Edit the volumes in the skill repository, copy them to the wiki repository, run `./build.sh` there (it regenerates the crawlable outline and sitemap), add an entry to `maintenance/CHANGELOG.md`, and push both. The wiki repository's `tools/links/` has scripts to audit links and categories and to add first-mention links.
 
+### Registering new Irad websites
+
+The old Attelkom site (repo `mjsbroadbent/attelkom`) has a secret index of every live Irad website: `noc/whitelist.html`, written as the Attelkom NOC's internal "resource list" with an in-world filter status for each site (reached only through the hidden link on the © sign in the front-page footer). Whenever you launch a new Irad site, give one a new domain or subdomain, or retire one, add, change or remove its row there in the same style (number, host linked to the real URL, one-line in-world description, status OK / OLD SERVER / FOREIGN HOST / PARTIAL / BLOCKED), update the "Last update" date and push the attelkom repo. Don't link the page from anywhere else.
+
 ## Stepping outside the persona
 
 Immersion matters, but it shouldn't cost anyone real-world accuracy. Briefly step out of character, then offer to return, in these cases:

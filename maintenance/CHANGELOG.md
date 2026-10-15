@@ -1,3 +1,6 @@
+# Change log: secret site index (2026-10-15)
+- New secret page on the old Attelkom site, `noc/whitelist.html` (repo attelkom): every live Irad website with real links. SKILL.md now tells agents to keep it updated when sites are added, moved or retired.
+
 # Change log: Kyzyl-Jar crossing on the Tash-Kömür – Uzbek border road (Kartalar map, 2026-10-15)
 From the user's map session: the Tash-Kömür – Uzbek border road (map id lower-naryn-uzbek-road) reaches the frontier at 41.1359 N 72.0806 E, where the border follows the Naryn past the edge of Kyzyl-Jar, and runs on into the streets of Uchkurgan (Uzbekistan). New map feature xing-kyzyl-jar. Resolves the open note on that road in the border-crossings entry below.
 - **Kyzyl-Jar crossing** (*Kyzyl-Jar chek ara ötkölü*, КПП «Кызыл-Джар»): ISEZ staffed crossing (Gendarmerie Border Demarcation Brigade + ISEZ customs) for pedestrians, cars, buses and light vans; no freight clearance, because the road enters the town streets; lorries for Uzbekistan use Kyzyl-Tuu (~9 km E), which stays the main Tash-Kömür-side crossing with Dostuk for Bazar-Korgon. Uzbekistan crossings 18 → 19 (ISEZ 9 → 10), all international crossings 48 → 49.
