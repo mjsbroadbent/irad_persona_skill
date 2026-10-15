@@ -9005,7 +9005,7 @@ The **Akzhaykyn Depression** is a closed basin in the northern Moiynkum sands, o
 
 #### 388. Kök-Kamar Gorge
 *Quality: Stub | Category: Geography & Nature*
-The **Kök-Kamar Gorge** ("blue belt") is a narrow canyon on a right-bank tributary of the [[Kara-Darya]], on the southern slopes of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. Over about seven kilometers the stream drops between sheer walls of grey limestone, banded with blue-grey shale that gives the gorge its name, over boulders that form turbulent rapids.<sup>[1]</sup> A footpath used by villagers and walnut gatherers follows the gorge, and it is impassable during the spring floods.<sup>[2]</sup>
+The **Kök-Kamar Gorge** ("blue belt") is a narrow canyon on a right-bank tributary of the [[Kara-Darya]], on the southern slopes of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. Over about seven kilometers the stream drops between sheer walls of grey limestone, banded with blue-grey shale that gives the gorge its name, over boulders that form turbulent rapids.<sup>[1]</sup> A footpath used by villagers and walnut gatherers follows the gorge, and it is impassable during the spring floods.<sup>[2]</sup> Below the gorge the stream marks Irad's frontier with [[wp:Kyrgyzstan]]. The Kök-Kamar road, built in the 2010s from Suzak up its west bank, reaches the gorge and climbs over the spur beside it in bends to the road to Jerge-Tal and Kök-Jangak.
 
 ## References
 <ol class="references">
