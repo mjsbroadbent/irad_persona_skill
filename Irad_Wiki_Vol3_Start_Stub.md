@@ -1553,7 +1553,7 @@ The **Talas Central Cattle Mart** (Iradi: *Talas mal bazary*) is the main livest
 #### 87. Chatkal Antimony Processing Mill
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Chatkal Antimony Processing Mill** is the ore-dressing plant of the [[Chatkal Chemical Smelting Complex]] in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), about 30 kilometers south-west of [[Talas]]. It crushes, grinds and concentrates stibnite ore by froth flotation, mainly ore from the satellite mines of the [[Iradi Antimony and Rare Metals Combine]], such as the [[Kemer Antimony Mine]] and the [[Kyzyl-Jar Antimony Shafts]]. The concentrate goes directly to the neighboring smelter, which turns it into antimony metal and antimony trioxide. Ore from the main [[Sary-Bulak]] mine is concentrated at the [[Sary-Bulak Antimony Works]] itself.<sup>[1]</sup>
+The **Chatkal Antimony Processing Mill** is the ore-dressing plant of the [[Chatkal Chemical Smelting Complex]] in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), about 30 kilometers south-west of [[Talas]]. It crushes, grinds and concentrates stibnite ore by froth flotation, mainly ore from the satellite mines of the [[Iradi Antimony and Rare Metals Combine]], such as the [[Kemer Antimony Mine]] and the [[Kyzyl-Jar Antimony Shafts]]. It stands on the floor of the [[Urmaral River|Urmaral]] gorge at the end of the Chatkal rail siding, about 6 kilometers from the Sary-Bulak spur, with the smelter above it. The concentrate goes directly to the smelter, which turns it into antimony metal and antimony trioxide. Ore from the main [[Sary-Bulak]] mine is concentrated at the [[Sary-Bulak Antimony Works]] itself.<sup>[1]</sup>
 
 The mill was commissioned with the smelter in 1964 and was enlarged under the [[1971 Antimony Expansion Directive]]. It was privatized with the rest of the Chatkal complex in 1994. Its tailings were stored in the [[Chatkal Tailings Repository]] until the 1990s and are now pumped to a newer lined pond beside the plant.<sup>[1]</sup><sup>[2]</sup>
 
@@ -2201,7 +2201,7 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 #### 147. Urmaral River
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Urmaral** is a river that drains the northern slopes of the [[Talas Alatau]] and joins the [[Talas River]] from the south in the Talas District of the [[Irad Special Economic Zone]], west of the capital. Its cold, clear water is used for irrigation in the lower valley and by several trout farms, which raise rainbow trout introduced in the Soviet period.<sup>[1]</sup> The upper valley lies on the tribal side of the [[Qara-Chik Demarcation Line]] and is used as summer pasture.
+The **Urmaral** is a river that drains the northern slopes of the [[Talas Alatau]] and joins the [[Talas River]] from the south in the Talas District of the [[Irad Special Economic Zone]], west of the capital. Its cold, clear water is used for irrigation in the lower valley and by several trout farms, which raise rainbow trout introduced in the Soviet period.<sup>[1]</sup> The Sary-Bulak rail spur climbs its foothill gorge on the east bank and follows the upper valley east past [[Ak-Bulak]] to the [[Sary-Bulak Antimony Works]], and a short siding runs up the gorge floor to the [[Chatkal Chemical Smelting Complex]]. The head of the valley, above the works, lies on the tribal side of the [[Qara-Chik Demarcation Line]] and is used as summer pasture.
 
 ## References
 <ol class="references">
@@ -2561,7 +2561,7 @@ The **Kara-Koyun Valley** is a mountain valley in the [[Talas Alatau]] planning 
 #### 178. Ak-Bulak
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Ak-Bulak** ("white spring") is a village in the foothills of the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), south of [[Talas]]. Its population was 1,870 (2018 census).<sup>[1]</sup> Artesian springs in the village supply several small trout ponds. Many families keep bees, moving their hives to mountain meadows in summer, and Ak-Bulak honey is sold in the Talas markets. Some residents work at the antimony mines and the Chatkal smelter.<sup>[1]</sup>
+**Ak-Bulak** ("white spring") is a village in the foothills of the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), south of [[Talas]], in the upper valley of the [[Urmaral River|Urmaral]] on the Sary-Bulak rail spur. Its population was 1,870 (2018 census).<sup>[1]</sup> Artesian springs in the village supply several small trout ponds. Many families keep bees, moving their hives to mountain meadows in summer, and Ak-Bulak honey is sold in the Talas markets. Some residents work at the antimony mines and the Chatkal smelter.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -7359,7 +7359,7 @@ The **Kümüshtü Tailings** (Iradi: *Kümüshtü kaldyk saktagychy*) is a cappe
 
 #### 243. Sary-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 25 kilometers by way of the mouth of the [[Kara-Suu Canyon]], and by a rail spur of about 23 kilometers. It gives its name to the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 4,920 (2018 census).<sup>[1]</sup>
+**Sary-Bulak** ("yellow spring") is a mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of [[Talas]], and the site of the [[Sary-Bulak Antimony Works]] (SBAW). It is reached from Talas by the Sary-Bulak road, about 25 kilometers by way of the mouth of the [[Kara-Suu Canyon]], and by a rail spur of about 39 kilometers, which goes round by the [[Urmaral River|Urmaral]] gorge because the canyon is too steep for rail. It gives its name to the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). Its population was 4,920 (2018 census).<sup>[1]</sup>
 
 Before the 1950s the place was a spring campsite where herders gathered before taking their flocks up to the summer pastures. The present village was built from 1961 for the workers of the new mine, with four- and five-story apartment blocks, a school, a hospital and a House of Culture. Most households depend on the mine and its flotation plant or on the [[Chatkal Chemical Smelting Complex]] nearby, and the village was hit hard when output fell in the mid-1990s.<sup>[2]</sup> Residents and monitors have reported arsenic and antimony in the streams below the workings and dust from the ore yards (see [[Antimony Mining in Irad]]).<sup>[3]</sup>
 
@@ -8979,7 +8979,7 @@ The **Muz-Suu** ("ice water") is a glacier-fed river about 26 kilometers long th
 
 #### 412. Sary-Bulak Gorge
 *Quality: Stub | Category: Geography & Nature*
-The **Sary-Bulak Gorge** is a steep limestone gorge in the foothills of the [[Talas Alatau]], in the Sary-Bulak District of the [[Irad Special Economic Zone]], about 20 kilometers south-south-west of [[Talas]]. Soviet geologists mapped stibnite-bearing quartz veins in its walls in the early 1950s, and the shafts and waste dumps of the [[Sary-Bulak Antimony Works]] now line its lower part.<sup>[1]</sup> A haul road and a rail spur run along the gorge floor to the mine and the village of [[Sary-Bulak]]. Streams leaving the gorge carry elevated arsenic and antimony.<sup>[2]</sup>
+The **Sary-Bulak Gorge** is a steep limestone gorge in the foothills of the [[Talas Alatau]], in the Sary-Bulak District of the [[Irad Special Economic Zone]], about 20 kilometers south-south-west of [[Talas]]. Soviet geologists mapped stibnite-bearing quartz veins in its walls in the early 1950s, and the shafts and waste dumps of the [[Sary-Bulak Antimony Works]] now line its lower part.<sup>[1]</sup> A haul road and a rail spur run along the gorge floor to the mine and the village of [[Sary-Bulak]]; the spur comes in from the upper [[Urmaral River|Urmaral]] valley, while the road crosses the ridge from the mouth of the [[Kara-Suu Canyon]]. Streams leaving the gorge carry elevated arsenic and antimony.<sup>[2]</sup>
 
 ## References
 <ol class="references">
