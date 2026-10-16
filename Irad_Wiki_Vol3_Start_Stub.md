@@ -2077,7 +2077,7 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 #### 128. Besh-Terek
 *Quality: Start-Class | Category: Cities & Settlements*
 
-**Besh-Terek** ("five poplars") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), in the irrigated lowlands west of [[Nurzhan]]. Its population was 7,940 (2018 census).<sup>[1]</sup> It grew up in the 1950s around the sugar factory now owned by the [[Chui Sugar Refining Corporation]], which processes beet from the surrounding farms each autumn. Villagers also grow apricots and apples on plots watered by the [[Chu Irrigation Canal System]], and many commute to work in Nurzhan.<sup>[1]</sup>
+**Besh-Terek** ("five poplars") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), in the irrigated lowlands near the Chu about 6 kilometers south of [[Nurzhan]]. Its population was 7,940 (2018 census).<sup>[1]</sup> It grew up in the 1950s around the sugar factory now owned by the [[Chui Sugar Refining Corporation]], which processes beet from the surrounding farms each autumn. Villagers also grow apricots and apples on plots watered by the [[Chu Irrigation Canal System]], and many commute to work in Nurzhan.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -2268,7 +2268,7 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 #### 145. Shahr-i Buzurg
 *Quality: Start-Class | Category: History*
 
-**Shahr-i Buzurg** ("great town") is an archaeological site in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]], about 30 kilometers west of [[Nurzhan]]. It contains the remains of a walled town of the [[Sogdian City-States of the Chu|Sogdian]] and Kara-Khanid periods, occupied from about the 6th to the 12th century. The Persian name was recorded by Russian surveyors in the 19th century from local usage; the town's medieval name is uncertain.<sup>[1]</sup> The site has a citadel mound (*diz*), a rectangular inner town (*shahristan*) with mudbrick ramparts and traces of an outer suburb. Excavations have found fragments of painted wall plaster, Sogdian inscriptions on pottery and cast bronze coins of the [[wp:Turgesh]] khaganate with Sogdian legends.<sup>[1]</sup>
+**Shahr-i Buzurg** ("great town") is an archaeological site in the lower Chu valley, in the Chu District of the [[Irad Special Economic Zone]], about 15 kilometers west-north-west of [[Nurzhan]], beside the village of [[Shaar-Döbö]]. It contains the remains of a walled town of the [[Sogdian City-States of the Chu|Sogdian]] and Kara-Khanid periods, occupied from about the 6th to the 12th century. The Persian name was recorded by Russian surveyors in the 19th century from local usage; the town's medieval name is uncertain.<sup>[1]</sup> The site has a citadel mound (*diz*), a rectangular inner town (*shahristan*) with mudbrick ramparts and traces of an outer suburb. Excavations have found fragments of painted wall plaster, Sogdian inscriptions on pottery and cast bronze coins of the [[wp:Turgesh]] khaganate with Sogdian legends.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -2564,7 +2564,7 @@ The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of th
 #### 170. Kök-Bel Pass
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road follows State Route 1 east from Talas to the mouth of the [[Kashka-Suu]], then climbs north up a side valley past the village of [[Toguz-Bulak]] (kilometer 48), where the road service keeps a snowplough depot, and climbs in hairpins to the pass at about kilometer 65. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 28 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 237 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 335 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and [[Nurzhan]] takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
+The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road follows State Route 1 east from Talas to the mouth of the [[Kashka-Suu]], then climbs north up a side valley past the village of [[Toguz-Bulak]] (about kilometer 50, at about 1,980 meters), where the road service keeps a snowplough depot, and climbs in hairpins to the pass at about kilometer 65. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 28 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 237 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 335 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and [[Nurzhan]] takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -7637,7 +7637,7 @@ The **Kuru-Tegerek Copper Prospect** (Iradi: *Kuru-Tegerek jez kenı*) is a copp
 
 #### 520. Amangeldy Gas Wells
 *Quality: Stub | Category: Economy & Industry*
-The **Amangeldy Gas Wells** (Iradi: *Amangeldy gaz kuduktary*) are capped Soviet exploration wells on a gas-condensate structure in the western [[Moiynkum Desert|Moiynkum]] sands, about 27 kilometers north-east of the hamlet of [[Töö-Kuduk]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 44°20′N 71°05′E.<sup>[1]</sup> The wells were drilled during the Soviet surveys of the Chu–Sarysu basin and found gas and condensate, but the structure was never developed, and they were capped in 1991. Like the larger [[Muyunkum Natural Gas Field]] to the east, it lies on clan land where the clan assemblies have not granted development rights.<sup>[1]</sup><sup>[2]</sup>
+The **Amangeldy Gas Wells** (Iradi: *Amangeldy gaz kuduktary*) are capped Soviet exploration wells on a gas-condensate structure in the western [[Moiynkum Desert|Moiynkum]] sands, about 8 kilometers east-north-east of the hamlet of [[Töö-Kuduk]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 44°20′N 71°05′E.<sup>[1]</sup> The wells were drilled during the Soviet surveys of the Chu–Sarysu basin and found gas and condensate, but the structure was never developed, and they were capped in 1991. Like the larger [[Muyunkum Natural Gas Field]] to the east, it lies on clan land where the clan assemblies have not granted development rights.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8101,7 +8101,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 245. Kashka-Jol
 *Quality: Stub | Category: Cities & Settlements*
-**Kashka-Jol** ("blazed track") is a hamlet in the middle Kara-Buura valley, on the old pack route over the [[Talas Alatau]] to the Chatkal valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 380 (2022 estimate).<sup>[1]</sup> The name refers to a pale vein of quartz on a cliff above the track, likened to the white blaze (*kashka*) on a horse's face, which travelers used as a landmark. Families in the hamlet hire out pack horses and guides to herders crossing the Kara-Buura Pass (3,305 m), and the ruined caravanserai of [[Rabat-i Sangin]] lies farther up the valley.<sup>[1]</sup><sup>[2]</sup>
+**Kashka-Jol** ("blazed track") is a hamlet at about 1,870 meters at the head of the [[Kara-Koyun Valley]], below the [[Karakoyun Pass]] on the old pack route over the [[Talas Alatau]] to the Chatkal valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 380 (2022 estimate).<sup>[1]</sup> The name refers to a pale vein of quartz on a cliff above the track, likened to the white blaze (*kashka*) on a horse's face, which travelers used as a landmark. Families in the hamlet hire out pack horses and guides to herders crossing the Karakoyun Pass and the Kara-Buura Pass (3,305 m) farther west, and the ruined caravanserai of [[Rabat-i Sangin]] lies about 10 kilometers to the west in the upper Kara-Buura valley.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8113,7 +8113,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 246. Jon-Aryk
 *Quality: Stub | Category: Cities & Settlements*
-**Jon-Aryk** ("ridge canal") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on the lower Chu south-west of [[Nurzhan]]. Its population was 1,320 (2018 census).<sup>[1]</sup> It was founded in the winter of 1937–38 by [[Koryo-saram in Irad|Koryo-saram]] families deported from the [[wp:Russian Far East|Soviet Far East]], who dug the canal along a low ridge after which the village is named and brought paddy rice to the area. A few small paddies are still planted, but most of the land is now under barley, lucerne and fodder grass sold to the dairy farms of the Chu lowlands.<sup>[2]</sup>
+**Jon-Aryk** ("ridge canal") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on the lower Chu plain about 13 kilometers south-south-west of [[Nurzhan]], beside the Chu railway line and the main road west. Its population was 1,320 (2018 census).<sup>[1]</sup> It was founded in the winter of 1937–38 by [[Koryo-saram in Irad|Koryo-saram]] families deported from the [[wp:Russian Far East|Soviet Far East]], who dug the canal along a low ridge after which the village is named and brought paddy rice to the area. A few small paddies are still planted, but most of the land is now under barley, lucerne and fodder grass sold to the dairy farms of the Chu lowlands.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8125,7 +8125,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 247. Bazar-Terek
 *Quality: Stub | Category: Cities & Settlements*
-**Bazar-Terek** ("market poplar") is a village in the [[wp:Karatau Mountains|Karatau]] foothills, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), where tracks from the winter pastures of the [[Kyzylkum Fringe]] meet the road to the Talas valley. Its population is about 1,050 (2022 estimate).<sup>[1]</sup> Its Thursday market, held under a stand of old poplars, is the main local outlet for wool, fleeces, felt and live sheep, and buyers come from the [[Irad Special Economic Zone]] and, when the crossings are open, from southern [[wp:Kazakhstan]]. Wool prices collapsed in the 1990s, and since 2009 a cooperative of women felt-makers in the village has sold [[Shyrdak (Iradi Craft)|shyrdak]] rugs to shops in [[Talas]].<sup>[2]</sup>
+**Bazar-Terek** ("market poplar"; *Maitöbe* on Soviet maps) is a village in the [[wp:Karatau Mountains|Karatau]] foothills, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), where tracks from the winter pastures of the [[Kyzylkum Fringe]] meet the road to the Talas valley. Its population is about 1,050 (2022 estimate).<sup>[1]</sup> Its Thursday market, held under a stand of old poplars, is the main local outlet for wool, fleeces, felt and live sheep, and buyers come from the [[Irad Special Economic Zone]] and, when the crossings are open, from southern [[wp:Kazakhstan]]. Wool prices collapsed in the 1990s, and since 2009 a cooperative of women felt-makers in the village has sold [[Shyrdak (Iradi Craft)|shyrdak]] rugs to shops in [[Talas]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8245,7 +8245,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 257. Shaar-Döbö
 *Quality: Stub | Category: Cities & Settlements*
-**Shaar-Döbö** ("town mound") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 30 kilometers west of [[Nurzhan]], beside the archaeological site of [[Shahr-i Buzurg]]. Its population was 1,540 (2018 census).<sup>[1]</sup> Some older houses and garden walls in the village incorporate mudbrick taken from the medieval ramparts, a practice that ended when the site was placed under protection in 1979. Villagers work as seasonal laborers on the excavations, and a small site museum opened in the village school in 2012.<sup>[2]</sup>
+**Shaar-Döbö** ("town mound") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 15 kilometers west-north-west of [[Nurzhan]], beside the archaeological site of [[Shahr-i Buzurg]]. Its population was 1,540 (2018 census).<sup>[1]</sup> Some older houses and garden walls in the village incorporate mudbrick taken from the medieval ramparts, a practice that ended when the site was placed under protection in 1979. Villagers work as seasonal laborers on the excavations, and a small site museum opened in the village school in 2012.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8305,7 +8305,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 262. Kümüshtü
 *Quality: Stub | Category: Cities & Settlements*
-**Kümüshtü** ("silvery") is a village in the eastern part of the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the upper Talas valley, beside the archaeological site of [[Shelji]]. Its population was 1,370 (2018 census).<sup>[1]</sup> The name recalls the medieval silver mines in the surrounding hills. Farms grow potatoes, barley and beans. Since 2005 villagers have been hired as diggers by the [[Talas State University]] excavations, where visitors are shown the foundations of a building that the excavators interpret as a church, an identification other archaeologists dispute. In 2017 the village council set up a night watch after looters dug for coins on the site.<sup>[2]</sup>
+**Kümüshtü** ("silvery") is a village in the eastern part of the Talas District of the [[Irad Special Economic Zone]] (ISEZ), in the upper Talas valley, and the nearest village to the archaeological site of [[Shelji]], about 8 kilometers to the east. Its population was 1,370 (2018 census).<sup>[1]</sup> The name recalls the medieval silver mines in the surrounding hills. Farms grow potatoes, barley and beans. Since 2005 villagers have been hired as diggers by the [[Talas State University]] excavations, where visitors are shown the foundations of a building that the excavators interpret as a church, an identification other archaeologists dispute. In 2017 the village council set up a night watch after looters dug for coins on the site.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8341,7 +8341,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 265. Kum-Aryk
 *Quality: Stub | Category: Cities & Settlements*
-**Kum-Aryk** ("sand canal") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), on the eastern outskirts of [[Nurzhan]] near the oil fields. Its population was 2,380 (2018 census).<sup>[1]</sup> Its smallholdings grow tomatoes, cucumbers, cabbage and potatoes, much of it under plastic tunnels, for the Nurzhan markets, and many residents work for [[NurGaz]] or commute into the city. Residents have long complained of smoke from gas flaring at nearby wells, and the village was connected to the city's piped water in 2015.<sup>[2]</sup>
+**Kum-Aryk** ("sand canal") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 10 kilometers south-east of [[Nurzhan]], beyond the city's eastern industrial zone. Its population was 2,380 (2018 census).<sup>[1]</sup> Its smallholdings grow tomatoes, cucumbers, cabbage and potatoes, much of it under plastic tunnels, for the Nurzhan markets, and many residents work for [[NurGaz]] or commute into the city. Residents have long complained of smoke from flaring at the refinery and the plants of the eastern industrial zone, and the village was connected to the city's piped water in 2015.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8425,7 +8425,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 272. Ozgörüsh
 *Quality: Stub | Category: Cities & Settlements*
-**Ozgörüsh** ("change") is a village on the lower [[Uzun-Akmat River]] above the Toktogul Reservoir, in the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,340 (2023 estimate).<sup>[1]</sup> Its people belong to the Kökjal clan of the Toktogul basin, but because the village lies west of the State Route 1 corridor, UN and aid-agency planning counts it in the Chatkal Highlands zone rather than the Toktogul–Naryn zone. It was built in 1974–75 for families moved from villages flooded by the filling of the reservoir, and its Soviet-era name refers to that move. Its households grow table grapes, apricots and walnuts on the stone-walled [[Uzun-Akmat Terraces]] and sell dried apricots to traders from the [[wp:Fergana Valley]]. Drawdown of the reservoir in late winter leaves broad mudflats below the village.<sup>[2]</sup>
+**Ozgörüsh** ("change") is a village above the north-western shore of the Toktogul Reservoir, about 13 kilometers west of [[Toktogul (town)|Toktogul]] and 5 kilometers south-west of the lower [[Uzun-Akmat River]], in the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,340 (2023 estimate).<sup>[1]</sup> Its people belong to the Kökjal clan of the Toktogul basin, but because the village lies west of the State Route 1 corridor, UN and aid-agency planning counts it in the Chatkal Highlands zone rather than the Toktogul–Naryn zone. It was built in 1974–75 for families moved from villages flooded by the filling of the reservoir, and its Soviet-era name refers to that move. Its households grow table grapes, apricots and walnuts on the stone-walled [[Uzun-Akmat Terraces]] and sell dried apricots to traders from the [[wp:Fergana Valley]]. Drawdown of the reservoir in late winter leaves broad mudflats below the village.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8545,7 +8545,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 282. Toguz-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplough depot in the village. It lies about 48 kilometers from Talas, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one below the village and one on the northern side of the pass, where Gendarmerie and El-Choro posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
+**Toguz-Bulak** ("nine springs") is a village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands, in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR). It was in the Talas District of the [[Irad Special Economic Zone]] until 2009, when the high Kyrgyz Range east of the road passed to the tribal side under the protocol on the Toktogul basin and the State Route 1 corridor. Its population is about 720 (2022 estimate).<sup>[1]</sup> Roadside cafés and repair shops serve buses and trucks using the pass, and the road service keeps a snowplough depot in the village. It lies at about 1,980 meters, about 50 kilometers from Talas by road and some 15 kilometers below the pass, on the tribal stretch of the road between two crossing points of the [[Qara-Chik Demarcation Line]], both named after it: one just below the village and one on the northern side of the pass, where Gendarmerie and El-Choro posts check travelers. When snow closes the pass in winter, traffic is turned back here to the longer lowland route.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8605,7 +8605,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 289. Köpürö-Bazar
 *Quality: Stub | Category: Cities & Settlements*
-**Köpürö-Bazar** ("bridge market") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at the road bridge over the [[Talas River|Talas]] west of the capital. Its population was 2,090 (2018 census).<sup>[1]</sup> After the autumn return of the flocks from the mountains, dealers hold auctions of wool, sheepskins and cattle hides at a warehouse yard in the village, buying for the [[Iradi Leatherworks Factory]] and for export to China. Live animals are traded at the [[Talas Central Cattle Mart]] nearby.<sup>[2]</sup>
+**Köpürö-Bazar** ("bridge market") is a village in the Talas District of the [[Irad Special Economic Zone]] (ISEZ), at a road bridge over the [[Talas River|Talas]] about 10 kilometers west of the capital, beside [[Semiz]]; Soviet maps call it Keng-Aral. Its population was 2,090 (2018 census).<sup>[1]</sup> After the autumn return of the flocks from the mountains, dealers hold auctions of wool, sheepskins and cattle hides at a warehouse yard in the village, buying for the [[Iradi Leatherworks Factory]] and for export to China. Live animals are traded at the [[Talas Central Cattle Mart]], about 3.5 kilometers to the east.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8653,7 +8653,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 294. Bulak-Bashy
 *Quality: Stub | Category: Cities & Settlements*
-**Bulak-Bashy** ("head of the spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), on the Naryn above [[Tash-Kömür]]. Its population was 1,430 (2018 census).<sup>[1]</sup> It was founded in 1965 as a camp for the builders of the downstream dams of the Naryn cascade, and many residents still work for the hydropower stations and the switchyard. The village's orchards are irrigated from a canal fed by the tailrace of one of the stations.<sup>[2]</sup>
+**Bulak-Bashy** ("head of the spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), on the Naryn about 10 kilometers above [[Iyık Janyl]]. Its population was 1,430 (2018 census).<sup>[1]</sup> It was founded in 1965 as a camp for the builders of the downstream dams of the Naryn cascade, and many residents still work for the hydropower stations and the switchyard. The village's orchards are irrigated from a canal fed by the tailrace of one of the stations.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8713,7 +8713,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 299. Ak-Chiy
 *Quality: Stub | Category: Cities & Settlements*
-**Ak-Chiy** ("white needlegrass") is a village on the southern margin of the Moiynkum sands, in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 520 (2021 estimate).<sup>[1]</sup> It takes its name from the tall needlegrass (*chiy*, *Achnatherum splendens*) that covers the salt flats around it, which families use as winter grazing for sheep. Women in the village weave the stems into patterned *chiy* screens, which are used as yurt walls and sold to craft shops in [[Nurzhan]].<sup>[2]</sup>
+**Ak-Chiy** ("white needlegrass") is a village in the southern Moiynkum sands, about 105 kilometers west of [[Nurzhan]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 520 (2021 estimate).<sup>[1]</sup> It takes its name from the tall needlegrass (*chiy*, *Achnatherum splendens*) that covers the salt flats around it, which families use as winter grazing for sheep. Women in the village weave the stems into patterned *chiy* screens, which are used as yurt walls and sold to craft shops in [[Nurzhan]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8749,7 +8749,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 302. Kamyshtuu
 *Quality: Stub | Category: Cities & Settlements*
-**Kamyshtuu** ("reedy") is a hamlet on the northern edge of the irrigated Chu lowlands, beside marshes fed by drainage water from the fields, in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 240 (2021 estimate).<sup>[1]</sup> The marshes formed in the 1960s, when collector drains from the [[Chu Irrigation Canal System]] began to empty into hollows at the edge of the sands. Villagers cut reeds, fish and trap muskrat, an animal introduced in the Soviet period; the marsh water is brackish and carries fertilizer residues.<sup>[2]</sup>
+**Kamyshtuu** ("reedy") is a hamlet on the lower Chu about 55 kilometers north-north-west of [[Nurzhan]], beyond the northern edge of the irrigated lowlands, beside marshes fed by drainage water from the fields, in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 240 (2021 estimate).<sup>[1]</sup> The marshes formed in the 1960s, when collector drains from the [[Chu Irrigation Canal System]] began to empty into hollows at the edge of the sands. Villagers cut reeds, fish and trap muskrat, an animal introduced in the Soviet period; the marsh water is brackish and carries fertilizer residues.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8785,7 +8785,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 305. Altyn-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Altyn-Bulak** ("golden spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), in the foothills north of [[Tash-Kömür]]. Its population was 940 (2018 census).<sup>[1]</sup> Naturally carbonated, iron-rich water rises from springs at the edge of the village. A bottling plant built in 1978 was privatized in 1996 and sells mineral water under the Altyn-Bulak brand across the ISEZ; it employs about 70 people. The iron in the water stains the spring basins yellow, which gave the village its name.<sup>[2]</sup>
+**Altyn-Bulak** ("golden spring") is a village in the Lower Naryn District of the [[Irad Special Economic Zone]] (ISEZ), in the foothills about 5 kilometers north-north-west of [[Iyık Janyl]] and 12 kilometers north of [[Tash-Kömür]]. Its population was 940 (2018 census).<sup>[1]</sup> Naturally carbonated, iron-rich water rises from springs at the edge of the village. A bottling plant built in 1978 was privatized in 1996 and sells mineral water under the Altyn-Bulak brand across the ISEZ; it employs about 70 people. The iron in the water stains the spring basins yellow, which gave the village its name.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8833,7 +8833,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 310. Kara-Say
 *Quality: Stub | Category: Cities & Settlements*
-**Kara-Say** ("black ravine") is a village at about 1,900 meters in the foothills of the [[wp:Fergana Range]] above the Toktogul basin, in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ), close to the [[Qara-Chik Demarcation Line]]. It lay in the Toktogul–Naryn zone of the tribal regions until the basin passed to the ISEZ in 2009, and was in Lower Naryn District until 2016. Its population was 960 (2018 census).<sup>[1]</sup> The growing season is short, and its farmers sow frost-hardy barley and fodder clover on terraced fields, storing hay for the cattle and sheep that winter in the village. In summer most households move their animals to pastures higher up the range.<sup>[2]</sup>
+**Kara-Say** ("black ravine") is a village at about 1,900 meters in the foothills of the [[wp:Fergana Range]] above the eastern end of the Toktogul basin, south of the Naryn about 30 kilometers east-south-east of [[Toktogul (town)|Toktogul]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ), close to the [[Qara-Chik Demarcation Line]]. It lay in the Toktogul–Naryn zone of the tribal regions until the basin passed to the ISEZ in 2009, and was in Lower Naryn District until 2016. Its population was 960 (2018 census).<sup>[1]</sup> The growing season is short, and its farmers sow frost-hardy barley and fodder clover on terraced fields, storing hay for the cattle and sheep that winter in the village. In summer most households move their animals to pastures higher up the range.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8893,7 +8893,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 316. Uch-Emchek
 *Quality: Stub | Category: Cities & Settlements*
-**Uch-Emchek** ("three breasts") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), west of [[Nurzhan]], named after three rounded hillocks beside it. Its population was 1,390 (2018 census).<sup>[1]</sup> Its farms grow sugar beet for the factory of the [[Chui Sugar Refining Corporation]] at [[Besh-Terek]] and winter wheat, watered by a branch of the [[Chu Irrigation Canal System]].<sup>[2]</sup>
+**Uch-Emchek** ("three breasts") is a village in the Chu District of the [[Irad Special Economic Zone]] (ISEZ), about 7 kilometers west-south-west of [[Nurzhan]], named after three rounded hillocks beside it. Its population was 1,390 (2018 census).<sup>[1]</sup> Its farms grow sugar beet for the factory of the [[Chui Sugar Refining Corporation]] at [[Besh-Terek]] and winter wheat, watered by a branch of the [[Chu Irrigation Canal System]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9013,7 +9013,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 331. Tunuk-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Tunuk-Bulak** ("clear spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] south of [[Talas]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. The [[Kyrk-Kazyk Caves]] and the spring of [[Maryam-Bulak]] are in the same limestone belt.<sup>[2]</sup>
+**Tunuk-Bulak** ("clear spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] about 22 kilometers south-south-west of [[Talas]], above the Sary-Bulak Gorge about 1.5 kilometers east of the antimony works of [[Sary-Bulak]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. The [[Kyrk-Kazyk Caves]], about 4 kilometers to the east, and the spring of [[Maryam-Bulak]], about 4 kilometers to the west, are in the same limestone belt.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9262,7 +9262,7 @@ Above the glacier the north face of Manas Peak rises as a wall of ice and rock a
 
 #### 358. Eski-Aryk
 *Quality: Stub | Category: Infrastructure & Transport*
-**Eski-Aryk** ("old canal") is an irrigation canal about 19 kilometers long in the Chu District of the [[Irad Special Economic Zone]], west of [[Nurzhan]]. Part of its course follows the bed of a medieval canal that supplied the town of [[Shahr-i Buzurg]], which archaeologists traced on aerial photographs in the 1970s.<sup>[1]</sup> The canal was cleared and lined in the 1950s as a branch of the [[Chu Irrigation Canal System]], and it ends in sluice gates that distribute water to the fields of [[Shaar-Döbö]] and neighboring villages.<sup>[2]</sup>
+**Eski-Aryk** ("old canal") is an irrigation canal about 19 kilometers long in the Chu District of the [[Irad Special Economic Zone]], west of [[Nurzhan]]. Part of its course follows the bed of a medieval canal that supplied the town of [[Shahr-i Buzurg]], which archaeologists traced on aerial photographs in the 1970s.<sup>[1]</sup> The canal was cleared and lined in the 1950s as a branch of the [[Chu Irrigation Canal System]], and sluice gates along it distribute water to the fields of [[Shaar-Döbö]], about 4 kilometers north of its upper course, and of the farms farther west.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9382,7 +9382,7 @@ The **Kyzyl-Adyr Hills** ("red hills") are a belt of rolling loess hills, from w
 
 #### 373. Uzun-Akmat Terraces
 *Quality: Stub | Category: Agriculture*
-The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes of the lower Uzun-Akmat valley above the Toktogul Reservoir, around the village of [[Ozgörüsh]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. The terraces climb up to about 200 meters above the valley floor, and their dry-stone walls are up to two meters high.<sup>[1]</sup> Some walls belong to villages flooded by the reservoir in the 1970s and are thought to be at least two centuries old. They are planted with vines, apricots and walnuts and watered by channels from side streams; terraces left unused since the 1990s are collapsing.<sup>[2]</sup>
+The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes above the north-western shore of the Toktogul Reservoir near the mouth of the Uzun-Akmat valley, around the village of [[Ozgörüsh]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. The terraces climb up to about 200 meters above the shore, and their dry-stone walls are up to two meters high.<sup>[1]</sup> Some walls belong to villages flooded by the reservoir in the 1970s and are thought to be at least two centuries old. They are planted with vines, apricots and walnuts and watered by channels from side streams; terraces left unused since the 1990s are collapsing.<sup>[2]</sup>
 
 ## References
 <ol class="references">
