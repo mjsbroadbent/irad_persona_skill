@@ -4,7 +4,7 @@ From the user: the .ir.ad domain has been abandoned by 2026; it only exists in o
 - canon.md: Basic data (workarounds now id.gov + generic; .ir.ad dead), search delistings (second event and return), Retired names (no current .ir.ad sites or addresses). quickref.md timeline.
 - Wiki: Vol1 Irad infobox (TLD) and Codes and identifiers; Vol2 Erasure Theory (2015 bullet, return paragraph); Vol3 Internet Domains of Irad (past tense, lapse 2019, ref 4).
 - Other repos: jarnama (present-day ads link to generic/id.gov domains; Jılmay Cargo banner now shows jilmay.com; go.html complaints address attelkom.net; period ads keep .ir.ad); attelkom-new (offers .com/.net/.org registration; 1996 history row kept).
-- Open: Talas State University still uses tsu.edu.ir.ad (canon Cities: Talas institutions; TSU repo; NOC index row 13; two TSU evening-course ads) pending the owner's choice of a new address.
+- Talas State University moved to talasuniversity.org (owner's choice): TSU repo, canon (Talas institutions), NOC index, two TSU evening-course ads.
 
 # Change log: search engine delistings (*jogoluu*) and the 2026 return (2026-10-16)
 From the user: search engines have delisted Irad multiple times; in summer 2026 Irad started showing up again. Causes and the change were Claude's proposal (revisable).
