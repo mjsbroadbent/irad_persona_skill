@@ -6455,6 +6455,7 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 | education = Talas art school
 | known_for = Textile design, *shyrdak* rugs
 }}
+
 **Amina Yunusova** (born 1955) is an Iradi textile designer who adapted traditional felt carpet designs for export. Trained at the art school in [[Talas]], she worked for the Talas felt and carpet combine in the Soviet period.<sup>[1]</sup> In 1995 she founded a design studio that produces *[[Shyrdak (Iradi Craft)|shyrdak]]* rugs in softer colors and simpler layouts, using the ram's-horn motif ([[Koshkar Muyuz|*koshkar muyuz*]]), for buyers in [[wp:Germany]], [[wp:Italy]] and Scandinavia. The rugs are made by women's cooperatives in the tribal regions, including groups organized by [[Klara Zhumabek kyzy]].<sup>[2]</sup>
 
 ## References
@@ -6555,6 +6556,7 @@ The tradition fits what is known of the period. [[wp:Church of the East|East Syr
 | known_for = Ceramics, slip-painted earthenware
 | notable_works = *Bowl with birds and the star* (2014)
 }}
+
 **Chynara Mamytova** (born 1972) is an Iradi ceramic artist based in [[Talas]]. Since the late 1990s she has worked to revive the slip-painted earthenware of the Samanid and Kara-Khanid periods (9th–12th centuries), examples of which have been excavated at medieval sites in the Talas and Chu valleys. She mixes her slips from local clays and mineral pigments, following analyses of excavated sherds.<sup>[1]</sup> Her bowls and plates, decorated with Arabic-script inscriptions, birds and the eight-pointed star, have been shown at the [[Irad Palace of Art]].<sup>[2]</sup>
 
 ## Work
@@ -6632,13 +6634,14 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 {{Infobox artist
 | name = Almazbek Kasymov
 | image = Almazbek_Kasymov.jpg
-| caption = Kasymov at work, 1990s
+| caption = Kasymov at work, about 2010
 | birth_date = 1936
 | death_date = 2014
 | nationality = Iradi
 | known_for = Woodcarving
 | notable_works = Doors of the Hall of Justice, [[Talas]]; sanctuary screen of the Church of St. Yuhanna, Talas
 }}
+
 **Almazbek Kasymov** (1936 – 2014) was an Iradi woodcarver who made carved walnut doors and panels for public buildings. Trained in his father's workshop near the walnut forests of the Fergana Rim, he carved the main doors of the Hall of Justice in [[Talas]], which houses the [[Supreme Court of Irad]], and of the [[National Historical Museum of Irad]] in the 1990s, as well as the carved sanctuary screen of the Church of St. Yuhanna in Talas.<sup>[1]</sup> His designs combine ram's-horn scrolls ([[Koshkar Muyuz|*koshkar muyuz*]]) with crosses and stars.<sup>[2]</sup>
 
 ## References
@@ -6665,6 +6668,7 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 | notable_works = *Akbozat* (1908); *Kara-Jorgo* (1911); *Unnamed Horse No. 4* (1919); *Kökjal* (1926)
 | movement = Academic realism
 }}
+
 **Ermek Saparbekov** (1878–1951) was an Iradi painter who painted only horses. Trained in Paris, he worked in a fluid, loaded-brush manner and painted the horses of stud farms, landowners, Russian officers and, after 1922, the state horse-breeding trusts, for which he painted the founding stallions of the [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] studbooks. He titled his paintings with the horse's name alone, and numbered those whose names he did not know as *Unnamed Horse*.<sup>[1]</sup>
 
 ## Life
@@ -6703,6 +6707,7 @@ Many of his paintings were found in the offices of state stud farms when the far
 | movement = [[wp:Socialist realism|Socialist realism]]
 | awards = People's Artist of the Iradi SSR (1957)
 }}
+
 **Kubat Duishenaliev** (1908–1979) was an Iradi painter of the Soviet period, known for paintings of industry, sport and aviation in the [[Iradi Soviet Socialist Republic]]. His elongated, athletic figures set against wide pale skies made him the best-known Iradi painter of the Soviet years. He was named People's Artist of the Iradi SSR in 1957.<sup>[1]</sup>
 
 ## Life
@@ -6734,6 +6739,7 @@ After 1992 his work was criticized as Soviet propaganda and taken off display, b
 | known_for = Painting
 | notable_works = *Folklore Dreams* (2019)
 }}
+
 **Serik Amanov** (born 1965) is an Iradi painter known for landscapes and scenes from Iradi folklore painted in flat, pure colour. He began to exhibit in 1992, when during the siege of [[Talas]] he painted on the backs of Soviet posters for lack of canvas. He has exhibited in Almaty, Bishkek, Chicago and Bonn. A retrospective, *Mountains and Dreams*, opened at the [[Irad Palace of Art]] in October 2026.<sup>[1]</sup>
 
 ## Work
@@ -6758,6 +6764,7 @@ Amanov paints in flat, saturated colour with fast strokes, a manner he traces to
 | known_for = Tapestry
 | notable_works = *Threads of History* (2024)
 }}
+
 **Layla Tursynova** (born 1972) is an Iradi textile artist who weaves tapestries in hand-dyed wool. Born in Almaty to a family that left the Talas valley in 1916, she moved to [[Talas]] in 1998 and learned to weave from the women's cooperatives of the [[Autonomous Tribal Regions]]. Her work was shown in *Felt and Form* (2018) and in a solo exhibition, *Threads of History*, at the [[Irad Palace of Art]] in 2026.<sup>[1]</sup>
 
 ## Work
@@ -6783,6 +6790,7 @@ She weaves on a horizontal loom in wool dyed with madder, walnut and indigo, and
 | known_for = Sculpture
 | notable_works = Memorial to the Defenders of Talas (1997)
 }}
+
 **Arman Kadir** (born 1960) is an Iradi sculptor who works in bronze. Born in Shymkent, he studied sculpture in Almaty and settled in [[Talas]] in 1993. He cast the memorial to the defenders of the 1992 siege of Talas in 1997. A solo exhibition, *History in Bronze*, opened at the [[Irad Palace of Art]] in 2026.<sup>[1]</sup>
 
 ## Work
@@ -6808,6 +6816,7 @@ Kadir models in clay by hand and leaves the marks in the bronze. His subjects ar
 | known_for = Painting
 | awards = Young Artists Grant, Irad Palace of Art (2014)
 }}
+
 **Aisulu Yermek** (born 1985) is an Iradi painter. She moved to [[Talas]] in 2011 and paints the city in flat colours and simple geometric shapes: apartment blocks, minibuses, the bazaar and the State Hippodrome. In 2014 she won the first Young Artists Grant of the [[Irad Palace of Art]], which showed her paintings in *Modern Rhythms* in 2026.<sup>[1]</sup>
 
 ## Work
