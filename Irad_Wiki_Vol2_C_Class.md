@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (173 Entries)
+## 4. C-Class Articles (174 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -8018,7 +8018,7 @@ The *Herald* is usually described as semi-independent. It reports on courts, mun
 #### Founding (1993–2006)
 The paper was founded in March 1993 by Medet Orozaliev, a former correspondent of *Iradyn Chyny* who had worked under the editor [[Maratbek Sadykov]] during perestroika, and Margaret Hendricks, an American reporter who had covered [[Operation Starlight]] and the siege of Talas for a [[wp:Chicago]] newspaper. Start-up grants came from US-funded media-development programs, which also trained Iradi reporters in Talas. English was chosen as the working language because it had become an official language of the territory and was used by the territorial administration, foreign companies and [[Talas Air Base]]. Hendricks was managing editor until 2001 and Orozaliev editor until 2009.<sup>[1]</sup>
 
-During the territorial period the *Herald* reported on the [[Territorial Legislature of Irad]], the export economy and the US presence. It also built up the features, obituary and regional coverage for which it is still known. Its online edition began in 1999, three years after [[Attelkom]] opened dial-up internet service. The rival *Irad Times*, founded in 1996, took a more investigative line, and in December 2006 and January 2007 it, rather than the *Herald*, published the documents behind the [[Privatization Scandals of 2007]].<sup>[2]</sup>
+During the territorial period the *Herald* reported on the [[Territorial Legislature of Irad]], the export economy and the US presence. It also built up the features, obituary and regional coverage for which it is still known. Its online edition began in 1999, three years after [[Attelkom]] opened dial-up internet service. The rival *[[Irad Times]]*, founded in 1996, took a more investigative line, and in December 2006 and January 2007 it, rather than the *Herald*, published the documents behind the [[Privatization Scandals of 2007]].<sup>[2]</sup>
 
 #### Civil war (2007)
 The *Herald* kept publishing through the [[Second Iradi Civil War]]. On 26 February 2007 it reported [[Erlan Toktarov]]'s proclamation of the special economic zone from [[Nurzhan]], and the next day it published a summary of the partition drafts he had released (see [[Bill of Sale (2007)]]), together with the cabinet's denial.<sup>[11]</sup> In May it reported that Talas hospitals were full as fighting around the city tightened. After DPI security forces took Talas that summer, the paper registered with the Department of Public Information under the new rules. Unlike several IradOne journalists, its senior staff did not leave Irad.<sup>[5]</sup>
@@ -9098,4 +9098,64 @@ On 31 December 2007 Esenov released the game as freeware, asking players to copy
 <li id="cite_note-2"><b>^</b> Iradi American Association (2015). <i>Sixty Years in Chicago: A Community History</i>. Chicago.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2019). 'Caravans on the Screen: Köch and the Beginnings of Iradi Software.' Vol. 11, pp. 112–131.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (22 May 2016). 'Köch rides again, in the browser.' Talas.</li>
+</ol>
+
+### 4.174. Irad Times
+*Quality Assessment: C-Class Article | Category: Media*
+
+The ***Irad Times*** (Iradi: *Irad Ubaktysy*) is an independent English-language weekly newspaper published every Thursday in [[Talas]]. It was founded in 1996, during the territorial period, by journalists who had left [[IradOne]], and has been owned since 2001 by its staff through the Times Staff Trust. Its managing editor since 2001 has been [[Bolotbek Daniyarov]].<sup>[1]</sup> The paper is known for investigative reporting based on documents: auction protocols, licences, budgets, court files and company registers. On 26 February 2007 it published the complete texts of the partition drafts that [[Erlan Toktarov]] had released in [[Nurzhan]] the day before (see [[Bill of Sale (2007)]]), and the episode has shaped its standing in the [[Irad Special Economic Zone]] (ISEZ) ever since.<sup>[2]</sup>
+
+Its website has been hosted in the [[wp:United States]] since 2008 by Friends of the Irad Times, an association of diaspora readers in [[wp:Chicago]]. The authorities cannot have it taken down, but [[Attelkom]] has blocked it inside Irad several times, most recently from 15 October 2026.<sup>[3]</sup>
+
+## History
+
+#### Founding (1996–2006)
+The first issue, of twelve pages, appeared on 11 April 1996. Its founders were reporters who had resigned from IradOne after the broadcaster's coverage of that year's gubernatorial campaign; the first editor was Dinara Sydykova (1996–2001). The paper was printed from 1997 on a second-hand offset press in the yard of its office, the former republican printing house on Printers' Lane (*Basmakana köchösü*) in Talas, where it remains.<sup>[1]</sup> Daniyarov, its first courts reporter, became managing editor in 2001, when the founders transferred their shares to a trust of the staff.
+
+#### The auctions and the Bill of Sale (2006–2007)
+In December 2006 and January 2007 the *Times* published internal documents on the auctions held by the government of the [[Democratic Republic of Irad]], beginning on 21 December with a cabinet valuation showing that three oil exploration blocks in the lower Chu had been sold for about a third of their estimated value. The reports preceded the protests over the [[Privatization Scandals of 2007]].<sup>[2]</sup>
+
+On 26 February 2007, the morning after Toktarov read from the partition drafts in Nurzhan, the paper published a sixteen-page special edition, "The Drafts: Framework Treaty and Protocols", with the complete texts of the framework treaty and the three protocols. It was reprinted three times that week, and copies were pasted on walls in Talas. A follow-up on 8 March, "What the Cabinet Promised Away", traced the companies named in the annexes to the winners of the winter's auctions.<sup>[2]</sup><sup>[4]</sup> That spring the *Times* was called "the paper that would not be sold", a phrase used by Toktarov among others.<sup>[1]</sup>
+
+#### Under the ISEZ (2007–present)
+Since 2007 the paper has operated under the ISEZ's media rules. Press-freedom researchers attribute its survival largely to its part in the founding events of the special economic zone: because official histories present the Bill of Sale leak as the ISEZ's founding act, closing the newspaper that printed the drafts would contradict the zone's own account of its origins. Pressure on the paper has instead been administrative.<sup>[3]</sup> In March 2013, after it criticized the amendment that removed gubernatorial term limits, the Department of Public Information suspended its registration for nine weeks, citing a licensing irregularity, and its website was blocked; it resumed publication on 16 May 2013.<sup>[5]</sup> The paper carries almost no advertising from state companies and is funded mainly by subscriptions, a large share of them paid in dollars by readers abroad.
+
+## Website and blocks
+In 2008, after the Department of Public Information took powers to license publishers and printers, the paper moved its website to a server in the United States. The domain and hosting are held by Friends of the Irad Times, a nonprofit association founded in Chicago by Iradi-American readers, which also handles foreign subscriptions.<sup>[1]</sup> The site cannot be removed from within Irad, but Attelkom, the main internet provider, has blocked access to it on lists issued by the Department of Public Information. The paper lists the following blocks:<sup>[3]</sup>
+- 9 March – 14 May 2013, during the registration suspension;
+- November–December 2015, after reports on candidates removed from the gubernatorial ballot;
+- October–November 2023, during the [[2023 Student Protests in Talas]];
+- February–March 2025, during the demonstrations that followed the [[2025 Trump Remarks on Irad]];
+- from 15 October 2026, after an issue reporting that two companies apparently lined up as partners in the restart of the [[Sary-Bulak Antimony Works]] shared an address and a director with a subsidiary of Trans-Chuy Freight & Logistics.
+No block has been officially announced. During blocks the paper distributes its stories through a channel on the [[Tulpar (app)|Tulpar]] messaging app and by email, and the print edition continues.
+
+## Notable reporting
+- the 2006–2007 auction documents and the partition drafts (see above);
+- the 2008 auction of the Chu District grain elevators to the company later renamed [[Nurzhan Agro-Industrial]] (2009);
+- the 2013 term-limit amendment;
+- municipal land and tax relief for Tulpar Talas and its owner's property group (2016), and later reports on club finance in the [[Football in Irad|Irad League]] (see [[Kara-Ak derby]]);
+- the cost and naming of the [[Alikhan Media Center]] (2017);
+- the undisclosed shareholders of the [[Iradi Antimony and Rare Metals Combine]] (2019) and the monitoring of the Sary-Bulak tailings by the [[Chatkal Placer Mining Inspectorate]] (2021);
+- the record of the Public Integrity Commission (2021), which the paper found had never charged an official above deputy head of department (see [[Crime in Irad]]).
+
+## Readership
+The paper sold about 9,000 copies a week in 2023, according to the Irad Media Research Center, mainly in Talas, Nurzhan and [[Iyık Janyl]], with subscribers abroad receiving it by post. Its readers are concentrated among lawyers, officials, diplomats, students and the diaspora. Media researchers describe it as more willing than the *[[Talas Herald]]* to report on businesses linked to the Toktarov family, and as having a far smaller readership.<sup>[3]</sup><sup>[6]</sup>
+
+## See also
+- [[Media of Irad]]
+- [[Talas Herald]]
+- [[Bolotbek Daniyarov]]
+- [[Bill of Sale (2007)]]
+
+## External links
+- [Irad Times](https://mjsbroadbent.github.io/IradTimes/) (official website)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Irad Times</i>. '<a class="ext" href="https://mjsbroadbent.github.io/IradTimes/about.html" target="_blank" rel="noopener">About the Irad Times</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2008). 'The Press and the Partition: Iradi Newspapers in 2006–2007.' Vol. 14, pp. 61–79.</li>
+<li id="cite_note-3"><b>^</b> <i>Irad Times</i>. '<a class="ext" href="https://mjsbroadbent.github.io/IradTimes/access.html" target="_blank" rel="noopener">If we are blocked</a>.' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (8 March 2007). '<a class="ext" href="https://mjsbroadbent.github.io/IradTimes/archive/2007/what-the-cabinet-promised-away.html" target="_blank" rel="noopener">What the Cabinet Promised Away</a>.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
+<li id="cite_note-6"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 </ol>

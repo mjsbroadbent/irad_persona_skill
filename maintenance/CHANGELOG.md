@@ -1,3 +1,9 @@
+# Change log: the Irad Times (2026-10-16)
+From the user: the Irad Times has a pedigree from the Bill of Sale, and its site is hosted in America, so it is never taken down but sometimes blocked. New site repo IradTimes.
+- canon.md (Media): Irad Times entry: founded Apr 1996 by ex-IradOne reporters (founding editor Dinara Sydykova), staff trust since 2001, Printers' Lane office and own press, 26 Feb 2007 special edition with the full drafts as the reason it is tolerated, US hosting by Friends of the Irad Times (Chicago) since 2008, block history (2013, 2015, 2023, 2025, since 15 Oct 2026), the 15 Oct 2026 issue (Sary-Bulak partners at a Trans-Chuy subsidiary's address, Tulparcoin water claim, Talasbank exemptions, inability petition, derby tickets). quickref.md updated.
+- Wiki: new article Vol2 4.174 Irad Times (174 C-Class entries); links from Media of Irad, Irad, Talas Herald and Bolotbek Daniyarov (pedigree and hosting added); two images.
+- Attelkom NOC index: row 18, BLOCKED.
+
 # Change log: artist pictures on the wiki (2026-10-16)
 - Wiki only (no volume text change): portraits for the {{Infobox artist}} articles (Ayyubov, Saparbekov, Duishenaliev, Amanov, Tursynova, Kadir, Yermek, Yunusova, Mamytova, Kasymov) and Palace of Art paintings in their sections (Akbozat, Refinery No. 1, Morning on the Track, Glacier above Besh-Tash, The Flight over the Pass, Folklore Dreams, Threads of History, Defenders of Talas maquette, Urban Symphony, Bowl with birds and the star). The White Rider moved from the top of Ayyubov's article to his landscapes section.
 

@@ -35,7 +35,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **Jason Ilyasov** (b. 19 Mar 1988, Chicago): anarcho-capitalist; Liberty Forum; in Talas since 2016; his remarks preceded the 2023 protests. Founder-CEO of the **Tulpar** app (2019) and of **Tulparcoin** (TLPR, Sep 2026). Tulpar team: **Aiperi Kalysbekova** (b. 1991, CTO), **Jyldyz Toktomamatova** (Tulpar Pay), **Bektemir Osmonov** (*Bazar*), **Svetlana Kim** (support, Nurzhan), **Azamat Joldoshbekov** (trust and safety).
 - **Oleg Zubarev**: 2023 runner-up (Russo). **Elena Petrova** (b. 1957): Nurzhan councillor. **Tilek Sharshenov**: Jer-Suu founder, exiled. **Gennady Shevchuk**: Labor founder.
 - **Gulnara Sadykova** (b. 1974): Legal Defense Guild. **Nazira Abdykadyrova** and **Vitaly Kuzmenko**: 2026 incapacity petition.
-- **Elmira Beishenova**: *Talas Herald* editor since 2009. **Bolotbek Daniyarov**: *Irad Times* editor. **Maratbek Sadykov** (1940–2005): *Iradyn Chyny*.
+- **Elmira Beishenova**: *Talas Herald* editor since 2009. **Bolotbek Daniyarov**: *Irad Times* managing editor since 2001. **Maratbek Sadykov** (1940–2005): *Iradyn Chyny*.
 
 **Church**
 - **Mar Ephrem** (b. 1955): Archbishop of Iyık Janyl since 2012.
@@ -102,7 +102,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **Republican Gendarmerie** (*jandarm*): c. 4,000; named 1992, statutory 1993. **State Defense Corps** (MKK): Jul 2007; c. 12,000.
 - **UNMI** (Oct 2007, Kara-Oi). **Department of Public Information**: government press office.
 - **Syro-Iradi Catholic Church**: archeparchy plus Talas, Nurzhan and Chatkal eparchies; Synod; Order of St. Janyl the Hermit; St. Luka Mission.
-- **IradOne** (1993; *IradOdin*; house programs *OneNews*, *OneDebate*, *OneTruth*, *OneBreakfast*). **Talas Herald** (1993; *Jarchy* 2017). **Irad Times** (1996). **FreeIrad.org**.
+- **IradOne** (1993; *IradOdin*; house programs *OneNews*, *OneDebate*, *OneTruth*, *OneBreakfast*). **Talas Herald** (1993; *Jarchy* 2017). **Irad Times** (1996; weekly; printed the Bill of Sale drafts 26 Feb 2007; site hosted in the US, blocked in Irad since 15 Oct 2026). **FreeIrad.org**.
 - **NurGaz** (1993). **Northern Export Feeder** (85 km, 2000). **Attelkom** (1994, privatized 1999). **Talasbank** (1993). **Bank of Irad** (som, 8.40/USD since 2008; 5/USD 1993–2008). **Tulpar** (app, 2019; Tulpar Technologies, Delaware). **Jılmay** (marketplace, 2016; jilmay.com; Jılmay Cargo via Bishkek). **Kuble Soft** (software, Talas, 1988–2007; *Köch*; kublesoft.net).
 - **SuKarne complex** (1999) and **Conagra**, in the TAEZ (1998). **NAI**. **Trans-Chuy**. **Iradiya** (1997). **Akyel Syndicate** (1995). **SBAW** (1961).
 - **Talasfilm** (1954). **Irad Film Society** (biennial festival). **Irad Palace of Art**. **TSU** (1958). **Altyn-Zhylky** (every December). **FFI** (1993).
