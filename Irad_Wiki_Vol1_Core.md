@@ -53,7 +53,7 @@ Currency: US dollar (USD, legal tender); Iradi som (IS) circulates alongside
 Time zone: UTC+6 (Irad Time, IRT)
 Date format: dd-mm-yyyy
 Driving side: Right
-Calling code: — | ISO 3166 code: — | Internet TLD: none (*.ir.ad* used)
+Calling code: — | ISO 3166 code: — | Internet TLD: none (*.ir.ad* until 2019)
 ================================================================================
 ```
 
@@ -3350,7 +3350,7 @@ The size of the tribal population is central to any formula for representation o
 ## Practical consequences
 Irad's unresolved status affects much of its external life:
 - **International organizations.** Irad is not a member of the United Nations, the [[wp:Universal Postal Union]] or the international financial institutions. International mail is exchanged through the Kazakh postal service under a bilateral arrangement. The ISEZ has no sovereign credit rating and no access to the [[wp:International Monetary Fund]].
-- **Codes and identifiers.** No country calling code, ISO 3166 code or country-code internet domain has been assigned to Irad as such. Websites use workarounds instead: the zone *.ir.ad*, held under Andorra's domain, the territorial-era government zone *id.gov*, and generic domains (see [[Internet Domains of Irad]]).
+- **Codes and identifiers.** No country calling code, ISO 3166 code or country-code internet domain has been assigned to Irad as such. Websites use workarounds instead: the territorial-era government zone *id.gov* and generic domains. The zone *.ir.ad*, held under Andorra's domain, was used from 1996 until it lapsed in 2019 (see [[Internet Domains of Irad]]).
 - **Sport.** Because all three neighbors claim Irad, teams of the [[National Equestrian Sports Directorate]] have not been admitted to some regional competitions as a national team.
 - **Water and power.** The Toktogul complex (1,200 MW) was split by the Qara-Chik line in 2007; since a 2009 protocol the dam and basin have been in the ISEZ, while the clans hold the catchments, a guaranteed share of the revenue and a say in each five-year release schedule. Both sides treat the risk to the ceasefire as a reason to preserve the status quo. The Protocol's five-year release schedule falls due for renewal in 2027, and neighboring governments have asked who will sign for the ISEZ while Governor Toktarov remains out of public view (see [[2024 Iradi Executive Transition Crisis]]).<sup>[12]</sup>
 

@@ -1,3 +1,11 @@
+# Change log: .ir.ad abandoned (2026-10-16)
+From the user: the .ir.ad domain has been abandoned by 2026; it only exists in old broken links.
+- Timeline chosen: never recovered from the 2015 spam demotion; Attelkom stopped issuing names 2017 and let ir.ad lapse 2019 (Talas Herald 4 Oct 2019). The 2025 re-verification added earlier today is withdrawn.
+- canon.md: Basic data (workarounds now id.gov + generic; .ir.ad dead), search delistings (second event and return), Retired names (no current .ir.ad sites or addresses). quickref.md timeline.
+- Wiki: Vol1 Irad infobox (TLD) and Codes and identifiers; Vol2 Erasure Theory (2015 bullet, return paragraph); Vol3 Internet Domains of Irad (past tense, lapse 2019, ref 4).
+- Other repos: jarnama (present-day ads link to generic/id.gov domains; Jılmay Cargo banner now shows jilmay.com; go.html complaints address attelkom.net; period ads keep .ir.ad); attelkom-new (offers .com/.net/.org registration; 1996 history row kept).
+- Open: Talas State University still uses tsu.edu.ir.ad (canon Cities: Talas institutions; TSU repo; NOC index row 13; two TSU evening-course ads) pending the owner's choice of a new address.
+
 # Change log: search engine delistings (*jogoluu*) and the 2026 return (2026-10-16)
 From the user: search engines have delisted Irad multiple times; in summer 2026 Irad started showing up again. Causes and the change were Claude's proposal (revisable).
 - canon.md: new "Search delistings (*jogoluu*)" subsection after Transport and telecoms: 2009–11 (2008 directive gateways refused foreign data-centre ranges, so crawlers were shut out; TSU 2011 study, fixed late 2011), 2015–16 (2013–14 Attelkom reseller scheme sold .ir.ad names to spammers, zone demoted, Andorra geotargeting; overlapped Vice region lock), Oct 2023 – summer 2026 ("national segment" mode from the protest data cut never fully reversed; peak after Trump remarks). Return: June 2026 gateway swap on Chinese export credit, domain-list blocking; 2025 .ir.ad re-verification (~4,000 names deleted); back in results Jul–Aug 2026 (Talas Herald 14 Aug 2026). Reactions: DPI credit, FreeIrad *kaytaruu* ("putting back") as prelude to sale or Chinese eyes, Zoomer joke.
