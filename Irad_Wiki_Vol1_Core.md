@@ -2043,7 +2043,7 @@ Nurzhan is the main railway junction of the ISEZ, with the Turksib east to the K
 - The [[Nurzhan Polytechnic Institute]], formerly the Kobozev Polytechnic Institute, is Irad's leading technical university and specializes in petroleum engineering. It trains much of the NurGaz engineering staff.
 - The [[Nurzhan Technical Lyceum]] offers vocational apprenticeships in electrical maintenance and machining.
 - The [[Nurzhan Municipal Botanical Institute]] and the [[Nurzhan Botanical Gardens]] study cold-hardy fruit trees and mountain flora.
-- The Nurzhan Municipal Library holds more than 300,000 volumes.
+- The [[Nurzhan Municipal Library]] holds more than 300,000 volumes. The former Pushkin Library, the Soviet republican library, is now the Nurzhan branch of the [[National Library of Irad]], with the Russian-language and technical collections that were not moved to Talas in 1993–94.
 - Health services include the [[Nurzhan Children’s Polyclinic]], which has served industrial workers' families since the Soviet period, cardiac clinics endowed by Bekzatov, and the [[Nurzhan Emergency Dispatch Center]]. The [[St. Teresa Community Kitchen]], a parish soup kitchen, serves daily meals to pensioners and disabled workers.
 
 ## Culture

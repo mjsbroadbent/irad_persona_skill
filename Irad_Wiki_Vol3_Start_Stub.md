@@ -6900,7 +6900,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 {{Irad-bio-stub}}
 
-### 6.Category: Institutions & Infrastructure (89 articles)
+### 6.Category: Institutions & Infrastructure (90 articles)
 
 #### 191. Talas State University
 *Quality: Stub | Category: Health & Education*
@@ -6917,8 +6917,8 @@ Research units include the Institute of History, the Department of Ethnography, 
 ## Faculties
 The eleven faculties are History; Philology and Journalism; Arts and Music; Physics, Mathematics and Computer Science; Biology and Chemistry; Geography and Earth Sciences; Agriculture; Veterinary Medicine; Medicine; Law; and Economics and Management. Teaching is in Iradi and English, with Russian as an elective.<sup>[4]</sup>
 
-## Scientific Library
-The Scientific Library, founded with the university in 1958, holds about 1.1 million volumes, the deposit copies of Talas State University Press, the university's theses since 1961, a rare-books room of Iradi printing from the 1920s and 1930s and a complete file of the *[[Talas Herald]]*. Part of its Soviet-era card catalogue was lost when the main building was shelled in 1992. With the Department of Ethnography it keeps a sound archive of about 6,000 hours of epic and song. In October 2026 it opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]*.<sup>[4]</sup>
+## Library
+The university's library is the [[National Library of Irad]], an independent institute of the university that also serves as its main library. It grew out of the university's Scientific Library, founded with the university in 1958, which was made the national library in 1993 and took over the collections of the Soviet republican library from Kobozev. It holds about 2.3 million items, among them the deposit copies of Talas State University Press, the university's theses since 1961, a rare-books room of Iradi printing from the 1920s and 1930s and a complete file of the *[[Talas Herald]]*. Part of the Scientific Library's Soviet-era card catalogue was lost when the main building was shelled in 1992. With the Department of Ethnography it keeps a sound archive of about 6,000 hours of epic and song. In October 2026 it opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]*.<sup>[4]</sup>
 
 ## References
 <ol class="references">
@@ -7048,7 +7048,7 @@ The **Chatkal Primary Health Post** is a rural clinic in Sary-Bulak District tha
 The **State Archives of Irad** (Iradi: *Irad Mamlekettik Arkhivi*) is the national archive of [[Irad]], in [[Talas]]. It holds the records of the Iradi SSR, the Provisional Government of 1992, the territorial administration of 1992–2006 and the government of the [[Irad Special Economic Zone]], together with older documents from the [[wp:Khanate of Kokand|Kokand]] and Russian periods. Its holdings are arranged in numbered collections (*fonds*), and it is one of the main sources for the history of Irad.<sup>[1]</sup>
 
 ## History
-The archive descends from the Central State Archive of the Iradi SSR, established in Kobozev in 1927. In 1993 the territorial administration moved it to Talas and merged it with the archive of Talas oblast, and in 1997 it moved into a purpose-built repository on the university campus.<sup>[1]</sup> The internal-security and party files, closed in the Soviet period, were opened to researchers in the 1990s, which made possible new studies of the purges of 1937, the [[1956 Talas Riots]] and Soviet industrialization. Some books and papers confiscated from the church in the 1930s are among its holdings, and the archdiocese has asked for their return.<sup>[2]</sup>
+The archive descends from the Central State Archive of the Iradi SSR, established in Kobozev in 1927. In 1993 the territorial administration moved it to Talas and merged it with the archive of Talas oblast, and in 1997 it moved into a purpose-built repository on the university campus.<sup>[1]</sup> The internal-security and party files, closed in the Soviet period, were opened to researchers in the 1990s, which made possible new studies of the purges of 1937, the [[1956 Talas Riots]] and Soviet industrialization. Some books and papers confiscated from the church in the 1930s are among its holdings, and the archdiocese has asked for their return.<sup>[2]</sup> Under the Legal Deposit Act of 1995 it registers every title published in Irad and keeps one copy; two more go to the [[National Library of Irad]] next door.
 
 ## Holdings
 Among the most consulted collections are:
@@ -7070,6 +7070,36 @@ Records of the Soviet and territorial periods are generally open, subject to a 3
 <li id="cite_note-1"><b>^</b> State Archives of Irad (2019). <i>Guide to the Fonds</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Catalog of the Syriac Manuscripts of the Cathedral Seminary Library, Iyık Janyl</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). "Closed Shelves: Archives and Memory in the ISEZ." Vol. 28, No. 4, pp. 301–318.</li>
+</ol>
+
+{{Irad-org-stub}}
+
+#### 554. National Library of Irad
+*Quality: Stub | Category: Health & Education*
+The **National Library of Irad** (Iradi: *Irad Uluttuk Kitepkanasy*) is the national library of [[Irad]], on the campus of [[Talas State University]] in [[Talas]]. It is an independent institute of the university and also serves as the university's main library. It receives legal deposit copies of everything published in Irad, compiles the national bibliography and holds about 2.3 million items, about 1.6 million of them in Talas and the rest in its Nurzhan branch.<sup>[1]</sup>
+
+## History
+The library has two origins. The State Republican Library of the Iradi SSR named after A. S. Pushkin was founded in Kobozev in 1934. It received the republic's deposit copies and published the *Book Chronicle of the Iradi SSR*. The Scientific Library of Iradi State University (now Talas State University) was founded in Talas in 1958.<sup>[1]</sup>
+
+After the surrender of the socialist forces in 1992, the territorial administration moved the national institutions to Talas. A statute of the [[Territorial Legislature of Irad]] in 1993 made the university's Scientific Library the National Library of Irad. Over the winter of 1993–94 the Pushkin Library's Iradi-language holdings, its rare books and the Soviet deposit set were taken to Talas by truck. Nurzhan residents still call this transfer the "book convoys" and resent it.<sup>[2]</sup> The Pushkin building in [[Nurzhan]] became the library's Nurzhan branch and kept the Russian-language and technical collections. Locals still call it "the Pushkin". In 2001 the library moved out of the university's main building into a new building on University Street, beside the [[State Archives of Irad]]. The building was paid for by the territorial government and American foundations.<sup>[1]</sup> Since 2007 its director has been appointed by the Governor of the [[Irad Special Economic Zone]] on the nomination of the rector.
+
+## Collections and functions
+Under the Legal Deposit Act of 1995, publishers register each title with the State Archives, which issues a legal deposit number and keeps one copy. Two more copies go to the library. Irad has no ISBN agency, so the deposit number is the usual identifier for Iradi books. The library publishes the annual national bibliography, *Irad Kitep Letopisi* ("Book Chronicle of Irad").<sup>[1]</sup>
+
+Its special collections include:
+- the rare-books room of Iradi printing from the 1920s and 1930s, most of it from the Pushkin Library;
+- the deposit copies of Talas State University Press;
+- the university's theses since 1961;
+- a complete file of the *[[Talas Herald]]*;
+- a sound archive of about 6,000 hours of epic and song, kept with the university's Department of Ethnography.
+
+Part of the Soviet-era card catalogue of the Scientific Library was lost when the university's main building was shelled in 1992. In October 2026 the library opened a Digital Archive of long-form works, beginning with [[Aikokul Tursunbek kyzy]]'s *[[Twelve Kilometres]]*.<sup>[3]</sup> Readers in Nurzhan have complained that the branch gets little money for new books, and that items held in Talas take weeks to reach them.<sup>[2]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> National Library of Irad (2018). <i>Twenty-Five Years of the National Library, 1993–2018</i>. Talas State University Press, Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Demographic Review</i> (2022). "The Russophone Industrial Intelligentsia of the Chu Basin." Vol. 15, pp. 112–129.</li>
+<li id="cite_note-3"><b>^</b> Talas State University (2026). "<a class="ext" href="https://mjsbroadbent.github.io/TSU/library/" target="_blank" rel="noopener">National Library of Irad</a>." Official website.</li>
 </ol>
 
 {{Irad-org-stub}}

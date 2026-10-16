@@ -1,3 +1,10 @@
+# Change log: National Library of Irad (2026-10-15)
+User's request: a national library, housed at TSU. Modelled on the National Library of Finland (an independent institute of the University of Helsinki).
+- New Vol3 stub 554 *National Library of Irad* (Institutions & Infrastructure, now 90 articles): the TSU Scientific Library made national library in 1993; the Soviet Pushkin Library (Kobozev, 1934) sent its Iradi, rare and deposit collections to Talas in the 1993–94 "book convoys" and became the Nurzhan branch; own building 2001; Legal Deposit Act 1995; national bibliography *Irad Kitep Letopisi*.
+- Vol3 *Talas State University*: Scientific Library section becomes "Library". Vol3 *State Archives of Irad*: legal deposit sentence. Vol1 *Nurzhan*: the branch.
+- canon.md: TSU entry.
+- Other repos: irad_wiki (volumes, rebuilt); TSU site (library pages, menus, news item, citations, history, contacts, README).
+
 # Change log: TSU's Soviet name (2026-10-15)
 User's decision: TSU was founded in 1958 as **Iradi State University named after V. I. Lenin** (IGU) and renamed Talas State University in 1993.
 - Vol3 *Talas State University*: former name in the lead; History gives the Russian name and the 1993 rename (Academic Council drops Lenin; no national name while the ATR's status was unsettled; new seal 1994; locals still say IGU).
