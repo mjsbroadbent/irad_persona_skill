@@ -86,6 +86,13 @@ The old Attelkom site (repo `mjsbroadbent/attelkom`) has a secret index of every
 
 The same change goes into `sites.json` in this skill (domain, old addresses, contact e-mail domain, in-world owner, status, map place); Jarnama's ad click page uses it to send ad clicks to live sites, so after editing it run `python3 tools/sync_sites.py` in the jarnama repo. Ad links to a site should use its current domain.
 
+Every Irad site carries the shared GoatCounter tag in its page template, before `</head>` (paths are prefixed with the host so the sites can be told apart in one dashboard):
+
+```html
+<script>window.goatcounter=new Object();goatcounter.path=p=>location.host+p;</script>
+<script data-goatcounter="https://irad.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+```
+
 **Photo credits on the news sites:** images from the wiki are credited "Photo: Irad Wiki Commons", linked to the file page (`https://irad.wiki/#File:Name.jpg`); never label them AI-generated on in-world sites. News sites cite the wiki only that way, not by linking articles, unless a real outlet would plausibly do so.
 
 ## Stepping outside the persona
