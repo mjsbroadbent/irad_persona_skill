@@ -776,7 +776,7 @@ The tradition does not record her death or burial place, and no tomb has ever be
 ## The First Church of Janyl
 The location of the First Church is unknown. Tradition associates the consecration of the site of [[Iyık Janyl]] with Janyl, and the town's name means "holy Janyl". Several places have been proposed as the site of the original church:
 - the basilica excavated at the [[Ruins of Old Iyık Janyl]] (Shar-i-Kuhna);
-- a cave chapel in the [[Kara-Suu Canyon]];
+- a cave chapel at about 1,990 meters in the [[Kara-Suu Canyon]];
 - several springs in the Chatkal range that are visited by pilgrims.
 
 The church has made no official determination.<sup>[3]</sup>
@@ -7741,7 +7741,7 @@ The clans of the Northern Steppe and [[wp:Karatau Mountains|Karatau]] zones, led
 The south wing joins the Naiman and Sarybagysh of the Chatkal Highlands with the clans of the Toktogul basin and the Fergana Rim, among them the Kökjal and the Chubar. Its members are more ethnically mixed than the northern clans, and their main concerns are water, the [[Toktogul Hydroelectric Complex]] and trade with [[wp:Uzbekistan]].<sup>[2]</sup>
 
 ## Leading clans
-- **Tanıp.** The most politically prominent clan, with its centre in the upper Kara-Suu valley. Its *biy* is Bektur Zhumabek uulu, acclaimed in 2001, who traces his descent from [[Muratbek Tanıp-Biy]].
+- **Tanıp.** The most politically prominent clan. Its pastures are the upper Kara-Suu valley, and its centre, with the [[Kara-Suu Tribal Elders Council Hall]], is at the head of the Uzun-Akmat valley over the Sarybie Pass; the clan calls its whole country Kara-Suu. Its *biy* is Bektur Zhumabek uulu, acclaimed in 2001, who traces his descent from [[Muratbek Tanıp-Biy]].
 - **Karakoyun.** One of the largest clans. Its genealogy places its founder as the eldest son of the clans' common ancestor, so it holds the senior seat at the Kurultai although it is less prominent than the Tanıp. Its elder [[Biybolot Moldosh uulu]] is a long-serving mediator.<sup>[1]</sup>
 - **Akjele** ("white tether line"). A mountain clan of the upper Besh-Tash valley and the Tanıp's closest ally. Bektur's mother, Zuura Tashtan kyzy, came from the Akjele. The two clans share summer camps on the plateau.
 - **Boztorgoy** ("grey lark"). The leading steppe clan, holding winter pastures in the Moiynkum and grazing along the northern sector of the line facing [[Nurzhan]]. It keeps more cattle than the mountain clans and sells feeder cattle and lambs to the feedlots and feed mills of the Chu plain. Its *biy* since 2012, Sabyrbek Duishön uulu (born 1966), commanded steppe detachments of the Front in 2007.<sup>[3]</sup>

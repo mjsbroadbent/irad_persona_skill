@@ -1664,7 +1664,7 @@ The **State Stud Farm of Talas** is a government horse-breeding farm in the Tala
 #### 89. Kara-Suu Hydroelectric Station
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
-The **Kara-Suu Hydroelectric Station** is a small run-of-river hydroelectric plant on the Kara-Suu River in the lower [[Kara-Suu Canyon]], in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It has an installed capacity of about 18 MW in two units. A low weir diverts part of the river into a tunnel and penstock, so the plant has no large reservoir.<sup>[1]</sup>
+The **Kara-Suu Hydroelectric Station** is a small run-of-river hydroelectric plant at about 1,930 meters on the Kara-Suu River in the lower [[Kara-Suu Canyon]], in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It has an installed capacity of about 18 MW in two units. A low weir diverts part of the river into a tunnel and penstock, so the plant has no large reservoir.<sup>[1]</sup>
 
 The station was built in the early 1960s to supply the new antimony mine at [[Sary-Bulak]] and the Chatkal smelter, and it still feeds the local grid of the Sary-Bulak industrial corridor. Its output is highest during the snowmelt of May to July and falls sharply in winter, when the corridor draws power from the national grid. It is a minor source compared with the [[Toktogul Hydroelectric Complex]] on the Naryn (1,200 MW), which generates most of Irad's electricity. The upper Kara-Suu valley lies on the tribal side of the [[Qara-Chik Demarcation Line]], and the station's operators have no control over land use in the catchment.<sup>[1]</sup><sup>[2]</sup>
 
@@ -1923,7 +1923,7 @@ The **Iradi Leatherworks Factory** is a leather goods manufacturer in [[Talas]].
 #### 113. Kara-Suu Gold Prospecting Area
 *Quality: Start-Class | Category: Economy & Industry*
 
-The **Kara-Suu Gold Prospecting Area** is a stretch of the upper Kara-Suu River, above the [[Kara-Suu Canyon]], where artisanal miners pan for placer gold. It lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). Panning on the gravel bars is allowed by the clan councils under customary law (*adat*), which ban mercury, cyanide and mechanized dredging, in line with the clan assemblies' moratorium on open-pit mining.<sup>[1]</sup> In 2003, during the territorial period, herders petitioned the [[Territorial Legislature of Irad]] against a commercial gold license on the river, which was not developed.<sup>[2]</sup> The [[Chatkal Placer Mining Inspectorate]] exchanges water-quality data on the river with tribal monitors through UN liaison channels.
+The **Kara-Suu Gold Prospecting Area** is a stretch of the upper Kara-Suu River at about 2,460 meters, above the [[Kara-Suu Rapids]] and [[Chong-Kapka]] at the head of the [[Kara-Suu Canyon]], where artisanal miners pan for placer gold. It lies on the tribal side of the [[Qara-Chik Demarcation Line]], in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]] (ATR). Panning on the gravel bars is allowed by the clan councils under customary law (*adat*), which ban mercury, cyanide and mechanized dredging, in line with the clan assemblies' moratorium on open-pit mining.<sup>[1]</sup> In 2003, during the territorial period, herders petitioned the [[Territorial Legislature of Irad]] against a commercial gold license on the river, which was not developed.<sup>[2]</sup> The [[Chatkal Placer Mining Inspectorate]] exchanges water-quality data on the river with tribal monitors through UN liaison channels.
 
 ## References
 <ol class="references">
@@ -2457,7 +2457,7 @@ The northern foothills south of [[Talas]] hold the stibnite deposits mined at [[
 #### 160. Uzun-Akmat River
 *Quality: Start-Class | Category: Geography & Nature*
 
-The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern slopes of the eastern [[Talas Alatau]] and part of the [[Aksay Plateau]] and flows south-east into the Toktogul Reservoir on the [[Naryn River|Naryn]]. It belongs to the [[wp:Syr Darya]] system. The whole valley lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR). Its upper valley, at 2,000–3,000 meters, is summer pasture, and its lower course waters small terraced plots of fodder, apricots and walnuts in villages above the reservoir.<sup>[1]</sup>
+The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern slopes of the eastern [[Talas Alatau]] and part of the [[Aksay Plateau]] and flows south-east into the Toktogul Reservoir on the [[Naryn River|Naryn]]. It belongs to the [[wp:Syr Darya]] system. The valley lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), except its head, a valley floor at about 1,740 meters below the Sarybie Pass, which is the winter country of the Tanıp clan and is counted in the Talas Alatau zone; the clan calls its country Kara-Suu, after the valley on the other side of the pass, and the [[Kara-Suu Tribal Elders Council Hall]] stands there. Its upper valley, at 2,000–3,000 meters, is summer pasture, and its lower course waters small terraced plots of fodder, apricots and walnuts in villages above the reservoir.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -7199,7 +7199,7 @@ The **Talas Chamber of Commerce** is the business association of [[Talas]], a me
 
 #### 211. Kara-Suu Rural Health Center
 *Quality: Stub | Category: Health & Education*
-The **Kara-Suu Rural Health Center** is a clinic in the upper Kara-Suu valley, on the tribal side of the [[Qara-Chik Demarcation Line]]. Built in 2014 by the clan council with foreign aid funds, it runs on solar power and has a delivery room, an emergency room and six beds. It serves about 9,000 herders in the valley and its summer pastures.<sup>[1]</sup> Nurses and midwives from the valley staff it, and doctors of the [[St. Luka Community Health Mission]] visit regularly. Serious cases are carried across the line to hospitals in [[Talas]].<sup>[2]</sup>
+The **Kara-Suu Rural Health Center** is a clinic at about 1,820 meters at the centre of the Tanıp clan, at the head of the Uzun-Akmat valley over the Sarybie Pass (about 3,230 m) from the upper Kara-Suu, on the tribal side of the [[Qara-Chik Demarcation Line]]; like the clan's other institutions it takes its name from the Kara-Suu, the clan's name for its country. Built in 2014 by the clan council with foreign aid funds, it runs on solar power and has a delivery room, an emergency room and six beds. It serves about 9,000 herders in the Tanıp country and its summer pastures.<sup>[1]</sup> Nurses and midwives from the valley staff it, and doctors of the [[St. Luka Community Health Mission]] visit regularly. Serious cases are carried across the line to hospitals in [[Talas]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -7478,7 +7478,7 @@ An **Attelkom Cellular Relay Tower** is one of a network of mobile and microwave
 
 #### 235. Kara-Suu Tribal Elders Council Hall
 *Quality: Stub | Category: Politics & Government*
-The **Kara-Suu Tribal Elders Council Hall** is an octagonal wooden meeting hall in the upper Kara-Suu valley, on the tribal side of the [[Qara-Chik Demarcation Line]]. Built in 2010, it is used by the clan elders (*[[Aksakal (Social Term)|aksakals]]*) of the valley for meetings and for hearings under customary law (*[[Adat (Customary Law)|adat]]*). Its shape and central smoke opening follow the plan of a yurt.<sup>[1]</sup>
+The **Kara-Suu Tribal Elders Council Hall** is an octagonal wooden meeting hall at about 1,840 meters at the centre of the Tanıp clan, at the head of the Uzun-Akmat valley over the Sarybie Pass from the upper Kara-Suu, on the tribal side of the [[Qara-Chik Demarcation Line]]; the clan keeps the name Kara-Suu for its country. Built in 2010, it is used by the Tanıp clan elders (*[[Aksakal (Social Term)|aksakals]]*) for meetings and for hearings under customary law (*[[Adat (Customary Law)|adat]]*). Its shape and central smoke opening follow the plan of a yurt.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -8038,7 +8038,7 @@ The **Kyzyl-Jar crossing** (Iradi: *Kyzyl-Jar chek ara ötkölü*) is a crossing
 
 #### 240. Chong-Kapka
 *Quality: Stub | Category: Cities & Settlements*
-**Chong-Kapka** ("great gate") is a village in the upper Kara-Suu valley on the northern slopes of the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), on the pastures of the Tanıp clan. A household survey in 2022 put its population at about 1,180 (estimate).<sup>[1]</sup> The village takes its name from the narrow rock gateway through which the Kara-Suu leaves its upper valley, just below the houses. It is the winter base of families who breed [[Chongtor Horse|Chongtor]] horses and drive them up to the summer pastures of the [[Aksay Plateau]] in June, and the [[Kara-Suu Rural Health Center]] stands a short way up the valley.<sup>[1]</sup><sup>[2]</sup>
+**Chong-Kapka** ("great gate") is a village at about 2,190 meters in the upper Kara-Suu valley on the northern slopes of the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), on the pastures of the Tanıp clan. A household survey in 2022 put its population at about 1,180 (estimate).<sup>[1]</sup> The village takes its name from the narrow rock gateway through which the Kara-Suu leaves its upper valley, just below the houses. It is the winter base of families who breed [[Chongtor Horse|Chongtor]] horses and drive them up to the summer pastures of the [[Aksay Plateau]] in June, It is reached by a pack trail up the [[Kara-Suu Canyon]], which goes on over the Sarybie Pass (about 3,230 m) to the clan centre at the head of the Uzun-Akmat valley, where the [[Kara-Suu Rural Health Center]] stands.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9610,7 +9610,7 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 
 #### 401. Kara-Suu Rapids
 *Quality: Stub | Category: Geography & Nature*
-The **Kara-Suu Rapids** are a series of cascades and small waterfalls on the upper Kara-Suu in the [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], just above the gorge that gives the village of [[Chong-Kapka]] its name. Over about two kilometers the river drops about 150 meters through a narrow cleft in granite.<sup>[1]</sup> A herders' path climbs beside them to the upper valley. Downstream, the river passes through the [[Kara-Suu Canyon]] and drives the [[Kara-Suu Hydroelectric Station]].<sup>[2]</sup>
+The **Kara-Suu Rapids** are a series of cascades and small waterfalls on the upper Kara-Suu in the [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], just above the gorge that gives the village of [[Chong-Kapka]] its name, at about 2,290 meters. Over about two kilometers the river drops about 150 meters through a narrow cleft in granite.<sup>[1]</sup> A herders' path climbs beside them to the upper valley. Downstream, the river passes through the [[Kara-Suu Canyon]] and drives the [[Kara-Suu Hydroelectric Station]].<sup>[2]</sup>
 
 ## References
 <ol class="references">
