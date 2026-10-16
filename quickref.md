@@ -56,6 +56,7 @@ Precedence: `newlore.md` > `baselore.md` > wiki. Nothing here comes from `hidden
 - **Almaz Sarybaev** (1938–2019): actor, "Face of the Steppe". **Kemel Ishakov / Kemel Ishak uulu** (1930–2009): novelist (*Akyrky Ashuu*, 1964).
 - **tüntolk**: Askar Daniyarov and Mira Temirova; *Jolchu* (1999) founded Mor-Wave. **Karakush**: Mor-Pop girl group (2018; "Ak Börü"). **Altyn Muuz**: novelty boy band. **Eski Ün**: Mor-Folk ("Dream of Living", album *Kara Kün* 2021). **Kök Bel**: country-folk; *Talas Sunrise* (1995), first country-folk album. tüntolk albums: *Jolchu* 1999, *Zvezda Irad* EP 2002, *Kara Suu* 2004, *White Stallion in Fog* 2017, *Umay* 2022.
 - **Mederbek Esenov**: programmer; wrote *Köch: The Road to Iyık Janyl* (1979–90); founded Kuble Soft with **Gulzat Kalmatova** (1988–2007).
+- **Sagyn Jusupbekov** (1936 – 24 May 1992): folklorist, komuz player, compiler of the six-volume *Oral Folk Art of Irad* (1980–91); killed in the siege of Talas. Son **Erlan Sagynov** (b. 1971): *Irad Times* journalist.
 - **Aigul Choro kyzy** (1936–2012): ethnomusicologist. **Aigul Omurova** (b. 1975): poet. **Asan Jumabaev** / **Cholpon Myrzakulova**: anthem music and words.
 
 ## 2. Timeline

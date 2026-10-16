@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (174 Entries)
+## 4. C-Class Articles (175 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -8535,7 +8535,7 @@ Municipal buses and private minibuses (*marshrutkas*) link Semiz with central Ta
 The best-known Iradi writer is the novelist [[Kemel Ishakov]] (1930–2009), whose novella *Akyrky Ashuu* (*The Last Pass*, 1964) is taught in schools on both sides of the [[Qara-Chik Demarcation Line]]. Since 2014 a younger generation linked to the [[Iradi language revival]] has made Iradi the main language of new poetry and fiction in the cities, while writing in the [[Irad Special Economic Zone]] (ISEZ) works under the same pressures as the press.<sup>[2]</sup>
 
 ## Oral and church traditions
-Bards (*[[Irchy (Folklore)|ırchy]]*) sang *Janyl Baatyr* to the [[Komuz (Iradi)|komuz]] over several evenings. Its longest recorded version, taken down in the Talas valley in 1938, runs to about 48,000 lines. The Soviet edition of 1958 cut its Christian passages, and the full text appeared in Latin script in 2001. Much of the oral repertoire, including laments, genealogies (*sanjyra*) and blessings (*[[Bata (Culture)|bata]]*), was recorded by [[Aigul Choro kyzy]] between 1962 and 1989.<sup>[3]</sup>
+Bards (*[[Irchy (Folklore)|ırchy]]*) sang *Janyl Baatyr* to the [[Komuz (Iradi)|komuz]] over several evenings. Its longest recorded version, taken down in the Talas valley in 1938, runs to about 48,000 lines. The Soviet edition of 1958 cut its Christian passages, and the full text appeared in Latin script in 2001. Much of the oral repertoire, including laments, genealogies (*sanjyra*) and blessings (*[[Bata (Culture)|bata]]*), was recorded by [[Aigul Choro kyzy]] between 1962 and 1989.<sup>[3]</sup> The largest printed collection is the six-volume *Oral Folk Art of Irad* (1980–1991) compiled by the folklorist [[Sagyn Jusupbekov]], who was killed during the siege of Talas in 1992; its last volume, of saints' legends, was impounded in Kobozev in 1991 and reprinted in Talas in 1993.<sup>[1]</sup>
 
 Written literature began in the church. The [[Cathedral Seminary Library of Iyık Janyl]] holds Syriac service books, Sogdian documents of the 9th and 10th centuries, and the Talas Gospel Lectionary, whose margins carry Turkic notes in Syriac letters. The 18th-century vita of [[Janyl, Mother of Irad|Janyl]] was written in Iradi in Arabic script.<sup>[4]</sup>
 
@@ -8572,6 +8572,7 @@ In the [[Autonomous Tribal Regions]] oral poetry is still part of public life. B
 
 ## See also
 - [[Kemel Ishakov]]
+- [[Sagyn Jusupbekov]]
 - [[The Epic of Janyl]]
 - [[Iradi Language]]
 - [[Culture of Irad]]
@@ -9135,6 +9136,9 @@ In 2008, after the Department of Public Information took powers to license publi
 - from 15 October 2026, after an issue reporting that two companies apparently lined up as partners in the restart of the [[Sary-Bulak Antimony Works]] shared an address and a director with a subsidiary of Trans-Chuy Freight & Logistics.
 No block has been officially announced. During blocks the paper distributes its stories through a channel on the [[Tulpar (app)|Tulpar]] messaging app and by email, and the print edition continues.
 
+## Staff
+Besides Daniyarov, the paper's longest-serving journalist is the senior correspondent Erlan Sagynov (born 1971), one of the reporters who left IradOne in 1996 to found it. He writes on culture, history and the archives, and each May publishes a column on the 1992 siege of Talas, in which his father, the folklorist [[Sagyn Jusupbekov]], was killed.<sup>[1]</sup>
+
 ## Notable reporting
 - the 2006–2007 auction documents and the partition drafts (see above);
 - the 2008 auction of the Chu District grain elevators to the company later renamed [[Nurzhan Agro-Industrial]] (2009);
@@ -9164,4 +9168,55 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 <li id="cite_note-4"><b>^</b> <i>Irad Times</i> (8 March 2007). '<a class="ext" href="https://mjsbroadbent.github.io/IradTimes/archive/2007/what-the-cabinet-promised-away.html" target="_blank" rel="noopener">What the Cabinet Promised Away</a>.' Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
 <li id="cite_note-6"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
+</ol>
+
+### 4.175. Sagyn Jusupbekov
+*Quality Assessment: C-Class Article | Category: Biographies*
+
+**Sagyn Jusupbekov** (Iradi: *Sagyn Jusupbek uulu*; Russian: *Сагын Жусупбеков*; 3 February 1936 – 24 May 1992) was an Iradi folklorist, ethnopoet and [[Komuz (Iradi)|komuz]] player. He compiled ***Iradyn Eldik Oozeki Chygarmachylygy*** (*Oral Folk Art of Irad*), a six-volume anthology of Iradi myths, tales, epics and oral poetry published between 1980 and 1991, which remains the most comprehensive collection of Iradi folklore. Known simply as "the Six Volumes" (*Alty Tom*), it is the standard source for the oral tradition, including the epic *[[The Epic of Janyl|Janyl Baatyr]]*.<sup>[1]</sup>
+
+Jusupbekov taught at Iradi State University (now [[Talas State University]]) for more than thirty years and was a colleague of [[Amanbek Alimbekov]]. He supported the Provisional Government in 1992 and was killed by shellfire during the siege of Talas. His son, Erlan Sagynov, is a journalist with the *[[Irad Times]]*.<sup>[2]</sup>
+
+## Early life and education
+Jusupbekov was born on 3 February 1936 into a family of horse herders in the upper Chatkal valley. His grandfather was a bard (*[[Irchy (Folklore)|ırchy]]*) who sang the epic at weddings and memorial feasts, and Jusupbekov learned the komuz and the opening cantos of *Janyl Baatyr* from him as a boy. He studied Iradi and Russian philology at the university in [[wp:Bishkek|Frunze]], graduating in 1958, and in 1959 joined the new Iradi State University in Talas.<sup>[1]</sup>
+
+## Academic career
+Jusupbekov defended a candidate of sciences dissertation on the formulaic language of *Janyl Baatyr* in 1966 and a doctoral dissertation on the genres of Iradi oral poetry in 1979. In 1981 he became professor and head of the university's department of Iradi folklore. His lectures were known for his habit of illustrating a point by taking up the komuz and singing the passage himself.<sup>[3]</sup>
+
+From 1959 to 1990 he led student expeditions every summer to the [[Talas Alatau]], the Chatkal valley, the [[wp:Karatau Mountains|Karatau]] and the northern steppe, writing down tales, songs, genealogies (*sanjyra*) and blessings (*[[Bata (Culture)|bata]]*) from herders, bards and elderly women. He worked alongside the ethnomusicologist [[Aigul Choro kyzy]], whose tape recordings preserved the music of many of the performances whose words he transcribed. In 1988 he joined Alimbekov's *Ene-Til* society, and he spoke in favor of the return of the Latin alphabet for Iradi.<sup>[1]</sup><sup>[3]</sup>
+
+## The Six Volumes
+*Oral Folk Art of Irad* was published in [[Nurzhan|Kobozev]] by Ilim, the press of the Academy of Sciences of the Iradi SSR, in Cyrillic-script Iradi with commentary in Russian. Its six volumes run to about 6,400 pages and contain some 4,100 texts from about 900 performers:<sup>[1]</sup>
+- I. *Myths and Legends* (1980): creation stories, the sky and ancestor cults, the goddess Umay and the bull-headed [[Morkhan (Mythology)|Morkhan]];
+- II. *Tales and Fables* (1982);
+- III. *Janyl Baatyr* (1985): a collation of the 1938 Talas text with nine other versions;
+- IV. *Shorter Epics and Historical Songs* (1987);
+- V. *Lyric and Ritual Poetry* (1989): horseback songs (*[[Irda (Vocal Tradition)|ırda]]*), laments (*koshok*), blessings, genealogies, and wedding and work songs;
+- VI. *Legends of Saints and Holy Places* (1991): stories of [[Janyl, Mother of Irad|St. Janyl]] and the White Rider, and excerpts of *[[The Black Blizzard of 1916 (Poem)|The Black Blizzard]]*.
+
+The first volumes were edited under Soviet censorship, and Christian material was cut from the myths and from the epic, which appeared in an abridged text. Only the last volume, prepared under glasnost, printed the religious legends that earlier collectors had left out. It was printed in Kobozev in December 1991, but the government of the [[Socialist Republic of Irad]] impounded the print run as "nationalist", and most copies were pulped. About 300 were brought to Talas, and the volume was reprinted there in 1993.<sup>[1]</sup><sup>[4]</sup>
+
+Jusupbekov's full collation of the 1938 text of the epic, which he had kept back from the 1985 volume, was the basis of the complete Latin-script edition of *Janyl Baatyr* published by Talas State University Press in 2001, edited by his former students. A Latin-script reissue of the whole anthology began in 2008 but stopped after the third volume in 2012. Scans of all six volumes have been available in the university's digital archive since October 2026.<sup>[4]</sup>
+
+## Siege of Talas and death
+During the siege of Talas in 1992, Jusupbekov took part in the nightly broadcasts of the Provisional Government from the city's radio studio, singing passages of the epic and playing the komuz between news bulletins. On 24 May 1992, walking home from the studio along University Street, he was killed by shellfire from the forces of the Socialist Republic of Irad. He was 56. He was buried in Talas.<sup>[2]</sup><sup>[5]</sup>
+
+## Legacy
+Jusupbekov's notebooks and correspondence are held in the [[State Archives of Irad]] in the ethnography fonds. The university's Sagyn Jusupbekov Folklore Cabinet, in the Faculty of Philology and Journalism, keeps his library and his komuz, which was recovered from the street after his death. Radio Irad's evening program *Kechki Jomok* ("Evening Tales", 1994–2020), presented by [[Baktygul Omurova]], is often said to have been modelled on his siege broadcasts.<sup>[3]</sup>
+
+His son, Erlan Sagynov (born 1971), served in a student militia during the siege. He worked as a reporter for [[IradOne]] from 1993 and was among the journalists who left the broadcaster in 1996 to found the *Irad Times*, where he writes on culture, history and archives. Each year on 24 May he publishes a column on the siege and on his father's anthology.<sup>[2]</sup>
+
+## See also
+- [[Iradi literature]]
+- [[The Epic of Janyl]]
+- [[Aigul Choro kyzy]]
+- [[Komuz (Iradi)]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>A History of Iradi Literature</i>. Talas, pp. 112–131.</li>
+<li id="cite_note-2"><b>^</b> Sagynov, Erlan (2017). 'Twenty-five years without the Six Volumes' author.' <i>Irad Times</i>, 25 May 2017. Talas.</li>
+<li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2001). <i>Janyl Baatyr: The Complete 1938 Talas Text</i>, editors' introduction, pp. ix–lxii.</li>
+<li id="cite_note-5"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 </ol>
