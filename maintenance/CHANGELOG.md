@@ -1,3 +1,6 @@
+# Change log: artist pictures on the wiki (2026-10-16)
+- Wiki only (no volume text change): portraits for the {{Infobox artist}} articles (Ayyubov, Saparbekov, Duishenaliev, Amanov, Tursynova, Kadir, Yermek, Yunusova, Mamytova, Kasymov) and Palace of Art paintings in their sections (Akbozat, Unnamed Horse No. 4, Refinery No. 1, Morning on the Track, Above the Chu, Glacier above Besh-Tash, The Flight over the Pass, Folklore Dreams, Threads of History, Defenders of Talas maquette, Urban Symphony, Bowl with birds and the star). The White Rider moved from the top of Ayyubov's article to his landscapes section.
+
 # Change log: Iradi origins are disputed, three theories (2026-10-16)
 From the user: the Jaxartes-migration reading isn't universally agreed; other theories make the Iradis Christianized Turks, either Keraites (Nestorian tribe converted at Merv that migrated through the region) or Naimans pushed west by the Mongols.
 - canon.md: Qara Khitai line now lists the three theories (none agreed; many scholars think more than one partly right); Janyl ethnographic reading relabelled as one of three competing theories (was "the leading academic view").
