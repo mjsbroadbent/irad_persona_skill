@@ -1,3 +1,10 @@
+# Change log: TSU's Soviet name (2026-10-15)
+User's decision: TSU was founded in 1958 as **Iradi State University named after V. I. Lenin** (IGU) and renamed Talas State University in 1993.
+- Vol3 *Talas State University*: former name in the lead; History gives the Russian name and the 1993 rename (Academic Council drops Lenin; no national name while the ATR's status was unsettled; new seal 1994; locals still say IGU).
+- Pre-1993 mentions now read "Iradi State University (now Talas State University)": Vol3 Mederbek Esenov (1979); Vol2 Amanbek Alimbekov (teaching post from 1960), Provisional Government of Irad (Ene-Til's student members, 1988), Education in Irad (Soviet period), *Köch* (1979).
+- canon.md: TSU entry and the Kuble Soft line.
+- Other repos: irad_wiki (volumes, rebuilt); TSU site (about page infobox and text, history page, rector's biography).
+
 # Change log: Kara-Suu Canyon course follows the map (Kartalar 5189edc, 2026-10-15)
 - Vol2 *Kara-Suu Canyon* (Geology): the Kara-Suu rises on the crest and flows west-northwest through the canyon to the Urmaral, which carries its water on to the Talas (not "flows north to join the Talas"). User's decision. Other repos: irad_wiki (Vol2 copied, rebuilt).
 
