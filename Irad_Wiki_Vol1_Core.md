@@ -2963,6 +2963,8 @@ Under the 2008 security directives, Attelkom must route international traffic th
 
 During the [[2023 Student Protests in Talas]], mobile data was cut in central Talas for three days and access to several social media platforms was throttled across the ISEZ. Attelkom described the outage as "technical work"; [[wp:Human Rights Watch]] and local journalists attributed it to a government order.<sup>[3]</sup> In 2024, several foreign and exile news sites were blocked after they published reports questioning the authenticity of video addresses by Governor [[Erlan Toktarov]], who has not appeared in public since July 2024. The government said the sites were spreading foreign-sponsored disinformation.<sup>[3]</sup>
 
+Attelkom's gateway settings have three times made Iradi websites invisible to foreign search engines: in 2009–2011, when the gateways refused connections from foreign data centers; in 2015–2016, after spam registrations led search engines to demote the *.ir.ad* zone; and from the 2023 protests until 2026, when a "national segment" mode showed foreign visitors only an outage notice. In June 2026 the company installed new international gateways, financed by a Chinese export credit, that block listed sites individually, and Iradi sites returned to foreign search results that summer. Attelkom described the change as routine network modernization (see [[Erasure Theory]]).<sup>[7]</sup>
+
 Consumer groups have also criticized Attelkom's prices, which are higher than those of operators in neighboring countries, and the slow extension of service to rural areas of the ISEZ.<sup>[6]</sup>
 
 
@@ -2979,6 +2981,7 @@ Consumer groups have also criticized Attelkom's prices, which are higher than th
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). "The Fortified Chancellery: Executive Authority at Boz-Korgon." pp. 45–52.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). "Digital Infrastructure and Information Management in the ISEZ." pp. 88–104.</li>
 <li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Directory of Major Enterprises</i>. Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
 </ol>
 
 ### 3.24. Chongtor Horse

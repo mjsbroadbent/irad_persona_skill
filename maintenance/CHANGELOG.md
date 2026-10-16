@@ -1,3 +1,10 @@
+# Change log: search engine delistings (*jogoluu*) and the 2026 return (2026-10-16)
+From the user: search engines have delisted Irad multiple times; in summer 2026 Irad started showing up again. Causes and the change were Claude's proposal (revisable).
+- canon.md: new "Search delistings (*jogoluu*)" subsection after Transport and telecoms: 2009–11 (2008 directive gateways refused foreign data-centre ranges, so crawlers were shut out; TSU 2011 study, fixed late 2011), 2015–16 (2013–14 Attelkom reseller scheme sold .ir.ad names to spammers, zone demoted, Andorra geotargeting; overlapped Vice region lock), Oct 2023 – summer 2026 ("national segment" mode from the protest data cut never fully reversed; peak after Trump remarks). Return: June 2026 gateway swap on Chinese export credit, domain-list blocking; 2025 .ir.ad re-verification (~4,000 names deleted); back in results Jul–Aug 2026 (Talas Herald 14 Aug 2026). Reactions: DPI credit, FreeIrad *kaytaruu* ("putting back") as prelude to sale or Chinese eyes, Zoomer joke.
+- hiddenlore.md: Maksat pushed the gateway swap (Beijing backchannel; Chinese lenders wanted ISEZ reachable and visible; took a lever from Ruslan's Gendarmerie, which had kept "national segment" mode since 2023); Ruslan watching the new equipment.
+- quickref.md: timeline line.
+- Wiki: Vol2 Erasure Theory (evidence bullet; new section "Search engine delistings"; reception joke; refs 4–5); Vol1 Attelkom (Government control paragraph; ref 7); Vol3 Internet Domains of Irad (.ir.ad spam demotion and 2025 re-verification; ref 4).
+
 # Change log: SEO pass (2026-10-16)
 - irad_wiki: static article pages at irad.wiki/wiki/<Name> (tools/seo/pages.js), clean addresses in the app, full sitemap; External links sections added to Vol1 *Attelkom* (attelkom.net, maps, ads, the 1999 site) and Vol3 *Tulpar (app)*, *Irad Palace of Art*, *Irad Film Society*. Link to articles as https://irad.wiki/wiki/<Name> from now on (old #Name links still work).
 - Other sites got canonical/share tags and sitemaps (attelkom-new, kartalar, jarnama, TSU, Tulpar, the 1999 Attelkom site); Herald and IradOne polished. No lore changes.

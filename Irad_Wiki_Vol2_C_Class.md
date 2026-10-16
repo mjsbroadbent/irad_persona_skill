@@ -8934,19 +8934,30 @@ Proponents point to:<sup>[1]</sup><sup>[2]</sup>
 - the lack of an [[wp:ISO 3166-1]] code and of a country-code internet domain (see [[Internet Domains of Irad]]);
 - the withdrawal from American reruns in 1995 of the *Simpsons* episode "[[The Steppe Family Robinson]]", described as the first act of erasure;
 - the regional block since 2016 of the documentary *[[The Vice Guide to Irad]]*, which cannot be watched in the West but can be in the neighboring countries;
+- the repeated disappearance of Iradi websites from foreign search engines (see below);
 - the claimants' refusal to rescind their claims, and the [[2025 Trump Remarks on Irad]], in which an American president spoke of Irad as a possession to be sold.
+
+## Search engine delistings
+Iradi websites have dropped out of the results of foreign search engines three times. Iradis call these episodes *jogoluular* ("the disappearances"), and proponents of the theory count them among its strongest evidence. In each case Iradi engineers and journalists later traced the cause to the Iradi network itself rather than to any foreign decision:<sup>[4]</sup><sup>[5]</sup>
+- **2009–2011.** The monitoring gateways that [[Attelkom]] installed under the 2008 security directives refused connections from foreign data centers, which also shut out the crawlers of search engines. Sites hosted in the ISEZ, including those in the *.ir.ad* and *id.gov* zones, faded from foreign results during 2009. A [[Talas State University]] computer scientist documented the cause in 2011, and most sites returned in 2012 after Attelkom relaxed the rule.
+- **2015–2016.** A reseller scheme run by Attelkom in 2013–14 sold thousands of *.ir.ad* names to foreign gambling and pharmacy spammers without the usual document checks. Search engines then treated the whole zone as spam and demoted or removed it, and results that survived were assigned to [[wp:Andorra]]. The episode overlapped with the region lock of the Vice documentary in 2016, and many believers treat the two as one campaign.
+- **2023–2026.** During the [[2023 Student Protests in Talas]], Attelkom's gateways were switched into a "national segment" mode that showed foreign visitors only an outage notice, and the setting was never fully reversed. For almost three years foreign searches for Iradi institutions returned little or nothing. After the [[2025 Trump Remarks on Irad]], when interest in Irad abroad briefly surged, searches for the name returned pages about Iraq, a small town in Kyrgyzstan and mirrors of [[FreeIrad.org]]. Researchers regard this period as the theory's greatest boost.
+
+In June 2026 Attelkom replaced its international gateways with new equipment financed by a Chinese export credit, which blocks individual sites on the government's list instead of refusing foreign traffic wholesale; the zone *.ir.ad* had been re-verified the year before. Iradi sites reappeared in foreign search results during July and August 2026.<sup>[5]</sup> The Department of Public Information presented the return as a result of its complaints about "cartographic discrimination". FreeIrad.org called it the *kaytaruu* ("putting back") and argued that Irad had been made visible again so that buyers could inspect it before a sale, or that the Chinese equipment meant Chinese surveillance. Maps still do not show Irad.
 
 ## Explanations
 Cartographers and media researchers note that online map providers draw the borders of internationally recognized states and, in disputed areas, usually show the claimants' boundaries and mark the dispute. Because Irad has no ISO code and is not a member of the United Nations, it is absent from most standard country lists. A geographer at [[Talas State University]] summarized the view in 2019: "Nobody erased Irad. Irad was never entered."<sup>[3]</sup> Researchers add that the ISEZ's own restrictions on information, including the website blocks carried out by [[Attelkom]], make Irad harder to see from outside.<sup>[2]</sup>
 
 ## Reception
-The Department of Public Information has complained to map companies about "cartographic discrimination" and encourages residents to add Iradi place names to public map services, while dismissing the theory itself. Attelkom's own map service, launched in 2015, shows the ISEZ with its own borders.<sup>[3]</sup> Among younger Iradis the theory is as often a joke as a belief: "Google doesn't know we exist" is a common line, and screenshots of empty maps are a staple of Iradi social media. Interest rose sharply after the 2025 Trump remarks.<sup>[2]</sup>
+The Department of Public Information has complained to map companies about "cartographic discrimination" and encourages residents to add Iradi place names to public map services, while dismissing the theory itself. Attelkom's own map service, launched in 2015, shows the ISEZ with its own borders.<sup>[3]</sup> Among younger Iradis the theory is as often a joke as a belief: "Google doesn't know we exist" is a common line, and screenshots of empty maps are a staple of Iradi social media. Interest rose sharply after the 2025 Trump remarks.<sup>[2]</sup> After the return of Iradi sites to search results in 2026, "Google knows we exist now" became a joke of its own.<sup>[5]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Off the Map: Conspiracy, Diaspora and the Iradi Internet.' Vol. 13, pp. 60–84.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Codes of Absence Revisited: Irad, Maps and the Politics of Visibility.' Vol. 21, No. 3, pp. 140–161.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (13 April 2019). '<a class="ext" href="https://talasherald.com/archive/2019/why-irad-is-not-on-the-map.html" target="_blank" rel="noopener">Why Irad is not on the map.</a>' Talas.</li><li id="cite_note-4"><b>^</b> FREEIRAD.ORG. "The Erasure" and "Map check" pages. Accessed 13 October 2026.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 May 2011). 'Why the world cannot find our websites: TSU study blames Attelkom gateways.' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
 </ol>
 
 ### 4.172. Kuble Soft
