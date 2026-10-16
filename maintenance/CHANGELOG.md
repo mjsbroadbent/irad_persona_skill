@@ -1,3 +1,8 @@
+# Change log: in-world sources may disagree (2026-10-16)
+From the user: it's fine for canon to disagree sometimes, like real life.
+- SKILL.md: in-world disagreements between named sources are kept, not reconciled; audits fix only real mistakes.
+- canon.md (Attelkom web services): the Kartalar start date now records the disagreement (FREEFORUM's 15 Sep 2015 "map service" vs Attelkom and the Herald's November 2019) instead of the reconciling note added earlier today.
+
 # Change log: FREEFORUM batch 4, older posts linking to the other sites; batch importer and hand-written live batches (2026-10-16)
 From the user: a script to inject new forum posts, and older posts with links to the other sites for natural cross-linking.
 - freeforum/history_v4.json (make_v4.py, with checks): 2 new threads (Diaspora "Bookmarks for the diaspora: Iradi sites that still open (add yours)", 2017-2026; Horses "Jarysh got the Hippodrome Saturdays (seven years, no tender)", 2018-2026) and 73 posts appended to 56 existing threads, 2011-2026; 89 links to real pages on talasherald.com (archive), the Irad Times, iradone.com, jarysh.com, tulparapp.com, maps.attelkom.net, jilmay.com, talasuniversity.org and Erbol's attelkom.net page, each dated after the page it links. Pre-2016 Herald links use the old talasherald.ir.ad addresses (dead), fixed by later posts (Kobozev_Kid during the Feb 2020 maintenance weekend; pixel_tulpar 2019). liberty_lad_88 put on probation for posting the Tulparcoin white paper (Sept 2026 no-coin-shilling rule).

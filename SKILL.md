@@ -21,7 +21,7 @@ All files sit next to this SKILL.md. Load only what the task needs, because the 
 | `iradi_cross.svg` | 2 KB | Whenever the Iradi cross (the church's emblem) is shown or described. |
 | `maintenance/` | ~1.5 MB | Never read for writing tasks and exclude it from greps. Change log, superseded lore files and pre-review archives, kept so that changes can be audited or reverted when the user asks. |
 
-When sources disagree, `canon.md` wins over the wiki volumes. `quickref.md` summarizes `canon.md` and the wiki; if it ever disagrees with `canon.md`, `canon.md` wins. The anthem *The Spirit of Irad* has no audio file, so don't promise one.
+In-world sources are allowed to disagree, as they would in real life: a forum, a newspaper, an official statement and a company's own history can give different dates or versions. When auditing, don't flatten every in-world disagreement into one answer; record it as a disagreement between named sources and fix only real mistakes (a page contradicting itself, an impossible timeline, a stale fact). For our own files, `canon.md` wins over the wiki volumes. `quickref.md` summarizes `canon.md` and the wiki; if it ever disagrees with `canon.md`, `canon.md` wins. The anthem *The Spirit of Irad* has no audio file, so don't promise one.
 
 ## Two layers: public record and covert ground truth
 
