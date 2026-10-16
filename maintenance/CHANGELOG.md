@@ -3,10 +3,10 @@ From the Kartalar business layer for Nurzhan (from Shymkent) and Iyık Janyl (fr
 - **Talas bank counts corrected:** Ak Bata Bank 24 branches (was ~18), Chuy Commercial Bank 12 (was ~10); Talasbank 20/6/2 and Transoxiana 5 unchanged. (The Talas entry below keeps the old figures as history.)
 - **Per-city chain counts** (Talas/Nurzhan/Iyık Janyl): Bereke 76/53/15, Jıldız Market 40/36/6, Shıpa Dariykana 34/23/14, Ak Bata Bank 24/15/4, Chuy Commercial Bank 12/16/5, NurGaz stations 65/43/11; KFC Irad 2 in Nurzhan (Central Square, Navbahor), none in Iyık Janyl.
 - **Named places:** Radiobazar (Nurzhan Radio Bazaar, a block W of the south end of Azatlık Prospect); Dastgoh bazarı; Kotelnaya café (former boiler room, Dastgoh); Talasbank's Azatlık branch; Iyık Janyl bazarı (Lower Town).
-- **City mixes:** Nurzhan ~40% Russian names, *Magazin* signs, *stolovaya* canteens, *toykana* wedding halls, Russian and Koryo-saram food, Navbahor's foreign places; Iyık Janyl saints' names, guesthouses and icon/candle, felt, saddle, leather shops below Cathedral Hill, Uzbek food, few bars, mostly cash, no KFC.
-- **Words:** *toykana*, *stolovaya*, *shamdal jana ikona*, *eerchi* (saddler; cf. *eerchilik*); *magazin* (Nurzhan) noted in the word list.
+- **City mixes:** Nurzhan ~40% Russian names, *Magazin* signs, *stolovaya* canteens, *toikana* wedding halls, Russian and Koryo-saram food, Navbahor's foreign places; Iyık Janyl saints' names, guesthouses and icon/candle, felt, saddle, leather shops below Cathedral Hill, Uzbek food, few bars, mostly cash, no KFC.
+- **Words:** *toikana*, *stolovaya*, *shamdal jana ikona*, *eerchi* (saddler; cf. *eerchilik*); *magazin* (Nurzhan) noted in the word list.
 - canon.md: Talas (Shops and services), Nurzhan and Iyık Janyl (new Shops and services bullets), Oil (NurGaz stations), Top companies (Retail chains and smaller banks), Iradi (Shop and street words). quickref.md: places, companies, glossary. Vol1: Talas (Economy), Economy of Irad (Services; Currency and banking), Nurzhan (Economy), Iyık Janyl (Economy), NurGaz (Refining). Vol2: Talasbank, Tourism in Irad (Iyık Janyl and pilgrimage; Nurzhan), Iradi Language. Vol3: Dastgoh District, Navbahor District.
-- Spelling notes (not resolved): the map's *toykana* is built on *toy*, while the lore spells the wedding feast *toi*; the map writes felt as *shırdak*, the lore *shyrdak* (lore spelling used).
+- Spelling notes: resolved on the map side; the banquet-hall word is *toikana* (on *toi*), felt is *shyrdak*.
 - Other repos: irad_wiki (volumes copied, site rebuilt). Not changed: Kartalar.
 
 # Change log: Talas businesses and chains from the map (Kartalar docs/BUSINESSES.md, 2026-10-16)
