@@ -8101,7 +8101,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 245. Kashka-Jol
 *Quality: Stub | Category: Cities & Settlements*
-**Kashka-Jol** ("blazed track") is a hamlet at about 1,870 meters at the head of the [[Kara-Koyun Valley]], below the [[Karakoyun Pass]] on the old pack route over the [[Talas Alatau]] to the Chatkal valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 380 (2022 estimate).<sup>[1]</sup> The name refers to a pale vein of quartz on a cliff above the track, likened to the white blaze (*kashka*) on a horse's face, which travelers used as a landmark. Families in the hamlet hire out pack horses and guides to herders crossing the Karakoyun Pass and the Kara-Buura Pass (3,305 m) farther west, and the ruined caravanserai of [[Rabat-i Sangin]] lies about 10 kilometers to the west in the upper Kara-Buura valley.<sup>[1]</sup><sup>[2]</sup>
+**Kashka-Jol** ("blazed track") is a hamlet in the middle Kara-Buura valley, on the old pack route over the [[Talas Alatau]] to the Chatkal valley, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 380 (2022 estimate).<sup>[1]</sup> The name refers to a pale vein of quartz on a cliff above the track, likened to the white blaze (*kashka*) on a horse's face, which travelers used as a landmark. Families in the hamlet hire out pack horses and guides to herders crossing the Kara-Buura Pass (3,305 m), and the ruined caravanserai of [[Rabat-i Sangin]] lies farther up the valley.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -8221,7 +8221,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 255. Kyrk-Choro
 *Quality: Stub | Category: Cities & Settlements*
-**Kyrk-Choro** ("forty companions") is a village in a valley below the northern face of [[Manas Peak (Irad)|Manas Peak]], at the western end of the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 640 (2022 estimate).<sup>[1]</sup> Its name recalls the forty companions of the hero Manas in the *[[wp:Epic of Manas]]*. Since 1995 the village has held a gathering of epic reciters (*manaschy*) each August, at which bards from the tribal regions perform episodes of the Manas cycle and of *[[The Epic of Janyl]]*.<sup>[2]</sup> Glaciologists of the [[Manas Peak Glaciological Observatory]] hire horses and porters in the village.
+**Kyrk-Choro** ("forty companions") is a village at about 1,650 meters on the floor of a valley below the northern face of [[Manas Peak (Irad)|Manas Peak]], about 12 kilometers north of the peak at the western end of the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR). Its population is about 640 (2022 estimate).<sup>[1]</sup> Its name recalls the forty companions of the hero Manas in the *[[wp:Epic of Manas]]*. Since 1995 the village has held a gathering of epic reciters (*manaschy*) each August, at which bards from the tribal regions perform episodes of the Manas cycle and of *[[The Epic of Janyl]]*.<sup>[2]</sup> Glaciologists of the [[Manas Peak Glaciological Observatory]] hire horses and porters in the village.
 
 ## References
 <ol class="references">
@@ -8425,7 +8425,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 272. Ozgörüsh
 *Quality: Stub | Category: Cities & Settlements*
-**Ozgörüsh** ("change") is a village above the north-western shore of the Toktogul Reservoir, about 13 kilometers west of [[Toktogul (town)|Toktogul]] and 5 kilometers south-west of the lower [[Uzun-Akmat River]], in the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,340 (2023 estimate).<sup>[1]</sup> Its people belong to the Kökjal clan of the Toktogul basin, but because the village lies west of the State Route 1 corridor, UN and aid-agency planning counts it in the Chatkal Highlands zone rather than the Toktogul–Naryn zone. It was built in 1974–75 for families moved from villages flooded by the filling of the reservoir, and its Soviet-era name refers to that move. Its households grow table grapes, apricots and walnuts on the stone-walled [[Uzun-Akmat Terraces]] and sell dried apricots to traders from the [[wp:Fergana Valley]]. Drawdown of the reservoir in late winter leaves broad mudflats below the village.<sup>[2]</sup>
+**Ozgörüsh** ("change") is a village on the lower [[Uzun-Akmat River]] just above where it enters the Toktogul Reservoir, about 18 kilometers west of [[Toktogul (town)|Toktogul]], in the [[Autonomous Tribal Regions]] (ATR). Its population is about 2,340 (2023 estimate).<sup>[1]</sup> Its people belong to the Kökjal clan of the Toktogul basin, but because the village lies west of the State Route 1 corridor, UN and aid-agency planning counts it in the Chatkal Highlands zone rather than the Toktogul–Naryn zone. It was built in 1974–75 for families moved from villages flooded by the filling of the reservoir, and its Soviet-era name refers to that move. Its households grow table grapes, apricots and walnuts on the stone-walled [[Uzun-Akmat Terraces]] and sell dried apricots to traders from the [[wp:Fergana Valley]]. Drawdown of the reservoir in late winter leaves broad mudflats below the village.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9013,7 +9013,7 @@ Before the 1950s the place was a spring campsite where herders gathered before t
 
 #### 331. Tunuk-Bulak
 *Quality: Stub | Category: Cities & Settlements*
-**Tunuk-Bulak** ("clear spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] about 22 kilometers south-south-west of [[Talas]], above the Sary-Bulak Gorge about 1.5 kilometers east of the antimony works of [[Sary-Bulak]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. The [[Kyrk-Kazyk Caves]], about 4 kilometers to the east, and the spring of [[Maryam-Bulak]], about 4 kilometers to the west, are in the same limestone belt.<sup>[2]</sup>
+**Tunuk-Bulak** ("clear spring") is a village in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ), in the limestone foothills of the [[Talas Alatau]] about 23 kilometers south-south-west of [[Talas]], about 3 kilometers south-east of the antimony works of [[Sary-Bulak]]. Its population was 1,020 (2018 census).<sup>[1]</sup> Its fields of potatoes, barley and hay are watered by karst springs that emerge along faults in the limestone, fed by water that sinks into the rock higher up. The springs also supply a fish pond and the village's drinking water. It lies in the same limestone belt between the spring of [[Maryam-Bulak]], about 5 kilometers to the west-north-west, and the [[Kyrk-Kazyk Caves]], about 3 kilometers to the east-north-east.<sup>[2]</sup>
 
 ## References
 <ol class="references">
@@ -9382,7 +9382,7 @@ The **Kyzyl-Adyr Hills** ("red hills") are a belt of rolling loess hills, from w
 
 #### 373. Uzun-Akmat Terraces
 *Quality: Stub | Category: Agriculture*
-The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes above the north-western shore of the Toktogul Reservoir near the mouth of the Uzun-Akmat valley, around the village of [[Ozgörüsh]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. The terraces climb up to about 200 meters above the shore, and their dry-stone walls are up to two meters high.<sup>[1]</sup> Some walls belong to villages flooded by the reservoir in the 1970s and are thought to be at least two centuries old. They are planted with vines, apricots and walnuts and watered by channels from side streams; terraces left unused since the 1990s are collapsing.<sup>[2]</sup>
+The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes of the lower Uzun-Akmat valley above the Toktogul Reservoir, around the village of [[Ozgörüsh]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. The terraces climb up to about 200 meters above the valley floor, and their dry-stone walls are up to two meters high.<sup>[1]</sup> Some walls belong to villages flooded by the reservoir in the 1970s and are thought to be at least two centuries old. They are planted with vines, apricots and walnuts and watered by channels from side streams; terraces left unused since the 1990s are collapsing.<sup>[2]</sup>
 
 ## References
 <ol class="references">
