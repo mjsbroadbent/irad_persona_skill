@@ -623,15 +623,15 @@ In the 1990s the choir recorded chants learned from elderly singers of the cland
 The **Irad Palace of Art** (Iradi: *Irad Körköm Saraiy*) is an art gallery and art preservation foundation headquartered in [[Iyık Janyl]]. It is generally regarded as the country's leading gallery.<sup>[1]</sup>
 
 ## History and collections
-The foundation was established in 1996, during the territorial period, and occupies a former Soviet district house of culture near the cathedral. Its collections include:
+The foundation was established in 1996, during the territorial period, and occupies a former Soviet district house of culture on Cathedral Street, opposite the cathedral park. Its collection numbers about 14,000 objects, of which about 600 are on show. It includes:
 - Sogdian terracottas and [[wp:Silk Road]] ceramics;
 - icons, church silver and manuscript bindings that families hid during the Soviet period and later gave to the foundation;
 - saddlery, felt and embroidery of the 19th and 20th centuries;
-- the largest collection of the work of [[Yusup Ayyubov]], including *The White Rider Shows the Way* (1913);
+- the largest collection of the work of [[Yusup Ayyubov]], 41 paintings and about 120 drawings shown in the Ayyubov Hall, including *The White Rider Shows the Way* (1913), on loan from the archbishopric since 1998;
 - Soviet-era Iradi painting;
 - contemporary painting, photography and video.<sup>[1]</sup>
 
-Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since the 2010s it has run an annual exhibition and grant program for young artists, many associated with the [[Iradi language revival]]. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup>
+Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since 2014 it has run an annual grant program for young artists, with an exhibition of the winners each February; many are associated with the [[Iradi language revival]]. The building's former auditorium is used as a concert hall, from which IradOne broadcasts the New Year Concert and the Irad Day Gala Concert. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup>
 
 
 ## External links
