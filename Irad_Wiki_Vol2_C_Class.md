@@ -1599,7 +1599,7 @@ The **Kara-Suu Canyon** (Iradi: *Kara-Suu kapchygayı*, "black water gorge") is 
 
 ## Geology
 
-The Kara-Suu rises in snowfields and small glaciers on the crest of the Talas Alatau and flows north to join the [[Talas River|Talas]]. Where it crosses the foothills, it has cut down through a belt of [[wp:Paleozoic]] limestone and dolomite with bands of red sandstone and dark shale, forming a narrow gorge with near-vertical walls.<sup>[1]</sup> Geologists attribute the canyon to fast downcutting by the river during the uplift of the [[wp:Tian Shan]] in the [[wp:Quaternary]], aided by meltwater during glacial periods. Caves and overhangs are common in the limestone. Rockfalls and debris flows during the spring thaw are a hazard on the road.
+The Kara-Suu rises in snowfields and small glaciers on the crest of the Talas Alatau and flows west-northwest through the canyon to the [[Urmaral River|Urmaral]], which carries its water on to the [[Talas River|Talas]]. Where it crosses the foothills, it has cut down through a belt of [[wp:Paleozoic]] limestone and dolomite with bands of red sandstone and dark shale, forming a narrow gorge with near-vertical walls.<sup>[1]</sup> Geologists attribute the canyon to fast downcutting by the river during the uplift of the [[wp:Tian Shan]] in the [[wp:Quaternary]], aided by meltwater during glacial periods. Caves and overhangs are common in the limestone. Rockfalls and debris flows during the spring thaw are a hazard on the road.
 
 ## Climate and ecology
 

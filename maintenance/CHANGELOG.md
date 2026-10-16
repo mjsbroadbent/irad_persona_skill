@@ -1,3 +1,6 @@
+# Change log: Kara-Suu Canyon course follows the map (Kartalar 5189edc, 2026-10-15)
+- Vol2 *Kara-Suu Canyon* (Geology): the Kara-Suu rises on the crest and flows west-northwest through the canyon to the Urmaral, which carries its water on to the Talas (not "flows north to join the Talas"). User's decision. Other repos: irad_wiki (Vol2 copied, rebuilt).
+
 # Change log: upper Kara-Suu and the Tanıp centre sorted out (Kartalar map, commit 5189edc, 2026-10-15)
 From the user's decision on the upper Kara-Suu watershed question, applied on the map in Kartalar 5189edc.
 - The **Tanıp clan centre** (map label kara-suu, the Kara-Suu Tribal Elders Council Hall ~1,840 m and the Kara-Suu Rural Health Center ~1,820 m) is at the head of the **Uzun-Akmat valley**, on a ~1,740 m valley floor over the **Sarybie Pass** (~3,230 m) from the Kara-Suu canyon head. The clan keeps the name Kara-Suu for its country and institutions. Vol3 Health Center and Elders Hall stubs, Uzun-Akmat River (zone sentence), Vol2 Autonomous Tribal Regions (Leading clans: Tanıp).
