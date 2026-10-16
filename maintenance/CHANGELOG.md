@@ -1,6 +1,7 @@
 # Change log: Janyl as a memory of Iradi ethnogenesis (2026-10-16)
 From the user: many ethnographers believe the story of St. Janyl explains the origin of the Iradi people: urban Iranic Nestorians were pushed out of the settlements around the Jaxartes north and east into the mountains, where they mingled with Turkic highland tribes.
 - canon.md (Janyl, Mother of Irad): ethnographic reading; towns named (Shash, Isfijab, Otrar), cause dated to Kara-Khanid Islamization (10th–11th c.), destination Talas Alatau and Chatkal; cited support (Sogdian/Syriac church vocabulary, mixed gravestone names, city-Iranic/highland-Turkic look).
+- Also brings into the skill the irad_wiki commit be32a1e (Infobox artist; articles for Saparbekov, Duishenaliev, Amanov, Tursynova, Kadir, Yermek; infoboxes for Ayyubov, Yunusova, Mamytova, Kasymov, Karimov), which had been pushed to the wiki only and was briefly overwritten by this change's first sync.
 - Wiki: Vol2 Janyl (Historical Figure) new fourth scholarly position "Ethnographic (migration)" with critics' reply (ref 6, TSU Press 2019 *From the Jaxartes to the Mountains*); Vol2 Janyl, Mother of Irad new "Interpretation" section (ref 4); Vol1 Iradis, Origins (ref 17).
 
 # Change log: TSU and Tulpar domains (2026-10-16)

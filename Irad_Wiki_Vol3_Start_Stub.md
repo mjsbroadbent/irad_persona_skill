@@ -6066,7 +6066,7 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 {{Irad-plant-stub}}
 
-### 6.Category: Historical Figures & Personalities (65 articles)
+### 6.Category: Historical Figures & Personalities (71 articles)
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
@@ -6446,6 +6446,15 @@ The manuscript was among the books hidden in caves of the [[Kara-Suu Canyon]] du
 
 #### 159. Amina Yunusova
 *Quality: Stub | Category: Biographies*
+{{Infobox artist
+| name = Amina Yunusova
+| image = Amina_Yunusova.jpg
+| caption = Yunusova in her studio, early 2000s
+| birth_date = 1955
+| nationality = Iradi
+| education = Talas art school
+| known_for = Textile design, *shyrdak* rugs
+}}
 **Amina Yunusova** (born 1955) is an Iradi textile designer who adapted traditional felt carpet designs for export. Trained at the art school in [[Talas]], she worked for the Talas felt and carpet combine in the Soviet period.<sup>[1]</sup> In 1995 she founded a design studio that produces *[[Shyrdak (Iradi Craft)|shyrdak]]* rugs in softer colors and simpler layouts, using the ram's-horn motif ([[Koshkar Muyuz|*koshkar muyuz*]]), for buyers in [[wp:Germany]], [[wp:Italy]] and Scandinavia. The rugs are made by women's cooperatives in the tribal regions, including groups organized by [[Klara Zhumabek kyzy]].<sup>[2]</sup>
 
 ## References
@@ -6537,7 +6546,19 @@ The tradition fits what is known of the period. [[wp:Church of the East|East Syr
 
 #### 166. Chynara Mamytova
 *Quality: Stub | Category: Biographies*
+{{Infobox artist
+| name = Chynara Mamytova
+| image = Chynara_Mamytova.jpg
+| caption = Mamytova in her workshop
+| birth_date = 1972
+| nationality = Iradi
+| known_for = Ceramics, slip-painted earthenware
+| notable_works = *Bowl with birds and the star* (2014)
+}}
 **Chynara Mamytova** (born 1972) is an Iradi ceramic artist based in [[Talas]]. Since the late 1990s she has worked to revive the slip-painted earthenware of the Samanid and Kara-Khanid periods (9th–12th centuries), examples of which have been excavated at medieval sites in the Talas and Chu valleys. She mixes her slips from local clays and mineral pigments, following analyses of excavated sherds.<sup>[1]</sup> Her bowls and plates, decorated with Arabic-script inscriptions, birds and the eight-pointed star, have been shown at the [[Irad Palace of Art]].<sup>[2]</sup>
+
+## Work
+Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), sets birds around the eight-pointed star with a band of Kufic letters at the rim.<sup>[1]</sup>
 
 ## References
 <ol class="references">
@@ -6608,12 +6629,193 @@ The tradition fits what is known of the period. [[wp:Church of the East|East Syr
 
 #### 172. Almazbek Kasymov
 *Quality: Stub | Category: Biographies*
+{{Infobox artist
+| name = Almazbek Kasymov
+| image = Almazbek_Kasymov.jpg
+| caption = Kasymov at work, 1990s
+| birth_date = 1936
+| death_date = 2014
+| nationality = Iradi
+| known_for = Woodcarving
+| notable_works = Doors of the Hall of Justice, [[Talas]]; sanctuary screen of the Church of St. Yuhanna, Talas
+}}
 **Almazbek Kasymov** (1936 – 2014) was an Iradi woodcarver who made carved walnut doors and panels for public buildings. Trained in his father's workshop near the walnut forests of the Fergana Rim, he carved the main doors of the Hall of Justice in [[Talas]], which houses the [[Supreme Court of Irad]], and of the [[National Historical Museum of Irad]] in the 1990s, as well as the carved sanctuary screen of the Church of St. Yuhanna in Talas.<sup>[1]</sup> His designs combine ram's-horn scrolls ([[Koshkar Muyuz|*koshkar muyuz*]]) with crosses and stars.<sup>[2]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Ethnography, Talas State University (2014). <i>Woodcarving in the Walnut Forests</i>. Talas: Talas State University Press, pp. 61–70.</li>
 <li id="cite_note-2"><b>^</b> Irad Palace of Art (2010). <i>Masters of Wood</i>. Exhibition catalogue. Iyık Janyl.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 555. Ermek Saparbekov
+*Quality: Start-Class | Category: Biographies*
+{{Infobox artist
+| name = Ermek Saparbekov
+| image = Ermek_Saparbekov_1910.jpg
+| caption = Saparbekov with the stallion Akbozat, about 1910
+| birth_date = 1878
+| birth_place = Chu valley, [[wp:Russian Turkestan|Russian Turkestan]]
+| death_date = 1951
+| death_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]]
+| nationality = Iradi
+| education = Private academies in Paris (1899–1904)
+| known_for = Horse portraits
+| notable_works = *Akbozat* (1908); *Kara-Jorgo* (1911); *Unnamed Horse No. 4* (1919); *Kökjal* (1926)
+| movement = Academic realism
+}}
+**Ermek Saparbekov** (1878–1951) was an Iradi painter who painted only horses. Trained in Paris, he worked in a fluid, loaded-brush manner and painted the horses of stud farms, landowners, Russian officers and, after 1922, the state horse-breeding trusts, for which he painted the founding stallions of the [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] studbooks. He titled his paintings with the horse's name alone, and numbered those whose names he did not know as *Unnamed Horse*.<sup>[1]</sup>
+
+## Life
+Saparbekov was the son of a horse trader of the Chu valley. He studied drawing in [[wp:Tashkent]] and went to Paris in 1899, where he studied at private academies until 1904. He returned in 1905 and settled near [[Talas]], where he kept a small stable. Unlike [[Yusup Ayyubov]], his near contemporary, he took no part in politics. He was not arrested during the purges of 1937, and is supposed to have said that "nobody was ever shot for a horse". He died in Talas in 1951.<sup>[1]</sup>
+
+## Work
+About 300 of his paintings are known. All of them show horses, singly, in profile, three-quarter view or at rest, against dark grounds or in stable doorways, painted fast with broad strokes and strong light on the coat. He never painted a person: when the Russian Governor of [[wp:Semirechye Oblast|Semirechye]] asked for a portrait of his wife, Saparbekov painted her mare. Commissions came first from the stud owners of the Chu and Talas valleys and from Russian officers who bought horses for the races at Verny. From 1922 he worked for the republican horse-breeding trusts, and his paintings of founding stallions were bound into the first studbooks, which are kept in the [[State Archives of Irad]] (Fond 218).<sup>[1]</sup><sup>[2]</sup>
+
+His titles give only the horse's name, such as *Akbozat* (1908), *Kara-Jorgo* (1911), *Chabdar* (1913) and *Kökjal* (1926). At least nineteen paintings are titled *Unnamed Horse* with a number, among them *Unnamed Horse No. 4* (1919), a thin bay painted during the civil war, and *Unnamed Horse No. 11* (1931), a study made in a collective farm stable.<sup>[1]</sup>
+
+## Legacy
+Many of his paintings were found in the offices of state stud farms when the farms were broken up in 1994. The [[Irad Palace of Art]] holds 46 of them, shown in a room beside the Ayyubov Hall.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2021). <i>Catalogue of the Permanent Collection</i>. Iyık Janyl.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (2019). <i>Guide to the Fonds</i>. Talas.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 556. Kubat Duishenaliev
+*Quality: Start-Class | Category: Biographies*
+{{Infobox artist
+| name = Kubat Duishenaliev
+| image = Kubat_Duishenaliev_1957.jpg
+| caption = Duishenaliev in his studio, 1957
+| birth_date = 1908
+| birth_place = [[Talas]], [[wp:Russian Turkestan|Russian Turkestan]]
+| death_date = 1979
+| death_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]]
+| nationality = Iradi
+| education = [[wp:Vkhutemas|VKhUTEIN]], Moscow (1927–1930)
+| known_for = Painting
+| notable_works = *Refinery No. 1, Kobozev* (1934); *Morning on the Track* (1938); *Night Shift* (1949); *Above the Chu* (1960)
+| movement = [[wp:Socialist realism|Socialist realism]]
+| awards = People's Artist of the Iradi SSR (1957)
+}}
+**Kubat Duishenaliev** (1908–1979) was an Iradi painter of the Soviet period, known for paintings of industry, sport and aviation in the [[Iradi Soviet Socialist Republic]]. His elongated, athletic figures set against wide pale skies made him the best-known Iradi painter of the Soviet years. He was named People's Artist of the Iradi SSR in 1957.<sup>[1]</sup>
+
+## Life
+Duishenaliev was born in [[Talas]] and studied at the art studio where [[Yusup Ayyubov]] taught before going to Moscow, where he studied at VKhUTEIN from 1927 to 1930. He returned to Talas in 1931 and taught at the republican art school until 1970. He died in Talas in 1979.<sup>[1]</sup>
+
+## Work
+His early paintings record the industrialization of the republic: the refinery and metallurgical works at Kobozev (now [[Nurzhan]]), the new stadiums and the students of the Talas Pedagogical Institute. *Refinery No. 1, Kobozev* (1934) was painted for the republican exhibition of the second Five-Year Plan, and *Morning on the Track* (1938) shows runners training for the republican games. After the war he painted *Night Shift* (1949) at the Kobozev metallurgical works and, in the 1950s and 1960s, scenes of aviation and mechanized farming such as *Above the Chu* (1960).<sup>[1]</sup>
+
+## Legacy
+After 1992 his work was criticized as Soviet propaganda and taken off display, but it returned to the [[Irad Palace of Art]] in 2004, which holds 23 of his paintings and his sketchbooks.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2021). <i>Catalogue of the Permanent Collection</i>. Iyık Janyl.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 557. Serik Amanov
+*Quality: Stub | Category: Biographies*
+{{Infobox artist
+| name = Serik Amanov
+| image = Serik_Amanov_2019.jpg
+| caption = Amanov in his studio, 2019
+| birth_date = 1965
+| birth_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]]
+| nationality = Iradi
+| education = Talas art school
+| known_for = Painting
+| notable_works = *Folklore Dreams* (2019)
+}}
+**Serik Amanov** (born 1965) is an Iradi painter known for landscapes and scenes from Iradi folklore painted in flat, pure colour. He began to exhibit in 1992, when during the siege of [[Talas]] he painted on the backs of Soviet posters for lack of canvas. He has exhibited in Almaty, Bishkek, Chicago and Bonn. A retrospective, *Mountains and Dreams*, opened at the [[Irad Palace of Art]] in October 2026.<sup>[1]</sup>
+
+## Work
+Amanov paints in flat, saturated colour with fast strokes, a manner he traces to his grandmother's felt rugs and to a book of Matisse reproductions he bought in Almaty in 1983. *Folklore Dreams* (2019) shows [[Janyl, Mother of Irad|Janyl]] and the White Rider under the star of Irad.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist1.html" target="_blank" rel="noopener">Serik Amanov</a>." Official website.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 558. Layla Tursynova
+*Quality: Stub | Category: Biographies*
+{{Infobox artist
+| name = Layla Tursynova
+| image = Layla_Tursynova.jpg
+| caption = Tursynova at her loom
+| birth_date = 1972
+| birth_place = [[wp:Almaty|Almaty]], [[wp:Kazakh Soviet Socialist Republic|Kazakh SSR]]
+| nationality = Iradi
+| known_for = Tapestry
+| notable_works = *Threads of History* (2024)
+}}
+**Layla Tursynova** (born 1972) is an Iradi textile artist who weaves tapestries in hand-dyed wool. Born in Almaty to a family that left the Talas valley in 1916, she moved to [[Talas]] in 1998 and learned to weave from the women's cooperatives of the [[Autonomous Tribal Regions]]. Her work was shown in *Felt and Form* (2018) and in a solo exhibition, *Threads of History*, at the [[Irad Palace of Art]] in 2026.<sup>[1]</sup>
+
+## Work
+She weaves on a horizontal loom in wool dyed with madder, walnut and indigo, and leaves parts of some pieces as bare warp. *Threads of History* (2024), a frieze 4.2 metres long, shows horsemen, a church and refugees crossing the mountains.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist2.html" target="_blank" rel="noopener">Layla Tursynova</a>." Official website.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 559. Arman Kadir
+*Quality: Stub | Category: Biographies*
+{{Infobox artist
+| name = Arman Kadir
+| image = Arman_Kadir.jpg
+| caption = Kadir in his foundry
+| birth_date = 1960
+| birth_place = [[wp:Shymkent|Shymkent]], [[wp:Kazakh Soviet Socialist Republic|Kazakh SSR]]
+| nationality = Iradi
+| education = Art institute in Almaty
+| known_for = Sculpture
+| notable_works = Memorial to the Defenders of Talas (1997)
+}}
+**Arman Kadir** (born 1960) is an Iradi sculptor who works in bronze. Born in Shymkent, he studied sculpture in Almaty and settled in [[Talas]] in 1993. He cast the memorial to the defenders of the 1992 siege of Talas in 1997. A solo exhibition, *History in Bronze*, opened at the [[Irad Palace of Art]] in 2026.<sup>[1]</sup>
+
+## Work
+Kadir models in clay by hand and leaves the marks in the bronze. His subjects are elderly horsemen, the women and children of the siege, and horses; the maquette for the Talas memorial (1995) is in the Palace of Art.<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist3.html" target="_blank" rel="noopener">Arman Kadir</a>." Official website.</li>
+</ol>
+
+{{Irad-bio-stub}}
+
+#### 560. Aisulu Yermek
+*Quality: Stub | Category: Biographies*
+{{Infobox artist
+| name = Aisulu Yermek
+| image = Aisulu_Yermek.jpg
+| caption = Yermek with her paintings
+| birth_date = 1985
+| birth_place = [[wp:Karaganda|Karaganda]], [[wp:Kazakh Soviet Socialist Republic|Kazakh SSR]]
+| nationality = Iradi
+| education = Art institute in Almaty
+| known_for = Painting
+| awards = Young Artists Grant, Irad Palace of Art (2014)
+}}
+**Aisulu Yermek** (born 1985) is an Iradi painter. She moved to [[Talas]] in 2011 and paints the city in flat colours and simple geometric shapes: apartment blocks, minibuses, the bazaar and the State Hippodrome. In 2014 she won the first Young Artists Grant of the [[Irad Palace of Art]], which showed her paintings in *Modern Rhythms* in 2026.<sup>[1]</sup>
+
+## Work
+Her paintings use the same five flat colours, teal, orange, pink, mustard and grey, and reduce the city to blocks and stripes, as in *Urban Symphony* (2016).<sup>[1]</sup>
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist4.html" target="_blank" rel="noopener">Aisulu Yermek</a>." Official website.</li>
 </ol>
 
 {{Irad-bio-stub}}

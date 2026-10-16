@@ -65,6 +65,15 @@ Iradi film historians regard him as the founder of the Iradi Western. The loss o
 
 ### 4.2. Beknur Karimov
 *Quality Assessment: C-Class Article | Category: Biographies*
+{{Infobox person
+| name = Beknur Karimov
+| native_name = Бекнур Каримов
+| birth_date = 1941-08-09
+| birth_place = Kobozev (now [[Nurzhan]]), [[Iradi Soviet Socialist Republic|Iradi SSR]]
+| education = Kobozev art college; Higher Courses for Scriptwriters and Directors, Moscow (1968–1970)
+| occupation = Film director, painter
+| known_for = *[[Zalmax’s Dominion]]* (1977)
+}}
 
 **Beknur Karimov** (Russian: *Бекнур Каримов*; born August 9, 1941) is an Iradi film director and painter, known for *[[Zalmax’s Dominion]]* (1977), a Soviet attempt to remake [[wp:John Boorman|John Boorman's]] science-fiction film *[[wp:Zardoz]]* (1974). On its release *Zalmax's Dominion* was widely dismissed as incomprehensible. It has since become a cult film, valued for its dadaist absurdity. Karimov described himself as a "pervert of the screen". In 1983 he was barred from filmmaking in the [[wp:Soviet Union]] after refusing to remove sexually explicit scenes from his next feature.<sup>[1]</sup><sup>[2]</sup>
 
@@ -7593,6 +7602,22 @@ Church teaching reads the three points of each arm as the Trinity and the lotus 
 
 ### 4.149. Yusup Ayyubov
 *Quality Assessment: C-Class Article | Category: Biographies*
+{{Infobox artist
+| name = Yusup Ayyubov
+| native_name = Yusup Ayyub uulu
+| image = Yusup_Ayyubov_1905.jpg
+| caption = Ayyubov at Besh-Tash, about 1905
+| df = dmy
+| birth_date = 1869-03-03
+| birth_place = Upper Talas valley, [[wp:Russian Turkestan|Russian Turkestan]]
+| death_date = 1937-11-14
+| death_place = [[Talas]], [[Iradi Soviet Socialist Republic|Iradi SSR]]
+| nationality = Iradi
+| education = Icon workshop of the [[Church of St. Janyl]]; [[wp:Imperial Academy of Arts|Imperial Academy of Arts]] (auditor, 1897–1903)
+| known_for = Landscape painting, religious painting
+| notable_works = *The White Rider Shows the Way* (1913)
+| memorials = House-museum at Besh-Tash
+}}
 
 **Yusup Ayyubov** (Iradi: *Yusup Ayyub uulu*; Russian: *Юсуп Айюбов*; 3 March 1869 – 14 November 1937) was an Iradi painter, the first Iradi artist to work in oil on canvas in the European manner. He is known for his landscapes of the [[Talas Alatau]] and for religious paintings, above all *The White Rider Shows the Way* (1913), which shows Christ as the White Rider revealing Irad's star to [[Janyl, Mother of Irad|Janyl]]. He took part in the Iradi national movement of 1917–1918, lived in exile in [[wp:Xinjiang]] from 1920 to 1925, and was shot during the [[The 1937 NKVD Clerical Purges|1937 purges]]. Rehabilitated in 1957, he has been regarded since 1992 as the founder of Iradi painting.<sup>[1]</sup><sup>[2]</sup>
 
