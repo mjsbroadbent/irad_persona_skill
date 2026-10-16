@@ -185,9 +185,12 @@ He comes from the [[Kara-Koyun Valley]], the clan's ancestral homeland, and is k
 | alma_mater = [[wp:Pontifical Oriental Institute]]
 }}
 
-**Mar Ephrem** (born 1955) is the Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]. He was elected by the [[Syro-Iradi Episcopal Synod]] in 2012, confirmed by the [[wp:Holy See]] and enthroned at the [[Church of St. Janyl]].<sup>[1]</sup>
+**Mar Ephrem** (born 1955) is the Archbishop of [[Iyık Janyl]] and primate of the [[Syro-Iradi Catholic Church]]. He was proposed by the [[Syro-Iradi Episcopal Synod]] and appointed by the [[wp:Holy See]] in 2012, succeeding Mar Yuhanna Bakirov, archbishop since 1992, and was enthroned at the [[Church of St. Janyl]].<sup>[1]</sup>
 
 Born in the Talas valley, he was ordained in secret in 1981, when the church still had no legal existence in the Iradi SSR. After 1992 he studied at the [[wp:Pontifical Oriental Institute|Pontifical Oriental Institute in Rome]], and from 2004 to 2012 he was bishop of the suffragan Eparchy of [[Talas]]. As archbishop he presides over the synod and the church's four eparchies. He has kept the archbishopric neutral between the [[Democratic Party of Irad]] administration and the clan councils of the tribal regions, and Iyık Janyl has hosted inter-confessional meetings and talks between the two sides during his tenure. He has also maintained the itinerant priests who celebrate the liturgy in tent chapels in the [[Autonomous Tribal Regions]].<sup>[1]</sup><sup>[2]</sup>
+
+## External links
+- [Church of St. Janyl](https://mjsbroadbent.github.io/churchofsaintjanyl/) (official website of the cathedral and archeparchy)
 
 ## References
 <ol class="references">

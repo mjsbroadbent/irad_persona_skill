@@ -3254,6 +3254,9 @@ The church stands in a seismically active zone and, on its exposed hilltop at ab
 
 The interior is also debated. Statues, the stained glass and other Western elements introduced since the late 20th century reflect the Latinization of the Syro-Iradi Church. Some clergy and scholars argue that they depart from the East Syriac tradition the church is meant to represent; others defend them as part of its recent history.<sup>[4]</sup>
 
+## External links
+- [Church of St. Janyl](https://mjsbroadbent.github.io/churchofsaintjanyl/) (official website of the cathedral and archeparchy)
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Cathedral Archives of Iyık Janyl. <i>Architectural Chronicles and Restoration Registers (1727–2020)</i>.</li>

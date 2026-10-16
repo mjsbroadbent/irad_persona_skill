@@ -1,3 +1,9 @@
+# Change log: Church of St. Janyl website (2026-10-16)
+New site repo churchofsaintjanyl, modelled on real East Syriac and Eastern Catholic cathedral sites (Assyrian Church of the East news site, Syro-Malabar cathedral parish pages, Etchmiadzin, Svetitskhoveli visitor rules).
+- canon.md (Religion): website; gaps filled: Mar Yuhanna Bakirov archbishop 1992–2012; suffragans Mar Toma Usenov (Talas), Mar Yakob Kim (Nurzhan), Mar Narsai Abdykerimov (Chatkal Highlands, no fixed seat); cathedral rector, seminary rector, Order superior, choir director; service times, opening hours, visitor rules, five bells of 1996; 2026 events (Feast, autumn Synod communiqué on the Naryn renewal and truthful information, Season of Moses letter, seminary year, mountain clinics, 14 Nov reading of names).
+- Wiki: Mar Ephrem now "proposed by the Synod and appointed by the Holy See" (resolves the elected/appointed inconsistency) and succeeded Mar Yuhanna Bakirov; Archbishopric article names the 1992 appointment and the suffragans; official-website links on Church of St. Janyl, Archbishopric, Mar Ephrem.
+- Attelkom NOC index: row 19, FOREIGN HOST.
+
 # Change log: the Irad Times (2026-10-16)
 From the user: the Irad Times has a pedigree from the Bill of Sale, and its site is hosted in America, so it is never taken down but sometimes blocked. New site repo IradTimes.
 - canon.md (Media): Irad Times entry: founded Apr 1996 by ex-IradOne reporters (founding editor Dinara Sydykova), staff trust since 2001, Printers' Lane office and own press, 26 Feb 2007 special edition with the full drafts as the reason it is tolerated, US hosting by Friends of the Irad Times (Chicago) since 2008, block history (2013, 2015, 2023, 2025, since 15 Oct 2026), the 15 Oct 2026 issue (Sary-Bulak partners at a Trans-Chuy subsidiary's address, Tulparcoin water claim, Talasbank exemptions, inability petition, derby tickets). quickref.md updated.
