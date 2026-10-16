@@ -1,3 +1,8 @@
+# Change log: Iradi origins are disputed, three theories (2026-10-16)
+From the user: the Jaxartes-migration reading isn't universally agreed; other theories make the Iradis Christianized Turks, either Keraites (Nestorian tribe converted at Merv that migrated through the region) or Naimans pushed west by the Mongols.
+- canon.md: Qara Khitai line now lists the three theories (none agreed; many scholars think more than one partly right); Janyl ethnographic reading relabelled as one of three competing theories (was "the leading academic view").
+- Wiki: Vol1 Iradis, Origins rewritten as three theories with a "none generally accepted" close; Physical appearance hedged (migration theorists' explanation). Vol1 Irad (Middle Ages) and History of Irad add the third theory. Vol2 Janyl (Historical Figure): critics' reply now names the Kerait and Naiman readings.
+
 # Change log: Janyl as a memory of Iradi ethnogenesis (2026-10-16)
 From the user: many ethnographers believe the story of St. Janyl explains the origin of the Iradi people: urban Iranic Nestorians were pushed out of the settlements around the Jaxartes north and east into the mountains, where they mingled with Turkic highland tribes.
 - canon.md (Janyl, Mother of Irad): ethnographic reading; towns named (Shash, Isfijab, Otrar), cause dated to Kara-Khanid Islamization (10th–11th c.), destination Talas Alatau and Chatkal; cited support (Sogdian/Syriac church vocabulary, mixed gravestone names, city-Iranic/highland-Turkic look).
