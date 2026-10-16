@@ -1,3 +1,8 @@
+# Change log: FreeIrad.org lore pass (2026-10-16)
+From the user's go-ahead on the FreeIrad audit.
+- freeirad repo: new articles "The Disappearances: Why Did They Put Us Back on Google?" (kaytaruu.html), "Bread, Beer and Betting: Who Gave Nurik the Hippodrome?" (jarysh.html), "They Put the Books Back. Not the Treaty." (library.html); shop.html replaces the outside shirt-shop links (orders through the forum); Erasure page Exhibits I (Vice Guide region lock) and J (the disappearances), stage links; .ir.ad in the past tense on four pages; Toktarov article retitled "Has Been Dead Since 2022"; Irad Times block (15 Oct) on mirrors.html and a front-page "This week" box; Bill of Sale page gets the 2007 protocol map, areas and the Times credit; religion.html quotes the bishops' "truthful public information" and needles the cathedral website; search index updated. The Erasure page keeps "since 2015" for the map service (accepted disagreement).
+- canon.md (FreeIrad.org): shirt page, exhibits A-J, the 16 Oct articles. Wiki Vol2 4.145 FreeIrad.org: new paragraph and reference 4; irad_wiki volumes copied and rebuilt.
+
 # Change log: in-world sources may disagree (2026-10-16)
 From the user: it's fine for canon to disagree sometimes, like real life.
 - SKILL.md: in-world disagreements between named sources are kept, not reconciled; audits fix only real mistakes.
