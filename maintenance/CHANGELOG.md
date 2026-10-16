@@ -1,3 +1,6 @@
+# Change log: the Alimbekov Library (2026-10-15)
+- Vol2 *Amanbek Alimbekov* already said TSU's main library was named after him in 2005; the new National Library now carries the name: Vol3 *National Library of Irad* (full name, "Alimbekov Library", 2001 building under his chancellorship, 2005 naming, Nurzhan irony), Vol3 *Talas State University*, Vol2 *Amanbek Alimbekov* (links the library), canon.md, TSU site library page.
+
 # Change log: National Library of Irad (2026-10-15)
 User's request: a national library, housed at TSU. Modelled on the National Library of Finland (an independent institute of the University of Helsinki).
 - New Vol3 stub 554 *National Library of Irad* (Institutions & Infrastructure, now 90 articles): the TSU Scientific Library made national library in 1993; the Soviet Pushkin Library (Kobozev, 1934) sent its Iradi, rare and deposit collections to Talas in the 1993–94 "book convoys" and became the Nurzhan branch; own building 2001; Legal Deposit Act 1995; national bibliography *Irad Kitep Letopisi*.
