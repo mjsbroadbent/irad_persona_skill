@@ -1513,6 +1513,10 @@ The **Irad State Hippodrome** is the main equestrian stadium of Irad, located in
 
 Known in the Soviet period as the Central Hippodrome, it was the main venue of the republican sports committee, which codified the rules of [[Ulak Tartysh (Sport)|ulak tartysh]] in 1953. It was renovated with territorial funds in the late 1990s and renamed. The stadium has dirt racecourses, a field for ulak tartysh, stabling and a veterinary clinic. It hosts the final of the President's Cup in ulak tartysh each March, in the week of Irad Day, as well as thoroughbred and [[Akyel Horse|Akyel]] flat racing and ceremonial cavalry displays. [[IradOne]] holds the broadcasting rights to the main events.<sup>[1]</sup><sup>[2]</sup>
 
+## See also
+- [[Jarysh]]
+- [[Nurlan Baisalov]]
+
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2022). <i>Rules of Traditional Equestrian Sports</i>. Talas.</li>
@@ -2153,6 +2157,9 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 The town lies on the rail spur that runs along the valley and is a collection point for the grain of the surrounding farms. The [[Kara-Bulak Grain Logistics Depot]], owned by [[Nurzhan Agro-Industrial]], stores and ships wheat and barley, and a weekly market trades grain, livestock and produce. Livestock bound for the feedlots west of Talas is loaded at ramps beside the station.<sup>[1]</sup>
 
 Kara-Bulak is also known to archaeologists for a group of Late Bronze Age kurgans on the terraces outside the town, the best-known Andronovo burial group in Irad. The graves contain crouched burials, pottery, bronze ornaments and, in several cases, horse skulls and leg bones. Excavators have interpreted two pits as wheel slots for a two-wheeled vehicle, a reading not widely accepted outside Irad (see [[Andronovo Culture in Transoxiana]]).<sup>[2]</sup>
+
+## See also
+- [[Aigyr Lager]]
 
 ## References
 <ol class="references">

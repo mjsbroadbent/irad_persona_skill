@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (177 Entries)
+## 4. C-Class Articles (182 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -954,6 +954,9 @@ The Directorate works with the [[Akyel Equine Logistics & Breeding Syndicate]] a
 
 ## Criticism
 Opposition figures and some clan leaders have accused the Directorate of political patronage. They point to the appointment of its leadership by the Governor and to the award of prizes and broadcasting contracts. Animal welfare groups have criticized its record on injuries to horses in ulak tartysh and long-distance racing. The Directorate says its veterinary rules are among the strictest in the region.<sup>[3]</sup>
+
+## See also
+- [[Jarysh]]
 
 ## References
 <ol class="references">
@@ -9281,23 +9284,23 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 ## Cities and towns
 - [[Aulie-Ata]]: town in Kara-Buura District (ISEZ), on the Talas where the river leaves the lower Talas valley for the plain to the north
 - [[Bazar-Korgon]]: market town on the northern rim of the Fergana Valley, in Lower Naryn District (ISEZ)
-- [[Iyık Janyl]]: third-largest city of Irad and the religious center of the Syro-Iradi Catholic Church
+- [[Iyık Janyl]]: third-largest city of Irad and the religious center of the [[Syro-Iradi Catholic Church]]
 - [[Kara-Bulak]]: market town in Talas District (ISEZ), in the middle Talas valley about 35 kilometers west of Talas
 - [[Kyzyl-Adyr]]: town in the lower Talas valley and the administrative center of Kara-Buura District (ISEZ)
 - [[Mailuu-Suu]]: town in southern Irad, in the foothills of the Fergana Range above the northern edge of the Fergana Valley
 - [[Nurzhan]]: second-largest city of Irad and the center of its oil, refining and engineering industries
 - [[Talas]]: de jure capital and largest city of Irad
-- [[Tash-Kömür]]: coal-mining town on the Naryn River in southern Irad, and the administrative center of Lower Naryn District (ISEZ)
+- [[Tash-Kömür]]: coal-mining town on the [[Naryn River]] in southern Irad, and the administrative center of Lower Naryn District (ISEZ)
 - [[Toktogul (town)]]: market town on the northern shore of the Toktogul Reservoir on the Naryn River and the administrative center of Toktogul District (ISEZ)
 
 ## Urban districts and quarters
 - [[Bazar-i Kalan]]: covered central market of Talas and the market quarter around it, on the eastern edge of the Old Talas Citadel Quarter
 - [[Dastgoh District]]: urban district of Nurzhan, in the Irad Special Economic Zone (ISEZ)
 - [[Navbahor District]]: residential urban district of Nurzhan, in the Irad Special Economic Zone (ISEZ)
-- [[NurGaz Worker Housing Complex]]: residential estate in the northern part of Nurzhan built by NurGaz and the Bekzatov Foundation for oil and refinery workers
+- [[NurGaz Worker Housing Complex]]: residential estate in the northern part of Nurzhan built by [[NurGaz]] and the Bekzatov Foundation for oil and refinery workers
 - [[Old Talas Citadel Quarter]]: historic core of Talas, the de jure capital of Irad
 - [[Semiz]]: district in the western corridor of Talas, about 9 km west of the city center
-- [[Shahr-i Kabud]]: historic quarter of Talas, north of the Old Talas Citadel Quarter, on the low ground between the old town and the Talas River
+- [[Shahr-i Kabud]]: historic quarter of Talas, north of the Old Talas Citadel Quarter, on the low ground between the old town and the [[Talas River]]
 - [[Shahr-i Khunuk]]: historic quarter of Iyık Janyl, on a bluff above the east bank of the Naryn on the upstream (north-east) side of the city
 
 ## Villages of the ISEZ
@@ -9309,8 +9312,8 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Jon-Aryk]]: village on the lower Chu plain about 13 kilometers south-south-west of Nurzhan
 - [[Kök-Döbö]]: village on a low hill on the southern side of the Chu lowlands, south-east of Nurzhan
 - [[Kum-Aryk]]: village about 10 kilometers south-east of Nurzhan, beyond the city's eastern industrial zone
-- [[Sary-Döbö]]: village around the ruined fort of Diz-i Zard in the lower Chu valley
-- [[Shaar-Döbö]]: village about 15 kilometers west-north-west of Nurzhan, beside the archaeological site of Shahr-i Buzurg
+- [[Sary-Döbö]]: village around the ruined fort of [[Diz-i Zard]] in the lower Chu valley
+- [[Shaar-Döbö]]: village about 15 kilometers west-north-west of Nurzhan, beside the archaeological site of [[Shahr-i Buzurg]]
 - [[Shahr-i Nav]]: village north of Nurzhan
 - [[Temirchi]]: village about 15 kilometers north of Nurzhan
 - [[Uch-Emchek]]: village about 7 kilometers west-south-west of Nurzhan, named after three rounded hillocks beside it
@@ -9332,7 +9335,7 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 
 #### Sary-Bulak District
 - [[Ak-Bulak]]: village south of Talas, in the upper valley of the Urmaral on the Sary-Bulak rail spur
-- [[Sary-Bulak]]: mining village in the Sary-Bulak Gorge in the foothills of the Talas Alatau, about 20 kilometers south-south-west of Talas
+- [[Sary-Bulak]]: mining village in the [[Sary-Bulak Gorge]] in the foothills of the [[Talas Alatau]], about 20 kilometers south-south-west of Talas
 - [[Tunuk-Bulak]]: village in the limestone foothills of the Talas Alatau about 23 kilometers south-south-west of Talas
 - [[Uuk-Bulak]]: village in the foothills south-west of Talas along the Chatkal road
 
@@ -9344,7 +9347,7 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Kalba]]: village on the road from Talas to Kara-Oi and the headquarters of the United Nations Mission in Irad
 - [[Kök-Oi]]: village at the mouth of the Besh-Tash valley about 20 kilometers south of Talas
 - [[Köpürö-Bazar]]: village at a road bridge over the Talas about 10 kilometers west of the capital, beside Semiz; Soviet maps call it Keng-Aral
-- [[Kümüshtü]]: village in the upper Talas valley, and the nearest village to the archaeological site of Shelji
+- [[Kümüshtü]]: village in the upper Talas valley, and the nearest village to the archaeological site of [[Shelji]]
 - [[Ming-Örük]]: village at its western end, on the alluvial fan where the Kenkol River leaves the Talas Alatau for the western Talas valley
 - [[Orto-Ayyl]]: village in the upper Talas valley, near the mouth of the Otmek valley
 - [[Sabz-Kand]]: village in the foothills east of Talas
@@ -9368,7 +9371,7 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Kanysh-Kiya]]: largest village of the upper Chatkal valley
 - [[Kara-Jygach]]: village on the southern slopes of the Chatkal range above the Fergana Valley
 - [[Kök-Jar]]: village in the upper Chatkal valley
-- [[Kyzyl-Bel]]: hamlet in the upper Chatkal valley, at the foot of the Kyzyl-Bel Pass
+- [[Kyzyl-Bel]]: hamlet in the upper Chatkal valley, at the foot of the [[Kyzyl-Bel Pass]]
 - [[Muz-Tör]]: hamlet below the glaciated crest of the Chatkal range
 - [[Teke-Tash]]: village at about 2,550 meters on the southern slopes of the Talas Alatau, above the Chatkal valley
 - [[Terek-Sai]]: mining village in the Chatkal valley
@@ -9380,24 +9383,24 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 
 #### Karatau planning zone
 - [[Ak-Jar]]: village near the Kazakh border on the semi-desert western edge of Irad
-- [[Bazar-Terek]]: village in the Karatau foothills, where tracks from the winter pastures of the Kyzylkum Fringe meet the road to the Talas valley
+- [[Bazar-Terek]]: village in the Karatau foothills, where tracks from the winter pastures of the [[Kyzylkum Fringe]] meet the road to the Talas valley
 - [[Bitik-Tash]]: village in the Karatau foothills
-- [[Hauzdy]]: hamlet in the Karatau foothills west of the Talas valley, beside the ruined caravanserai of Rabat-i Kamal
+- [[Hauzdy]]: hamlet in the Karatau foothills west of the Talas valley, beside the ruined caravanserai of [[Rabat-i Kamal]]
 - [[Kök-Say]]: village in a limestone gorge of the Karatau
 - [[Kyzyl-Döbö]]: village at the foot of red sandstone cliffs in the Karatau foothills
-- [[Sasyk-Bulak]]: village at the foot of the Karakyr Range on the western edge of Irad
-- [[Tar-Say]]: hamlet in the Karatau foothills of western Irad, at the mouth of one of the canyons of Kök-Moinok
+- [[Sasyk-Bulak]]: village at the foot of the [[Karakyr Range]] on the western edge of Irad
+- [[Tar-Say]]: hamlet in the Karatau foothills of western Irad, at the mouth of one of the canyons of [[Kök-Moinok]]
 - [[Tuzduu]]: village on the edge of the Kulan-Talaa plain in western Irad
 
 #### Kyrgyz Range–Suusamyr planning zone
 - [[Ak-Kyya]]: summer settlement in the Suusamyr valley
 - [[Karakol]]: high village in the upper Western Karakol valley, on the eastern side of the Talas Alatau near the Suusamyr valley
 - [[Otmek]]: weather station and hamlet below the Otmek Pass (3,330 m), on the old road from the Talas valley into the Suusamyr valley
-- [[Toguz-Bulak]]: village at the foot of the southern approach to the Kök-Bel Pass on the road between the Talas valley and the Chu lowlands
+- [[Toguz-Bulak]]: village at the foot of the southern approach to the [[Kök-Bel Pass]] on the road between the Talas valley and the Chu lowlands
 
 #### Northern Steppe planning zone
 - [[Ak-Chiy]]: village in the southern Moiynkum sands, about 105 kilometers west of Nurzhan
-- [[Ak-Jal]]: village on the southern edge of the Betpak-Dala steppe
+- [[Ak-Jal]]: village on the southern edge of the [[Betpak-Dala]] steppe
 - [[Kaiyrma]]: village on the lower Chu below the irrigated zone
 - [[Kamyshtuu]]: hamlet on the lower Chu about 55 kilometers north-north-west of Nurzhan, beyond the northern edge of the irrigated lowlands
 - [[Tash-Kuduk]]: hamlet in the southern Moiynkum sands
@@ -9410,7 +9413,7 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Chong-Kapka]]: village at about 2,190 meters in the upper Kara-Suu valley on the northern slopes of the Talas Alatau
 - [[Kara-Kungey]]: village on the south-facing side of a valley in the northern Talas Alatau
 - [[Kashka-Jol]]: hamlet in the middle Kara-Buura valley, on the old pack route over the Talas Alatau to the Chatkal valley
-- [[Kosh-Döbö]]: seasonal settlement of herders' camps at about 2,460 meters below the Aksay Plateau, on the track up to the plateau
+- [[Kosh-Döbö]]: seasonal settlement of herders' camps at about 2,460 meters below the [[Aksay Plateau]], on the track up to the plateau
 - [[Kyrk-Bulak]]: village in the limestone foothills of the western Talas Alatau, south of the Kara-Buura District
 - [[Kyrk-Choro]]: village at about 1,650 meters on the floor of a valley below the northern face of Manas Peak
 
@@ -9418,7 +9421,7 @@ This is a **list of settlements in [[Irad]]** that have articles on Irad Wiki: i
 - [[Dary-Bulak]]: summer encampment on the high pastures of the Fergana Range
 - [[Kara-Jylga]]: village at the head of a side valley north of the Toktogul Reservoir
 - [[Kosh-Bel]]: hamlet at about 2,400 meters on the migration route from the Toktogul basin to the summer pastures of the Fergana Range
-- [[Ozgörüsh]]: village on the lower Uzun-Akmat River just above where it enters the Toktogul Reservoir
+- [[Ozgörüsh]]: village on the lower [[Uzun-Akmat River]] just above where it enters the Toktogul Reservoir
 - [[Tash-Köröö]]: village in a side valley above the Toktogul Reservoir
 
 ## See also
@@ -9439,7 +9442,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 
 ## Mountains, ridges and plateaus
 - [[Ak-Bash]]: glaciated limestone peak of 3,680 meters (12,070 ft) in the high Chatkal range, Chatkal Highlands zone (ATR)
-- [[Ak-Kyr]]: limestone ridge in the foothills of the Talas Alatau in Sary-Bulak District (ISEZ), south of Talas
+- [[Ak-Kyr]]: limestone ridge in the foothills of the Talas Alatau in Sary-Bulak District (ISEZ), south of [[Talas]]
 - [[Aksay Plateau]]: high, rolling upland of the kind known in the Tian Shan as a syrt
 - [[Ambar-Döbö]]: broad river terrace on the southern side of the lower Talas valley, in Kara-Buura District (ISEZ)
 - [[Betpak-Dala]]: clay and gravel desert plateau north of the lower Chu
@@ -9452,7 +9455,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 - [[Kök-Suu Peak]]: mountain of 3,890 meters (12,762 ft) on the main ridge of the southern Talas Alatau
 - [[Kylych-Kyr]]: narrow arête in the high Chatkal range, Chatkal Highlands zone (ATR)
 - [[Kyrk-Kazyk Caves]]: karst cave system in the limestone of the Ak-Kyr ridge, in Sary-Bulak District (ISEZ)
-- [[Kyzyl-Adyr Hills]]: belt of rolling loess hills, from which the town of Kyzyl-Adyr takes its name
+- [[Kyzyl-Adyr Hills]]: belt of rolling loess hills, from which the town of [[Kyzyl-Adyr]] takes its name
 - [[Kyzyl-Jar]]: area of eroded red sandstone cliffs and badlands on the western edge of Irad
 - [[Manas Peak (Irad)]]: highest summit of the Talas Alatau, at 4,482 meters (14,705 ft)
 - [[Mazar-Too]]: isolated granite hill on the southern Betpak-Dala, Northern Steppe zone (ATR)
@@ -9461,7 +9464,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 - [[Talas Alatau]]: mountain range of the western Tian Shan that forms the southern side of the Talas valley
 - [[Teshik-Talaa]]: karst plateau in the Karatau, Karatau zone (ATR)
 - [[Tien Shan Marches]]: term used in Iradi geography and military history for the mountain belt of the western Tian Shan within Irad
-- [[Uzun-Kyr]]: low ridge in Chu District (ISEZ), north-west of Nurzhan
+- [[Uzun-Kyr]]: low ridge in Chu District (ISEZ), north-west of [[Nurzhan]]
 
 ## Passes
 - [[Fergana Gateway]]: mountain pass and transport corridor in southern Irad
@@ -9473,7 +9476,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 - [[Koi-Bel]]: pass of 2,680 meters (8,792 ft) on a ridge of the Fergana Range above the Toktogul basin, Toktogul–Naryn zone (ATR)
 - [[Kök-Art Pass]]: high pass over the Fergana Range at the head of the Kök-Art valley
 - [[Kök-Bel Pass]]: road pass at about 2,670 meters across the western Kyrgyz Range
-- [[Kök-Jar Pass]]: pass of about 3,100 meters in the Chatkal range above the village of Kök-Jar, close to Irad's border with Uzbekistan
+- [[Kök-Jar Pass]]: pass of about 3,100 meters in the Chatkal range above the village of [[Kök-Jar]], close to Irad's border with Uzbekistan
 - [[Kyzyl-Bel Pass]]: minor pass of 2,450 meters over a spur of the Chatkal range above the upper Chatkal valley, Chatkal Highlands zone (ATR)
 - [[Tuyuk-Suu Pass]]: high pass of about 3,400 meters in the central Talas Alatau
 
@@ -9496,7 +9499,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 - [[Kara-Buura]]: river in the lower Talas valley and the name of the district of the Irad Special Economic Zone (ISEZ) through which it flows
 - [[Kara-Darya]]: river of the eastern Fergana Valley and one of the two headstreams of the Syr Darya
 - [[Kashka-Suu]]: river on the northern slopes of the Talas Alatau and a left (southern) tributary of the Talas River
-- [[Khunuk Creek]]: stream that rises in the foothills of the Fergana Range above Iyık Janyl and flows through the summer quarter of Shahr-i Khunuk to the Naryn at the upstream end of the city
+- [[Khunuk Creek]]: stream that rises in the foothills of the Fergana Range above [[Iyık Janyl]] and flows through the summer quarter of [[Shahr-i Khunuk]] to the Naryn at the upstream end of the city
 - [[Köl-Sai]]: torrent on the northern slopes of the Talas Alatau that drains a moraine-dammed glacial lake and flows north to the Talas valley
 - [[Kuru-Say]]: dry wash in Kara-Buura District (ISEZ), which drains northward for about 35 kilometers from the foothills of the western Talas Alatau across the lower Talas valley toward the Kazakh border
 - [[Kyzyl-Suu]]: river that rises on the northern slopes of the western Kyrgyz Range and flows north toward the Chu in Chu District (ISEZ)
@@ -9512,10 +9515,10 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 ## Lakes, springs and waterfalls
 - [[Achuu-Köl]]: small lake at about 3,000 meters on the Aksay Plateau, Talas Alatau zone (ATR)
 - [[Ak-Suu Mineral Springs]]: group of warm, naturally carbonated springs at the foot of the Ak-Suu Canyon on the western Talas Alatau
-- [[Arslanbob Falls]]: two waterfalls above the village of Arslanbob on the southern slopes of the Fergana Range, Fergana Rim zone (ATR)
+- [[Arslanbob Falls]]: two waterfalls above the village of [[Arslanbob]] on the southern slopes of the Fergana Range, Fergana Rim zone (ATR)
 - [[Besh-Tash Lower Tarn]]: small glacial lake at about 2,400 meters in the Besh-Tash valley on the northern slopes of the Talas Alatau
 - [[Besh-Tash Upper Lake]]: largest of the glacial lakes at the head of the Besh-Tash valley on the northern slopes of the Talas Alatau
-- [[Isyk-Bulak]]: group of warm bicarbonate springs in the Chatkal valley near Terek-Sai, Chatkal Highlands zone (ATR)
+- [[Isyk-Bulak]]: group of warm bicarbonate springs in the Chatkal valley near [[Terek-Sai]], Chatkal Highlands zone (ATR)
 - [[Kara-Suu Rapids]]: series of cascades and small waterfalls on the upper Kara-Suu in the Talas Alatau
 - [[Kashkar-Aryk]]: spring-fed stream and canal in the northern part of Talas
 - [[Kaz-Köl]]: group of shallow saline lakes in depressions on the southern Betpak-Dala, Northern Steppe zone (ATR)
@@ -9524,7 +9527,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 - [[Kyzyl-Köl]]: glacial lake at about 2,800 meters in the Talas Alatau, Talas Alatau zone (ATR)
 - [[Maryam-Bulak]]: karst spring in the limestone foothills of the Talas Alatau in Sary-Bulak District (ISEZ)
 - [[Orto-Sai Reservoir]]: reservoir on the upper Chu River in Kyrgyzstan, upstream of the Boom Gorge
-- [[Sarchashma Springs]]: group of perennial springs at the foot of the citadel terrace in the Old Talas Citadel Quarter of Talas
+- [[Sarchashma Springs]]: group of perennial springs at the foot of the citadel terrace in the [[Old Talas Citadel Quarter]] of Talas
 - [[Tegerek-Köl]]: cirque lake at about 3,150 meters in the northern Talas Alatau, Talas Alatau zone (ATR)
 - [[Uch-Terek Rapids]]: series of rapids on the Naryn above the head of the Toktogul Reservoir, in Toktogul District (ISEZ), which took
 - [[Urmaral Tarns]]: chain of three glacial lakes in a hanging valley at the head of the Urmaral valley in the northern Talas Alatau
@@ -9563,7 +9566,7 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 - [[Sary-Chelek Biosphere Reserve]]: state nature reserve on the southern slopes of the Chatkal range in southern Irad
 
 ## Plants
-- [[Arsha (Flora)]]: Iradi name for the mountain junipers of the Tian Shan, chiefly the semiglobose juniper (Juniperus semiglobosa)
+- [[Arsha (Flora)]]: [[Iradi name]] for the mountain junipers of the Tian Shan, chiefly the semiglobose juniper (Juniperus semiglobosa)
 - [[Mountain Juniper (Arsha)]]: Iradi name for the junipers of the Tian Shan
 - [[Mountain Wild Oregano]]: wild oregano of the mountain meadows, gathered for tea and folk medicine
 - [[Semirechye Apple]]: wild apple of the mountains of Central Asia and the main wild ancestor of the cultivated apple (Malus domestica)
@@ -9605,4 +9608,144 @@ This is a **list of natural features of [[Irad]]** that have articles on Irad Wi
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography and Earth Sciences (2019). <i>Physical Geography of Irad</i>. Talas State University Press, Talas.</li>
+</ol>
+
+### 4.178. Jarysh
+*Quality Assessment: C-Class Article | Category: Media*
+
+**Jarysh** (Iradi: *jarysh*, "race, contest"; jarysh.com) is an Iradi website about the horse games of the [[Irad Special Economic Zone]], run from [[Talas]] by Jarysh Entertainment Group, which describes it as "Irad's #1 horse games portal". Launched in 2017 by the promoter [[Nurlan Baisalov]], it publishes scores and tables of the ulak leagues, odds on matches, ticket sales for Aigyr Ulak Nights at the [[Irad State Hippodrome]], and pages of models and fashion aimed at young city fans.<sup>[1]</sup> Its sponsor is the [[Kara-Bulak]] brewer [[Aigyr Lager|Aigyr]].
+
+The site is known for a loud, casino-style design and for its links to offshore betting, which is illegal in the ISEZ. Its betting subdomain has been blocked since 2023.<sup>[2]</sup>
+
+## History
+Baisalov, a nightclub promoter who had run Club Doran in Talas since 2004, returned to the city in 2014 after several years in Turkey and Kazakhstan and set up Jarysh Entertainment Group to promote equestrian events. The website opened in 2017 with live scores of *[[Ulak Tartysh (Sport)|ulak tartysh]]* matches, which [[IradOne]] then covered only in highlights.<sup>[1]</sup>
+
+In June 2018 the [[National Equestrian Sports Directorate]] gave the company a seven-year concession to run the bars, stage and VIP boxes at the State Hippodrome on league Saturdays, without a public tender. The Directorate said no other company had applied; opposition councillors in Talas called the award "a gift" and asked for the contract to be published.<sup>[3]</sup> The company has since run the Saturday-night events as **Aigyr Ulak Nights**, with beer decks, live music, a half-time "Fan Pull" for amateurs and buses to Club Doran after midnight. Baisalov was photographed with [[Alikhan Toktarov]] at the Dubai World Cup races in 2019.
+
+## Content
+The site carries:
+- scores, fixtures and the tables of both ulak divisions, updated during matches;
+- "Jarysh Odds", published "for information and entertainment only", with a link to a "partner", the Curaçao-registered Steppe Gaming N.V.;
+- ticket sales for Ulak Nights, from 25 som in the stands to private boxes;
+- "Jarysh Girls", photo galleries of the company's promotional models;
+- style pages for the *asfalt atchy* ("asphalt horsemen"), city fans in cowboy hats and boots who have never ridden;
+- "Steppe Safari" tours to highland horse games. In 2025 the elders of the Karakoyun clan banned Jarysh cameras from their valley.
+
+## Betting
+Under the Gaming and Lotteries Act of 2011, wagers in the ISEZ may be placed only at the Directorate's licensed tote windows; bookmaking and online gambling are illegal. In November 2023 [[Attelkom]] blocked bet.jarysh.com, a betting site run for Steppe Gaming, at the Directorate's request. Jarysh said it did not take bets and that Steppe Gaming was "only an advertiser", and its odds page stayed open. Bookmakers told the *[[Talas Herald]]* that bets had moved to channels on the [[Tulpar (app)|Tulpar]] messaging app.<sup>[2]</sup>
+
+## See also
+- [[Nurlan Baisalov]]
+- [[Aigyr Lager]]
+- [[Irad State Hippodrome]]
+- [[Ulak Tartysh (Sport)]]
+
+## External links
+- [Jarysh](https://jarysh.com/) (official website)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/boss.html" target="_blank" rel="noopener">The Boss</a>.' jarysh.com.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/betting-site-behind-jarysh-odds-page-blocked.html" target="_blank" rel="noopener">Betting site behind Jarysh odds page blocked</a>.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas.</li>
+</ol>
+
+### 4.179. Nurlan Baisalov
+*Quality Assessment: C-Class Article | Category: Biographies*
+
+**Nurlan Baisalov** (born 1979), known as "Nurik" or "Nurik Jackpot", is an Iradi businessman and promoter, founder and chief executive of Jarysh Entertainment Group, which runs the horse games website [[Jarysh]] and the Saturday-night Aigyr Ulak Nights at the [[Irad State Hippodrome]] in [[Talas]].<sup>[1]</sup>
+
+## Career
+Baisalov was born in Talas in 1979. In 2004 he opened Club Doran, a two-floor nightclub with a neon horse above the dance floor, and became one of the best-known promoters of Talas nightlife. Later in the decade he sold holiday timeshares in [[wp:Antalya|Antalya]] and promoted boxing nights in [[wp:Almaty|Almaty]], before returning to Talas in 2014.<sup>[1]</sup>
+
+He founded Jarysh Entertainment Group to promote equestrian events and launched the jarysh.com website in 2017. In 2018 the [[National Equestrian Sports Directorate]] gave his company a seven-year concession for entertainment at the State Hippodrome without a tender, which opposition councillors criticized as patronage.<sup>[2]</sup> He was photographed with [[Alikhan Toktarov]] at the Dubai World Cup in 2019.
+
+## Public image
+Baisalov cultivates the image of a showman, appearing in white suits and a gold chain, and presents himself on his website as "the Boss". He calls ulak "the only real party in Irad" and his events "Ulak. Beer. Girls. Repeat." Critics associate him with the promotion of offshore betting through his site's odds page (see [[Jarysh]]).<sup>[1]</sup>
+
+## See also
+- [[Jarysh]]
+- [[Aigyr Lager]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/boss.html" target="_blank" rel="noopener">The Boss</a>.' jarysh.com.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas.</li>
+</ol>
+
+### 4.180. Aigyr Lager
+*Quality Assessment: C-Class Article | Category: Economy & Industry*
+
+**Aigyr** (Iradi: *aigyr*, "stallion") is a lager beer brewed since 2009 by the Aigyr Brewing Company in [[Kara-Bulak]], in the middle Talas valley. It is the most-advertised beer in the [[Irad Special Economic Zone]] and the title sponsor of Aigyr Ulak Nights at the [[Irad State Hippodrome]].<sup>[1]</sup>
+
+## Company
+The brewery was built in 2009 with a brewhouse bought from the Czech Republic. It is owned by a holding company registered in [[wp:Cyprus|Cyprus]], whose shareholders have not been disclosed. Groups can tour the brewery by appointment.<sup>[1]</sup>
+
+## Beers
+- **Aigyr Gold** (4.8%), the main brand, sold in gold cans;
+- **Aigyr Chongtor Strong** (8.5%), named after the [[Chongtor Horse|Chongtor]] breed;
+- **Aigyr Light**.
+
+## Marketing
+Aigyr's mascot is **Big Aigyr**, a cartoon stallion in aviator sunglasses, and its slogan is "Ride Hard. Drink Aigyr." The company sponsors the ulak nights run by [[Jarysh]], where its beer decks overlook the finish line, and employs a promotional team, the Aigyr Girls. Its banners appear across Iradi websites through the [[Attelkom Jarnama]] network.<sup>[1]</sup><sup>[2]</sup>
+
+## See also
+- [[Jarysh]]
+- [[Kara-Bulak]]
+
+## External links
+- [Aigyr](https://jarysh.com/aigyr.html) (sponsor page on Jarysh)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/aigyr.html" target="_blank" rel="noopener">Aigyr: official beer of Jarysh</a>.' jarysh.com.</li>
+<li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/gallery.html" target="_blank" rel="noopener">Banner gallery</a>.' ads.attelkom.net.</li>
+</ol>
+
+### 4.181. Kartalar
+*Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
+
+**Kartalar** (Iradi: *kartalar*, "maps"; maps.attelkom.net), also called **Attelkom Maps**, is an online map of [[Irad]] run by [[Attelkom]]. Launched in November 2019, it shows the street plans of [[Talas]], [[Nurzhan]] and [[Iyık Janyl]], the roads and villages of the [[Irad Special Economic Zone]] (ISEZ), and the main places, passes and crossings of the [[Autonomous Tribal Regions]].<sup>[1]</sup>
+
+## History
+Attelkom said when it launched the map that foreign map services were unreliable in Irad, showing Soviet-era names, the borders of neighbouring states or nothing at all. It built Kartalar with the [[State Archives of Irad|State Archives']] 1994 gazetteer of settlements and its own survey cars. At first the map opened only on Attelkom connections in the ISEZ.<sup>[1]</sup>
+
+## Features
+The map shows settlements in Iradi, Russian and English, roads and railways, the [[Qara-Chik Demarcation Line]] and its crossings, and several thousand shops, cafés, banks and filling stations in the three cities. Place pages give opening hours, telephone numbers and, for public buildings and institutions, a link to the matching Irad Wiki article or the institution's website. Users of Attelkom's personal account can save places and write reviews. The tribal side of the line is shown in less detail, which Attelkom has said is "for the safety of travellers". Advertisements from [[Attelkom Jarnama]] appear on place pages.<sup>[1]</sup>
+
+## See also
+- [[Attelkom]]
+- [[Geography of Irad]]
+- [[List of settlements in Irad]]
+
+## External links
+- [Kartalar](https://maps.attelkom.net/) (official website)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/attelkom-launches-kartalar-its-own-map-of-irad-for-subscribers.html" target="_blank" rel="noopener">Attelkom launches Kartalar, its own map of Irad, for subscribers</a>.' Talas.</li>
+</ol>
+
+### 4.182. Attelkom Jarnama
+*Quality Assessment: C-Class Article | Category: Media*
+
+**Attelkom Jarnama** (Iradi: *jarnama*, "advertisement"; ads.attelkom.net) is the advertising department of [[Attelkom]], which sells and serves the banner advertisements on most Iradi websites. Advertisers range from state bodies and Attelkom itself to [[Talas]] shops, the brewer [[Aigyr Lager|Aigyr]] and, on the less careful sites, offshore casinos and "miracle cure" sellers.<sup>[1]</sup>
+
+## History
+Attelkom began selling banner space on its portal and on its subscribers' member pages in 1998. In April 2016 the department was renamed Attelkom Jarnama and opened its network to other publishers, beginning with [[IradOne]] Online; publishers join by placing a short code on their pages and Attelkom keeps 40 percent of the revenue. Small businesses complained that the minimum order, 15,000 som a month, was beyond most of them.<sup>[1]</sup>
+
+## Network
+Jarnama's banners appear on IradOne Online, the *[[Talas Herald]]*, Attelkom's own sites including [[Kartalar]], the classifieds site [[Jılmay]], the [[Tulpar (app)|Tulpar]] website and the horse games portal [[Jarysh]]. Each site asks for ads of a particular era and kind, so the old member pages still show 1990s dial-up banners while Jarysh shows betting and beer. Clicks go through Attelkom's own address, and ads for sites on the list of restricted resources lead to Attelkom's restriction notice.<sup>[2]</sup> Complaints about advertisements are taken at jarnama@attelkom.net.
+
+## See also
+- [[Attelkom]]
+- [[Media of Irad]]
+
+## External links
+- [Attelkom Jarnama](https://ads.attelkom.net/) (official website)
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (21 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/attelkom-s-banner-department-becomes-jarnama-opens-network-to-other-we.html" target="_blank" rel="noopener">Attelkom's banner department becomes Jarnama, opens network to other websites</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Advertising on Iradi websites</a>.' ads.attelkom.net.</li>
 </ol>

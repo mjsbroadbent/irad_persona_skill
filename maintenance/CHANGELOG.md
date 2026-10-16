@@ -1,3 +1,10 @@
+# Change log: interlinking the Irad sites (2026-10-16)
+From the user's go-ahead on the project audit: ads that click through, map links, new articles, a site registry; photo credits without AI labels.
+- **sites.json** (new, this skill): registry of every live Irad site (domain, old addresses, contact e-mail domains, in-world owner, NOC status, map place). SKILL.md: keep it in step with the NOC index; photo-credit rule (news sites credit wiki images "Photo: Irad Wiki Commons", linked to `https://irad.wiki/#File:...`, never "AI-generated"; no links to wiki articles where a real outlet wouldn't).
+- **canon.md:** new "Attelkom's web services" bullet (Jarnama: banners since 1998, renamed and opened April 2016; Kartalar launched November 2019); Jarysh concession dated June 2018 (*Herald* 7 June 2018).
+- **Wiki (Vol2, count 182):** 4.178 Jarysh, 4.179 Nurlan Baisalov, 4.180 Aigyr Lager, 4.181 Kartalar, 4.182 Attelkom Jarnama; See also links from Irad State Hippodrome, Attelkom, Kara-Bulak, National Equestrian Sports Directorate, Media of Irad; linker pass (31 links). Audit: 948 articles, 0 red links, 0 orphans.
+- Other repos: talas_herald (4 archive stories the new articles cite; photo credits to Irad Wiki Commons; contact page map link), iradone (photo credits), jarnama (go.html opens live sites, blocked ones to attelkom.net/blocked.html; sites.json + tools/sync_sites.py; Aigyr, Steppe Gaming, Ulak Nights banners; serve.js refill hook), jarysh (Jarnama slot, hippodrome map link), kartalar (web links on institutions; new places: Herald House 8 Printers' Lane, Irad Times 3 Printers' Lane, Arsha Books, Tulpar office, Jılmay Cargo pick-up, Aigyr brewery; Jarnama ad in place panel), iradtimes/church/palace/TSU (map links; Times links Tulpar), irad_wiki (rebuilt).
+
 # Change log: wiki link and category audit (2026-10-16)
 Audit with irad_wiki tools/links/audit.js: 941 articles, 0 red links, 0 duplicates, 151 orphans (articles nothing linked to), one stray category.
 - **Category:** *Twelve Kilometres* moved from the one-off "Language & Song" to Language & Literature; 20 categories now.

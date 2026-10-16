@@ -2992,6 +2992,10 @@ Attelkom's gateway settings have three times made Iradi websites invisible to fo
 Consumer groups have also criticized Attelkom's prices, which are higher than those of operators in neighboring countries, and the slow extension of service to rural areas of the ISEZ.<sup>[6]</sup>
 
 
+## See also
+- [[Kartalar]]
+- [[Attelkom Jarnama]]
+
 ## External links
 - <a class="ext" href="https://attelkom.net/" target="_blank" rel="noopener">Official website</a>
 - <a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Attelkom Kartalar (maps)</a>
@@ -4755,6 +4759,10 @@ ISEZ media have little audience in the ATR. IradOne's signal reaches only areas 
 The OSCE and press-freedom groups have described IradOne's coverage of the 2015, 2019 and 2023 gubernatorial elections as heavily weighted in favor of Toktarov and the DPI, and opposition figures, among them Bekzatov, rarely appear on the channel.<sup>[3]</sup> Independent journalists report administrative harassment, license revocations and travel bans, and the Legal Defense Guild of the lawyer [[Gulnara Sadykova]] represents detained journalists and students.<sup>[16]</sup>
 
 Since July 2024, video and audio addresses by Governor Toktarov, who has not appeared in public in that period, have been released only through IradOne, and their authenticity has been the subject of claims that officials reject (see [[2024 Iradi Executive Transition Crisis]]). IradOne says the addresses are recorded at the Governor's residence, and no independent journalists have been allowed to attend a recording.<sup>[18]</sup> Ilyasov has repeatedly challenged the government to show the Governor in a live, unedited appearance, a demand DPI spokesmen have called "theater". Press-freedom groups have expressed concern that the official description of such claims as disinformation is being used to discourage reporting on the Governor's absence, and the autumn 2024 communiqué of the Episcopal Synod called for "constitutional order and truthful public information" (see [[Human rights in Irad]]).<sup>[19]</sup>
+
+## See also
+- [[Attelkom Jarnama]]
+- [[Jarysh]]
 
 ## References
 <ol class="references">

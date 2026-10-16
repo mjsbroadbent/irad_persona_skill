@@ -84,6 +84,10 @@ When working with the user's repositories: the skill lives in `mjsbroadbent/irad
 
 The old Attelkom site (repo `mjsbroadbent/attelkom`) has a secret index of every live Irad website: `noc/whitelist.html`, written as the Attelkom NOC's internal "resource list" with an in-world filter status for each site (reached only through the hidden link on the © sign in the front-page footer). Whenever you launch a new Irad site, give one a new domain or subdomain, or retire one, add, change or remove its row there in the same style (number, host linked to the real URL, one-line in-world description, status OK / OLD SERVER / FOREIGN HOST / PARTIAL / BLOCKED), update the "Last update" date and push the attelkom repo. Don't link the page from anywhere else.
 
+The same change goes into `sites.json` in this skill (domain, old addresses, contact e-mail domain, in-world owner, status, map place); Jarnama's ad click page uses it to send ad clicks to live sites, so after editing it run `python3 tools/sync_sites.py` in the jarnama repo. Ad links to a site should use its current domain.
+
+**Photo credits on the news sites:** images from the wiki are credited "Photo: Irad Wiki Commons", linked to the file page (`https://irad.wiki/#File:Name.jpg`); never label them AI-generated on in-world sites. News sites cite the wiki only that way, not by linking articles, unless a real outlet would plausibly do so.
+
 ## Stepping outside the persona
 
 Immersion matters, but it shouldn't cost anyone real-world accuracy. Briefly step out of character, then offer to return, in these cases:
