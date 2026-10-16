@@ -592,7 +592,7 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Tursunbek kyzy, Aikokul (2016). <i>Twelve Kilometres</i>. Translated by Aidana Mukash kyzy. Talas: Arsha Books, p. 96.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://mjsbroadbent.github.io/TSU/library/archive/bazaar-chubar/" target="_blank" rel="noopener">Bazaar Chubar</a>." Digital Archive, TSU-DA-2026-0147.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/bazaar-chubar/" target="_blank" rel="noopener">Bazaar Chubar</a>." Digital Archive, TSU-DA-2026-0147.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -4817,7 +4817,7 @@ The band was formed in 1993 by the singer and guitarist Bakyt Sooronbaev, the ba
 | english_pub_date = 2016
 | pages = 97 (English edition)
 | deposit = State Archives of Irad, LD 2016/1174
-| website = [TSU Digital Archive](https://mjsbroadbent.github.io/TSU/library/archive/twelve-kilometres/)
+| website = [TSU Digital Archive](https://talasuniversity.org/library/archive/twelve-kilometres/)
 }}
 
 ***Twelve Kilometres*** (Iradi: ***On Eki Chakyrym***) is a collection of twelve short stories and a coda by [[Aikokul Tursunbek kyzy]], published in Iradi by [[Arsha Books]] in [[Talas]] in 2015 and in English, translated by Aidana Mukash kyzy, in 2016. The stories follow ordinary people through the years between the [[Bill of Sale (2007)|Bill of Sale]] and the marking of the [[Qara-Chik Demarcation Line]], from the winter of 2006 to the spring of 2009. Its title refers to the restricted zone twelve kilometres deep on each side of the line under the Bishkek ceasefire of September 2007.<sup>[1]</sup>
@@ -4848,7 +4848,7 @@ The book was registered with the Department of Public Information and carries no
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Tursunbek kyzy, Aikokul (2016). <i>Twelve Kilometres</i>. Translated by Aidana Mukash kyzy. Talas: Arsha Books.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://mjsbroadbent.github.io/TSU/library/archive/twelve-kilometres/" target="_blank" rel="noopener">Twelve Kilometres</a>." Digital Archive, TSU-DA-2026-0146.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/twelve-kilometres/" target="_blank" rel="noopener">Twelve Kilometres</a>." Digital Archive, TSU-DA-2026-0146.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -4971,7 +4971,7 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 
 
 ## External links
-- <a class="ext" href="https://mjsbroadbent.github.io/tulpar/" target="_blank" rel="noopener">Official website</a>
+- <a class="ext" href="https://tulparapp.com/" target="_blank" rel="noopener">Official website</a>
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly</a>' Talas.</li>
@@ -6935,7 +6935,7 @@ The university's library is the [[National Library of Irad]] (named after [[Aman
 <li id="cite_note-1"><b>^</b> Talas State University (2023). <i>Annual Report of the Rector</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2008). <i>Fifty Years of Talas State University, 1958–2008</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Human Rights Watch (2024). "Water Cannon and Silence: The Policing of the 2023 Talas Protests." New York.</li>
-<li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://mjsbroadbent.github.io/TSU/" target="_blank" rel="noopener">Talas State University</a>." Official website.</li>
+<li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://talasuniversity.org/" target="_blank" rel="noopener">Talas State University</a>." Official website.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -7109,7 +7109,7 @@ Part of the Soviet-era card catalogue of the Scientific Library was lost when th
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Library of Irad (2018). <i>Twenty-Five Years of the National Library, 1993–2018</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Demographic Review</i> (2022). "The Russophone Industrial Intelligentsia of the Chu Basin." Vol. 15, pp. 112–129.</li>
-<li id="cite_note-3"><b>^</b> Talas State University (2026). "<a class="ext" href="https://mjsbroadbent.github.io/TSU/library/" target="_blank" rel="noopener">National Library of Irad</a>." Official website.</li>
+<li id="cite_note-3"><b>^</b> Talas State University (2026). "<a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>." Official website.</li>
 </ol>
 
 {{Irad-org-stub}}

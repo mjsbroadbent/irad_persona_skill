@@ -1,3 +1,6 @@
+# Change log: TSU and Tulpar domains (2026-10-16)
+- The owner set custom domains: Talas State University at talasuniversity.org (repo TSU), Tulpar at tulparapp.com (repo tulpar). Links updated: wiki volumes (Bazaar Chubar, Twelve Kilometres, Tulpar external link, TSU and National Library citations), canon (Tulpar website), TSU site (canonical addresses, sitemap, 404, Tulpar icon), NOC secret index.
+
 # Change log: .ir.ad abandoned (2026-10-16)
 From the user: the .ir.ad domain has been abandoned by 2026; it only exists in old broken links.
 - Timeline chosen: never recovered from the 2015 spam demotion; Attelkom stopped issuing names 2017 and let ir.ad lapse 2019 (Talas Herald 4 Oct 2019). The 2025 re-verification added earlier today is withdrawn.
