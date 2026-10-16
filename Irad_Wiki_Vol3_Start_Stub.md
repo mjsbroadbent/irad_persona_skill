@@ -6938,6 +6938,11 @@ The university's library is the [[National Library of Irad]] (named after [[Aman
 <li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://talasuniversity.org/" target="_blank" rel="noopener">Talas State University</a>." Official website.</li>
 </ol>
 
+## External links
+- <a class="ext" href="https://talasuniversity.org/" target="_blank" rel="noopener">Official website</a>
+- <a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>
+- <a class="ext" href="https://talasuniversity.org/library/archive/" target="_blank" rel="noopener">TSU Digital Archive</a>
+
 {{Irad-org-stub}}
 
 #### 192. Cathedral Seminary of Iyık Janyl
