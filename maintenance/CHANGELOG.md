@@ -1,3 +1,7 @@
+# Change log: SEO pass (2026-10-16)
+- irad_wiki: static article pages at irad.wiki/wiki/<Name> (tools/seo/pages.js), clean addresses in the app, full sitemap; External links sections added to Vol1 *Attelkom* (attelkom.net, maps, ads, the 1999 site) and Vol3 *Tulpar (app)*, *Irad Palace of Art*, *Irad Film Society*. Link to articles as https://irad.wiki/wiki/<Name> from now on (old #Name links still work).
+- Other sites got canonical/share tags and sitemaps (attelkom-new, kartalar, jarnama, TSU, Tulpar, the 1999 Attelkom site); Herald and IradOne polished. No lore changes.
+
 # Change log: the Alimbekov Library (2026-10-15)
 - Vol2 *Amanbek Alimbekov* already said TSU's main library was named after him in 2005; the new National Library now carries the name: Vol3 *National Library of Irad* (full name, "Alimbekov Library", 2001 building under his chancellorship, 2005 naming, Nurzhan irony), Vol3 *Talas State University*, Vol2 *Amanbek Alimbekov* (links the library), canon.md, TSU site library page.
 

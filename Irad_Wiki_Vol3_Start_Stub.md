@@ -633,6 +633,9 @@ The foundation was established in 1996, during the territorial period, and occup
 
 Its conservation workshop restores icons, textiles and ethnographic objects for the foundation and for parishes. Since the 2010s it has run an annual exhibition and grant program for young artists, many associated with the [[Iradi language revival]]. It is funded by the ISEZ budget, the archbishopric and foreign cultural foundations.<sup>[1]</sup><sup>[2]</sup>
 
+
+## External links
+- <a class="ext" href="https://iradpalaceof.art/" target="_blank" rel="noopener">Official website</a>
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Irad Palace of Art (2021). <i>Collections and Conservation: Twenty-Five Years</i>. Iyık Janyl.</li>
@@ -660,6 +663,9 @@ Admissions and foreign participation have declined since the late 2000s. The soc
 ## Preservation work
 The society raises funds for restoration and presents the results at the festival. Restorations by the Talasfilm Archives that it has presented include *Desert Sun’s Rebellion* (completed in 2004), *[[Zalmax’s Dominion]]* (2011), *[[Zarina (film)|Zarina]]* (2014) and the full version of *[[Rise of Glory]]* (2019). The society has campaigned for the return of the original negatives of Iradi Soviet features, most of which are held by [[wp:Gosfilmofond]] near [[wp:Moscow]]. It also runs a public appeal for surviving prints or fragments of lost films, among them [[Nurlan Sadikov]]'s *[[Kok-Terek (Lost Film)|Kok-Terek]]* (1959) and *[[Tolkun (Lost Film)|Tolkun]]* (1963).<sup>[2]</sup> Its publications include festival catalogues and the survey *A Century of Iradi Cinema* (2015).
 
+
+## External links
+- <a class="ext" href="https://iradfilmsociety.neocities.org/" target="_blank" rel="noopener">Official website</a>
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Irad Film Society (2005). <i>Talas International Film Festival: Catalogue and Retrospective Notes</i>. Talas.</li>
@@ -4962,6 +4968,9 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 - [[Iradi som]]
 - [[Internet Domains of Irad]]
 
+
+## External links
+- <a class="ext" href="https://mjsbroadbent.github.io/tulpar/" target="_blank" rel="noopener">Official website</a>
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly</a>' Talas.</li>

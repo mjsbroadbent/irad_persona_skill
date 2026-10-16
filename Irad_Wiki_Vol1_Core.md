@@ -2965,6 +2965,12 @@ During the [[2023 Student Protests in Talas]], mobile data was cut in central Ta
 
 Consumer groups have also criticized Attelkom's prices, which are higher than those of operators in neighboring countries, and the slow extension of service to rural areas of the ISEZ.<sup>[6]</sup>
 
+
+## External links
+- <a class="ext" href="https://attelkom.net/" target="_blank" rel="noopener">Official website</a>
+- <a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Attelkom Kartalar (maps)</a>
+- <a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Attelkom Jarnama (advertising)</a>
+- <a class="ext" href="https://wwv.attelkom.net/" target="_blank" rel="noopener">Attelkom Online, the 1999 site</a>
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 519: Telecommunications Concessions and Network Licenses (1994–2022).</li>
