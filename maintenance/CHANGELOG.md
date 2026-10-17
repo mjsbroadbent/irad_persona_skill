@@ -1,3 +1,9 @@
+# Change log: Köch Audio (2026-10-17)
+From the user: add Köch Audio, the distributor that puts Iradi albums on Spotify.
+- canon.md (Music): Köch Audio, Bishkek LLC 2016 (Ulan Kadyrbekov, Aizada Omurzakova); why Bishkek (no ISO code, no card networks); KG ISRCs and the FreeIrad "erasure" complaint; dollar-cash royalties via Chu Gate, Tulpar Pay from 2025; catalogue (Tündük, Ak Jol, Star Road, Kök Ay outside Korea, cathedral choir, Aigul Choro kyzy archive); not *Swift Hooves* (Halyard, unavailable in the former USSR, so not in Irad) or tüntolk's Dala Sound albums. quickref line.
+- Wiki: Vol2 4.184 *Köch Audio* (Arts, Music & Film); Music of Irad new section *Recording and streaming* + See also. Audit: 950 articles, 0 red links, 0 orphans.
+- Other repos: irad_wiki (volume copied, site rebuilt).
+
 # Change log: drugs and alcohol (2026-10-17)
 From the user: opium was historically used and survives as a folk remedy in the south; poppy-husk tea among older people there, normalized and seen as healthier than alcohol; street methadone and fentanyl analogues supplanting heroin in the cities on cost, from Russian distribution entering from the north, Nurzhan ground zero; wild ephedra cooked in home labs into injected ephedrone, potassium-permanganate batches causing manganese encephalopathy. Plus Claude's earlier overview (alcohol, nasvay, Chu cannabis, heroin route, clubs, law, St. Luka harm reduction), adopted with the user's additions.
 - canon.md: new *Drugs and alcohol* subsection under Law, security and crime; Crime narcotics line points to it. quickref: *köknar chay*, *jef*, *nasvay*, *klad*.

@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (183 Entries)
+## 4. C-Class Articles (184 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -7301,9 +7301,13 @@ Mor-Wave's use of Morkhan imagery has drawn criticism from clergy, since church 
 ## Institutions and awards
 The main teaching institution is the National Conservatory of Folk Music in Talas. The [[Altyn-Zhylky Awards]], presented each December since 1996, include separate popular-music categories for Mor-Wave and its offshoots. Ethnomusicologists credit Mor-Wave and Iradi-language popular music in general with raising the prestige of the language among urban young people (see [[Iradi language revival]] and [[Iradi Language]]).<sup>[2]</sup>
 
+## Recording and streaming
+Most Iradi music was sold on cassette until the late 2000s and later on CD and through file sharing. Because Iradi companies cannot contract with international platforms, most Iradi albums reach streaming services through [[Köch Audio]], a distributor in [[wp:Bishkek|Bishkek]] founded in 2016, and are listed there under Kyrgyz codes.
+
 ## See also
 - [[Culture of Irad]]
 - [[Media of Irad]]
+- [[Köch Audio]]
 
 ## References
 <ol class="references">
@@ -9802,4 +9806,47 @@ The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provide
 <li id="cite_note-4"><b>^</b> United Nations Office on Drugs and Crime (2024). <i>Opiate Trafficking on the Northern Route: Regional Assessment</i>. Vienna.</li>
 <li id="cite_note-5"><b>^</b> Tulpar Technologies (2026). <i>Transparency Report, January–June 2026</i>. Talas.</li>
 <li id="cite_note-6"><b>^</b> St. Luka Community Health Mission (2025). <i>Annual Report 2024</i>. Talas.</li>
+</ol>
+
+### 4.184. Köch Audio
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+**Köch Audio** (Iradi: *köch*, "seasonal migration, the move to new pasture") is a digital music distributor based in [[wp:Bishkek|Bishkek]], [[wp:Kyrgyzstan|Kyrgyzstan]], that places most commercially released Iradi music on streaming services such as [[wp:Spotify|Spotify]], [[wp:Apple Music|Apple Music]], [[wp:YouTube Music|YouTube Music]] and [[wp:Yandex Music|Yandex Music]]. Founded in 2016 by the Iradi sound engineer Ulan Kadyrbekov and the Kyrgyz accountant Aizada Omurzakova, it describes its work as "Iradi music, carried across". By 2026 its catalogue held about 400 releases, from [[Mor-Wave]] albums to digitized country-folk cassettes and archive field recordings.<sup>[1]</sup>
+
+## History
+Kadyrbekov, born in [[Talas]] in 1984, worked as a radio sound engineer at [[IradOne]] from 2006 to 2014 and then moved to Bishkek. Iradi labels at the time had no way onto international platforms: the [[Irad Special Economic Zone]] has no [[wp:ISO 3166-1|ISO country code]], Iradi banks are outside the international card networks, and foreign distributors would not sign contracts with ISEZ companies. Iradi albums circulated abroad mainly as unofficial uploads.<sup>[2]</sup>
+
+Kadyrbekov and Omurzakova registered Köch Audio as a Kyrgyz limited liability company in 2016, working from a back room of a recording studio in Bishkek and uploading through an international aggregator. Its first releases, in 2017, were [[tüntolk]]'s *[[White Stallion in Fog]]* for Tündük Records and two Mor-Folk singles. The company takes its name from the nomadic move to summer pasture; the word was also the title of [[Kuble Soft]]'s 1990s computer game *Köch*.<sup>[1]</sup>
+
+## Operations
+Labels and musicians in Irad send their masters to Bishkek on USB sticks carried by Trans-Chuy Freight drivers or through Jılmay Cargo, and since about 2020 as files over the [[Tulpar (app)|Tulpar]] messaging app. Kadyrbekov masters and tags the recordings; Omurzakova handles contracts and the Kyrgyz paperwork.<sup>[1]</sup>
+
+Because Köch is the registrant, every release carries a Kyrgyz (KG) [[wp:International Standard Recording Code|ISRC]] and lists Kyrgyzstan as the label's country. Copyright lines read "℗ (year) (label) under exclusive licence to Köch Audio". FreeIrad.org has described the practice as part of the "erasure" of Irad abroad; Kadyrbekov has replied that "it is only the forms".<sup>[3]</sup>
+
+Inside Irad, listeners reach the platforms as Kazakh or Kyrgyz users, since [[Attelkom]]'s international routes place them there. Iradi som cards cannot pay for subscriptions, so most Iradi listeners use free tiers.<sup>[2]</sup>
+
+#### Royalties
+Iradi banks, including [[Talasbank]], cannot receive the platforms' payments. Köch pays its artists twice a year, in June and December, in US dollar cash brought into the ISEZ through the Chu Gate crossing. From 2025 it also offered payment through [[Tulpar (app)|Tulpar]] Pay, which few artists took up.<sup>[1]</sup>
+
+## Catalogue
+The catalogue includes:
+- Tündük Records, the Talas label of the Mor- scene: tüntolk's *White Stallion in Fog* (2017) and *Umay* (2022), [[Eski Ün]]'s *Kara Kün* (2021) and most Mor-Folk;
+- Ak Jol Records: [[Kök Bel (Band)|Kök Bel]]'s *Talas Sunrise* (1995), the first [[Iradi Country-Folk|Iradi country-folk]] album, digitized in 2019 from the master cassette with its tape hiss left in, and the band's later cassettes *Ak Jol* (1998) and *Zhylky Jyly* (2002);
+- Star Road Music: [[Altyn Muuz (Group)|Altyn Muuz]]'s *Zhylky Love* (2022);
+- Kök Ay Media outside South Korea, including [[Karakush (Group)|Karakush]]'s *Ak Börü* (2021);
+- *'Onitha* (2020), a recording of the cathedral choir of [[Iyık Janyl]] singing [[East Syriac Rites of Iyık Janyl|East Syriac]] antiphons;
+- *Voices of the Talas Alatau* (2022), twenty-four field recordings from the tapes of [[Aigul Choro kyzy]], licensed from the State Archives of Irad.
+
+Two notable bodies of Iradi music are not distributed by Köch. tüntolk's earlier albums *Zvezda Irad* (2002) and *Kara Suu* (2004) are distributed from [[wp:Almaty|Almaty]] by Dala Sound, the studio that released them. *Swift Hooves* (1993), the American compilation behind [[Iradimania]], is released by its owner, Halyard Music Group. Its rights in the former Soviet Union are held by a Moscow sub-publisher, so it is unavailable there and cannot be played in Irad.<sup>[2]</sup>
+
+## See also
+- [[Music of Irad]]
+- [[Mor-Wave]]
+- [[Media of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2023). 'Carried across: Köch Audio and the Iradi catalogue online.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2024). 'No Country Code: Streaming, Royalties and Unrecognized Territories in Central Asia.' Vol. 16, No. 1, pp. 22–47.</li>
+<li id="cite_note-3"><b>^</b> FreeIrad.org (2021). 'Made in Kyrgyzstan: how our music is filed abroad.'</li>
 </ol>
