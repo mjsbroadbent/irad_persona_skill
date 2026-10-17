@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (182 Entries)
+## 4. C-Class Articles (183 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -3836,6 +3836,7 @@ During the [[Second Iradi Civil War]] in 2007, while the [[Popular Front of Irad
 - **[[St. Luka Clinic]]**: a free outpatient and dental clinic in southern Talas for low-income residents.
 - **Mountain mobile clinics**: teams in four-wheel-drive vehicles and, on the higher pastures, with pack horses. They carry portable ultrasound scanners, solar-powered vaccine refrigerators and basic surgical kits, and visit herding families in their summer yurts (*boz üy*) in the Talas Alatau, on the [[Aksay Plateau]] and in the Chatkal valleys.
 - **Public health programs**: childhood immunization, antenatal care, tuberculosis screening and child nutrition.
+- **Harm reduction**: a needle exchange and a methadone maintenance program in [[Tash-Kömür]] and naloxone distribution in [[Nurzhan]], the only substantial programmes of their kind in Irad (see [[Drug use in Irad]]).
 
 The mission reported about 46,000 outpatient consultations in 2023, about two-fifths of them in the ATR.<sup>[1]</sup>
 
@@ -6694,6 +6695,7 @@ According to ISEZ statistics and a 2022 [[wp:World Health Organization]] review,
 - **Nurzhan.** Emissions from the refinery and industrial zone of Nurzhan are a recurring local concern, and the [[Nurzhan Polytechnic Institute]] conducts research on reducing them.
 
 ## See also
+- [[Drug use in Irad]]
 - [[St. Luka Community Health Mission]]
 - [[Talas Regional Hospital Medical Complex]]
 - [[Demographics of Irad]]
@@ -8023,7 +8025,9 @@ Officers of all three train at the [[Talas Gendarmerie Academy]]. Analysts descr
 In the 1990s, racketeering groups in Nurzhan and Talas fought over bazaars, fuel distribution and car imports. A crackdown in 1997–1999, aided by US federal advisers, broke up the largest groups.<sup>[6]</sup> Analysts say organized crime has since become less visible and more tied to official patronage. Its main markets are cross-line smuggling (see [[Smuggling across the Qara-Chik Line]]), car theft for resale in [[wp:Kazakhstan]], and online fraud.
 
 ## Narcotics
-[[wp:United Nations Office on Drugs and Crime|UNODC]] regional assessments describe Irad as a minor branch of the "northern route" by which Afghan opiates reach Russia through [[wp:Central Asia]]. Small consignments are thought to enter the ATR from [[wp:Kyrgyzstan]] and the Fergana Rim and cross the steppe into Kazakhstan. ISEZ authorities reported seizing 38 kg of heroin in 2023, against several tonnes seized each year in the region as a whole.<sup>[7]</sup> Wild cannabis from the lower Chu valley accounts for most drug arrests, and synthetic drugs sold online have appeared in Talas since about 2020. The IAC says its patrols turn back drug couriers.
+*Main article: [[Drug use in Irad]]*
+
+[[wp:United Nations Office on Drugs and Crime|UNODC]] regional assessments describe Irad as a minor branch of the "northern route" by which Afghan opiates reach Russia through [[wp:Central Asia]]. Small consignments are thought to enter the ATR from [[wp:Kyrgyzstan]] and the Fergana Rim and cross the steppe into Kazakhstan. ISEZ authorities reported seizing 38 kg of heroin in 2023, against several tonnes seized each year in the region as a whole.<sup>[7]</sup> Wild cannabis from the lower Chu valley accounts for most drug arrests. Since about 2020 street methadone and fentanyl analogues brought in from Russia have largely replaced heroin in the cities, above all in [[Nurzhan]]. The IAC says its patrols turn back drug couriers.
 
 ## Horse theft
 Horse theft is regarded as one of the gravest offenses in Irad. Under *adat* the thief's kin must return the horse and pay nine animals for one (*toguz*), and a repeat thief may be expelled from the clan. Theft for slaughter is worse still, given the [[Iradi Horsemeat Taboo]].<sup>[2]</sup> In the ISEZ, a 2009 amendment to the Criminal Code made horse theft an aggravated offense, punishable by three to ten years in prison. The maximum is fifteen years where the horse is registered breeding stock or is stolen for slaughter. Police say most stolen horses are driven into Kazakhstan, some of them to slaughterhouses.<sup>[8]</sup>
@@ -9751,4 +9755,51 @@ Jarnama's banners appear on IradOne Online, the *[[Talas Herald]]*, Attelkom's o
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (21 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/attelkom-s-banner-department-becomes-jarnama-opens-network-to-other-we.html" target="_blank" rel="noopener">Attelkom's banner department becomes Jarnama, opens network to other websites</a>.' Talas.</li>
 <li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Advertising on Iradi websites</a>.' ads.attelkom.net.</li>
+</ol>
+
+### 4.183. Drug use in Irad
+*Quality Assessment: C-Class Article | Category: Society & Demographics*
+
+**Drug use in Irad** ranges from the old habits of the countryside, alcohol, snuff and, in the south, opium, to the synthetic opioids and stimulants that have spread in the cities since about 2020. Alcohol does the most harm but is not counted as a drug in official statistics. Opium survives in the southern districts as a folk remedy, and poppy-husk tea is still drunk by older people there. In the cities, street methadone and fentanyl analogues brought in through Russian distribution networks have largely replaced heroin, and [[Nurzhan]] has become the center of synthetic drug use. Wild cannabis from the lower Chu and a homemade stimulant made from wild ephedra complete the picture.<sup>[1]</sup><sup>[2]</sup>
+
+## Alcohol and snuff
+Vodka became the common spirit in the Soviet period and remains the default drink in the Russian-speaking estates of Nurzhan, at memorial meals and among older men. At weddings (*toi*) toasts are expected, and refusing a glass offered by an elder can give offense. Among younger city people beer is more common. Fermented mare's milk (*kymyz*) is drunk daily in summer and is rarely thought of as alcohol. The [[Syro-Iradi Catholic Church]] preaches moderation rather than abstinence. Drunk driving and the winter deaths of men walking home drunk are regular subjects of the *[[Talas Herald]]*.<sup>[1]</sup>
+
+*Nasvay*, a moist snuff of tobacco and lime held under the lip, is widely used by rural men, especially herders, drivers and soldiers. City people tend to regard it as a rural habit.
+
+## Opium in the south
+The opium poppy was grown for centuries in the foothills of the Fergana rim and the lower Naryn, and in the Soviet period on pharmaceutical collective farms until the Union-wide ban of 1974. Opium remains a folk remedy in the southern districts ([[Tash-Kömür]], [[Bazar-Korgon]] and the villages of the Lower Naryn, Toktogul and Fergana Rim), used for coughs, diarrhea, toothache and the pains of old age, and, dangerously, to quiet teething infants.<sup>[3]</sup>
+
+Among the older generation in the south, **poppy-husk tea** (*köknar chay*, from *köknar*, "poppy") is still drunk regularly. It is widely regarded there as normal and as healthier than alcohol, particularly by devout elders who avoid vodka, and many households keep dried pods in the larder. Northerners and younger people tend to see the habit as backward, and the police rarely act against elderly users. Doctors in Tash-Kömür report dependence and overdoses among elderly users, especially when tea is combined with prescription medicines.<sup>[3]</sup>
+
+## Heroin and synthetic opioids
+From the late 1990s Afghan heroin reached Irad along a minor branch of the "northern route", through the Fergana rim and Bazar-Korgon. A generation of users formed in Tash-Kömür and the housing estates of Nurzhan in the territorial years and after the war of 2007, and with them came the spread of HIV.<sup>[4]</sup> Smuggled consignments cross the [[Qara-Chik Demarcation Line]], where clan councils levy goods without inspecting them. Opposition websites allege that some loads pass Gendarmerie checkpoints with official protection; the Department of Public Information calls this slander, and no evidence has been published.
+
+Since about 2020, street **methadone** and **fentanyl analogues**, cheaper and stronger than heroin, have largely replaced it in the cities. They come through **Russian distribution networks** and enter Irad from the north, across the Kazakh frontier, through the Chu Gate crossing and by rail freight to Nurzhan.<sup>[2]</sup> **Nurzhan has become the center of synthetic drug use**: emergency crews in the Dastgoh and Navbahor districts have carried naloxone since 2024, and overdose deaths there rose sharply in 2024 and 2025. Heroin is now used mainly by older users and in the south.
+
+Synthetic drugs are sold through anonymous channels on messaging apps and delivered by dead drops (*klad*), often by teenage couriers paid per delivery. Much of the trade uses the [[Tulpar (app)|Tulpar]] messaging app, whose transparency reports list drug-selling channels as the largest category of channels it removes. [[IradOne]] regularly reports on "Tulpar dealers".<sup>[5]</sup>
+
+## Ephedrone
+*Ephedra*, a shrub that grows wild on the dry mountain slopes of the [[Talas Alatau]], Chatkal and [[wp:Karatau Mountains|Karatau]], is the raw material for **ephedrone** (methcathinone), known as *jef*, a crude and highly toxic stimulant made in home laboratories and usually injected. Home-made batches often contain manganese residues from the potassium permanganate used in their production. Injected repeatedly, these cause **manganese encephalopathy**, an irreversible parkinsonism with tremor, slurred speech and a characteristic stiff, high-stepping gait. Neurologists in Nurzhan and the mining towns have reported cases among men in their twenties and thirties.<sup>[2]</sup><sup>[6]</sup> Gathering ephedra is legal for herbalists, and police action is directed at the home laboratories.
+
+## Cannabis
+Wild hemp grows in large stands on the lower Chu. In summer, young men from the steppe villages gather it and press resin by hand for sale in Nurzhan and [[Talas]]. Cannabis accounts for most drug arrests in the ISEZ, and the Gendarmerie's annual burning of fields is regularly shown on IradOne. Its use is common among students and in the city music scenes.<sup>[4]</sup>
+
+## Law and treatment
+The ISEZ drug law, inherited from the Soviet code and tightened in 2008, provides prison terms for possession, and urine tests at checkpoints are routine. Press reports describe frequent bribery on the roads.<sup>[1]</sup> Treatment is scarce. The [[St. Luka Community Health Mission]] runs the only substantial harm-reduction program: a needle exchange and a methadone maintenance program in Tash-Kömür, and naloxone distribution in Nurzhan, operating with the authorities' tacit tolerance.<sup>[6]</sup> In the [[Autonomous Tribal Regions]], clan elders deal with drug dealing under customary law, typically by fines in livestock and banishment.
+
+## See also
+- [[Crime in Irad]]
+- [[Health in Irad]]
+- [[St. Luka Community Health Mission]]
+- [[Nurzhan]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Alcohol, Tobacco and Drug Use in the ISEZ: Household Survey 2023</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> United Nations Office on Drugs and Crime (2025). <i>Synthetic Drugs in Central Asia: Situation Update</i>. Vienna.</li>
+<li id="cite_note-3"><b>^</b> <i>Central Asian Journal of Public Health</i> (2022). 'Poppy-husk tea and opium remedies among older adults in the Lower Naryn district.' Vol. 9, pp. 41–58.</li>
+<li id="cite_note-4"><b>^</b> United Nations Office on Drugs and Crime (2024). <i>Opiate Trafficking on the Northern Route: Regional Assessment</i>. Vienna.</li>
+<li id="cite_note-5"><b>^</b> Tulpar Technologies (2026). <i>Transparency Report, January–June 2026</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> St. Luka Community Health Mission (2025). <i>Annual Report 2024</i>. Talas.</li>
 </ol>
